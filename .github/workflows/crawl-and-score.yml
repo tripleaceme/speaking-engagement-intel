@@ -38,6 +38,9 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           GOOGLE_CSE_ID: ${{ secrets.GOOGLE_CSE_ID }}
 
+      - name: Step 1b — Enrich CFPs with conference details
+        run: python scripts/enrich_cfps.py
+
       - name: Step 2 — Score & match CFPs against profile
         run: python scripts/match_score.py
 

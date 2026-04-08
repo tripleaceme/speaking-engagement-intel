@@ -616,23 +616,29 @@ function renderApplications(){
     <div class="section-heading">All Applications (${apps.length})</div>
     <div class="chart-card" style="overflow-x:auto">
       <table class="data-table">
-        <thead><tr><th>#</th><th>Conference</th><th>Talk</th><th>Source</th><th>Deadline</th><th>Score</th><th>Travel</th><th>Priority</th><th>Status</th></tr></thead>
+        <thead><tr><th>#</th><th>Conference</th><th>Tailored Talk</th><th>Why This Topic</th><th>Deadline</th><th>Travel</th><th>Status</th><th>Apply</th></tr></thead>
         <tbody>${apps.map((a,i)=>`<tr>
           <td style="color:var(--muted);font-family:var(--font-head)">${i+1}</td>
-          <td><a class="cfp-link" href="${a.cfp_url}" target="_blank">${(a.cfp_title||'').slice(0,40)}</a></td>
-          <td style="font-size:11px;max-width:180px;white-space:normal">${a.talk_title||'\u2014'}</td>
-          <td>${a.cfp_source}</td>
-          <td class="${deadlineClass(a.deadline)}">${a.deadline||'\u2014'}</td>
-          <td>${scoreBar(a.score||0)}</td>
+          <td><a class="cfp-link" href="${a.cfp_url}" target="_blank">${(a.cfp_title||'').slice(0,35)}</a><div style="font-size:10px;color:var(--muted);margin-top:2px">${a.cfp_source} \u00B7 ${a.event_location||'Online'}</div></td>
+          <td style="font-size:11px;max-width:220px;white-space:normal;font-weight:500">${a.talk_title||'\u2014'}</td>
+          <td style="font-size:10px;max-width:180px;white-space:normal;color:var(--muted)">${a.match_reason||'\u2014'}</td>
+          <td class="${deadlineClass(a.deadline)}" style="white-space:nowrap">${a.deadline||'\u2014'}<div style="font-size:10px">${daysUntil(a.deadline)}</div></td>
           <td>${travelBadge(a.travel_sponsorship)}</td>
-          <td>${priorityBadge(a.priority||'low')}</td>
           <td>${statusBadge(a.status)}</td>
+          <td>${a.cfp_url?`<a class="cfp-link" href="${a.cfp_url}" target="_blank" style="white-space:nowrap">Submit \u2192</a>`:'\u2014'}</td>
         </tr>`).join('')}</tbody>
       </table>
     </div>
 
-    <div style="margin-top:16px;padding:16px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);font-size:12px;color:var(--muted)">
-      <strong style="color:var(--gold)">Updating Statuses:</strong> Use the GitHub Actions workflow <code>Update Application Status</code> to change application statuses (submitted/accepted/rejected). Go to Actions > Update Application Status > Run workflow.
+    <div style="margin-top:16px;padding:16px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);font-size:12px;color:var(--muted);line-height:2">
+      <strong style="color:var(--gold)">How to Update Statuses:</strong><br>
+      1. Go to <a href="https://github.com/tripleaceme/speaking-engagement-intel/actions/workflows/update-status.yml" target="_blank" class="cfp-link">Actions &rarr; Update Application Status</a><br>
+      2. Click the <strong>"Run workflow"</strong> dropdown (top-right of the workflow page)<br>
+      3. Enter the Application ID, select new status (submitted/accepted/rejected), add an optional note<br>
+      4. Click <strong>"Run workflow"</strong> &mdash; the dashboard will auto-update<br><br>
+      <strong style="color:var(--gold)">How to Trigger a Crawl:</strong><br>
+      1. Go to <a href="https://github.com/tripleaceme/speaking-engagement-intel/actions/workflows/crawl-and-score.yml" target="_blank" class="cfp-link">Actions &rarr; Crawl CFPs & Score</a><br>
+      2. Click <strong>"Run workflow"</strong> dropdown &rarr; <strong>"Run workflow"</strong>
     </div>`;
 
   // Status donut
@@ -654,8 +660,8 @@ function renderTalks(){
   el.innerHTML=`
     <div class="section-heading">Talk Performance</div>
     <div class="chart-row cols-2">
-      <div class="chart-card"><div class="chart-header"><span class="chart-title">Applications per Talk</span></div><div class="chart-wrap"><canvas id="c-talk-apps" height="220"></canvas></div></div>
-      <div class="chart-card"><div class="chart-header"><span class="chart-title">Acceptance Rate per Talk</span></div><div class="chart-wrap"><canvas id="c-talk-rate" height="220"></canvas></div></div>
+      <div class="chart-card"><div class="chart-header"><span class="chart-title">Applications per Talk</span></div><div class="chart-wrap" style="min-height:250px"><canvas id="c-talk-apps"></canvas></div></div>
+      <div class="chart-card"><div class="chart-header"><span class="chart-title">Acceptance Rate per Talk</span></div><div class="chart-wrap" style="min-height:250px"><canvas id="c-talk-rate"></canvas></div></div>
     </div>
     <div class="section-heading">Details</div>
     <div class="chart-card" style="overflow-x:auto">
@@ -673,8 +679,9 @@ function renderTalks(){
     </div>`;
 
   const shortTitles=talks.map(t=>t.title.length>30?t.title.slice(0,28)+'...':t.title);
-  makeChart('c-talk-apps',{type:'bar',data:{labels:shortTitles,datasets:[{label:'Applications',data:talks.map(t=>t.applications),backgroundColor:GOLD}]},options:noLegend({...baseOpts(),indexAxis:'y'})});
-  makeChart('c-talk-rate',{type:'bar',data:{labels:shortTitles,datasets:[{label:'Acceptance %',data:talks.map(t=>t.acceptance_rate),backgroundColor:talks.map(t=>t.acceptance_rate>=50?GREEN:t.acceptance_rate>0?AMBER:TICK)}]},options:noLegend({...baseOpts({scales:{x:{grid:{color:GRID},ticks:{color:TICK,callback:v=>v+'%'}},y:{grid:{color:GRID},ticks:{color:TICK}}}}),indexAxis:'y'})});
+  const talkChartH = Math.max(talks.length * 40, 200);
+  makeChart('c-talk-apps',{type:'bar',data:{labels:shortTitles,datasets:[{label:'Applications',data:talks.map(t=>t.applications),backgroundColor:GOLD}]},options:noLegend({...baseOpts({maintainAspectRatio:false}),indexAxis:'y'})});
+  makeChart('c-talk-rate',{type:'bar',data:{labels:shortTitles,datasets:[{label:'Acceptance %',data:talks.map(t=>t.acceptance_rate),backgroundColor:talks.map(t=>t.acceptance_rate>=50?GREEN:t.acceptance_rate>0?AMBER:TICK)}]},options:noLegend({...baseOpts({maintainAspectRatio:false,scales:{x:{grid:{color:GRID},ticks:{color:TICK,callback:v=>v+'%'}},y:{grid:{color:GRID},ticks:{color:TICK}}}}),indexAxis:'y'})});
 }
 
 /* ── Upcoming Deadlines ───────── */

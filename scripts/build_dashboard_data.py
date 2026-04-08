@@ -143,7 +143,8 @@ def build_applications_list(apps):
             "submitted_at": a.get("submitted_at"),
             "response_at": a.get("response_at"),
             "notes": a.get("notes", ""),
-            "travel_sponsorship": a.get("match_scores", {}).get("travel_sponsorship", "unknown"),
+            "travel_sponsorship": a.get("travel_sponsorship", a.get("match_scores", {}).get("travel_sponsorship", "unknown")),
+            "match_reason": a.get("match_reason", ""),
             "is_online": a.get("is_online", False),
             "event_location": a.get("event_location", "")
         }

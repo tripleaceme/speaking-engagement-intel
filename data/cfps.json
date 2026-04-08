@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-04-08T12:06:13.012586+00:00",
-    "total_cfps": 55,
+    "last_crawled": "2026-04-08T12:25:59.749179+00:00",
+    "total_cfps": 53,
     "open_cfps": 53,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 53,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 0,
-    "last_scored": "2026-04-08T12:06:13.079228+00:00",
+    "last_scored": "2026-04-08T12:28:14.564000+00:00",
     "high_priority": 0,
-    "medium_priority": 0,
-    "above_threshold": 28
+    "medium_priority": 4,
+    "above_threshold": 46
   },
   "cfps": [
     {
@@ -20,28 +20,93 @@
       "title": "TechEx North America",
       "url": "https://techexevent.com/northamerica",
       "cfp_url": "https://techexevent.com/register-now",
-      "description": "Tech conference in San Jose, CA, U.S.A.",
+      "description": "Gold Pass         Free Pass         Enterprise Leadership Pass         Press Pass         Start Up Pass      $ 1399   $    999       Access to all free and paid sessions across all co-located event sessions at TechEx North America. Expo Floor: discover the latest solutions and technologies from over 200 exhibitors. Meetup Zone: engage in focused discussions, share challenges, debate emerging trends and connect with peers who are shaping the future of enterprise technology.",
       "tags": [
+        "cloud",
+        "iot",
+        "education",
+        "security",
+        "leadership",
+        "ai",
+        "open-source",
+        "web",
         "data"
       ],
       "deadline": "2026-05-17",
       "event_date": "2026-05-18",
       "location": "San Jose, CA, U.S.A.",
       "is_online": false,
-      "travel_sponsorship": "unknown",
+      "travel_sponsorship": "partial",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:55.572430+00:00",
+      "discovered_at": "2026-04-08T12:25:45.455178+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "iot",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "2027",
+        "amsterdam   global 3",
+        "located events",
+        "cyber security",
+        "21 october 2026",
+        "california   europe 20",
+        "4 february",
+        "edge comp",
+        "19 may 2026",
+        "including  ai & big data",
+        "attending below:   north america 18"
+      ],
+      "speaker_perks": {
+        "ticket": true
+      },
+      "submission_fields": [
+        "title",
+        "track",
+        "photo",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:26:15.806720+00:00",
       "match_scores": {
-        "composite_score": 0.257,
-        "tag_relevance": 0.201,
-        "talk_match_score": 0.022,
+        "composite_score": 0.342,
+        "tag_relevance": 0.329,
+        "talk_match_score": 0.157,
         "urgency_score": 0.4,
         "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
-        "travel_sponsorship": "unknown"
+        "travel_sponsorship": "partial"
       }
     },
     {
@@ -50,9 +115,16 @@
       "title": "data2day",
       "url": "https://www.data2day.de",
       "cfp_url": "https://www.data2day.de/cfp.php",
-      "description": "Tech conference in Cologne, Germany",
+      "description": "Oktober 2026 findet die data2day zum dreizehnten Mal statt. Die Konferenz f\u00fcr Data Scientists, Data Engineers und Data Teams \nliefert ma\u00dfgeschneidertes praxisnahes Wissen rund um Data Science vom Einsteigerprojekt bis zur Data-driven Company. Sie vermittelt sowohl Grundlagen f\u00fcr den Einstieg in Data Science und Machine Learning f\u00fcr Data Beginners wie auch tiefer greifende \nInformationen zu Architekturen, Prozessen und Vorgehensmodellen f\u00fcr Data Professionals.",
       "tags": [
-        "data"
+        "database",
+        "iot",
+        "education",
+        "leadership",
+        "ai",
+        "open-source",
+        "data",
+        "python"
       ],
       "deadline": "2026-04-15",
       "event_date": "2026-10-07",
@@ -60,17 +132,55 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:55.572607+00:00",
+      "discovered_at": "2026-04-08T12:25:45.455319+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 1.0
+        },
+        {
+          "theme": "education",
+          "confidence": 1.0
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "python",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "iot",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "abstract"
+      ],
+      "enriched_at": "2026-04-08T12:26:16.797519+00:00",
       "match_scores": {
-        "composite_score": 0.355,
-        "tag_relevance": 0.223,
-        "talk_match_score": 0.022,
+        "composite_score": 0.452,
+        "tag_relevance": 0.494,
+        "talk_match_score": 0.098,
         "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
         "travel_sponsorship": "unknown"
       }
     },
@@ -80,8 +190,15 @@
       "title": "Global Summit on Data Science and Cloud Computing",
       "url": "https://datascience.novelticsconferences.com",
       "cfp_url": "https://datascience.novelticsconferences.com/register",
-      "description": "Tech conference in Rome, Italy",
+      "description": "E-Posters \r\n                                 The amount charged for E-Posters is to display the\r\n     E-Posters only on website and handbook     \r\n       An e-certificate will be provided. We're dedicated to shaping\r\n                                    tomorrow's solutions today, fostering collaboration, and propelling breakthroughs\r\n                                    across industries through visionary leadership and cutting-edge expertise. Payment Info \r\n                                 \r\n                                 \r\n                                     Your Total Payment:  \u20ac 699   (All prices are in USD only.",
       "tags": [
+        "cloud",
+        "education",
+        "testing",
+        "ai",
+        "leadership",
+        "open-source",
+        "web",
         "data"
       ],
       "deadline": "2026-10-15",
@@ -90,16 +207,55 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:55.572641+00:00",
+      "discovered_at": "2026-04-08T12:25:45.455359+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "title",
+        "abstract"
+      ],
+      "enriched_at": "2026-04-08T12:26:18.691680+00:00",
       "match_scores": {
-        "composite_score": 0.226,
-        "tag_relevance": 0.197,
-        "talk_match_score": 0.022,
+        "composite_score": 0.301,
+        "tag_relevance": 0.331,
+        "talk_match_score": 0.118,
         "urgency_score": 0.2,
         "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -110,28 +266,85 @@
       "title": "The AI Conf",
       "url": "https://theconf.ai",
       "cfp_url": "https://theconf.ai/call-for-papers",
-      "description": "Tech conference in Barcelona, Spain",
+      "description": "Our audience expects to get inspiration, learn, and apply their learnings to their current problems. Pre-record your live coding \n             If your talk contains live coding, we would prefer if you could pre-record it. If you'd rather do it live, make sure you have practiced enough beforehand.",
       "tags": [
+        "cloud",
+        "database",
+        "education",
+        "ai",
+        "leadership",
+        "devops",
+        "open-source",
+        "web",
         "data"
       ],
       "deadline": "2026-09-30",
       "event_date": "2026-11-03",
       "location": "Barcelona, Spain",
       "is_online": false,
-      "travel_sponsorship": "unknown",
+      "travel_sponsorship": "partial",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:55.572689+00:00",
+      "discovered_at": "2026-04-08T12:25:45.455423+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "speakers",
+        "large language models (llms)",
+        "what we are looking for"
+      ],
+      "speaker_perks": {
+        "ticket": true,
+        "honorarium": true,
+        "recording": true
+      },
+      "submission_fields": [
+        "abstract",
+        "topic"
+      ],
+      "enriched_at": "2026-04-08T12:26:19.833410+00:00",
       "match_scores": {
-        "composite_score": 0.235,
-        "tag_relevance": 0.223,
-        "talk_match_score": 0.022,
+        "composite_score": 0.274,
+        "tag_relevance": 0.335,
+        "talk_match_score": 0.089,
         "urgency_score": 0.2,
-        "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "format_score": 0.5,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
         "priority": "low",
-        "travel_sponsorship": "unknown"
+        "travel_sponsorship": "partial"
       }
     },
     {
@@ -140,8 +353,18 @@
       "title": "WeAreDevelopers Conference India",
       "url": "https://www.wearedevelopers.com/conference-india",
       "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
-      "description": "Tech conference in Bengaluru, India",
+      "description": "WeAreDevelopers Conference 2026 - India: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. As part of the global WeAreDevelopers event series\u2014recognized by industry leaders as the flagship platform for developers and technology decision-makers\u2014our mission is to deliver far more than a traditional tech conference.",
       "tags": [
+        "cloud",
+        "iot",
+        "education",
+        "security",
+        "testing",
+        "leadership",
+        "ai",
+        "devops",
+        "open-source",
+        "web",
         "data"
       ],
       "deadline": "2026-07-24",
@@ -150,16 +373,75 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:55.572717+00:00",
+      "discovered_at": "2026-04-08T12:25:45.455446+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "testing",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "iot",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "and emerging technologies",
+        "architecture",
+        "leadership"
+      ],
+      "submission_fields": [
+        "description",
+        "topic",
+        "category",
+        "social media",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:26:20.731347+00:00",
       "match_scores": {
-        "composite_score": 0.235,
-        "tag_relevance": 0.223,
-        "talk_match_score": 0.022,
+        "composite_score": 0.285,
+        "tag_relevance": 0.336,
+        "talk_match_score": 0.059,
         "urgency_score": 0.2,
         "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -170,9 +452,17 @@
       "title": "IT-Tage",
       "url": "https://www.it-tage.org",
       "cfp_url": "https://www.ittage.informatik-aktuell.de/index.html",
-      "description": "Tech conference in Frankfurt am Main, Germany",
+      "description": "2026 | Frankfurt am Main   Call for Papers\n\t\t   Blind-Bird-Tickets\n\t\t Zeitplan IT-Tage 2026 01. M\u00e4rz Call for Papers 30. April Programmauswahl Kuratorium Mai/Juni Launch Programm 07.",
       "tags": [
-        "data"
+        "cloud",
+        "education",
+        "security",
+        "ai",
+        "leadership",
+        "devops",
+        "open-source",
+        "data",
+        "python"
       ],
       "deadline": "2026-04-30",
       "event_date": "2026-12-07",
@@ -180,16 +470,68 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:55.572746+00:00",
+      "discovered_at": "2026-04-08T12:25:45.455475+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "python",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "cloud",
+        "architektur und",
+        "security",
+        "devops",
+        "datenbanken",
+        "betrieb sowie agile",
+        "und\u00a0 16 sub",
+        "entwicklung"
+      ],
+      "submission_fields": [
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:26:22.670666+00:00",
       "match_scores": {
-        "composite_score": 0.292,
-        "tag_relevance": 0.214,
-        "talk_match_score": 0.022,
+        "composite_score": 0.396,
+        "tag_relevance": 0.523,
+        "talk_match_score": 0.078,
         "urgency_score": 0.6,
-        "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -200,10 +542,18 @@
       "title": "AI for Developers",
       "url": "https://aiconference.dev",
       "cfp_url": "https://aiconference.dev/cfp",
-      "description": "Tech conference in TBD, TBD",
+      "description": "The Principal Dev  is a two-day certification masterclass for\n                        tech leads. Here you'll develop skills that every successful, effective, and\n                        trusted software development leader needs. Your output\n                            is the output of your team.",
       "tags": [
-        "data",
-        "online"
+        "education",
+        "testing",
+        "leadership",
+        "ai",
+        "devops",
+        "online",
+        "blockchain",
+        "open-source",
+        "web",
+        "data"
       ],
       "deadline": "2026-06-01",
       "event_date": "2026-12-17",
@@ -211,17 +561,56 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:55.572775+00:00",
+      "discovered_at": "2026-04-08T12:25:45.455510+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "education",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-04-08T12:26:24.432425+00:00",
       "match_scores": {
-        "composite_score": 0.305,
-        "tag_relevance": 0.223,
-        "talk_match_score": 0.022,
+        "composite_score": 0.404,
+        "tag_relevance": 0.507,
+        "talk_match_score": 0.089,
         "urgency_score": 0.4,
-        "format_score": 0.8,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "format_score": 0.7,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
-        "priority": "low",
+        "priority": "medium",
         "travel_sponsorship": "unknown"
       }
     },
@@ -231,10 +620,21 @@
       "title": "KubeCon + CloudNativeCon Europe",
       "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026",
       "cfp_url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp",
-      "description": "Tech conference in Amsterdam, Netherlands",
+      "description": "View the upcoming   KubeCon + CloudNativeCon + other CNCF Events. Join our current  graduated, incubating ,\u00a0and\u00a0 sandbox  projects as the community gathers to further the education and advancement of cloud native computing. Submissions are due by  12 October at 23:59 Central European Time (UTC+2) \n\n\n\n For any questions regarding the CFP process, please email  cfp@cncf.",
       "tags": [
+        "cloud",
+        "database",
+        "education",
+        "security",
+        "testing",
+        "leadership",
+        "ai",
         "devops",
-        "online"
+        "online",
+        "blockchain",
+        "open-source",
+        "web",
+        "data"
       ],
       "deadline": "",
       "event_date": "2026-03-23",
@@ -242,40 +642,94 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:57.505872+00:00",
+      "discovered_at": "2026-04-08T12:25:46.749004+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "education",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "and the types of projects or ideas relevant to each",
+        "example tags ai + ml",
+        "workload foundations cloud native experience",
+        "containerized databases",
+        "deploying and managing computationally intensive workloads",
+        "like mlops",
+        "orchestration and management provisioning",
+        "aiops",
+        "gpu utilization with kubernetes",
+        "and more",
+        "such as data streaming",
+        "workload foundations",
+        "infrastructure application development",
+        "observability and analysis",
+        "automating infrastructure operations"
+      ],
+      "submission_fields": [
+        "title",
+        "abstract",
+        "description",
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:26:30.633648+00:00",
       "match_scores": {
-        "composite_score": 0.175,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
+        "composite_score": 0.3,
+        "tag_relevance": 0.33,
+        "talk_match_score": 0.098,
         "urgency_score": 0.1,
-        "format_score": 0.8,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
+        "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
-    },
-    {
-      "id": "44f85159548d8ab6",
-      "source": "confs.tech",
-      "title": "IaCConf",
-      "url": "https://www.iacconf.com/iacconf-2026",
-      "cfp_url": "https://docs.google.com/forms/d/e/1FAIpQLSeY6-IlyYXSauF8Dg9cs7fHGKiSJqTcecdk_ARXOKHj6HNN6w/viewform",
-      "description": "Tech conference in TBD, TBD",
-      "tags": [
-        "devops",
-        "online"
-      ],
-      "deadline": "2026-04-07",
-      "event_date": "2026-05-14",
-      "location": "TBD, TBD",
-      "is_online": true,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:57.506048+00:00",
-      "status": "expired",
-      "match_scores": null
     },
     {
       "id": "9ad84e27421c557a",
@@ -294,8 +748,9 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:57.506161+00:00",
+      "discovered_at": "2026-04-08T12:25:46.749263+00:00",
       "status": "open",
+      "enriched_at": "2026-04-08T12:26:32.474643+00:00",
       "match_scores": {
         "composite_score": 0.25,
         "tag_relevance": 0.0,
@@ -314,9 +769,13 @@
       "title": "DevOpsDays Graz",
       "url": "https://www.devopsdays.at",
       "cfp_url": "https://pretalx.com/devopsdays-graz-2026/cfp",
-      "description": "Tech conference in Graz, Austria",
+      "description": "DevOpsDays Graz 2026 will be organized on a voluntary basis, so please understand that we are unable to provide any financial support for speakers and workshop instructors. For more info about the event, check out our website:  https://www. at/  Submissions close on 2026-04-30 23:59 (Europe/Berlin), 3\u00a0weeks, 1\u00a0day from now.",
       "tags": [
-        "devops"
+        "education",
+        "ai",
+        "devops",
+        "open-source",
+        "web"
       ],
       "deadline": "2026-04-30",
       "event_date": "2026-09-04",
@@ -324,16 +783,39 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:57.506202+00:00",
+      "discovered_at": "2026-04-08T12:25:46.749317+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-04-08T12:26:33.085034+00:00",
       "match_scores": {
-        "composite_score": 0.21,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
+        "composite_score": 0.292,
+        "tag_relevance": 0.167,
+        "talk_match_score": 0.078,
         "urgency_score": 0.6,
         "format_score": 0.6,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -344,9 +826,16 @@
       "title": "TechSummit Amsterdam",
       "url": "https://techsummit.io",
       "cfp_url": "https://pretalx.com/techsummit-2026/cfp",
-      "description": "Tech conference in Amsterdam, Netherlands",
+      "description": "Join us in shaping a future where IT and AI systems are not only robust but also scalable and forward-thinking. Be part of our community and bring in your knowledge and skills to share with the technical audience. Our audience will be (very) technical, so we are not interested in commercially focused talks, but are rather looking for talks that interest a technical audience as well as speakers that are not afraid to share technical details :).",
       "tags": [
-        "devops"
+        "cloud",
+        "education",
+        "security",
+        "ai",
+        "leadership",
+        "devops",
+        "open-source",
+        "web"
       ],
       "deadline": "2026-05-15",
       "event_date": "2026-09-30",
@@ -354,16 +843,62 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:57.506241+00:00",
+      "discovered_at": "2026-04-08T12:25:46.749363+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "of interest designing self",
+        "healing internet infrastructures",
+        "commercially focused talks"
+      ],
+      "submission_fields": [
+        "title",
+        "abstract",
+        "bio",
+        "topic"
+      ],
+      "enriched_at": "2026-04-08T12:26:33.994797+00:00",
       "match_scores": {
-        "composite_score": 0.18,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
+        "composite_score": 0.273,
+        "tag_relevance": 0.166,
+        "talk_match_score": 0.118,
         "urgency_score": 0.4,
         "format_score": 0.6,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -374,28 +909,83 @@
       "title": "CLC",
       "url": "https://clc-conference.eu/index_en.php",
       "cfp_url": "https://clc-conference.eu/cfp_en.php",
-      "description": "Tech conference in Mannheim, Germany",
+      "description": "It will take place on  November 11 and 12, 2026 \u2014including a workshop day beforehand\u2014once again at the Rosengarten Mannheim. For CLC 2026, we are looking for practical presentations from people who build, operate, and develop platforms\u2014from real projects, with real learnings. \u201d The key is to share experiences that others can learn from.",
       "tags": [
-        "devops"
+        "cloud",
+        "education",
+        "security",
+        "ai",
+        "leadership",
+        "devops",
+        "open-source"
       ],
       "deadline": "2026-04-21",
       "event_date": "2026-11-11",
       "location": "Mannheim, Germany",
       "is_online": false,
-      "travel_sponsorship": "unknown",
+      "travel_sponsorship": "yes",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:57.506279+00:00",
+      "discovered_at": "2026-04-08T12:25:46.749409+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "and develop platforms\u2014from real projects",
+        "with real learnings",
+        "\u2705 case studies from real projects",
+        "that matter to us",
+        "operate",
+        "practical presentations from people who build"
+      ],
+      "speaker_perks": {
+        "travel": true,
+        "hotel": true
+      },
+      "submission_fields": [
+        "abstract",
+        "experience level",
+        "target audience",
+        "topic"
+      ],
+      "enriched_at": "2026-04-08T12:26:35.021949+00:00",
       "match_scores": {
-        "composite_score": 0.24,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
+        "composite_score": 0.386,
+        "tag_relevance": 0.334,
+        "talk_match_score": 0.098,
         "urgency_score": 0.8,
         "format_score": 0.6,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
-        "travel_sponsorship": "unknown"
+        "travel_sponsorship": "yes"
       }
     },
     {
@@ -404,9 +994,17 @@
       "title": "Fork it!",
       "url": "https://www.forkit.community/events/2026-france-rouen",
       "cfp_url": "https://conference-hall.io/fork-it-community-france-rouen-2026",
-      "description": "Tech conference in Rouen, France",
+      "description": "If you\u2019ve got something cool to share, now\u2019s the time! \n What\u2019s Fork it! about? It\u2019s simple: we talk about  real stuff. No bullshit, no sales pitches \u2014just honest discussions about  experiences, feedback, and the latest in tech. Whether it\u2019s lessons learned from past projects, what worked (or didn\u2019t), or insights into emerging trends, we want to hear from you.",
       "tags": [
-        "general"
+        "cloud",
+        "education",
+        "general",
+        "security",
+        "ai",
+        "leadership",
+        "devops",
+        "open-source",
+        "web"
       ],
       "deadline": "2026-04-19",
       "event_date": "2026-06-05",
@@ -414,16 +1012,58 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:58.141563+00:00",
+      "discovered_at": "2026-04-08T12:25:47.351325+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "we\u2019re into:"
+      ],
+      "submission_fields": [
+        "topic",
+        "category"
+      ],
+      "enriched_at": "2026-04-08T12:26:36.058271+00:00",
       "match_scores": {
-        "composite_score": 0.24,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
+        "composite_score": 0.301,
+        "tag_relevance": 0.165,
+        "talk_match_score": 0.078,
         "urgency_score": 0.8,
-        "format_score": 0.6,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -434,9 +1074,11 @@
       "title": "TechTok",
       "url": "https://www.techtok.mt",
       "cfp_url": "https://www.techtok.mt/call-for-speakers",
-      "description": "Tech conference in St Julian's, Malta",
+      "description": "Your submission will then be reviewed by our technical committee. TechTok 2026 - Call for Speakers First name * Last name * Email * Presentation Title * Presentation Outline * Submit \r\n \n     \n         \n         \n         \n         \n         \n         \n         \n         \n     \n \n Become a speaker at TechTok! Contact Us TechTok Ltd \n\n C111039 \n\n \n info@techtok. mt \nTel: 00356 99898964 Join our mailing list for all the latest updates and lineup information.",
       "tags": [
-        "general"
+        "general",
+        "open-source",
+        "ai"
       ],
       "deadline": "2026-04-10",
       "event_date": "2026-09-16",
@@ -444,16 +1086,32 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:58.141598+00:00",
+      "discovered_at": "2026-04-08T12:25:47.351363+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "title",
+        "outline",
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:26:38.577485+00:00",
       "match_scores": {
         "composite_score": 0.27,
         "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
+        "talk_match_score": 0.067,
         "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
+        "format_score": 0.5,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -464,9 +1122,20 @@
       "title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
       "url": "https://aiccsa.net/AICCSA2026",
       "cfp_url": "https://aiccsa.net/AICCSA2026/calls.php",
-      "description": "Tech conference in Dubai, United Arab Emirates",
+      "description": "We cordially invite academics, researchers, industry pioneers, and practitioners to contribute their latest discoveries and participate in vibrant scholarly discourse spanning distributed computing, data science, security, and machine intelligence. Sharjah 2026  \n      Nestled at the crossroads of tradition and innovation, the University of Sharjah will host AICCSA 2026 \u2014 where the Arabian Gulf's golden shores meet a visionary skyline, creating an inspiring backdrop for intellectual exchange. The Program Committee extends a formal invitation for original contributions \u2014 encompassing technical and experimental studies, theoretical frameworks, conceptual innovations, and comprehensive surveys \u2014 to be submitted via the EasyChair system.",
       "tags": [
-        "general"
+        "cloud",
+        "database",
+        "iot",
+        "education",
+        "general",
+        "security",
+        "ai",
+        "leadership",
+        "blockchain",
+        "open-source",
+        "web",
+        "data"
       ],
       "deadline": "2026-05-30",
       "event_date": "2026-10-26",
@@ -474,16 +1143,73 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:58.141621+00:00",
+      "discovered_at": "2026-04-08T12:25:47.351388+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "iot",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "track 01",
+        "important  dates   aoe",
+        "workshops",
+        "delineated below"
+      ],
+      "submission_fields": [
+        "abstract",
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:26:42.908757+00:00",
       "match_scores": {
-        "composite_score": 0.18,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
+        "composite_score": 0.323,
+        "tag_relevance": 0.323,
+        "talk_match_score": 0.098,
         "urgency_score": 0.4,
         "format_score": 0.6,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -494,28 +1220,53 @@
       "title": "Heapcon",
       "url": "https://heapcon.io/2026",
       "cfp_url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
-      "description": "Tech conference in Belgrade, Serbia",
+      "description": "Heapcon 2026 Call For Papers Heapcon 2026 Call For Papers Great news - Heapcon 2026 is here! We are very excited to receive your application for this year's Heapcon. In case you haven't heard of us, Heapcon is a tech conference for software engineers and technology enthusiasts, taking place at Madlenianum in Belgrade, Serbia on the 5th and 6th of November, 2026. Free conference pass for a guest Showcase your expertise to a diverse and engaged audience.",
       "tags": [
-        "general"
+        "general",
+        "open-source",
+        "ai",
+        "testing"
       ],
       "deadline": "2026-06-01",
       "event_date": "2026-11-05",
       "location": "Belgrade, Serbia",
       "is_online": false,
-      "travel_sponsorship": "unknown",
+      "travel_sponsorship": "partial",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:58.141647+00:00",
+      "discovered_at": "2026-04-08T12:25:47.351418+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "speaker_perks": {
+        "ticket": true,
+        "dinner": true
+      },
+      "submission_fields": [
+        "topic"
+      ],
+      "enriched_at": "2026-04-08T12:26:45.480034+00:00",
       "match_scores": {
-        "composite_score": 0.18,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
+        "composite_score": 0.262,
+        "tag_relevance": 0.166,
+        "talk_match_score": 0.08,
         "urgency_score": 0.4,
         "format_score": 0.6,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
         "priority": "low",
-        "travel_sponsorship": "unknown"
+        "travel_sponsorship": "partial"
       }
     },
     {
@@ -524,28 +1275,72 @@
       "title": "CMS Conf",
       "url": "https://cmsconf.com",
       "cfp_url": "https://cmsconf.com/call-for-papers",
-      "description": "Tech conference in Gdynia, Poland",
+      "description": "We're looking for passionate speakers to deliver engaging talks on a\n            variety of topics related to content management systems, web\n            development, digital experiences, and industry trends. Whether you're an experienced speaker or new to the stage, we welcome your\n            unique perspective. Join us in inspiring and educating the CMS\n            community!\n   We have two tracks: the  Developer Track  for technical practitioners, and the  Creator Track  for marketers, content strategists, and SEO specialists.",
       "tags": [
-        "general"
+        "general",
+        "security",
+        "leadership",
+        "ai",
+        "open-source",
+        "web"
       ],
       "deadline": "2026-04-30",
       "event_date": "2026-11-12",
       "location": "Gdynia, Poland",
       "is_online": false,
-      "travel_sponsorship": "unknown",
+      "travel_sponsorship": "partial",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:58.141665+00:00",
+      "discovered_at": "2026-04-08T12:25:47.351438+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "related to content management systems",
+        "content strategists",
+        "the  developer track  for technical practitioners",
+        "and the  creator track  for marketers",
+        "and seo specialists"
+      ],
+      "speaker_perks": {
+        "ticket": true
+      },
+      "submission_fields": [
+        "experience level",
+        "topic",
+        "track",
+        "social media"
+      ],
+      "enriched_at": "2026-04-08T12:26:49.789653+00:00",
       "match_scores": {
-        "composite_score": 0.21,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
+        "composite_score": 0.259,
+        "tag_relevance": 0.165,
+        "talk_match_score": 0.039,
         "urgency_score": 0.6,
-        "format_score": 0.6,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
-        "travel_sponsorship": "unknown"
+        "travel_sponsorship": "partial"
       }
     },
     {
@@ -554,10 +1349,16 @@
       "title": "NextGen Intelligence Conference: Data, Cloud & AI",
       "url": "https://techaiconf.com",
       "cfp_url": "https://techaiconf.com/register-interest",
-      "description": "Tech conference in London, U.K.",
+      "description": "All award categories are listed below. You may nominate yourself for one category, or if you believe you meet the criteria for multiple categories, you are welcome to apply for more than one. Please complete the intention-to-enter form below to confirm your interest and notify us of your planned submission.",
       "tags": [
+        "cloud",
         "general",
-        "online"
+        "testing",
+        "leadership",
+        "ai",
+        "online",
+        "mobile",
+        "web"
       ],
       "deadline": "2026-10-09",
       "event_date": "2026-11-16",
@@ -565,15 +1366,49 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:58.141684+00:00",
+      "discovered_at": "2026-04-08T12:25:47.351475+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "are listed below"
+      ],
+      "submission_fields": [
+        "title",
+        "category"
+      ],
+      "enriched_at": "2026-04-08T12:26:51.916563+00:00",
       "match_scores": {
-        "composite_score": 0.267,
-        "tag_relevance": 0.201,
-        "talk_match_score": 0.022,
+        "composite_score": 0.273,
+        "tag_relevance": 0.167,
+        "talk_match_score": 0.082,
         "urgency_score": 0.2,
         "format_score": 0.8,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
         "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
@@ -585,10 +1420,11 @@
       "title": "React Advanced",
       "url": "https://reactadvanced.com",
       "cfp_url": "https://gitnation.com/events/react-advanced-2026/cfp",
-      "description": "Tech conference in London, U.K.",
+      "description": "Log In GitNation FAQ Support/Feedback Nation`s stats Log in 0 Log in or sign up to proceed Sign in with X Sign in with GitHub Sign in with LinkedIn Or continue with Email Sign up.",
       "tags": [
+        "online",
         "javascript",
-        "online"
+        "ai"
       ],
       "deadline": "2026-05-24",
       "event_date": "2026-10-23",
@@ -596,14 +1432,21 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:38:58.704560+00:00",
+      "discovered_at": "2026-04-08T12:25:47.948036+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-04-08T12:26:53.873341+00:00",
       "match_scores": {
-        "composite_score": 0.22,
+        "composite_score": 0.2,
         "tag_relevance": 0.0,
         "talk_match_score": 0.0,
         "urgency_score": 0.4,
-        "format_score": 0.8,
+        "format_score": 0.7,
         "suggested_talk": null,
         "suggested_talk_level": null,
         "priority": "low",
@@ -618,10 +1461,18 @@
       "cfp_url": "https://dev.to/mark0_617b45cda9782a/red-canary-cfp-tracker-april-2026-2388",
       "description": "Red Canary emphasizes its dedication to fostering knowledge exchange within the cybersecurity...",
       "tags": [
-        "cybersecurity",
+        "cloud",
+        "database",
+        "education",
         "infosec",
+        "security",
+        "cfp",
+        "ai",
+        "leadership",
         "conference",
-        "cfp"
+        "open-source",
+        "cybersecurity",
+        "web"
       ],
       "deadline": "",
       "event_date": "",
@@ -629,51 +1480,57 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "",
-      "discovered_at": "2026-04-06T19:39:01.418741+00:00",
+      "discovered_at": "2026-04-08T12:25:50.293515+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "security",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "dev challenges"
+      ],
+      "submission_fields": [
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:26:55.630290+00:00",
       "match_scores": {
-        "composite_score": 0.155,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
+        "composite_score": 0.228,
+        "tag_relevance": 0.174,
+        "talk_match_score": 0.039,
         "urgency_score": 0.1,
         "format_score": 0.7,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
-    },
-    {
-      "id": "eb142e4579440730",
-      "source": "github",
-      "title": "conference-hall/conference-hall",
-      "url": "https://github.com/conference-hall/conference-hall",
-      "cfp_url": "https://github.com/conference-hall/conference-hall",
-      "description": "Open SaaS platform to manage CFPs",
-      "tags": [
-        "call-for-papers",
-        "conference",
-        "events",
-        "meetup",
-        "organizer",
-        "speaker"
-      ],
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "travel_sponsorship": "unknown",
-      "event_type": "",
-      "discovered_at": "2026-04-06T19:39:06.361296+00:00",
-      "status": "open",
-      "match_scores": {
-        "composite_score": 0.248,
-        "tag_relevance": 0.19,
-        "talk_match_score": 0.022,
-        "urgency_score": 0.1,
-        "format_score": 0.8,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -686,16 +1543,22 @@
       "cfp_url": "https://github.com/pretalx/pretalx",
       "description": "Conference planning tool: CfP, scheduling, speaker management",
       "tags": [
-        "call-for-paper",
-        "call-for-papers",
-        "cfp",
-        "conference",
         "conference-management",
         "django",
-        "events",
         "pretalx",
-        "python",
-        "scheduling"
+        "security",
+        "call-for-papers",
+        "cfp",
+        "events",
+        "ai",
+        "leadership",
+        "scheduling",
+        "devops",
+        "conference",
+        "call-for-paper",
+        "open-source",
+        "web",
+        "python"
       ],
       "deadline": "",
       "event_date": "",
@@ -703,15 +1566,159 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "",
-      "discovered_at": "2026-04-06T19:39:06.361358+00:00",
+      "discovered_at": "2026-04-08T12:25:54.849411+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "python",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        }
+      ],
+      "categories": [
+        "grade 24",
+        "and conference",
+        "powered developer platform available add",
+        "grade security features copilot for business enterprise",
+        "check both our documentation and",
+        "grade ai features premium support enterprise",
+        "ons github advanced security enterprise",
+        "plugin development",
+        "7 support pricing"
+      ],
+      "submission_fields": [
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:26:58.493861+00:00",
       "match_scores": {
-        "composite_score": 0.317,
-        "tag_relevance": 0.367,
+        "composite_score": 0.312,
+        "tag_relevance": 0.354,
         "talk_match_score": 0.044,
         "urgency_score": 0.1,
         "format_score": 0.8,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "eb142e4579440730",
+      "source": "github",
+      "title": "conference-hall/conference-hall",
+      "url": "https://github.com/conference-hall/conference-hall",
+      "cfp_url": "https://github.com/conference-hall/conference-hall",
+      "description": "Search code, repositories, users, issues, pull requests. Reload  to refresh your session. You signed out in another tab or window.",
+      "tags": [
+        "organizer",
+        "database",
+        "cloud",
+        "security",
+        "call-for-papers",
+        "testing",
+        "events",
+        "speaker",
+        "meetup",
+        "ai",
+        "devops",
+        "conference",
+        "open-source",
+        "leadership",
+        "web"
+      ],
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "",
+      "discovered_at": "2026-04-08T12:25:54.849460+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "database",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "grade 24",
+        "for the talks",
+        "powered developer platform available add",
+        "grade security features copilot for business enterprise",
+        "grade ai features premium support enterprise",
+        "ons github advanced security enterprise",
+        "7 support pricing"
+      ],
+      "submission_fields": [
+        "abstract",
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:27:01.348409+00:00",
+      "match_scores": {
+        "composite_score": 0.192,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.057,
+        "urgency_score": 0.1,
+        "format_score": 0.8,
+        "suggested_talk": "Data Quality as Code: Building Scalable Validation Pipelines with dbt and Great Expectations",
         "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
@@ -725,12 +1732,20 @@
       "cfp_url": "https://github.com/yegor256/awesome-cfp",
       "description": "Curated list of open Call-for-Papers in SE/PL scientific conferences: we keep an eye on all of them!",
       "tags": [
+        "conferences",
+        "python",
+        "security",
         "call-for-papers",
         "cfp",
-        "computer-science",
+        "testing",
+        "science",
+        "ai",
+        "leadership",
+        "devops",
         "conference",
-        "conferences",
-        "science"
+        "open-source",
+        "web",
+        "computer-science"
       ],
       "deadline": "",
       "event_date": "",
@@ -738,12 +1753,61 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "",
-      "discovered_at": "2026-04-06T19:39:06.361396+00:00",
+      "discovered_at": "2026-04-08T12:25:54.849517+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "python",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "grade 24",
+        "science",
+        "powered developer platform available add",
+        "computer",
+        "grade security features copilot for business enterprise",
+        "grade ai features premium support enterprise",
+        "ons github advanced security enterprise",
+        "7 support pricing"
+      ],
+      "submission_fields": [
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:27:04.617248+00:00",
       "match_scores": {
-        "composite_score": 0.251,
-        "tag_relevance": 0.182,
-        "talk_match_score": 0.04,
+        "composite_score": 0.315,
+        "tag_relevance": 0.348,
+        "talk_match_score": 0.06,
         "urgency_score": 0.1,
         "format_score": 0.8,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
@@ -760,10 +1824,17 @@
       "cfp_url": "https://github.com/ponchotitlan/cfp-session-eval-council",
       "description": "An unapologetic but encouraging multi-agent assistant to help you with your next conference CfP (Call for Papers)",
       "tags": [
+        "cloud",
+        "security",
         "call-for-papers",
         "cfp",
+        "ai",
+        "leadership",
+        "devops",
+        "multi-agent",
         "conference",
-        "multi-agent"
+        "open-source",
+        "web"
       ],
       "deadline": "",
       "event_date": "",
@@ -771,16 +1842,62 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "",
-      "discovered_at": "2026-04-06T19:39:06.361445+00:00",
+      "discovered_at": "2026-04-08T12:25:54.849551+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "grade 24",
+        "powered developer platform available add",
+        "grade security features copilot for business enterprise",
+        "conference",
+        "grade ai features premium support enterprise",
+        "ons github advanced security enterprise",
+        "7 support pricing"
+      ],
+      "submission_fields": [
+        "title",
+        "abstract",
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:27:07.032398+00:00",
       "match_scores": {
-        "composite_score": 0.182,
+        "composite_score": 0.187,
         "tag_relevance": 0.0,
-        "talk_match_score": 0.022,
+        "talk_match_score": 0.04,
         "urgency_score": 0.1,
         "format_score": 0.8,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -793,8 +1910,16 @@
       "cfp_url": "https://github.com/ZhongkuiMa/CFPMonitor",
       "description": "CFPMonitor is a website that tracks and compares Call-for-Papers submission policies, review rules, and deadlines across 300+ computer science conferences.",
       "tags": [
+        "database",
+        "security",
         "call-for-papers",
-        "conference"
+        "ai",
+        "leadership",
+        "devops",
+        "conference",
+        "open-source",
+        "web",
+        "python"
       ],
       "deadline": "",
       "event_date": "",
@@ -802,12 +1927,69 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "",
-      "discovered_at": "2026-04-06T19:39:06.361518+00:00",
+      "discovered_at": "2026-04-08T12:25:54.849577+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "python",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "grade 24",
+        "security",
+        "conference",
+        "networking",
+        "graphics",
+        "review rules",
+        "databases",
+        "powered developer platform available add",
+        "grade ai features premium support enterprise",
+        "ons github advanced security enterprise",
+        "and interdisciplinary",
+        "7 support pricing",
+        "papers submission policies",
+        "and deadlines across 300+ computer science conferences",
+        "theory"
+      ],
+      "submission_fields": [
+        "abstract",
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:27:09.331835+00:00",
       "match_scores": {
-        "composite_score": 0.187,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.039,
+        "composite_score": 0.259,
+        "tag_relevance": 0.173,
+        "talk_match_score": 0.078,
         "urgency_score": 0.1,
         "format_score": 0.8,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
@@ -822,24 +2004,33 @@
       "title": "cloudcommunity/Tech-Conferences",
       "url": "https://github.com/cloudcommunity/Tech-Conferences",
       "cfp_url": "https://github.com/cloudcommunity/Tech-Conferences",
-      "description": "Overview of upcoming and past tech conferences",
+      "description": "Search code, repositories, users, issues, pull requests. Reload  to refresh your session. You signed out in another tab or window.",
       "tags": [
-        "call-for-paper",
-        "call-for-papers",
-        "call-for-talks",
-        "cfp",
-        "conference",
-        "conferences",
-        "events",
-        "hacktoberfest",
-        "open-source",
-        "speaking",
-        "talk-proposals",
-        "tech",
+        "cloud",
         "tech-conference",
+        "security",
+        "devops",
+        "conference",
+        "open-source",
+        "talk-proposals",
+        "hacktoberfest",
+        "events",
+        "ai",
+        "blockchain",
+        "technology",
+        "web",
+        "database",
+        "call-for-talks",
+        "data",
         "tech-conferences",
         "tech-events",
-        "technology"
+        "conferences",
+        "tech",
+        "call-for-papers",
+        "cfp",
+        "speaking",
+        "leadership",
+        "call-for-paper"
       ],
       "deadline": "",
       "event_date": "",
@@ -847,12 +2038,69 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "",
-      "discovered_at": "2026-04-06T19:39:06.361541+00:00",
+      "discovered_at": "2026-04-08T12:25:54.849589+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "grade 24",
+        "open",
+        "powered developer platform available add",
+        "grade security features copilot for business enterprise",
+        "source",
+        "grade ai features premium support enterprise",
+        "ons github advanced security enterprise",
+        "7 support pricing"
+      ],
+      "submission_fields": [
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:27:11.716731+00:00",
       "match_scores": {
-        "composite_score": 0.181,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.02,
+        "composite_score": 0.251,
+        "tag_relevance": 0.166,
+        "talk_match_score": 0.06,
         "urgency_score": 0.1,
         "format_score": 0.8,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
@@ -879,7 +2127,7 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "",
-      "discovered_at": "2026-04-06T19:39:06.361571+00:00",
+      "discovered_at": "2026-04-08T12:25:54.849607+00:00",
       "status": "open",
       "match_scores": {
         "composite_score": 0.188,
@@ -899,17 +2147,23 @@
       "title": "eventil/eventil.com",
       "url": "https://github.com/eventil/eventil.com",
       "cfp_url": "https://github.com/eventil/eventil.com",
-      "description": "Support channel for Eventil.com",
+      "description": "GitHub - eventil/eventil. com: Support channel for Eventil. Search code, repositories, users, issues, pull requests.",
       "tags": [
-        "api",
+        "security",
         "call-for-papers",
-        "conference",
-        "event",
-        "event-management",
         "events",
         "graphql",
+        "leadership",
+        "ai",
+        "devops",
+        "api",
+        "conference",
+        "technology",
+        "event-management",
         "speaking-resources",
-        "technology"
+        "open-source",
+        "event",
+        "web"
       ],
       "deadline": "",
       "event_date": "",
@@ -917,16 +2171,57 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "",
-      "discovered_at": "2026-04-06T19:39:06.361593+00:00",
+      "discovered_at": "2026-04-08T12:25:54.849621+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "grade 24",
+        "speaking",
+        "powered developer platform available add",
+        "grade security features copilot for business enterprise",
+        "grade ai features premium support enterprise",
+        "ons github advanced security enterprise",
+        "resources",
+        "7 support pricing"
+      ],
+      "submission_fields": [
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:27:33.318347+00:00",
       "match_scores": {
-        "composite_score": 0.155,
+        "composite_score": 0.166,
         "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
+        "talk_match_score": 0.038,
         "urgency_score": 0.1,
         "format_score": 0.7,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
+        "suggested_talk": "Data Quality as Code: Building Scalable Validation Pipelines with dbt and Great Expectations",
+        "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -937,10 +2232,15 @@
       "title": "Persian and Fabric Power BI User Group",
       "url": "https://sessionize.com/persian-power-bi-user-group",
       "cfp_url": "https://sessionize.com/persian-power-bi-user-group",
-      "description": "Data usergroup \u2014 Online",
+      "description": "Persian and Fabric Power BI User Group: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. We run regular online sessions in Persian (Farsi) and English, bringing together data professionals, business leaders, and technology enthusiasts from across the globe.",
       "tags": [
-        "data",
-        "usergroup"
+        "education",
+        "ai",
+        "leadership",
+        "open-source",
+        "usergroup",
+        "web",
+        "data"
       ],
       "deadline": "2026-09-12",
       "event_date": "2025-09-25",
@@ -948,16 +2248,64 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
-      "discovered_at": "2026-04-06T19:39:07.907612+00:00",
+      "discovered_at": "2026-04-08T12:25:56.585673+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "data",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "data governance",
+        "such as power bi",
+        "and industry case studies",
+        "visualisation) microsoft fabric (data engineering",
+        "warehousing",
+        "microsoft fabric",
+        "data modelling",
+        "data science",
+        "we\u2019re looking for: power bi (reports",
+        "real",
+        "modern data platforms",
+        "time analytics",
+        "data visualisation"
+      ],
+      "submission_fields": [
+        "duration",
+        "experience level",
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:34.263768+00:00",
       "match_scores": {
-        "composite_score": 0.249,
-        "tag_relevance": 0.207,
-        "talk_match_score": 0.022,
+        "composite_score": 0.313,
+        "tag_relevance": 0.34,
+        "talk_match_score": 0.078,
         "urgency_score": 0.2,
         "format_score": 0.7,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -970,9 +2318,14 @@
       "cfp_url": "https://sessionize.com/stockholm-sql-2025-2026",
       "description": "In-person SQL Server usergroups. If you're not in town on one of the exact dates, reach out, and we'll try to set something up for you!",
       "tags": [
-        "data",
+        "europe",
+        "database",
+        "cloud",
+        "education",
+        "ai",
         "usergroup",
-        "europe"
+        "web",
+        "data"
       ],
       "deadline": "2026-09-30",
       "event_date": "2025-12-09",
@@ -980,11 +2333,38 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
-      "discovered_at": "2026-04-06T19:39:07.907734+00:00",
+      "discovered_at": "2026-04-08T12:25:56.585731+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:35.156641+00:00",
       "match_scores": {
-        "composite_score": 0.266,
-        "tag_relevance": 0.35,
+        "composite_score": 0.324,
+        "tag_relevance": 0.517,
         "talk_match_score": 0.044,
         "urgency_score": 0.2,
         "format_score": 0.5,
@@ -1002,8 +2382,12 @@
       "cfp_url": "https://sessionize.com/microsoft-fabric-cafe-2026",
       "description": "A weekly program at Microsoft Fabric Cafe to learn all things Fabric",
       "tags": [
-        "data",
-        "usergroup"
+        "education",
+        "ai",
+        "open-source",
+        "usergroup",
+        "web",
+        "data"
       ],
       "deadline": "2026-11-01",
       "event_date": "2026-01-02",
@@ -1011,16 +2395,54 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
-      "discovered_at": "2026-04-06T19:39:07.907791+00:00",
+      "discovered_at": "2026-04-08T12:25:56.585769+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "all things microsoft fabric",
+        "including data engineering",
+        "time intelligence",
+        "data warehousing",
+        "data integration",
+        "data science",
+        "and business intelligence",
+        "real",
+        "speaking at one of our sessions"
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:36.049126+00:00",
       "match_scores": {
-        "composite_score": 0.251,
-        "tag_relevance": 0.193,
-        "talk_match_score": 0.044,
+        "composite_score": 0.318,
+        "tag_relevance": 0.371,
+        "talk_match_score": 0.06,
         "urgency_score": 0.2,
         "format_score": 0.7,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -1031,10 +2453,16 @@
       "title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
       "url": "https://sessionize.com/cloud-data-driven-user-group-2026",
       "cfp_url": "https://sessionize.com/cloud-data-driven-user-group-2026",
-      "description": "Data usergroup \u2014 Online",
+      "description": "Cloud Data Driven User Group - 2026 Virtual Sessions: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. We meet every  Thursday at 12PM to 1:15PM EST-US time.",
       "tags": [
-        "data",
-        "usergroup"
+        "cloud",
+        "education",
+        "ai",
+        "leadership",
+        "open-source",
+        "usergroup",
+        "web",
+        "data"
       ],
       "deadline": "2026-05-01",
       "event_date": "2026-01-08",
@@ -1042,16 +2470,54 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
-      "discovered_at": "2026-04-06T19:39:07.907940+00:00",
+      "discovered_at": "2026-04-08T12:25:56.585844+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "related to data & ai and machine learning",
+        "technologies",
+        "and best practices in data platforms",
+        "engaging presentations on the latest trends"
+      ],
+      "submission_fields": [
+        "track",
+        "social media",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:37.020437+00:00",
       "match_scores": {
-        "composite_score": 0.306,
-        "tag_relevance": 0.197,
-        "talk_match_score": 0.022,
+        "composite_score": 0.369,
+        "tag_relevance": 0.347,
+        "talk_match_score": 0.059,
         "urgency_score": 0.6,
         "format_score": 0.7,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -1062,10 +2528,17 @@
       "title": "Triangle SQL Server User Group 2026",
       "url": "https://sessionize.com/tripass-2026",
       "cfp_url": "https://sessionize.com/tripass-2026",
-      "description": "https://www.meetup.com/tripass/",
+      "description": "Triangle Area SQL Server User Group (TriPASS) 2026: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. com/tripass/ \r\n                             \r\n                         \r\n                     \r\n                 \r\n                     \r\n                         \r\n                         The Triangle Area SQL Server User Group (TriPASS) meets on three Tuesdays monthly.",
       "tags": [
+        "cloud",
+        "database",
+        "education",
+        "ai",
+        "open-source",
+        "usergroup",
+        "web",
         "data",
-        "usergroup"
+        "python"
       ],
       "deadline": "2026-08-30",
       "event_date": "2026-01-13",
@@ -1073,17 +2546,63 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
-      "discovered_at": "2026-04-06T19:39:07.907992+00:00",
+      "discovered_at": "2026-04-08T12:25:56.585879+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "python",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "some  in",
+        "person  sessions",
+        "we are looking for some  in",
+        "across the data platform space",
+        "speakers for our 2026 lineup"
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:37.958876+00:00",
       "match_scores": {
-        "composite_score": 0.344,
-        "tag_relevance": 0.403,
-        "talk_match_score": 0.044,
+        "composite_score": 0.4,
+        "tag_relevance": 0.591,
+        "talk_match_score": 0.078,
         "urgency_score": 0.2,
-        "format_score": 0.8,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
+        "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
         "travel_sponsorship": "unknown"
       }
     },
@@ -1093,10 +2612,13 @@
       "title": "Data Platform Women in Technology Virtual Group 2026",
       "url": "https://sessionize.com/datawit-2026",
       "cfp_url": "https://sessionize.com/datawit-2026",
-      "description": "https://www.meetup.com/data-platform-wit",
+      "description": "Data Platform Women in Technology Virtual Group 2026: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. com/data-platform-wit/ \r\n                             \r\n                         \r\n                     \r\n                 \r\n                     \r\n                         \r\n                         Data Platform WIT is the Virtual Women in Technolgy Group for the Data Platform community.",
       "tags": [
-        "data",
-        "usergroup"
+        "ai",
+        "open-source",
+        "usergroup",
+        "web",
+        "data"
       ],
       "deadline": "2026-06-23",
       "event_date": "2026-01-13",
@@ -1104,16 +2626,38 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
-      "discovered_at": "2026-04-06T19:39:07.908041+00:00",
+      "discovered_at": "2026-04-08T12:25:56.585913+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "or wit issues in the workplace"
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:38.856101+00:00",
       "match_scores": {
-        "composite_score": 0.267,
-        "tag_relevance": 0.201,
-        "talk_match_score": 0.022,
+        "composite_score": 0.25,
+        "tag_relevance": 0.179,
+        "talk_match_score": 0.059,
         "urgency_score": 0.2,
-        "format_score": 0.8,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -1126,8 +2670,13 @@
       "cfp_url": "https://sessionize.com/fabricpowerbiwales",
       "description": "Monthly meet on the 3rd Thursday of the month on any topic around Power BI or Microsoft Fabric.",
       "tags": [
-        "data",
-        "usergroup"
+        "cloud",
+        "ai",
+        "leadership",
+        "open-source",
+        "usergroup",
+        "web",
+        "data"
       ],
       "deadline": "2026-11-14",
       "event_date": "2026-01-15",
@@ -1135,12 +2684,46 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
-      "discovered_at": "2026-04-06T19:39:07.908095+00:00",
+      "discovered_at": "2026-04-08T12:25:56.585951+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "everything from strategy",
+        "please submit them and get in touch with us",
+        "talks on all aspects of power bi or microsoft fabric",
+        "speakers to run a ~60 minute session",
+        "analytics and visualisation",
+        "architecture through to modelling"
+      ],
+      "submission_fields": [
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:39.738468+00:00",
       "match_scores": {
-        "composite_score": 0.245,
-        "tag_relevance": 0.182,
-        "talk_match_score": 0.039,
+        "composite_score": 0.25,
+        "tag_relevance": 0.177,
+        "talk_match_score": 0.059,
         "urgency_score": 0.2,
         "format_score": 0.7,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
@@ -1155,11 +2738,15 @@
       "title": "San Diego SQL Server User Group",
       "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
       "cfp_url": "https://sessionize.com/san-diego-sql-server-user-group8844",
-      "description": "Data usergroup \u2014 Virtual",
+      "description": "San Diego SQL Server User Group: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. Any topic related to data, AI, and SQL query languages is welcome.",
       "tags": [
-        "data",
+        "database",
+        "north america",
+        "education",
+        "ai",
+        "open-source",
         "usergroup",
-        "north america"
+        "data"
       ],
       "deadline": "2026-11-20",
       "event_date": "2026-01-15",
@@ -1167,16 +2754,39 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
-      "discovered_at": "2026-04-06T19:39:07.908144+00:00",
+      "discovered_at": "2026-04-08T12:25:56.585985+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:40.545796+00:00",
       "match_scores": {
-        "composite_score": 0.279,
-        "tag_relevance": 0.386,
-        "talk_match_score": 0.044,
+        "composite_score": 0.331,
+        "tag_relevance": 0.523,
+        "talk_match_score": 0.059,
         "urgency_score": 0.2,
         "format_score": 0.5,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -1187,10 +2797,14 @@
       "title": "Data Engineers in Toronto",
       "url": "https://sessionize.com/data-engineers-in-toronto",
       "cfp_url": "https://sessionize.com/data-engineers-in-toronto",
-      "description": "Data usergroup \u2014 Virtual / Online",
+      "description": "Data Engineers in Toronto: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. com/data-engineers-in-toronto/ \r\n                             \r\n                         \r\n                     \r\n                 \r\n                     \r\n                         \r\n                         A community of data engineers based in Greater Toronto Area, Canada.",
       "tags": [
-        "data",
-        "usergroup"
+        "education",
+        "ai",
+        "open-source",
+        "usergroup",
+        "web",
+        "data"
       ],
       "deadline": "2027-01-19",
       "event_date": "2026-03-09",
@@ -1198,16 +2812,39 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
-      "discovered_at": "2026-04-06T19:39:07.908296+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586086+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:41.465138+00:00",
       "match_scores": {
-        "composite_score": 0.255,
-        "tag_relevance": 0.223,
-        "talk_match_score": 0.022,
+        "composite_score": 0.32,
+        "tag_relevance": 0.361,
+        "talk_match_score": 0.078,
         "urgency_score": 0.2,
         "format_score": 0.7,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -1220,8 +2857,13 @@
       "cfp_url": "https://sessionize.com/sql-server-user-group-croatia-26",
       "description": "SSUGCRO is for professionals who use the Microsoft data platform. Any Microsoft Data Platform-related technical or non-technical subject are welcome.",
       "tags": [
-        "data",
-        "usergroup"
+        "cloud",
+        "database",
+        "ai",
+        "open-source",
+        "usergroup",
+        "web",
+        "data"
       ],
       "deadline": "2026-09-12",
       "event_date": "2026-04-08",
@@ -1229,11 +2871,44 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
-      "discovered_at": "2026-04-06T19:39:07.908414+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586160+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "database",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "speakers willing to join us this and next year"
+      ],
+      "submission_fields": [
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:42.384889+00:00",
       "match_scores": {
-        "composite_score": 0.313,
-        "tag_relevance": 0.352,
+        "composite_score": 0.311,
+        "tag_relevance": 0.346,
         "talk_match_score": 0.067,
         "urgency_score": 0.2,
         "format_score": 0.7,
@@ -1251,9 +2926,15 @@
       "cfp_url": "https://sessionize.com/sql-saturday-rva-2026",
       "description": "Data external \u2014 Reynolds Community College, 1651 E Parham Rd, Richmond, VA 23228,",
       "tags": [
+        "database",
+        "cloud",
+        "education",
+        "in-person",
+        "ai",
         "data",
-        "external",
-        "in-person"
+        "open-source",
+        "web",
+        "external"
       ],
       "deadline": "",
       "event_date": "2026-04-11",
@@ -1261,12 +2942,55 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "external",
-      "discovered_at": "2026-04-06T19:39:07.908492+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586211+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "database",
+          "confidence": 1.0
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "requested:",
+        "to include all databases and related data platforms (eg",
+        "postgres",
+        "duckdb",
+        "include:  database systems: sql server",
+        "mariadb",
+        "aws rds"
+      ],
+      "submission_fields": [
+        "topic"
+      ],
+      "enriched_at": "2026-04-08T12:27:43.316248+00:00",
       "match_scores": {
-        "composite_score": 0.193,
-        "tag_relevance": 0.19,
-        "talk_match_score": 0.039,
+        "composite_score": 0.265,
+        "tag_relevance": 0.361,
+        "talk_match_score": 0.078,
         "urgency_score": 0.1,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
@@ -1283,9 +3007,14 @@
       "cfp_url": "https://forms.gle/8E24emDuL9RNmX4A8",
       "description": "Data external \u2014 R. Paulo Malschitzki,, 10 - Campus Universit\u00e1rio - Distrito Industrial,, Joinville - SC,, 89219-710,",
       "tags": [
+        "database",
+        "cloud",
+        "in-person",
+        "ai",
         "data",
-        "external",
-        "in-person"
+        "mobile",
+        "web",
+        "external"
       ],
       "deadline": "",
       "event_date": "2026-04-11",
@@ -1293,11 +3022,38 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "external",
-      "discovered_at": "2026-04-06T19:39:07.908563+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586258+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-04-08T12:27:45.645376+00:00",
       "match_scores": {
-        "composite_score": 0.258,
-        "tag_relevance": 0.371,
+        "composite_score": 0.254,
+        "tag_relevance": 0.358,
         "talk_match_score": 0.044,
         "urgency_score": 0.1,
         "format_score": 0.5,
@@ -1315,9 +3071,17 @@
       "cfp_url": "https://sessionize.com/sql-saturday-wellington-2026",
       "description": "Data external \u2014 3 Wi Neera Dr,, Elsdon, Porirua 5022, New Zealand,",
       "tags": [
+        "database",
+        "cloud",
+        "education",
+        "security",
+        "in-person",
+        "ai",
         "data",
-        "external",
-        "in-person"
+        "devops",
+        "open-source",
+        "web",
+        "external"
       ],
       "deadline": "",
       "event_date": "2026-05-30",
@@ -1325,16 +3089,73 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "external",
-      "discovered_at": "2026-04-06T19:39:07.908658+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586322+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "data",
+          "confidence": 1.0
+        },
+        {
+          "theme": "database",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "practical demos",
+        "git integration",
+        "data warehouse",
+        "and lessons learned from enterprise implementations",
+        "onelake",
+        "migration devops & dataops \u2013 ci",
+        "iac microsoft fabric & power bi \u2013 lakehouse",
+        "architecture deep dives",
+        "cd for data",
+        "real",
+        "world case studies",
+        "automation",
+        "modernization"
+      ],
+      "submission_fields": [
+        "topic"
+      ],
+      "enriched_at": "2026-04-08T12:27:46.975669+00:00",
       "match_scores": {
-        "composite_score": 0.26,
-        "tag_relevance": 0.375,
-        "talk_match_score": 0.044,
+        "composite_score": 0.318,
+        "tag_relevance": 0.53,
+        "talk_match_score": 0.059,
         "urgency_score": 0.1,
         "format_score": 0.5,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -1347,9 +3168,18 @@
       "cfp_url": "https://sessionize.com/power-bi-days-dc-2026",
       "description": "For the community, by the community. Power BI Days DC is a free two-day conference in Arlington, Virginia. Go to www.powerbidc.org to see previous year sessions, speakers, and schedule. ",
       "tags": [
-        "data",
+        "database",
+        "education",
+        "north america",
+        "security",
+        "testing",
+        "leadership",
+        "ai",
+        "devops",
         "conference",
-        "north america"
+        "open-source",
+        "web",
+        "data"
       ],
       "deadline": "2026-04-16",
       "event_date": "2026-06-11",
@@ -1357,12 +3187,63 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:39:07.908741+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586377+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "education",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "demand with this audience",
+        "are less in"
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:48.030388+00:00",
       "match_scores": {
-        "composite_score": 0.32,
-        "tag_relevance": 0.178,
-        "talk_match_score": 0.059,
+        "composite_score": 0.39,
+        "tag_relevance": 0.343,
+        "talk_match_score": 0.098,
         "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
@@ -1379,9 +3260,13 @@
       "cfp_url": "https://sessionize.com/sqlsatbr26",
       "description": "Data conference, precon \u2014 Baton Rouge, Louisiana, United States",
       "tags": [
-        "data",
+        "database",
+        "north america",
+        "education",
+        "ai",
         "conference, precon",
-        "north america"
+        "web",
+        "data"
       ],
       "deadline": "2026-05-02",
       "event_date": "2026-07-17",
@@ -1389,16 +3274,38 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon",
-      "discovered_at": "2026-04-06T19:39:07.908805+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586416+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:49.331017+00:00",
       "match_scores": {
-        "composite_score": 0.283,
-        "tag_relevance": 0.19,
-        "talk_match_score": 0.022,
+        "composite_score": 0.35,
+        "tag_relevance": 0.367,
+        "talk_match_score": 0.039,
         "urgency_score": 0.6,
         "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -1411,9 +3318,13 @@
       "cfp_url": "https://sessionize.com/day-of-data-albany-2026/",
       "description": "Data conference, precon \u2014 Massry School of Business, UAlbany, Albany, NY 12202",
       "tags": [
-        "data",
+        "education",
+        "north america",
+        "ai",
         "conference, precon",
-        "north america"
+        "leadership",
+        "web",
+        "data"
       ],
       "deadline": "2026-05-01",
       "event_date": "2026-08-07",
@@ -1421,16 +3332,43 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon",
-      "discovered_at": "2026-04-06T19:39:07.908861+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586455+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "education",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "sponsoring day of data albany",
+        "please visit our sponsorship page"
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:50.235921+00:00",
       "match_scores": {
-        "composite_score": 0.282,
-        "tag_relevance": 0.188,
-        "talk_match_score": 0.022,
+        "composite_score": 0.349,
+        "tag_relevance": 0.364,
+        "talk_match_score": 0.039,
         "urgency_score": 0.6,
         "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -1441,10 +3379,13 @@
       "title": "EightKB August 2026",
       "url": "https://sessionize.com/eightkb-august-2026",
       "cfp_url": "https://sessionize.com/eightkb-august-2026",
-      "description": "Data conference \u2014 Online",
+      "description": "EightKB August 2026: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. Closing time in your timezone ( ) is.",
       "tags": [
-        "data",
-        "conference"
+        "database",
+        "ai",
+        "conference",
+        "web",
+        "data"
       ],
       "deadline": "2026-05-31",
       "event_date": "2026-08-20",
@@ -1452,14 +3393,33 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:39:07.908912+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586498+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:51.399149+00:00",
       "match_scores": {
-        "composite_score": 0.305,
-        "tag_relevance": 0.223,
-        "talk_match_score": 0.022,
+        "composite_score": 0.278,
+        "tag_relevance": 0.183,
+        "talk_match_score": 0.044,
         "urgency_score": 0.4,
-        "format_score": 0.8,
+        "format_score": 0.7,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
         "priority": "low",
@@ -1472,11 +3432,16 @@
       "title": "Data Saturday Gothenburg",
       "url": "https://sessionize.com/data-saturday-gothenburg-2026",
       "cfp_url": "https://sessionize.com/data-saturday-gothenburg-2026",
-      "description": "Data conference \u2014 G\u00f6teborg, Sweden",
+      "description": "Data Saturday Gothenburg: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. This community event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.",
       "tags": [
-        "data",
+        "europe",
+        "cloud",
+        "ai",
+        "leadership",
         "conference",
-        "europe"
+        "open-source",
+        "web",
+        "data"
       ],
       "deadline": "2026-04-30",
       "event_date": "2026-09-05",
@@ -1484,15 +3449,43 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:39:07.908998+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586637+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "title",
+        "abstract",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:52.291998+00:00",
       "match_scores": {
-        "composite_score": 0.292,
-        "tag_relevance": 0.214,
-        "talk_match_score": 0.022,
+        "composite_score": 0.335,
+        "tag_relevance": 0.343,
+        "talk_match_score": 0.082,
         "urgency_score": 0.6,
-        "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "format_score": 0.5,
+        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
         "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
@@ -1506,28 +3499,74 @@
       "cfp_url": "https://sessionize.com/power-bi-next-step",
       "description": "Power BI Next Step 2026 is the ultimate destination for passionate Power BI users looking to elevate their skills. Designed for those who have mastered the basics, this in-person conference offers a platform for intermediate and advanced-level learning through insightful sessions delivered by international experts.",
       "tags": [
-        "data",
+        "europe",
+        "education",
+        "ai",
+        "leadership",
         "conference",
-        "europe"
+        "open-source",
+        "web",
+        "data"
       ],
       "deadline": "2026-04-30",
       "event_date": "2026-09-07",
       "location": "Odense, Denmark",
       "is_online": false,
-      "travel_sponsorship": "unknown",
+      "travel_sponsorship": "partial",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:39:07.909073+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586847+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "education",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "that touch on microsoft fabric",
+        "we will select a total of 18 sessions",
+        "your session must include power bi content in some way",
+        "and 6 sessions per track"
+      ],
+      "speaker_perks": {
+        "dinner": true
+      },
+      "submission_fields": [
+        "title",
+        "abstract",
+        "duration",
+        "target audience",
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:53.143917+00:00",
       "match_scores": {
-        "composite_score": 0.289,
-        "tag_relevance": 0.169,
-        "talk_match_score": 0.067,
+        "composite_score": 0.357,
+        "tag_relevance": 0.335,
+        "talk_match_score": 0.098,
         "urgency_score": 0.6,
         "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
-        "travel_sponsorship": "unknown"
+        "travel_sponsorship": "partial"
       }
     },
     {
@@ -1538,28 +3577,93 @@
       "cfp_url": "https://sessionize.com/fabcon26",
       "description": "2 session submission limit, title 100 characters, abstract 400 characters, Speaker compensation details are listed on the Call for Content page.",
       "tags": [
-        "data",
+        "europe",
+        "database",
+        "cloud",
+        "education",
+        "ai",
+        "leadership",
+        "blockchain",
         "conference",
-        "europe"
+        "open-source",
+        "mobile",
+        "web",
+        "data"
       ],
       "deadline": "2026-04-18",
       "event_date": "2026-09-28",
       "location": "Barcelona, Spain",
       "is_online": false,
-      "travel_sponsorship": "unknown",
+      "travel_sponsorship": "yes",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:39:07.909142+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586909+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "education",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "400 (deep technical)"
+      ],
+      "speaker_perks": {
+        "hotel": true,
+        "ticket": true,
+        "honorarium": true
+      },
+      "submission_fields": [
+        "title",
+        "abstract",
+        "target audience",
+        "outline",
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:54.033680+00:00",
       "match_scores": {
-        "composite_score": 0.381,
-        "tag_relevance": 0.344,
-        "talk_match_score": 0.067,
+        "composite_score": 0.446,
+        "tag_relevance": 0.506,
+        "talk_match_score": 0.098,
         "urgency_score": 0.8,
         "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "yes"
       }
     },
     {
@@ -1570,28 +3674,83 @@
       "cfp_url": "https://sessionize.com/data-saturday-holland-2026",
       "description": "Data conference, precon \u2014 Utrecht, The Netherlands",
       "tags": [
-        "data",
+        "europe",
+        "cloud",
+        "database",
+        "education",
+        "ai",
         "conference, precon",
-        "europe"
+        "leadership",
+        "open-source",
+        "web",
+        "data"
       ],
       "deadline": "2026-05-31",
       "event_date": "2026-10-09",
       "location": "Utrecht, The Netherlands",
       "is_online": false,
-      "travel_sponsorship": "unknown",
+      "travel_sponsorship": "yes",
       "event_type": "conference, precon",
-      "discovered_at": "2026-04-06T19:39:07.909194+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586955+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "to become deep dives",
+        "are more limited in comparison to data related topics",
+        "not just microsoft fabric"
+      ],
+      "speaker_perks": {
+        "hotel": true,
+        "honorarium": true
+      },
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:54.891974+00:00",
       "match_scores": {
-        "composite_score": 0.257,
-        "tag_relevance": 0.201,
-        "talk_match_score": 0.022,
+        "composite_score": 0.326,
+        "tag_relevance": 0.367,
+        "talk_match_score": 0.059,
         "urgency_score": 0.4,
         "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
-        "travel_sponsorship": "unknown"
+        "travel_sponsorship": "yes"
       }
     },
     {
@@ -1600,11 +3759,24 @@
       "title": "dataMinds Connect 2026",
       "url": "https://sessionize.com/dataminds-connect-2026",
       "cfp_url": "https://sessionize.com/dataminds-connect-2026",
-      "description": "Data conference, precon \u2014 Mechelen, Belgium",
+      "description": "dataMinds Connect 2026: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. be \r\n                             \r\n                         \r\n                     \r\n                 \r\n                     \r\n                         \r\n                         dataMinds Connect  is a  3\u00a0day in-person event  in the wonderful city of  Mechelen, Belgium.",
       "tags": [
-        "data",
+        "europe",
+        "cloud",
+        "database",
+        "education",
+        "security",
+        "testing",
+        "ai",
         "conference, precon",
-        "europe"
+        "devops",
+        "leadership",
+        "mobile",
+        "open-source",
+        "blockchain",
+        "web",
+        "data",
+        "python"
       ],
       "deadline": "2026-05-21",
       "event_date": "2026-10-12",
@@ -1612,16 +3784,92 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon",
-      "discovered_at": "2026-04-06T19:39:07.909241+00:00",
+      "discovered_at": "2026-04-08T12:25:56.586992+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 1.0
+        },
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "database",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "python",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "data virtualization or generative ai using llm",
+        "like data lakehouses",
+        "and the interests of our audience"
+      ],
+      "speaker_perks": {
+        "honorarium": true
+      },
+      "submission_fields": [
+        "title",
+        "bio",
+        "target audience",
+        "outline",
+        "topic",
+        "photo",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:56.149003+00:00",
       "match_scores": {
-        "composite_score": 0.257,
-        "tag_relevance": 0.201,
-        "talk_match_score": 0.022,
+        "composite_score": 0.362,
+        "tag_relevance": 0.51,
+        "talk_match_score": 0.078,
         "urgency_score": 0.4,
-        "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -1634,9 +3882,12 @@
       "cfp_url": "https://sessionize.com/fabfest2026",
       "description": "FabFest is a single track, full day event on all things Microsoft Fabric. ",
       "tags": [
-        "data",
+        "europe",
+        "ai",
         "conference",
-        "europe"
+        "open-source",
+        "web",
+        "data"
       ],
       "deadline": "2026-06-15",
       "event_date": "2026-10-15",
@@ -1644,41 +3895,38 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference",
-      "discovered_at": "2026-04-06T19:39:07.909290+00:00",
+      "discovered_at": "2026-04-08T12:25:56.587028+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:57.196585+00:00",
       "match_scores": {
-        "composite_score": 0.207,
-        "tag_relevance": 0.185,
-        "talk_match_score": 0.041,
+        "composite_score": 0.212,
+        "tag_relevance": 0.182,
+        "talk_match_score": 0.06,
         "urgency_score": 0.2,
         "format_score": 0.5,
-        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
-    },
-    {
-      "id": "1c3cb11a7a0a1d34",
-      "source": "callfordataspeakers",
-      "title": "PASS Summit West: Seattle",
-      "url": "https://reg.passdatacommunitysummit.com/flow/redgate/summiteast26/callforspeakers/cfpHome",
-      "cfp_url": "https://reg.passdatacommunitysummit.com/flow/redgate/summiteast26/callforspeakers/cfpHome",
-      "description": "Data conference,precon \u2014 Hyatt Regency Seattle",
-      "tags": [
-        "data",
-        "conference,precon",
-        "north america"
-      ],
-      "deadline": "2026-04-07",
-      "event_date": "2026-11-09",
-      "location": "Hyatt Regency Seattle",
-      "is_online": false,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference,precon",
-      "discovered_at": "2026-04-06T19:39:07.909339+00:00",
-      "status": "expired",
-      "match_scores": null
     },
     {
       "id": "d227b6f4bf58f201",
@@ -1686,11 +3934,21 @@
       "title": "Power Conference 2026",
       "url": "https://sessionize.com/power-conference-2026",
       "cfp_url": "https://sessionize.com/power-conference-2026",
-      "description": "Data conference, precon \u2014 Prague, Czechia",
+      "description": "Power Conference 2026: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. In 2025,  we welcomed nearly 500 attendees  and hosted keynote speakers from Microsoft, including  Evan Lew  (Director of Product, Power Platform App Agents) and  Austin Laugesen  (Principal Product Manager, Power Apps).",
       "tags": [
-        "data",
+        "europe",
+        "cloud",
+        "iot",
+        "education",
+        "ai",
         "conference, precon",
-        "europe"
+        "leadership",
+        "devops",
+        "mobile",
+        "open-source",
+        "blockchain",
+        "web",
+        "data"
       ],
       "deadline": "2026-07-14",
       "event_date": "2026-12-02",
@@ -1698,16 +3956,78 @@
       "is_online": false,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon",
-      "discovered_at": "2026-04-06T19:39:07.909386+00:00",
+      "discovered_at": "2026-04-08T12:25:56.587063+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "iot",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "scale implementations real",
+        "related content",
+        "world case studies ai",
+        "conference compensation is based on a  revenue",
+        "related content is welcome",
+        "sharing model",
+        "high",
+        "especially practical appl"
+      ],
+      "speaker_perks": {
+        "honorarium": true
+      },
+      "submission_fields": [
+        "takeaway",
+        "target audience",
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-08T12:27:58.262163+00:00",
       "match_scores": {
-        "composite_score": 0.229,
-        "tag_relevance": 0.207,
-        "talk_match_score": 0.022,
+        "composite_score": 0.284,
+        "tag_relevance": 0.334,
+        "talk_match_score": 0.059,
         "urgency_score": 0.2,
         "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
@@ -1718,25 +4038,33 @@
       "title": "cloudcommunity/Tech-Conferences",
       "url": "https://github.com/cloudcommunity/Tech-Conferences",
       "cfp_url": "https://github.com/cloudcommunity/Tech-Conferences",
-      "description": "Overview of upcoming and past tech conferences",
+      "description": "Search code, repositories, users, issues, pull requests. Reload  to refresh your session. You signed out in another tab or window.",
       "tags": [
-        "open-source",
-        "call-for-paper",
-        "call-for-papers",
-        "call-for-talks",
-        "cfp",
-        "conference",
-        "conferences",
-        "events",
-        "hacktoberfest",
-        "open-source",
-        "speaking",
-        "talk-proposals",
-        "tech",
+        "cloud",
         "tech-conference",
+        "security",
+        "devops",
+        "conference",
+        "open-source",
+        "talk-proposals",
+        "hacktoberfest",
+        "events",
+        "ai",
+        "blockchain",
+        "technology",
+        "web",
+        "database",
+        "call-for-talks",
+        "data",
         "tech-conferences",
         "tech-events",
-        "technology"
+        "conferences",
+        "tech",
+        "call-for-papers",
+        "cfp",
+        "speaking",
+        "leadership",
+        "call-for-paper"
       ],
       "deadline": "",
       "event_date": "",
@@ -1744,12 +4072,69 @@
       "is_online": true,
       "travel_sponsorship": "unknown",
       "event_type": "",
-      "discovered_at": "2026-04-06T19:39:10.407098+00:00",
+      "discovered_at": "2026-04-08T12:25:59.748239+00:00",
       "status": "open",
+      "themes": [
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "grade 24",
+        "open",
+        "powered developer platform available add",
+        "grade security features copilot for business enterprise",
+        "source",
+        "grade ai features premium support enterprise",
+        "ons github advanced security enterprise",
+        "7 support pricing"
+      ],
+      "submission_fields": [
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:28:01.399444+00:00",
       "match_scores": {
-        "composite_score": 0.181,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.02,
+        "composite_score": 0.251,
+        "tag_relevance": 0.166,
+        "talk_match_score": 0.06,
         "urgency_score": 0.1,
         "format_score": 0.8,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
