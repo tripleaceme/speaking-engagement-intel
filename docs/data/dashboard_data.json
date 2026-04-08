@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T12:28:36.804873+00:00",
+  "generated_at": "2026-04-08T12:32:29.873758+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 0,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-04-08T12:25:59.749179+00:00",
+    "last_crawled": "2026-04-08T12:32:28.828521+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 5,
@@ -64,23 +64,23 @@
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "open-source",
-      "count": 44
+      "count": 45
     },
     {
       "tag": "web",
-      "count": 44
+      "count": 45
+    },
+    {
+      "tag": "leadership",
+      "count": 35
     },
     {
       "tag": "data",
       "count": 35
-    },
-    {
-      "tag": "leadership",
-      "count": 34
     },
     {
       "tag": "education",
@@ -92,15 +92,15 @@
     },
     {
       "tag": "database",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "devops",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "security",
-      "count": 21
+      "count": 22
     },
     {
       "tag": "conference",

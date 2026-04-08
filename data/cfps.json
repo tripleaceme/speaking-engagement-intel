@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-04-08T12:25:59.749179+00:00",
+    "last_crawled": "2026-04-08T12:32:28.828521+00:00",
     "total_cfps": 53,
     "open_cfps": 53,
     "sources_checked": 9,
-    "new_this_run": 53,
+    "new_this_run": 0,
     "expired_this_run": 0,
-    "travel_sponsorship_yes": 0,
-    "travel_sponsorship_partial": 0,
-    "last_scored": "2026-04-08T12:28:14.564000+00:00",
+    "travel_sponsorship_yes": 3,
+    "travel_sponsorship_partial": 5,
+    "last_scored": "2026-04-08T12:32:29.774700+00:00",
     "high_priority": 0,
     "medium_priority": 4,
     "above_threshold": 46
@@ -2117,9 +2117,16 @@
       "cfp_url": "https://github.com/emir/dotCFP",
       "description": "dotCFP is a PHP/Laravel based conference talk submission system. This project is greatly inspired by the @OpenCFP.",
       "tags": [
-        "call-for-papers",
         "conference",
-        "kommunity"
+        "kommunity",
+        "security",
+        "ai",
+        "call-for-papers",
+        "devops",
+        "open-source",
+        "leadership",
+        "web",
+        "database"
       ],
       "deadline": "",
       "event_date": "",
@@ -2130,16 +2137,60 @@
       "discovered_at": "2026-04-08T12:25:54.849607+00:00",
       "status": "open",
       "match_scores": {
-        "composite_score": 0.188,
+        "composite_score": 0.193,
         "tag_relevance": 0.0,
-        "talk_match_score": 0.044,
+        "talk_match_score": 0.06,
         "urgency_score": 0.1,
         "format_score": 0.8,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
-      }
+      },
+      "themes": [
+        {
+          "theme": "database",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "grade security features copilot for business enterprise",
+        "ons github advanced security enterprise",
+        "conference",
+        "grade ai features premium support enterprise",
+        "powered developer platform available add",
+        "grade 24",
+        "7 support pricing"
+      ],
+      "submission_fields": [
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-04-08T12:32:29.701199+00:00"
     },
     {
       "id": "1564ecb6782c9e11",
