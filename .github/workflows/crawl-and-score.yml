@@ -17,8 +17,11 @@ permissions:
   id-token: write
 
 jobs:
-  crawl-score-generate:
+  crawl-score-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -55,18 +58,6 @@ jobs:
             git commit -m "chore: update CFP data — $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
-
-  deploy-dashboard:
-    needs: crawl-score-generate
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          ref: main  # Get the latest commit (with data updates)
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
