@@ -1,0 +1,192 @@
+{
+  "speaker": {
+    "name": "Ayoade Adegbite",
+    "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
+    "tagline": "Building scalable analytics infrastructure and teaching teams to do the same",
+    "email": "ayoadeadegbitee@gmail.com",
+    "website": "https://ayoadeabel.tech/",
+    "github": "https://github.com/tripleaceme",
+    "linkedin": "https://www.linkedin.com/in/tripleaceme",
+    "twitter": "",
+    "location": "Los Angeles, California, United States",
+    "willing_to_travel": true,
+    "remote_ok": true
+  },
+  "bio": {
+    "short": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+    "long": "I work with teams and organizations to turn AI ambition into operational reality. Across Africa and emerging markets, many AI initiatives stall, not because of weak models, but because of fragile data foundations, undocumented systems, and poor adoption at scale. I design and implement analytics and data workflows that make AI systems trustworthy, explainable, and production-ready — from data modeling and documentation to AI-assisted governance and team enablement. I'm the founder of Behind The Data, where we help data teams, enterprises, and public-sector organizations build scalable analytics foundations and develop the talent needed to sustain them. I also speak and train on AI-driven data workflows, documentation automation, and how organizations can move from pilots to platforms responsibly."
+  },
+  "expertise": {
+    "primary": [
+      "dbt (data build tool)",
+      "Analytics Engineering",
+      "Data Quality & Observability",
+      "Snowflake",
+      "BigQuery",
+      "Apache Airflow",
+      "SQL",
+      "Python",
+      "Open Source Development"
+    ],
+    "secondary": [
+      "Streamlit",
+      "Tableau",
+      "Airbyte",
+      "PostgreSQL",
+      "Great Expectations",
+      "Metabase",
+      "Looker Studio",
+      "Data Documentation",
+      "AI-powered Data Workflows",
+      "Data Governance",
+      "ETL/ELT Pipelines",
+      "Data Modeling",
+      "Data Education",
+      "EdTech"
+    ],
+    "industries": [
+      "Data & Analytics",
+      "Open Source",
+      "EdTech",
+      "Retail",
+      "Marketing Analytics",
+      "Healthcare",
+      "Digital Products"
+    ]
+  },
+  "talk_topics": [
+    {
+      "title": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
+      "abstract": "A deep dive into the journey of creating five open-source dbt packages published on dbt Hub: dbt-doc-tracker for documentation audit trails, dbt-doc-inherit for propagating column descriptions along the DAG, dbt-anomaly-detector for lightweight statistical anomaly detection, dbt-flow-lineage for animated column-level lineage visualization, and tap-substack for Substack data extraction. Learn the architecture decisions, testing strategies, and community patterns that shaped production-ready dbt packages from scratch.",
+      "tags": ["dbt", "open-source", "analytics-engineering", "data-quality", "documentation", "packages"],
+      "duration_minutes": [30, 45],
+      "level": "intermediate"
+    },
+    {
+      "title": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+      "abstract": "Documentation is the most neglected part of analytics engineering. At Bredge, I built an AI-powered pipeline using LLMs that auto-generates missing column descriptions for dbt models, increasing documentation coverage by 35%+ and ensuring all production models are fully documented before deployment. This talk covers the architecture, prompt engineering, quality controls, and how to integrate AI documentation into your CI/CD pipeline.",
+      "tags": ["ai", "dbt", "documentation", "llm", "data-governance", "automation"],
+      "duration_minutes": [30, 45],
+      "level": "intermediate"
+    },
+    {
+      "title": "Data Quality as Code: Building Scalable Validation Pipelines with dbt and Great Expectations",
+      "abstract": "Explore how to implement comprehensive data quality testing using dbt tests, Great Expectations, and custom macros. Built from real-world experience reducing data quality debt by 15% across critical datasets and achieving 95% data validation accuracy. This talk covers practical patterns for catching data issues before they reach dashboards, including schema tests, freshness checks, statistical anomaly detection, and YAML-configured dynamic validation.",
+      "tags": ["data-quality", "dbt", "great-expectations", "testing", "analytics-engineering", "observability"],
+      "duration_minutes": [30, 45],
+      "level": "intermediate"
+    },
+    {
+      "title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "abstract": "Many organizations are stuck with legacy stored procedures that are opaque, untestable, and hard to maintain. This talk walks through a real-world migration that reduced maintenance time by 45% — from audit and mapping, through modular dbt model design, to testing and deployment. Includes patterns for BigQuery, Snowflake, and PostgreSQL, and how to win over skeptical DBAs.",
+      "tags": ["dbt", "migration", "sql", "snowflake", "bigquery", "data-engineering", "modernization"],
+      "duration_minutes": [30, 45, 60],
+      "level": "intermediate"
+    },
+    {
+      "title": "Democratizing Data Education in Africa Through Open Source Tools",
+      "abstract": "How open-source tools and community-driven education are transforming data literacy across Africa. As founder of Behind The Data Academy and trainer for 900+ students across 7 countries, I share frameworks for building curriculum around free tools like dbt, PostgreSQL, Tableau, and Python — creating learning pathways that account for infrastructure constraints common in emerging markets while producing industry-ready analysts.",
+      "tags": ["edtech", "open-source", "africa", "education", "diversity", "data-literacy", "community"],
+      "duration_minutes": [20, 30, 45],
+      "level": "beginner"
+    },
+    {
+      "title": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "abstract": "You don't need expensive enterprise tools to build reliable data infrastructure. At Bredge, I replaced Stitch with a custom Streamlit + Snowflake ingestion hub, saving $3,000/month while increasing flexibility. This talk demonstrates how to build a complete analytics pipeline using Snowflake, dbt, Airflow, Airbyte, and Streamlit — all running on free tiers or minimal costs.",
+      "tags": ["data-engineering", "open-source", "dbt", "snowflake", "airflow", "cost-optimization", "streamlit"],
+      "duration_minutes": [30, 45],
+      "level": "beginner"
+    },
+    {
+      "title": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "abstract": "From data modification hubs to documentation access apps, Streamlit has become my go-to for building internal data tools. This talk covers real production examples: a Data Modification Hub that improved data accuracy by 70%, an ingestion hub that replaced a $3K SaaS tool, and an orchestration locking hub that prevents pipeline conflicts. Learn patterns for building tools your data team will actually use.",
+      "tags": ["streamlit", "snowflake", "data-tools", "analytics-engineering", "python", "internal-tools"],
+      "duration_minutes": [30, 45],
+      "level": "intermediate"
+    }
+  ],
+  "matching_preferences": {
+    "min_relevance_score": 0.25,
+    "preferred_formats": ["conference", "meetup", "workshop", "webinar", "podcast", "summit", "bootcamp"],
+    "preferred_audience_size": "any",
+    "languages": ["English"],
+    "blacklist_keywords": [],
+    "priority_keywords": [
+      "dbt", "data engineering", "analytics engineering", "analytics", "open source",
+      "python", "sql", "snowflake", "bigquery", "airflow", "data quality",
+      "data governance", "documentation", "ai", "llm", "streamlit",
+      "africa", "edtech", "education", "data modeling", "etl", "elt",
+      "modern data stack", "data pipeline", "data observability",
+      "tableau", "data visualization", "data literacy"
+    ]
+  },
+  "previous_talks": [
+    {
+      "title": "Building Scalable Data Infrastructure Using Open-Source Tools",
+      "event": "WSKZ University College of Professional Education",
+      "date": "2025-11",
+      "type": "guest-lecture",
+      "description": "Covered modern data stack architecture, analytics engineering principles, and real-world scalability challenges. Included a practical case study on AI-powered documentation automation using Gemini AI and dbt."
+    },
+    {
+      "title": "Tableau for Data Analytics Bootcamp",
+      "event": "Salvatech",
+      "date": "2021-10",
+      "type": "bootcamp",
+      "description": "Tutored 900+ students across 7 countries on using Tableau for data analytics."
+    },
+    {
+      "title": "Data Analytics Training",
+      "event": "Behind The Data Academy",
+      "date": "2025-08",
+      "type": "training",
+      "description": "Ongoing training covering dbt, data modeling, Snowflake, data quality & testing, CI/CD pipelines for analytics, and Python."
+    }
+  ],
+  "social_proof": {
+    "open_source_projects": [
+      {
+        "name": "dbt-doc-tracker",
+        "url": "https://github.com/tripleaceme/dbt-doc-tracker",
+        "description": "Tracks and records documentation changes across dbt projects for audit trails and governance compliance",
+        "platform": "dbt Hub"
+      },
+      {
+        "name": "dbt-doc-inherit",
+        "url": "https://github.com/tripleaceme/dbt-doc-inherit",
+        "description": "Propagates column descriptions along the DAG, define once, inherit downstream",
+        "platform": "dbt Hub"
+      },
+      {
+        "name": "dbt-anomaly-detector",
+        "url": "https://github.com/tripleaceme/dbt-anomaly-detector",
+        "description": "Lightweight statistical anomaly detection on warehouse metrics using dbt Python models",
+        "platform": "dbt Hub"
+      },
+      {
+        "name": "dbt-flow-lineage",
+        "url": "https://github.com/tripleaceme/dbt-flow-lineage",
+        "description": "Animated column-level lineage visualization for dbt projects",
+        "platform": "VS Code Marketplace"
+      },
+      {
+        "name": "tap-substack",
+        "url": "https://github.com/tripleaceme/tap-substack",
+        "description": "Singer tap for extracting Substack newsletter data",
+        "platform": "Meltano Hub / PyPI"
+      }
+    ],
+    "certifications": [
+      "Tableau Desktop Certified",
+      "Apache Airflow Certified (Astronomer DAG Authoring)"
+    ],
+    "publications": [
+      "Africa Beer Consumption Analysis",
+      "Use of Data Science in Inventory Management",
+      "Introduction to SQL for Business Management",
+      "Behind The Data Newsletter"
+    ],
+    "students_taught": "900+",
+    "countries_reached": 7
+  }
+}

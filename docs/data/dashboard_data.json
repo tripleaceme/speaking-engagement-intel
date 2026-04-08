@@ -1,0 +1,1277 @@
+{
+  "generated_at": "2026-04-06T19:39:20.586595+00:00",
+  "speaker": {
+    "name": "Ayoade Adegbite",
+    "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
+    "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
+  },
+  "summary": {
+    "total_cfps_discovered": 55,
+    "open_cfps": 55,
+    "expired_cfps": 0,
+    "total_applications": 27,
+    "drafts": 27,
+    "submitted": 0,
+    "accepted": 0,
+    "rejected": 0,
+    "withdrawn": 0,
+    "expired_apps": 0,
+    "acceptance_rate": 0.0,
+    "high_priority_cfps": 0,
+    "last_crawled": "2026-04-06T19:39:10.407877+00:00",
+    "sources_checked": 9,
+    "travel_yes": 0,
+    "travel_partial": 0,
+    "travel_unknown": 55
+  },
+  "timeline": [
+    {
+      "month": "2026-04",
+      "applied": 0,
+      "accepted": 0,
+      "rejected": 0,
+      "pending": 0,
+      "draft": 27
+    }
+  ],
+  "source_breakdown": [
+    {
+      "source": "callfordataspeakers",
+      "count": 25
+    },
+    {
+      "source": "confs.tech",
+      "count": 20
+    },
+    {
+      "source": "github",
+      "count": 8
+    },
+    {
+      "source": "dev.to",
+      "count": 1
+    },
+    {
+      "source": "opensource",
+      "count": 1
+    }
+  ],
+  "priority_breakdown": {
+    "high": 0,
+    "medium": 0,
+    "low": 55
+  },
+  "tag_cloud": [
+    {
+      "tag": "data",
+      "count": 32
+    },
+    {
+      "tag": "conference",
+      "count": 16
+    },
+    {
+      "tag": "usergroup",
+      "count": 10
+    },
+    {
+      "tag": "call-for-papers",
+      "count": 9
+    },
+    {
+      "tag": "europe",
+      "count": 8
+    },
+    {
+      "tag": "online",
+      "count": 6
+    },
+    {
+      "tag": "devops",
+      "count": 6
+    },
+    {
+      "tag": "general",
+      "count": 6
+    },
+    {
+      "tag": "cfp",
+      "count": 6
+    },
+    {
+      "tag": "events",
+      "count": 5
+    },
+    {
+      "tag": "north america",
+      "count": 5
+    },
+    {
+      "tag": "conference, precon",
+      "count": 5
+    },
+    {
+      "tag": "call-for-paper",
+      "count": 3
+    },
+    {
+      "tag": "conferences",
+      "count": 3
+    },
+    {
+      "tag": "open-source",
+      "count": 3
+    },
+    {
+      "tag": "technology",
+      "count": 3
+    },
+    {
+      "tag": "external",
+      "count": 3
+    },
+    {
+      "tag": "in-person",
+      "count": 3
+    },
+    {
+      "tag": "call-for-talks",
+      "count": 2
+    },
+    {
+      "tag": "hacktoberfest",
+      "count": 2
+    },
+    {
+      "tag": "speaking",
+      "count": 2
+    },
+    {
+      "tag": "talk-proposals",
+      "count": 2
+    },
+    {
+      "tag": "tech",
+      "count": 2
+    },
+    {
+      "tag": "tech-conference",
+      "count": 2
+    },
+    {
+      "tag": "tech-conferences",
+      "count": 2
+    },
+    {
+      "tag": "tech-events",
+      "count": 2
+    },
+    {
+      "tag": "javascript",
+      "count": 1
+    },
+    {
+      "tag": "cybersecurity",
+      "count": 1
+    },
+    {
+      "tag": "infosec",
+      "count": 1
+    },
+    {
+      "tag": "meetup",
+      "count": 1
+    }
+  ],
+  "top_matches": [
+    {
+      "id": "7dda68e67daa431b",
+      "title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/fabcon26",
+      "deadline": "2026-04-18",
+      "event_date": "2026-09-28",
+      "location": "Barcelona, Spain",
+      "is_online": false,
+      "tags": [
+        "data",
+        "conference",
+        "europe"
+      ],
+      "score": 0.381,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.344,
+      "talk_match": 0.067,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "1c3cb11a7a0a1d34",
+      "title": "PASS Summit West: Seattle",
+      "source": "callfordataspeakers",
+      "url": "https://reg.passdatacommunitysummit.com/flow/redgate/summiteast26/callforspeakers/cfpHome",
+      "deadline": "2026-04-07",
+      "event_date": "2026-11-09",
+      "location": "Hyatt Regency Seattle",
+      "is_online": false,
+      "tags": [
+        "data",
+        "conference,precon",
+        "north america"
+      ],
+      "score": 0.346,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.197,
+      "talk_match": 0.022,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference,precon"
+    },
+    {
+      "id": "807c8a3e1afc3084",
+      "title": "Triangle SQL Server User Group 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/tripass-2026",
+      "deadline": "2026-08-30",
+      "event_date": "2026-01-13",
+      "location": "VIrtual",
+      "is_online": true,
+      "tags": [
+        "data",
+        "usergroup"
+      ],
+      "score": 0.344,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.403,
+      "talk_match": 0.044,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
+      "id": "f72ca690d76557c2",
+      "title": "data2day",
+      "source": "confs.tech",
+      "url": "https://www.data2day.de/cfp.php",
+      "deadline": "2026-04-15",
+      "event_date": "2026-10-07",
+      "location": "Cologne, Germany",
+      "is_online": false,
+      "tags": [
+        "data"
+      ],
+      "score": 0.325,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.223,
+      "talk_match": 0.022,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "0dda486643ff2330",
+      "title": "Power BI Days DC 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/power-bi-days-dc-2026",
+      "deadline": "2026-04-16",
+      "event_date": "2026-06-11",
+      "location": "Arlington, Virginia, United States",
+      "is_online": false,
+      "tags": [
+        "data",
+        "conference",
+        "north america"
+      ],
+      "score": 0.32,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.178,
+      "talk_match": 0.059,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "6bf84ef1128c1e5f",
+      "title": "pretalx/pretalx",
+      "source": "github",
+      "url": "https://github.com/pretalx/pretalx",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "call-for-paper",
+        "call-for-papers",
+        "cfp",
+        "conference",
+        "conference-management"
+      ],
+      "score": 0.317,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.367,
+      "talk_match": 0.044,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
+    },
+    {
+      "id": "c3c30f2797ec1bba",
+      "title": "SQL Server User Group Croatia 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
+      "deadline": "2026-09-12",
+      "event_date": "2026-04-08",
+      "location": "online",
+      "is_online": true,
+      "tags": [
+        "data",
+        "usergroup"
+      ],
+      "score": 0.313,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.352,
+      "talk_match": 0.067,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
+      "id": "44f85159548d8ab6",
+      "title": "IaCConf",
+      "source": "confs.tech",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeY6-IlyYXSauF8Dg9cs7fHGKiSJqTcecdk_ARXOKHj6HNN6w/viewform",
+      "deadline": "2026-04-07",
+      "event_date": "2026-05-14",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "tags": [
+        "devops",
+        "online"
+      ],
+      "score": 0.31,
+      "priority": "low",
+      "suggested_talk": null,
+      "tag_relevance": 0.0,
+      "talk_match": 0.0,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "5c162d9dad315513",
+      "title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/cloud-data-driven-user-group-2026",
+      "deadline": "2026-05-01",
+      "event_date": "2026-01-08",
+      "location": "Online",
+      "is_online": true,
+      "tags": [
+        "data",
+        "usergroup"
+      ],
+      "score": 0.306,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.197,
+      "talk_match": 0.022,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
+      "id": "5beb3fd03323d3b6",
+      "title": "AI for Developers",
+      "source": "confs.tech",
+      "url": "https://aiconference.dev/cfp",
+      "deadline": "2026-06-01",
+      "event_date": "2026-12-17",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "tags": [
+        "data",
+        "online"
+      ],
+      "score": 0.305,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.223,
+      "talk_match": 0.022,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "523b27473934c6f1",
+      "title": "EightKB August 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/eightkb-august-2026",
+      "deadline": "2026-05-31",
+      "event_date": "2026-08-20",
+      "location": "Online",
+      "is_online": true,
+      "tags": [
+        "data",
+        "conference"
+      ],
+      "score": 0.305,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.223,
+      "talk_match": 0.022,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "c617b162f27db0cb",
+      "title": "IT-Tage",
+      "source": "confs.tech",
+      "url": "https://www.ittage.informatik-aktuell.de/index.html",
+      "deadline": "2026-04-30",
+      "event_date": "2026-12-07",
+      "location": "Frankfurt am Main, Germany",
+      "is_online": false,
+      "tags": [
+        "data"
+      ],
+      "score": 0.292,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.214,
+      "talk_match": 0.022,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "1dc1809e06936eb6",
+      "title": "Data Saturday Gothenburg",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/data-saturday-gothenburg-2026",
+      "deadline": "2026-04-30",
+      "event_date": "2026-09-05",
+      "location": "G\u00f6teborg, Sweden",
+      "is_online": false,
+      "tags": [
+        "data",
+        "conference",
+        "europe"
+      ],
+      "score": 0.292,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.214,
+      "talk_match": 0.022,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "a3b095e668bd8a61",
+      "title": "Power BI Next Step",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/power-bi-next-step",
+      "deadline": "2026-04-30",
+      "event_date": "2026-09-07",
+      "location": "Odense, Denmark",
+      "is_online": false,
+      "tags": [
+        "data",
+        "conference",
+        "europe"
+      ],
+      "score": 0.289,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.169,
+      "talk_match": 0.067,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "8e6fbaf6f004a23a",
+      "title": "Day of Data Baton Rouge 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sqlsatbr26",
+      "deadline": "2026-05-02",
+      "event_date": "2026-07-17",
+      "location": "Baton Rouge, Louisiana, United States",
+      "is_online": false,
+      "tags": [
+        "data",
+        "conference, precon",
+        "north america"
+      ],
+      "score": 0.283,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.19,
+      "talk_match": 0.022,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon"
+    },
+    {
+      "id": "bf470d2615bfbc4d",
+      "title": "Day of Data Albany 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/day-of-data-albany-2026/",
+      "deadline": "2026-05-01",
+      "event_date": "2026-08-07",
+      "location": "Massry School of Business, UAlbany, Albany, NY 12202",
+      "is_online": false,
+      "tags": [
+        "data",
+        "conference, precon",
+        "north america"
+      ],
+      "score": 0.282,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.188,
+      "talk_match": 0.022,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon"
+    },
+    {
+      "id": "f5236e3008d6c44b",
+      "title": "San Diego SQL Server User Group",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
+      "deadline": "2026-11-20",
+      "event_date": "2026-01-15",
+      "location": "Virtual",
+      "is_online": false,
+      "tags": [
+        "data",
+        "usergroup",
+        "north america"
+      ],
+      "score": 0.279,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.386,
+      "talk_match": 0.044,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
+      "id": "13ce342cfc9974a7",
+      "title": "TechTok",
+      "source": "confs.tech",
+      "url": "https://www.techtok.mt/call-for-speakers",
+      "deadline": "2026-04-10",
+      "event_date": "2026-09-16",
+      "location": "St Julian's, Malta",
+      "is_online": false,
+      "tags": [
+        "general"
+      ],
+      "score": 0.27,
+      "priority": "low",
+      "suggested_talk": null,
+      "tag_relevance": 0.0,
+      "talk_match": 0.0,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "a6d3b93c921d5c72",
+      "title": "NextGen Intelligence Conference: Data, Cloud & AI",
+      "source": "confs.tech",
+      "url": "https://techaiconf.com/register-interest",
+      "deadline": "2026-10-09",
+      "event_date": "2026-11-16",
+      "location": "London, U.K.",
+      "is_online": true,
+      "tags": [
+        "general",
+        "online"
+      ],
+      "score": 0.267,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.201,
+      "talk_match": 0.022,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "ee38724369f2d6c8",
+      "title": "Data Platform Women in Technology Virtual Group 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/datawit-2026",
+      "deadline": "2026-06-23",
+      "event_date": "2026-01-13",
+      "location": "Virtual",
+      "is_online": true,
+      "tags": [
+        "data",
+        "usergroup"
+      ],
+      "score": 0.267,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.201,
+      "talk_match": 0.022,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    }
+  ],
+  "applications": [
+    {
+      "id": "ac84ed16d30c13bc",
+      "cfp_title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/fabcon26",
+      "deadline": "2026-04-18",
+      "event_date": "2026-09-28",
+      "status": "draft",
+      "score": 0.381,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517816+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "Barcelona, Spain"
+    },
+    {
+      "id": "dea702230eeb586c",
+      "cfp_title": "PASS Summit West: Seattle",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://reg.passdatacommunitysummit.com/flow/redgate/summiteast26/callforspeakers/cfpHome",
+      "deadline": "2026-04-07",
+      "event_date": "2026-11-09",
+      "status": "draft",
+      "score": 0.346,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517865+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "Hyatt Regency Seattle"
+    },
+    {
+      "id": "ce4bff848327b4a5",
+      "cfp_title": "Triangle SQL Server User Group 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/tripass-2026",
+      "deadline": "2026-08-30",
+      "event_date": "2026-01-13",
+      "status": "draft",
+      "score": 0.344,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517510+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": true,
+      "event_location": "VIrtual"
+    },
+    {
+      "id": "ddcc7935365d4a5a",
+      "cfp_title": "data2day",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://www.data2day.de/cfp.php",
+      "deadline": "2026-04-15",
+      "event_date": "2026-10-07",
+      "status": "draft",
+      "score": 0.325,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517307+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "Cologne, Germany"
+    },
+    {
+      "id": "5e721be48cfddc62",
+      "cfp_title": "Power BI Days DC 2026",
+      "talk_title": "Democratizing Data Education in Africa Through Open Source Tools",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/power-bi-days-dc-2026",
+      "deadline": "2026-04-16",
+      "event_date": "2026-06-11",
+      "status": "draft",
+      "score": 0.32,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517686+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "Arlington, Virginia, United States"
+    },
+    {
+      "id": "6a5141c5d58018d5",
+      "cfp_title": "pretalx/pretalx",
+      "talk_title": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "cfp_source": "github",
+      "cfp_url": "https://github.com/pretalx/pretalx",
+      "deadline": "",
+      "event_date": "",
+      "status": "draft",
+      "score": 0.317,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517387+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": true,
+      "event_location": ""
+    },
+    {
+      "id": "3ad3203be3402750",
+      "cfp_title": "SQL Server User Group Croatia 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sql-server-user-group-croatia-26",
+      "deadline": "2026-09-12",
+      "event_date": "2026-04-08",
+      "status": "draft",
+      "score": 0.313,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517604+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": true,
+      "event_location": "online"
+    },
+    {
+      "id": "04fd44d3e60aeaa9",
+      "cfp_title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/cloud-data-driven-user-group-2026",
+      "deadline": "2026-05-01",
+      "event_date": "2026-01-08",
+      "status": "draft",
+      "score": 0.306,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517494+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": true,
+      "event_location": "Online"
+    },
+    {
+      "id": "4887210c02c49cb9",
+      "cfp_title": "AI for Developers",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://aiconference.dev/cfp",
+      "deadline": "2026-06-01",
+      "event_date": "2026-12-17",
+      "status": "draft",
+      "score": 0.305,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517342+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": true,
+      "event_location": "TBD, TBD"
+    },
+    {
+      "id": "acd7f00a6ddbf347",
+      "cfp_title": "EightKB August 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/eightkb-august-2026",
+      "deadline": "2026-05-31",
+      "event_date": "2026-08-20",
+      "status": "draft",
+      "score": 0.305,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517764+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": true,
+      "event_location": "Online"
+    },
+    {
+      "id": "92ab7510641f3fd7",
+      "cfp_title": "IT-Tage",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://www.ittage.informatik-aktuell.de/index.html",
+      "deadline": "2026-04-30",
+      "event_date": "2026-12-07",
+      "status": "draft",
+      "score": 0.292,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517325+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "Frankfurt am Main, Germany"
+    },
+    {
+      "id": "09e612b191da7db4",
+      "cfp_title": "Data Saturday Gothenburg",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-saturday-gothenburg-2026",
+      "deadline": "2026-04-30",
+      "event_date": "2026-09-05",
+      "status": "draft",
+      "score": 0.292,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517783+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "G\u00f6teborg, Sweden"
+    },
+    {
+      "id": "faf64987b7d7e840",
+      "cfp_title": "Power BI Next Step",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/power-bi-next-step",
+      "deadline": "2026-04-30",
+      "event_date": "2026-09-07",
+      "status": "draft",
+      "score": 0.289,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517799+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "Odense, Denmark"
+    },
+    {
+      "id": "6955fa19389d5dcf",
+      "cfp_title": "Day of Data Baton Rouge 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sqlsatbr26",
+      "deadline": "2026-05-02",
+      "event_date": "2026-07-17",
+      "status": "draft",
+      "score": 0.283,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517705+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "Baton Rouge, Louisiana, United States"
+    },
+    {
+      "id": "bb99d2cc14675965",
+      "cfp_title": "Day of Data Albany 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/day-of-data-albany-2026/",
+      "deadline": "2026-05-01",
+      "event_date": "2026-08-07",
+      "status": "draft",
+      "score": 0.282,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517723+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "Massry School of Business, UAlbany, Albany, NY 12202"
+    },
+    {
+      "id": "6e78370cc92c3a3a",
+      "cfp_title": "San Diego SQL Server User Group",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/san-diego-sql-server-user-group8844",
+      "deadline": "2026-11-20",
+      "event_date": "2026-01-15",
+      "status": "draft",
+      "score": 0.279,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517544+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "Virtual"
+    },
+    {
+      "id": "19deebd1b23035a2",
+      "cfp_title": "NextGen Intelligence Conference: Data, Cloud & AI",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://techaiconf.com/register-interest",
+      "deadline": "2026-10-09",
+      "event_date": "2026-11-16",
+      "status": "draft",
+      "score": 0.267,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517365+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": true,
+      "event_location": "London, U.K."
+    },
+    {
+      "id": "80c1b0790023b504",
+      "cfp_title": "Data Platform Women in Technology Virtual Group 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/datawit-2026",
+      "deadline": "2026-06-23",
+      "event_date": "2026-01-13",
+      "status": "draft",
+      "score": 0.267,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517527+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": true,
+      "event_location": "Virtual"
+    },
+    {
+      "id": "77ea8103df06567c",
+      "cfp_title": "Stockholm SQL 2025-2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/stockholm-sql-2025-2026",
+      "deadline": "2026-09-30",
+      "event_date": "2025-12-09",
+      "status": "draft",
+      "score": 0.266,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517424+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "Stockholm, Sweden"
+    },
+    {
+      "id": "5a2789792ca2a590",
+      "cfp_title": "SQL Saturday Wellington 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sql-saturday-wellington-2026",
+      "deadline": "",
+      "event_date": "2026-05-30",
+      "status": "draft",
+      "score": 0.26,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517666+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "3 Wi Neera Dr,, Elsdon, Porirua 5022, New Zealand,"
+    },
+    {
+      "id": "fa00549dbc5d658c",
+      "cfp_title": "SQL Saturday Joinville 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://forms.gle/8E24emDuL9RNmX4A8",
+      "deadline": "",
+      "event_date": "2026-04-11",
+      "status": "draft",
+      "score": 0.258,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517650+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "R. Paulo Malschitzki,, 10 - Campus Universit\u00e1rio - Distrito Industrial,, Joinville - SC,, 89219-710,"
+    },
+    {
+      "id": "fcb2a84a9daa5e57",
+      "cfp_title": "TechEx North America",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://techexevent.com/register-now",
+      "deadline": "2026-05-17",
+      "event_date": "2026-05-18",
+      "status": "draft",
+      "score": 0.257,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517283+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "San Jose, CA, U.S.A."
+    },
+    {
+      "id": "a30d1baf2634ac59",
+      "cfp_title": "Data Saturday Holland 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-saturday-holland-2026",
+      "deadline": "2026-05-31",
+      "event_date": "2026-10-09",
+      "status": "draft",
+      "score": 0.257,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517830+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "Utrecht, The Netherlands"
+    },
+    {
+      "id": "2532dc45fc10b1f1",
+      "cfp_title": "dataMinds Connect 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/dataminds-connect-2026",
+      "deadline": "2026-05-21",
+      "event_date": "2026-10-12",
+      "status": "draft",
+      "score": 0.257,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517847+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": false,
+      "event_location": "Mechelen, Belgium"
+    },
+    {
+      "id": "9547f08d89d8cd7b",
+      "cfp_title": "Data Engineers in Toronto",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-engineers-in-toronto",
+      "deadline": "2027-01-19",
+      "event_date": "2026-03-09",
+      "status": "draft",
+      "score": 0.255,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517558+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": true,
+      "event_location": "Virtual / Online"
+    },
+    {
+      "id": "2eb15b96c3c8adda",
+      "cfp_title": "yegor256/awesome-cfp",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "cfp_source": "github",
+      "cfp_url": "https://github.com/yegor256/awesome-cfp",
+      "deadline": "",
+      "event_date": "",
+      "status": "draft",
+      "score": 0.251,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517407+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": true,
+      "event_location": ""
+    },
+    {
+      "id": "c16ab16d8b8f8d39",
+      "cfp_title": "Microsoft Fabric Cafe 2026",
+      "talk_title": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/microsoft-fabric-cafe-2026",
+      "deadline": "2026-11-01",
+      "event_date": "2026-01-02",
+      "status": "draft",
+      "score": 0.251,
+      "priority": "low",
+      "created_at": "2026-04-06T19:39:20.517477+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "is_online": true,
+      "event_location": "Virtual - InPerson"
+    }
+  ],
+  "talk_performance": [
+    {
+      "title": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "applications": 23,
+      "accepted": 0,
+      "rejected": 0,
+      "pending": 0,
+      "acceptance_rate": 0
+    },
+    {
+      "title": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "applications": 2,
+      "accepted": 0,
+      "rejected": 0,
+      "pending": 0,
+      "acceptance_rate": 0
+    },
+    {
+      "title": "Democratizing Data Education in Africa Through Open Source Tools",
+      "applications": 1,
+      "accepted": 0,
+      "rejected": 0,
+      "pending": 0,
+      "acceptance_rate": 0
+    },
+    {
+      "title": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "applications": 1,
+      "accepted": 0,
+      "rejected": 0,
+      "pending": 0,
+      "acceptance_rate": 0
+    }
+  ],
+  "upcoming_deadlines": [
+    {
+      "title": "IaCConf",
+      "deadline": "2026-04-07",
+      "source": "confs.tech",
+      "score": 0.31,
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeY6-IlyYXSauF8Dg9cs7fHGKiSJqTcecdk_ARXOKHj6HNN6w/viewform",
+      "travel_sponsorship": "unknown",
+      "location": "TBD, TBD"
+    },
+    {
+      "title": "PASS Summit West: Seattle",
+      "deadline": "2026-04-07",
+      "source": "callfordataspeakers",
+      "score": 0.346,
+      "url": "https://reg.passdatacommunitysummit.com/flow/redgate/summiteast26/callforspeakers/cfpHome",
+      "travel_sponsorship": "unknown",
+      "location": "Hyatt Regency Seattle"
+    },
+    {
+      "title": "TechTok",
+      "deadline": "2026-04-10",
+      "source": "confs.tech",
+      "score": 0.27,
+      "url": "https://www.techtok.mt/call-for-speakers",
+      "travel_sponsorship": "unknown",
+      "location": "St Julian's, Malta"
+    },
+    {
+      "title": "data2day",
+      "deadline": "2026-04-15",
+      "source": "confs.tech",
+      "score": 0.325,
+      "url": "https://www.data2day.de/cfp.php",
+      "travel_sponsorship": "unknown",
+      "location": "Cologne, Germany"
+    },
+    {
+      "title": "Power BI Days DC 2026",
+      "deadline": "2026-04-16",
+      "source": "callfordataspeakers",
+      "score": 0.32,
+      "url": "https://sessionize.com/power-bi-days-dc-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Arlington, Virginia, United States"
+    },
+    {
+      "title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
+      "deadline": "2026-04-18",
+      "source": "callfordataspeakers",
+      "score": 0.381,
+      "url": "https://sessionize.com/fabcon26",
+      "travel_sponsorship": "unknown",
+      "location": "Barcelona, Spain"
+    },
+    {
+      "title": "Fork it!",
+      "deadline": "2026-04-19",
+      "source": "confs.tech",
+      "score": 0.24,
+      "url": "https://conference-hall.io/fork-it-community-france-rouen-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Rouen, France"
+    },
+    {
+      "title": "CLC",
+      "deadline": "2026-04-21",
+      "source": "confs.tech",
+      "score": 0.21,
+      "url": "https://clc-conference.eu/cfp_en.php",
+      "travel_sponsorship": "unknown",
+      "location": "Mannheim, Germany"
+    },
+    {
+      "title": "IT-Tage",
+      "deadline": "2026-04-30",
+      "source": "confs.tech",
+      "score": 0.292,
+      "url": "https://www.ittage.informatik-aktuell.de/index.html",
+      "travel_sponsorship": "unknown",
+      "location": "Frankfurt am Main, Germany"
+    },
+    {
+      "title": "Asynconf",
+      "deadline": "2026-04-30",
+      "source": "confs.tech",
+      "score": 0.25,
+      "url": "https://cfp.asynconf.com",
+      "travel_sponsorship": "unknown",
+      "location": "Paris, France"
+    }
+  ]
+}

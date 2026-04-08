@@ -1,0 +1,74 @@
+name: Update Application Status
+
+on:
+  workflow_dispatch:
+    inputs:
+      app_id:
+        description: 'Application ID (or prefix)'
+        required: true
+      new_status:
+        description: 'New status'
+        required: true
+        type: choice
+        options:
+          - submitted
+          - accepted
+          - rejected
+          - withdrawn
+      note:
+        description: 'Optional note'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update status
+        run: |
+          python scripts/update_status.py "${{ inputs.app_id }}" "${{ inputs.new_status }}" "${{ inputs.note }}"
+
+      - name: Rebuild dashboard data
+        run: python scripts/build_dashboard_data.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "status: ${{ inputs.app_id }} → ${{ inputs.new_status }}"
+            git push
+          fi
+
+  deploy:
+    needs: update-and-deploy
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4

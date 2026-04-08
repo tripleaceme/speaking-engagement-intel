@@ -1,0 +1,8 @@
+# No external dependencies required.
+# All scripts use Python 3.11+ standard library only:
+#   - urllib.request (HTTP fetching)
+#   - json (data parsing)
+#   - hashlib (ID generation)
+#   - re (regex matching)
+#   - pathlib (file paths)
+#   - datetime (timestamps)
