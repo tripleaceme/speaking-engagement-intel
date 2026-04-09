@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T14:11:52.127522+00:00",
+  "generated_at": "2026-04-09T07:26:33.614062+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 0,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-04-08T14:11:51.788852+00:00",
+    "last_crawled": "2026-04-09T07:26:33.346007+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 5,
@@ -58,8 +58,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 4,
-    "low": 49
+    "medium": 5,
+    "low": 48
   },
   "tag_cloud": [
     {
@@ -235,6 +235,31 @@
       "event_type": "conference"
     },
     {
+      "id": "0dda486643ff2330",
+      "title": "Power BI Days DC 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/power-bi-days-dc-2026",
+      "deadline": "2026-04-16",
+      "event_date": "2026-06-11",
+      "location": "Arlington, Virginia, United States",
+      "is_online": false,
+      "tags": [
+        "database",
+        "education",
+        "north america",
+        "security",
+        "testing"
+      ],
+      "score": 0.42,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.343,
+      "talk_match": 0.098,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "5beb3fd03323d3b6",
       "title": "AI for Developers",
       "source": "confs.tech",
@@ -306,31 +331,6 @@
       "tag_relevance": 0.523,
       "talk_match": 0.078,
       "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "0dda486643ff2330",
-      "title": "Power BI Days DC 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/power-bi-days-dc-2026",
-      "deadline": "2026-04-16",
-      "event_date": "2026-06-11",
-      "location": "Arlington, Virginia, United States",
-      "is_online": false,
-      "tags": [
-        "database",
-        "education",
-        "north america",
-        "security",
-        "testing"
-      ],
-      "score": 0.39,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.343,
-      "talk_match": 0.098,
-      "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -727,6 +727,26 @@
       "event_location": "Barcelona, Spain"
     },
     {
+      "id": "f05c499a51109afe",
+      "cfp_title": "Power BI Days DC 2026",
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/power-bi-days-dc-2026",
+      "deadline": "2026-04-16",
+      "event_date": "2026-06-11",
+      "status": "draft",
+      "score": 0.42,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.664859+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'education' (score: 6.5)",
+      "is_online": false,
+      "event_location": "Arlington, Virginia, United States"
+    },
+    {
       "id": "4773a1d619aabaed",
       "cfp_title": "AI for Developers",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -785,26 +805,6 @@
       "match_reason": "Conference themes align with 'devops' (score: 8.5)",
       "is_online": false,
       "event_location": "Frankfurt am Main, Germany"
-    },
-    {
-      "id": "f05c499a51109afe",
-      "cfp_title": "Power BI Days DC 2026",
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/power-bi-days-dc-2026",
-      "deadline": "2026-04-16",
-      "event_date": "2026-06-11",
-      "status": "draft",
-      "score": 0.39,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.664859+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'education' (score: 6.5)",
-      "is_online": false,
-      "event_location": "Arlington, Virginia, United States"
     },
     {
       "id": "a8926dfa8f782254",
@@ -1688,7 +1688,7 @@
       "title": "Power BI Days DC 2026",
       "deadline": "2026-04-16",
       "source": "callfordataspeakers",
-      "score": 0.39,
+      "score": 0.42,
       "url": "https://sessionize.com/power-bi-days-dc-2026",
       "travel_sponsorship": "unknown",
       "location": "Arlington, Virginia, United States"
