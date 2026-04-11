@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T07:45:26.210273+00:00",
+  "generated_at": "2026-04-11T07:03:41.886921+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 53,
-    "open_cfps": 53,
-    "expired_cfps": 0,
+    "open_cfps": 52,
+    "expired_cfps": 1,
     "total_applications": 46,
-    "drafts": 46,
+    "drafts": 45,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 0,
+    "expired_apps": 1,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-04-10T07:45:25.943146+00:00",
+    "last_crawled": "2026-04-11T07:03:41.647285+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 5,
-    "travel_unknown": 45
+    "travel_unknown": 44
   },
   "timeline": [
     {
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 46
+      "draft": 45
     }
   ],
   "source_breakdown": [
@@ -59,20 +59,20 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 5,
-    "low": 48
+    "low": 47
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 52
-    },
-    {
-      "tag": "open-source",
-      "count": 45
+      "count": 51
     },
     {
       "tag": "web",
       "count": 45
+    },
+    {
+      "tag": "open-source",
+      "count": 44
     },
     {
       "tag": "leadership",
@@ -131,10 +131,6 @@
       "count": 7
     },
     {
-      "tag": "general",
-      "count": 6
-    },
-    {
       "tag": "cfp",
       "count": 6
     },
@@ -144,6 +140,10 @@
     },
     {
       "tag": "online",
+      "count": 5
+    },
+    {
+      "tag": "general",
       "count": 5
     },
     {
@@ -185,6 +185,31 @@
   ],
   "top_matches": [
     {
+      "id": "7dda68e67daa431b",
+      "title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/fabcon26",
+      "deadline": "2026-04-18",
+      "event_date": "2026-09-28",
+      "location": "Barcelona, Spain",
+      "is_online": false,
+      "tags": [
+        "europe",
+        "database",
+        "cloud",
+        "education",
+        "ai"
+      ],
+      "score": 0.476,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.506,
+      "talk_match": 0.098,
+      "urgency": 1.0,
+      "travel_sponsorship": "yes",
+      "event_type": "conference"
+    },
+    {
       "id": "f72ca690d76557c2",
       "title": "data2day",
       "source": "confs.tech",
@@ -207,31 +232,6 @@
       "talk_match": 0.098,
       "urgency": 1.0,
       "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "7dda68e67daa431b",
-      "title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/fabcon26",
-      "deadline": "2026-04-18",
-      "event_date": "2026-09-28",
-      "location": "Barcelona, Spain",
-      "is_online": false,
-      "tags": [
-        "europe",
-        "database",
-        "cloud",
-        "education",
-        "ai"
-      ],
-      "score": 0.446,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.506,
-      "talk_match": 0.098,
-      "urgency": 0.8,
-      "travel_sponsorship": "yes",
       "event_type": "conference"
     },
     {
@@ -687,6 +687,26 @@
   ],
   "applications": [
     {
+      "id": "cb123dd36e9b1c93",
+      "cfp_title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/fabcon26",
+      "deadline": "2026-04-18",
+      "event_date": "2026-09-28",
+      "status": "draft",
+      "score": 0.476,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.665382+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'education' (score: 6.5)",
+      "is_online": false,
+      "event_location": "Barcelona, Spain"
+    },
+    {
       "id": "e7535e1aad2d5567",
       "cfp_title": "data2day",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -705,26 +725,6 @@
       "match_reason": "Conference themes align with 'data' (score: 7.3)",
       "is_online": false,
       "event_location": "Cologne, Germany"
-    },
-    {
-      "id": "cb123dd36e9b1c93",
-      "cfp_title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/fabcon26",
-      "deadline": "2026-04-18",
-      "event_date": "2026-09-28",
-      "status": "draft",
-      "score": 0.446,
-      "priority": "medium",
-      "created_at": "2026-04-08T12:28:22.665382+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "yes",
-      "match_reason": "Conference themes align with 'education' (score: 6.5)",
-      "is_online": false,
-      "event_location": "Barcelona, Spain"
     },
     {
       "id": "f05c499a51109afe",
@@ -1394,7 +1394,7 @@
       "cfp_url": "https://www.techtok.mt/call-for-speakers",
       "deadline": "2026-04-10",
       "event_date": "2026-09-16",
-      "status": "draft",
+      "status": "expired",
       "score": 0.27,
       "priority": "low",
       "created_at": "2026-04-08T12:28:22.662092+00:00",
@@ -1667,15 +1667,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "TechTok",
-      "deadline": "2026-04-10",
-      "source": "confs.tech",
-      "score": 0.27,
-      "url": "https://www.techtok.mt/call-for-speakers",
-      "travel_sponsorship": "unknown",
-      "location": "St Julian's, Malta"
-    },
-    {
       "title": "data2day",
       "deadline": "2026-04-15",
       "source": "confs.tech",
@@ -1697,7 +1688,7 @@
       "title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
       "deadline": "2026-04-18",
       "source": "callfordataspeakers",
-      "score": 0.446,
+      "score": 0.476,
       "url": "https://sessionize.com/fabcon26",
       "travel_sponsorship": "yes",
       "location": "Barcelona, Spain"
@@ -1755,6 +1746,15 @@
       "url": "https://cmsconf.com/call-for-papers",
       "travel_sponsorship": "partial",
       "location": "Gdynia, Poland"
+    },
+    {
+      "title": "Data Saturday Gothenburg",
+      "deadline": "2026-04-30",
+      "source": "callfordataspeakers",
+      "score": 0.335,
+      "url": "https://sessionize.com/data-saturday-gothenburg-2026",
+      "travel_sponsorship": "unknown",
+      "location": "G\u00f6teborg, Sweden"
     }
   ]
 }

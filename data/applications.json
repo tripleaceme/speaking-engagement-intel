@@ -1,20 +1,105 @@
 {
   "metadata": {
-    "last_updated": "2026-04-10T07:45:26.165728+00:00",
+    "last_updated": "2026-04-11T07:03:41.844617+00:00",
     "total_applications": 46,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 46,
-    "total_expired": 0,
+    "total_drafts": 45,
+    "total_expired": 1,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "draft": 46
+      "draft": 45,
+      "expired": 1
     },
     "unique_talk_titles": 7
   },
   "applications": [
+    {
+      "id": "cb123dd36e9b1c93",
+      "cfp_id": "7dda68e67daa431b",
+      "cfp_title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
+      "cfp_url": "https://sessionize.com/fabcon26",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-04-18",
+      "event_date": "2026-09-28",
+      "event_location": "Barcelona, Spain",
+      "is_online": false,
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+      "talk_tags": [
+        "education",
+        "data-literacy",
+        "community",
+        "diversity",
+        "edtech"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'education' (score: 6.5)",
+      "conference_themes": [
+        "education",
+        "ai",
+        "web",
+        "database",
+        "open-source",
+        "cloud",
+        "leadership",
+        "mobile",
+        "blockchain"
+      ],
+      "conference_categories": [
+        "400 (deep technical)"
+      ],
+      "travel_sponsorship": "yes",
+      "speaker_perks": {
+        "hotel": true,
+        "ticket": true,
+        "honorarium": true
+      },
+      "proposal": {
+        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "education",
+          "data-literacy",
+          "community",
+          "diversity",
+          "edtech"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.476,
+        "tag_relevance": 0.506,
+        "talk_match_score": 0.098,
+        "urgency_score": 1.0,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "yes"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.665379+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.5)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.665382+00:00",
+      "updated_at": "2026-04-08T12:28:22.665384+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
     {
       "id": "e7535e1aad2d5567",
       "cfp_id": "f72ca690d76557c2",
@@ -88,90 +173,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.660779+00:00",
       "updated_at": "2026-04-08T12:28:22.660781+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "cb123dd36e9b1c93",
-      "cfp_id": "7dda68e67daa431b",
-      "cfp_title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
-      "cfp_url": "https://sessionize.com/fabcon26",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-04-18",
-      "event_date": "2026-09-28",
-      "event_location": "Barcelona, Spain",
-      "is_online": false,
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
-      "talk_tags": [
-        "education",
-        "data-literacy",
-        "community",
-        "diversity",
-        "edtech"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'education' (score: 6.5)",
-      "conference_themes": [
-        "education",
-        "ai",
-        "web",
-        "database",
-        "open-source",
-        "cloud",
-        "leadership",
-        "mobile",
-        "blockchain"
-      ],
-      "conference_categories": [
-        "400 (deep technical)"
-      ],
-      "travel_sponsorship": "yes",
-      "speaker_perks": {
-        "hotel": true,
-        "ticket": true,
-        "honorarium": true
-      },
-      "proposal": {
-        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "education",
-          "data-literacy",
-          "community",
-          "diversity",
-          "edtech"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.446,
-        "tag_relevance": 0.506,
-        "talk_match_score": 0.098,
-        "urgency_score": 0.8,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "yes"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.665379+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.5)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.665382+00:00",
-      "updated_at": "2026-04-08T12:28:22.665384+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -2948,16 +2949,21 @@
         "priority": "low",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.662090+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 4.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-04-11T07:03:41.844561+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.662092+00:00",
-      "updated_at": "2026-04-08T12:28:22.662094+00:00",
+      "updated_at": "2026-04-11T07:03:41.844567+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
