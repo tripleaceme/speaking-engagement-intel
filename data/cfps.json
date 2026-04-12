@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-04-11T07:03:41.647285+00:00",
-    "total_cfps": 53,
-    "open_cfps": 52,
+    "last_crawled": "2026-04-12T07:17:49.143150+00:00",
+    "total_cfps": 54,
+    "open_cfps": 53,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 1,
+    "new_this_run": 1,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 5,
-    "last_scored": "2026-04-11T07:03:41.793570+00:00",
+    "last_scored": "2026-04-12T07:17:49.933981+00:00",
     "high_priority": 0,
     "medium_priority": 5,
-    "above_threshold": 45
+    "above_threshold": 46
   },
   "cfps": [
     {
@@ -1057,10 +1057,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:36.058271+00:00",
       "match_scores": {
-        "composite_score": 0.301,
+        "composite_score": 0.331,
         "tag_relevance": 0.165,
         "talk_match_score": 0.078,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -4182,6 +4182,90 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "032428ea7d4e7b5f",
+      "source": "callfordataspeakers",
+      "title": "PNW Day of Data 2026 (#1149)",
+      "url": "https://sessionize.com/pnw-day-of-data-20261107",
+      "cfp_url": "https://sessionize.com/pnw-day-of-data-20261107",
+      "description": "Data external \u2014 Washington State University Vancouver, 14204 NE Salmon Creek Avenue, Vancouver, WA, USA 98686-9600, Campus map,",
+      "tags": [
+        "database",
+        "education",
+        "web",
+        "ai",
+        "data",
+        "in-person",
+        "open-source",
+        "cloud",
+        "external"
+      ],
+      "deadline": "",
+      "event_date": "2026-11-07",
+      "location": "Washington State University Vancouver, 14204 NE Salmon Creek Avenue, Vancouver, WA, USA 98686-9600, Campus map,",
+      "is_online": false,
+      "travel_sponsorship": "partial",
+      "event_type": "external",
+      "discovered_at": "2026-04-12T07:17:48.697557+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "power bi",
+        "visualization and more!",
+        "microsoft fabric",
+        "data analytics",
+        "include sql server",
+        "azure synapse"
+      ],
+      "speaker_perks": {
+        "dinner": true
+      },
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-12T07:17:49.861291+00:00",
+      "match_scores": {
+        "composite_score": 0.254,
+        "tag_relevance": 0.347,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "partial"
       }
     }
   ]

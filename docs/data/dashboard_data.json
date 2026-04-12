@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-11T07:03:41.886921+00:00",
+  "generated_at": "2026-04-12T07:17:50.031631+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 53,
-    "open_cfps": 52,
+    "total_cfps_discovered": 54,
+    "open_cfps": 53,
     "expired_cfps": 1,
-    "total_applications": 46,
-    "drafts": 45,
+    "total_applications": 47,
+    "drafts": 46,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,10 +18,10 @@
     "expired_apps": 1,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-04-11T07:03:41.647285+00:00",
+    "last_crawled": "2026-04-12T07:17:49.143150+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
-    "travel_partial": 5,
+    "travel_partial": 6,
     "travel_unknown": 44
   },
   "timeline": [
@@ -31,13 +31,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 45
+      "draft": 46
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 24
+      "count": 25
     },
     {
       "source": "confs.tech",
@@ -59,40 +59,40 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 5,
-    "low": 47
+    "low": 48
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "web",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "open-source",
-      "count": 44
+      "count": 45
+    },
+    {
+      "tag": "data",
+      "count": 36
     },
     {
       "tag": "leadership",
       "count": 35
     },
     {
-      "tag": "data",
-      "count": 35
-    },
-    {
       "tag": "education",
-      "count": 31
+      "count": 32
     },
     {
       "tag": "cloud",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "database",
-      "count": 23
+      "count": 24
     },
     {
       "tag": "devops",
@@ -163,6 +163,14 @@
       "count": 4
     },
     {
+      "tag": "in-person",
+      "count": 4
+    },
+    {
+      "tag": "external",
+      "count": 4
+    },
+    {
       "tag": "call-for-paper",
       "count": 3
     },
@@ -172,14 +180,6 @@
     },
     {
       "tag": "technology",
-      "count": 3
-    },
-    {
-      "tag": "in-person",
-      "count": 3
-    },
-    {
-      "tag": "external",
       "count": 3
     }
   ],
@@ -535,6 +535,31 @@
       "event_type": "conference"
     },
     {
+      "id": "7b6619640770ddab",
+      "title": "Fork it!",
+      "source": "confs.tech",
+      "url": "https://conference-hall.io/fork-it-community-france-rouen-2026",
+      "deadline": "2026-04-19",
+      "event_date": "2026-06-05",
+      "location": "Rouen, France",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "education",
+        "general",
+        "security",
+        "ai"
+      ],
+      "score": 0.331,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.165,
+      "talk_match": 0.078,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "f5236e3008d6c44b",
       "title": "San Diego SQL Server User Group",
       "source": "callfordataspeakers",
@@ -655,31 +680,6 @@
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
       "tag_relevance": 0.361,
       "talk_match": 0.078,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
-    },
-    {
-      "id": "817753aaf9b0bac3",
-      "title": "Microsoft Fabric Cafe 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
-      "deadline": "2026-11-01",
-      "event_date": "2026-01-02",
-      "location": "Virtual - InPerson",
-      "is_online": true,
-      "tags": [
-        "education",
-        "ai",
-        "open-source",
-        "usergroup",
-        "web"
-      ],
-      "score": 0.318,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.371,
-      "talk_match": 0.06,
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
@@ -987,6 +987,26 @@
       "event_location": "Virtual"
     },
     {
+      "id": "1a4aa2556263af1e",
+      "cfp_title": "Fork it!",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://conference-hall.io/fork-it-community-france-rouen-2026",
+      "deadline": "2026-04-19",
+      "event_date": "2026-06-05",
+      "status": "draft",
+      "score": 0.331,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.662035+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'cloud' (score: 4.0)",
+      "is_online": false,
+      "event_location": "Rouen, France"
+    },
+    {
       "id": "1f6da5968473ffdf",
       "cfp_title": "Data Saturday Holland 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1205,26 +1225,6 @@
       "match_reason": "Conference themes align with 'data' (score: 6.0)",
       "is_online": false,
       "event_location": "Rome, Italy"
-    },
-    {
-      "id": "1a4aa2556263af1e",
-      "cfp_title": "Fork it!",
-      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://conference-hall.io/fork-it-community-france-rouen-2026",
-      "deadline": "2026-04-19",
-      "event_date": "2026-06-05",
-      "status": "draft",
-      "score": 0.301,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.662035+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'cloud' (score: 4.0)",
-      "is_online": false,
-      "event_location": "Rouen, France"
     },
     {
       "id": "1e23b12ac004e96a",
@@ -1507,6 +1507,26 @@
       "event_location": "R. Paulo Malschitzki,, 10 - Campus Universit\u00e1rio - Distrito Industrial,, Joinville - SC,, 89219-710,"
     },
     {
+      "id": "5b6eace1a97ecc2c",
+      "cfp_title": "PNW Day of Data 2026 (#1149)",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/pnw-day-of-data-20261107",
+      "deadline": "",
+      "event_date": "2026-11-07",
+      "status": "draft",
+      "score": 0.254,
+      "priority": "low",
+      "created_at": "2026-04-12T07:17:49.984577+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'data' (score: 7.0)",
+      "is_online": false,
+      "event_location": "Washington State University Vancouver, 14204 NE Salmon Creek Avenue, Vancouver, WA, USA 98686-9600, Campus map,"
+    },
+    {
       "id": "0f2d88cede794151",
       "cfp_title": "cloudcommunity/Tech-Conferences",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1618,7 +1638,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 10,
+      "applications": 11,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -1697,7 +1717,7 @@
       "title": "Fork it!",
       "deadline": "2026-04-19",
       "source": "confs.tech",
-      "score": 0.301,
+      "score": 0.331,
       "url": "https://conference-hall.io/fork-it-community-france-rouen-2026",
       "travel_sponsorship": "unknown",
       "location": "Rouen, France"
