@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-04-13T08:07:53.888773+00:00",
+    "last_updated": "2026-04-14T07:50:15.549848+00:00",
     "total_applications": 47,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -260,6 +260,94 @@
       "notes": ""
     },
     {
+      "id": "a8926dfa8f782254",
+      "cfp_id": "013da2f160509c12",
+      "cfp_title": "CLC",
+      "cfp_url": "https://clc-conference.eu/cfp_en.php",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-04-21",
+      "event_date": "2026-11-11",
+      "event_location": "Mannheim, Germany",
+      "is_online": false,
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "talk_abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
+      "talk_tags": [
+        "cloud",
+        "snowflake",
+        "bigquery",
+        "dbt",
+        "airflow",
+        "cost-optimization"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
+      "conference_themes": [
+        "cloud",
+        "devops",
+        "open-source",
+        "ai",
+        "education",
+        "security",
+        "leadership"
+      ],
+      "conference_categories": [
+        "and develop platforms\u2014from real projects",
+        "with real learnings",
+        "\u2705 case studies from real projects",
+        "that matter to us",
+        "operate",
+        "practical presentations from people who build"
+      ],
+      "travel_sponsorship": "yes",
+      "speaker_perks": {
+        "travel": true,
+        "hotel": true
+      },
+      "proposal": {
+        "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+        "abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "cloud",
+          "snowflake",
+          "bigquery",
+          "dbt",
+          "airflow",
+          "cost-optimization"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.416,
+        "tag_relevance": 0.334,
+        "talk_match_score": 0.098,
+        "urgency_score": 1.0,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "yes"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.661932+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'cloud' (score: 6.0)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.661937+00:00",
+      "updated_at": "2026-04-08T12:28:22.661939+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "4773a1d619aabaed",
       "cfp_id": "5beb3fd03323d3b6",
       "cfp_title": "AI for Developers",
@@ -505,94 +593,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.661281+00:00",
       "updated_at": "2026-04-08T12:28:22.661282+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "a8926dfa8f782254",
-      "cfp_id": "013da2f160509c12",
-      "cfp_title": "CLC",
-      "cfp_url": "https://clc-conference.eu/cfp_en.php",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-04-21",
-      "event_date": "2026-11-11",
-      "event_location": "Mannheim, Germany",
-      "is_online": false,
-      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "talk_abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
-      "talk_tags": [
-        "cloud",
-        "snowflake",
-        "bigquery",
-        "dbt",
-        "airflow",
-        "cost-optimization"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
-      "conference_themes": [
-        "cloud",
-        "devops",
-        "open-source",
-        "ai",
-        "education",
-        "security",
-        "leadership"
-      ],
-      "conference_categories": [
-        "and develop platforms\u2014from real projects",
-        "with real learnings",
-        "\u2705 case studies from real projects",
-        "that matter to us",
-        "operate",
-        "practical presentations from people who build"
-      ],
-      "travel_sponsorship": "yes",
-      "speaker_perks": {
-        "travel": true,
-        "hotel": true
-      },
-      "proposal": {
-        "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-        "abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "cloud",
-          "snowflake",
-          "bigquery",
-          "dbt",
-          "airflow",
-          "cost-optimization"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.386,
-        "tag_relevance": 0.334,
-        "talk_match_score": 0.098,
-        "urgency_score": 0.8,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "yes"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.661932+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'cloud' (score: 6.0)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.661937+00:00",
-      "updated_at": "2026-04-08T12:28:22.661939+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

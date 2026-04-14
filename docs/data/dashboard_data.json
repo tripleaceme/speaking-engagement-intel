@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T08:07:53.933413+00:00",
+  "generated_at": "2026-04-14T07:50:15.593254+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 1,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-04-13T08:07:53.686466+00:00",
+    "last_crawled": "2026-04-14T07:50:15.334074+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 6,
@@ -58,8 +58,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 5,
-    "low": 48
+    "medium": 6,
+    "low": 47
   },
   "tag_cloud": [
     {
@@ -260,6 +260,31 @@
       "event_type": "conference"
     },
     {
+      "id": "013da2f160509c12",
+      "title": "CLC",
+      "source": "confs.tech",
+      "url": "https://clc-conference.eu/cfp_en.php",
+      "deadline": "2026-04-21",
+      "event_date": "2026-11-11",
+      "location": "Mannheim, Germany",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "education",
+        "security",
+        "ai",
+        "leadership"
+      ],
+      "score": 0.416,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.334,
+      "talk_match": 0.098,
+      "urgency": 1.0,
+      "travel_sponsorship": "yes",
+      "event_type": "conference"
+    },
+    {
       "id": "5beb3fd03323d3b6",
       "title": "AI for Developers",
       "source": "confs.tech",
@@ -332,31 +357,6 @@
       "talk_match": 0.078,
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "013da2f160509c12",
-      "title": "CLC",
-      "source": "confs.tech",
-      "url": "https://clc-conference.eu/cfp_en.php",
-      "deadline": "2026-04-21",
-      "event_date": "2026-11-11",
-      "location": "Mannheim, Germany",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "education",
-        "security",
-        "ai",
-        "leadership"
-      ],
-      "score": 0.386,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.334,
-      "talk_match": 0.098,
-      "urgency": 0.8,
-      "travel_sponsorship": "yes",
       "event_type": "conference"
     },
     {
@@ -747,6 +747,26 @@
       "event_location": "Arlington, Virginia, United States"
     },
     {
+      "id": "a8926dfa8f782254",
+      "cfp_title": "CLC",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://clc-conference.eu/cfp_en.php",
+      "deadline": "2026-04-21",
+      "event_date": "2026-11-11",
+      "status": "draft",
+      "score": 0.416,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.661937+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
+      "is_online": false,
+      "event_location": "Mannheim, Germany"
+    },
+    {
       "id": "4773a1d619aabaed",
       "cfp_title": "AI for Developers",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -805,26 +825,6 @@
       "match_reason": "Conference themes align with 'devops' (score: 8.5)",
       "is_online": false,
       "event_location": "Frankfurt am Main, Germany"
-    },
-    {
-      "id": "a8926dfa8f782254",
-      "cfp_title": "CLC",
-      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://clc-conference.eu/cfp_en.php",
-      "deadline": "2026-04-21",
-      "event_date": "2026-11-11",
-      "status": "draft",
-      "score": 0.386,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.661937+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "yes",
-      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
-      "is_online": false,
-      "event_location": "Mannheim, Germany"
     },
     {
       "id": "8496831bd6d324e2",
@@ -1726,7 +1726,7 @@
       "title": "CLC",
       "deadline": "2026-04-21",
       "source": "confs.tech",
-      "score": 0.386,
+      "score": 0.416,
       "url": "https://clc-conference.eu/cfp_en.php",
       "travel_sponsorship": "yes",
       "location": "Mannheim, Germany"
