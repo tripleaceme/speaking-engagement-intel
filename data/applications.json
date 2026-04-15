@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-04-14T07:50:15.549848+00:00",
+    "last_updated": "2026-04-15T07:50:38.229534+00:00",
     "total_applications": 47,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -2156,6 +2156,85 @@
       "notes": ""
     },
     {
+      "id": "922be52c18c6e9a0",
+      "cfp_id": "dfef6664af81dc72",
+      "cfp_title": "TechSummit Amsterdam",
+      "cfp_url": "https://pretalx.com/techsummit-2026/cfp",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-05-15",
+      "event_date": "2026-09-30",
+      "event_location": "Amsterdam, Netherlands",
+      "is_online": false,
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+      "talk_tags": [
+        "leadership",
+        "data-culture",
+        "analytics-engineering",
+        "strategy"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
+      "conference_themes": [
+        "web",
+        "leadership",
+        "ai",
+        "cloud",
+        "devops",
+        "security",
+        "open-source",
+        "education"
+      ],
+      "conference_categories": [
+        "of interest designing self",
+        "healing internet infrastructures",
+        "commercially focused talks"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "leadership",
+          "data-culture",
+          "analytics-engineering",
+          "strategy"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.303,
+        "tag_relevance": 0.166,
+        "talk_match_score": 0.118,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.661809+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 5.5)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.661812+00:00",
+      "updated_at": "2026-04-08T12:28:22.661814+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "ff9a70eb4d6e1d74",
       "cfp_id": "2353c784b684765d",
       "cfp_title": "Global Summit on Data Science and Cloud Computing",
@@ -2730,85 +2809,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.661017+00:00",
       "updated_at": "2026-04-08T12:28:22.661019+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "922be52c18c6e9a0",
-      "cfp_id": "dfef6664af81dc72",
-      "cfp_title": "TechSummit Amsterdam",
-      "cfp_url": "https://pretalx.com/techsummit-2026/cfp",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-05-15",
-      "event_date": "2026-09-30",
-      "event_location": "Amsterdam, Netherlands",
-      "is_online": false,
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-      "talk_tags": [
-        "leadership",
-        "data-culture",
-        "analytics-engineering",
-        "strategy"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
-      "conference_themes": [
-        "web",
-        "leadership",
-        "ai",
-        "cloud",
-        "devops",
-        "security",
-        "open-source",
-        "education"
-      ],
-      "conference_categories": [
-        "of interest designing self",
-        "healing internet infrastructures",
-        "commercially focused talks"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "leadership",
-          "data-culture",
-          "analytics-engineering",
-          "strategy"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.273,
-        "tag_relevance": 0.166,
-        "talk_match_score": 0.118,
-        "urgency_score": 0.4,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.661809+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 5.5)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.661812+00:00",
-      "updated_at": "2026-04-08T12:28:22.661814+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

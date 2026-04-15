@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T07:50:15.593254+00:00",
+  "generated_at": "2026-04-15T07:50:38.267837+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 1,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-04-14T07:50:15.334074+00:00",
+    "last_crawled": "2026-04-15T07:50:37.995971+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 6,
@@ -1207,6 +1207,26 @@
       "event_location": "online"
     },
     {
+      "id": "922be52c18c6e9a0",
+      "cfp_title": "TechSummit Amsterdam",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://pretalx.com/techsummit-2026/cfp",
+      "deadline": "2026-05-15",
+      "event_date": "2026-09-30",
+      "status": "draft",
+      "score": 0.303,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.661812+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
+      "is_online": false,
+      "event_location": "Amsterdam, Netherlands"
+    },
+    {
       "id": "ff9a70eb4d6e1d74",
       "cfp_title": "Global Summit on Data Science and Cloud Computing",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1345,26 +1365,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 7.5)",
       "is_online": false,
       "event_location": "Barcelona, Spain"
-    },
-    {
-      "id": "922be52c18c6e9a0",
-      "cfp_title": "TechSummit Amsterdam",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://pretalx.com/techsummit-2026/cfp",
-      "deadline": "2026-05-15",
-      "event_date": "2026-09-30",
-      "status": "draft",
-      "score": 0.273,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.661812+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
-      "is_online": false,
-      "event_location": "Amsterdam, Netherlands"
     },
     {
       "id": "bc7d3eeb13b31ac2",
