@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-04-15T07:50:38.229534+00:00",
+    "last_updated": "2026-04-16T07:50:44.155647+00:00",
     "total_applications": 47,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 46,
-    "total_expired": 1,
+    "total_drafts": 45,
+    "total_expired": 2,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "draft": 46,
-      "expired": 1
+      "draft": 45,
+      "expired": 2
     },
     "unique_talk_titles": 7
   },
@@ -163,16 +163,110 @@
         "priority": "medium",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.660775+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 7.3)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-04-16T07:50:44.155475+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.660779+00:00",
-      "updated_at": "2026-04-08T12:28:22.660781+00:00",
+      "updated_at": "2026-04-16T07:50:44.155480+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "d3220eaa0057c36f",
+      "cfp_id": "c617b162f27db0cb",
+      "cfp_title": "IT-Tage",
+      "cfp_url": "https://www.ittage.informatik-aktuell.de/index.html",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-04-30",
+      "event_date": "2026-12-07",
+      "event_location": "Frankfurt am Main, Germany",
+      "is_online": false,
+      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+      "talk_abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
+      "talk_tags": [
+        "devops",
+        "dataops",
+        "airflow",
+        "ci-cd",
+        "dbt",
+        "observability"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'devops' (score: 8.5)",
+      "conference_themes": [
+        "devops",
+        "open-source",
+        "ai",
+        "data",
+        "cloud",
+        "security",
+        "python",
+        "leadership",
+        "education"
+      ],
+      "conference_categories": [
+        "cloud",
+        "architektur und",
+        "security",
+        "devops",
+        "datenbanken",
+        "betrieb sowie agile",
+        "und\u00a0 16 sub",
+        "entwicklung"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+        "abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "devops",
+          "dataops",
+          "airflow",
+          "ci-cd",
+          "dbt",
+          "observability"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.426,
+        "tag_relevance": 0.523,
+        "talk_match_score": 0.078,
+        "urgency_score": 0.8,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.661278+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'devops' (score: 8.5)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.661281+00:00",
+      "updated_at": "2026-04-08T12:28:22.661282+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -509,90 +603,82 @@
       "notes": ""
     },
     {
-      "id": "d3220eaa0057c36f",
-      "cfp_id": "c617b162f27db0cb",
-      "cfp_title": "IT-Tage",
-      "cfp_url": "https://www.ittage.informatik-aktuell.de/index.html",
-      "cfp_source": "confs.tech",
+      "id": "6f5d674772812ce9",
+      "cfp_id": "a3b095e668bd8a61",
+      "cfp_title": "Power BI Next Step",
+      "cfp_url": "https://sessionize.com/power-bi-next-step",
+      "cfp_source": "callfordataspeakers",
       "cfp_deadline": "2026-04-30",
-      "event_date": "2026-12-07",
-      "event_location": "Frankfurt am Main, Germany",
+      "event_date": "2026-09-07",
+      "event_location": "Odense, Denmark",
       "is_online": false,
-      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-      "talk_abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
       "talk_tags": [
-        "devops",
-        "dataops",
-        "airflow",
-        "ci-cd",
-        "dbt",
-        "observability"
+        "education",
+        "data-literacy",
+        "community",
+        "diversity",
+        "edtech"
       ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'devops' (score: 8.5)",
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'education' (score: 6.0)",
       "conference_themes": [
-        "devops",
+        "education",
+        "web",
         "open-source",
         "ai",
-        "data",
-        "cloud",
-        "security",
-        "python",
-        "leadership",
-        "education"
+        "leadership"
       ],
       "conference_categories": [
-        "cloud",
-        "architektur und",
-        "security",
-        "devops",
-        "datenbanken",
-        "betrieb sowie agile",
-        "und\u00a0 16 sub",
-        "entwicklung"
+        "that touch on microsoft fabric",
+        "we will select a total of 18 sessions",
+        "your session must include power bi content in some way",
+        "and 6 sessions per track"
       ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
+      "travel_sponsorship": "partial",
+      "speaker_perks": {
+        "dinner": true
+      },
       "proposal": {
-        "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-        "abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
+        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
         "speaker_name": "Ayoade Adegbite",
         "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
         "speaker_email": "ayoadeadegbitee@gmail.com",
         "speaker_website": "https://ayoadeabel.tech/",
         "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
+        "talk_level": "beginner",
         "talk_duration": 30,
         "tags": [
-          "devops",
-          "dataops",
-          "airflow",
-          "ci-cd",
-          "dbt",
-          "observability"
+          "education",
+          "data-literacy",
+          "community",
+          "diversity",
+          "edtech"
         ]
       },
       "match_scores": {
-        "composite_score": 0.396,
-        "tag_relevance": 0.523,
-        "talk_match_score": 0.078,
-        "urgency_score": 0.6,
-        "format_score": 0.5,
+        "composite_score": 0.387,
+        "tag_relevance": 0.335,
+        "talk_match_score": 0.098,
+        "urgency_score": 0.8,
+        "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
         "priority": "low",
-        "travel_sponsorship": "unknown"
+        "travel_sponsorship": "partial"
       },
       "status": "draft",
       "status_history": [
         {
           "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.661278+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'devops' (score: 8.5)"
+          "timestamp": "2026-04-08T12:28:22.665269+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.0)"
         }
       ],
-      "created_at": "2026-04-08T12:28:22.661281+00:00",
-      "updated_at": "2026-04-08T12:28:22.661282+00:00",
+      "created_at": "2026-04-08T12:28:22.665272+00:00",
+      "updated_at": "2026-04-08T12:28:22.665274+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -673,6 +759,82 @@
       ],
       "created_at": "2026-04-08T12:28:22.663835+00:00",
       "updated_at": "2026-04-08T12:28:22.663837+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "ff7950850daa5cb0",
+      "cfp_id": "1dc1809e06936eb6",
+      "cfp_title": "Data Saturday Gothenburg",
+      "cfp_url": "https://sessionize.com/data-saturday-gothenburg-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-04-30",
+      "event_date": "2026-09-05",
+      "event_location": "G\u00f6teborg, Sweden",
+      "is_online": false,
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "talk_abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
+      "talk_tags": [
+        "cloud",
+        "snowflake",
+        "bigquery",
+        "dbt",
+        "airflow",
+        "cost-optimization"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'cloud' (score: 5.5)",
+      "conference_themes": [
+        "cloud",
+        "web",
+        "open-source",
+        "ai",
+        "leadership"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+        "abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "cloud",
+          "snowflake",
+          "bigquery",
+          "dbt",
+          "airflow",
+          "cost-optimization"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.365,
+        "tag_relevance": 0.343,
+        "talk_match_score": 0.082,
+        "urgency_score": 0.8,
+        "format_score": 0.5,
+        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.665168+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'cloud' (score: 5.5)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.665170+00:00",
+      "updated_at": "2026-04-08T12:28:22.665172+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -762,87 +924,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.665647+00:00",
       "updated_at": "2026-04-08T12:28:22.665649+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "6f5d674772812ce9",
-      "cfp_id": "a3b095e668bd8a61",
-      "cfp_title": "Power BI Next Step",
-      "cfp_url": "https://sessionize.com/power-bi-next-step",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-04-30",
-      "event_date": "2026-09-07",
-      "event_location": "Odense, Denmark",
-      "is_online": false,
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
-      "talk_tags": [
-        "education",
-        "data-literacy",
-        "community",
-        "diversity",
-        "edtech"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'education' (score: 6.0)",
-      "conference_themes": [
-        "education",
-        "web",
-        "open-source",
-        "ai",
-        "leadership"
-      ],
-      "conference_categories": [
-        "that touch on microsoft fabric",
-        "we will select a total of 18 sessions",
-        "your session must include power bi content in some way",
-        "and 6 sessions per track"
-      ],
-      "travel_sponsorship": "partial",
-      "speaker_perks": {
-        "dinner": true
-      },
-      "proposal": {
-        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "education",
-          "data-literacy",
-          "community",
-          "diversity",
-          "edtech"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.357,
-        "tag_relevance": 0.335,
-        "talk_match_score": 0.098,
-        "urgency_score": 0.6,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "partial"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.665269+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.0)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.665272+00:00",
-      "updated_at": "2026-04-08T12:28:22.665274+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -1085,82 +1166,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.660624+00:00",
       "updated_at": "2026-04-08T12:28:22.660626+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "ff7950850daa5cb0",
-      "cfp_id": "1dc1809e06936eb6",
-      "cfp_title": "Data Saturday Gothenburg",
-      "cfp_url": "https://sessionize.com/data-saturday-gothenburg-2026",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-04-30",
-      "event_date": "2026-09-05",
-      "event_location": "G\u00f6teborg, Sweden",
-      "is_online": false,
-      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "talk_abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
-      "talk_tags": [
-        "cloud",
-        "snowflake",
-        "bigquery",
-        "dbt",
-        "airflow",
-        "cost-optimization"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'cloud' (score: 5.5)",
-      "conference_themes": [
-        "cloud",
-        "web",
-        "open-source",
-        "ai",
-        "leadership"
-      ],
-      "conference_categories": [],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-        "abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "cloud",
-          "snowflake",
-          "bigquery",
-          "dbt",
-          "airflow",
-          "cost-optimization"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.335,
-        "tag_relevance": 0.343,
-        "talk_match_score": 0.082,
-        "urgency_score": 0.6,
-        "format_score": 0.5,
-        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.665168+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'cloud' (score: 5.5)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.665170+00:00",
-      "updated_at": "2026-04-08T12:28:22.665172+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -1562,6 +1567,80 @@
       ],
       "created_at": "2026-04-08T12:28:22.662245+00:00",
       "updated_at": "2026-04-08T12:28:22.662247+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "b6517bb572c459b1",
+      "cfp_id": "55d24c2a7529cbf5",
+      "cfp_title": "DevOpsDays Graz",
+      "cfp_url": "https://pretalx.com/devopsdays-graz-2026/cfp",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-04-30",
+      "event_date": "2026-09-04",
+      "event_location": "Graz, Austria",
+      "is_online": false,
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+      "talk_tags": [
+        "education",
+        "data-literacy",
+        "community",
+        "diversity",
+        "edtech"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'education' (score: 4.5)",
+      "conference_themes": [
+        "education",
+        "ai",
+        "devops",
+        "web",
+        "open-source"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "education",
+          "data-literacy",
+          "community",
+          "diversity",
+          "edtech"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.322,
+        "tag_relevance": 0.167,
+        "talk_match_score": 0.078,
+        "urgency_score": 0.8,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.661702+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 4.5)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.661705+00:00",
+      "updated_at": "2026-04-08T12:28:22.661707+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -2409,39 +2488,46 @@
       "notes": ""
     },
     {
-      "id": "b6517bb572c459b1",
-      "cfp_id": "55d24c2a7529cbf5",
-      "cfp_title": "DevOpsDays Graz",
-      "cfp_url": "https://pretalx.com/devopsdays-graz-2026/cfp",
+      "id": "ce336dbd55617205",
+      "cfp_id": "c194a8eca6f2f3e9",
+      "cfp_title": "CMS Conf",
+      "cfp_url": "https://cmsconf.com/call-for-papers",
       "cfp_source": "confs.tech",
       "cfp_deadline": "2026-04-30",
-      "event_date": "2026-09-04",
-      "event_location": "Graz, Austria",
+      "event_date": "2026-11-12",
+      "event_location": "Gdynia, Poland",
       "is_online": false,
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
       "talk_tags": [
-        "education",
-        "data-literacy",
-        "community",
-        "diversity",
-        "edtech"
+        "leadership",
+        "data-culture",
+        "analytics-engineering",
+        "strategy"
       ],
       "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'education' (score: 4.5)",
+      "match_reason": "Conference themes align with 'leadership' (score: 4.5)",
       "conference_themes": [
-        "education",
-        "ai",
-        "devops",
         "web",
+        "leadership",
+        "ai",
+        "security",
         "open-source"
       ],
-      "conference_categories": [],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
+      "conference_categories": [
+        "related to content management systems",
+        "content strategists",
+        "the  developer track  for technical practitioners",
+        "and the  creator track  for marketers",
+        "and seo specialists"
+      ],
+      "travel_sponsorship": "partial",
+      "speaker_perks": {
+        "ticket": true
+      },
       "proposal": {
-        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
         "speaker_name": "Ayoade Adegbite",
         "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
         "speaker_email": "ayoadeadegbitee@gmail.com",
@@ -2450,34 +2536,33 @@
         "talk_level": "beginner",
         "talk_duration": 30,
         "tags": [
-          "education",
-          "data-literacy",
-          "community",
-          "diversity",
-          "edtech"
+          "leadership",
+          "data-culture",
+          "analytics-engineering",
+          "strategy"
         ]
       },
       "match_scores": {
-        "composite_score": 0.292,
-        "tag_relevance": 0.167,
-        "talk_match_score": 0.078,
-        "urgency_score": 0.6,
-        "format_score": 0.6,
+        "composite_score": 0.289,
+        "tag_relevance": 0.165,
+        "talk_match_score": 0.039,
+        "urgency_score": 0.8,
+        "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
         "priority": "low",
-        "travel_sponsorship": "unknown"
+        "travel_sponsorship": "partial"
       },
       "status": "draft",
       "status_history": [
         {
           "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.661702+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 4.5)"
+          "timestamp": "2026-04-08T12:28:22.662551+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 4.5)"
         }
       ],
-      "created_at": "2026-04-08T12:28:22.661705+00:00",
-      "updated_at": "2026-04-08T12:28:22.661707+00:00",
+      "created_at": "2026-04-08T12:28:22.662555+00:00",
+      "updated_at": "2026-04-08T12:28:22.662557+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -2650,6 +2735,76 @@
       ],
       "created_at": "2026-04-08T12:28:22.665809+00:00",
       "updated_at": "2026-04-08T12:28:22.665810+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "0178fbaa5b7d8e18",
+      "cfp_id": "9ad84e27421c557a",
+      "cfp_title": "Asynconf",
+      "cfp_url": "https://cfp.asynconf.com",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-04-30",
+      "event_date": "2026-06-27",
+      "event_location": "Paris, France",
+      "is_online": true,
+      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+      "talk_abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
+      "talk_tags": [
+        "devops",
+        "dataops",
+        "airflow",
+        "ci-cd",
+        "dbt",
+        "observability"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'devops' (score: 2.5)",
+      "conference_themes": [],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+        "abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "devops",
+          "dataops",
+          "airflow",
+          "ci-cd",
+          "dbt",
+          "observability"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.28,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.0,
+        "urgency_score": 0.8,
+        "format_score": 0.8,
+        "suggested_talk": null,
+        "suggested_talk_level": null,
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.661632+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'devops' (score: 2.5)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.661634+00:00",
+      "updated_at": "2026-04-08T12:28:22.661636+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -3130,86 +3285,6 @@
       "notes": ""
     },
     {
-      "id": "ce336dbd55617205",
-      "cfp_id": "c194a8eca6f2f3e9",
-      "cfp_title": "CMS Conf",
-      "cfp_url": "https://cmsconf.com/call-for-papers",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-04-30",
-      "event_date": "2026-11-12",
-      "event_location": "Gdynia, Poland",
-      "is_online": false,
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-      "talk_tags": [
-        "leadership",
-        "data-culture",
-        "analytics-engineering",
-        "strategy"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'leadership' (score: 4.5)",
-      "conference_themes": [
-        "web",
-        "leadership",
-        "ai",
-        "security",
-        "open-source"
-      ],
-      "conference_categories": [
-        "related to content management systems",
-        "content strategists",
-        "the  developer track  for technical practitioners",
-        "and the  creator track  for marketers",
-        "and seo specialists"
-      ],
-      "travel_sponsorship": "partial",
-      "speaker_perks": {
-        "ticket": true
-      },
-      "proposal": {
-        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "leadership",
-          "data-culture",
-          "analytics-engineering",
-          "strategy"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.259,
-        "tag_relevance": 0.165,
-        "talk_match_score": 0.039,
-        "urgency_score": 0.6,
-        "format_score": 0.5,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "partial"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.662551+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 4.5)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.662555+00:00",
-      "updated_at": "2026-04-08T12:28:22.662557+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
       "id": "e320b5689ff3ded6",
       "cfp_id": "5db6e8b28f7cb80e",
       "cfp_title": "ZhongkuiMa/CFPMonitor",
@@ -3636,76 +3711,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.666101+00:00",
       "updated_at": "2026-04-08T12:28:22.666103+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "0178fbaa5b7d8e18",
-      "cfp_id": "9ad84e27421c557a",
-      "cfp_title": "Asynconf",
-      "cfp_url": "https://cfp.asynconf.com",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-04-30",
-      "event_date": "2026-06-27",
-      "event_location": "Paris, France",
-      "is_online": true,
-      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-      "talk_abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
-      "talk_tags": [
-        "devops",
-        "dataops",
-        "airflow",
-        "ci-cd",
-        "dbt",
-        "observability"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'devops' (score: 2.5)",
-      "conference_themes": [],
-      "conference_categories": [],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-        "abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "devops",
-          "dataops",
-          "airflow",
-          "ci-cd",
-          "dbt",
-          "observability"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.25,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
-        "urgency_score": 0.6,
-        "format_score": 0.8,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.661632+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'devops' (score: 2.5)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.661634+00:00",
-      "updated_at": "2026-04-08T12:28:22.661636+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
