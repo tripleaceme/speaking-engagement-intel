@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_crawled": "2026-04-16T07:50:43.969280+00:00",
-    "total_cfps": 54,
+    "last_crawled": "2026-04-17T07:51:08.249494+00:00",
+    "total_cfps": 55,
     "open_cfps": 52,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 1,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 6,
-    "last_scored": "2026-04-16T07:50:44.112124+00:00",
+    "last_scored": "2026-04-17T07:51:09.280678+00:00",
     "high_priority": 0,
-    "medium_priority": 6,
+    "medium_priority": 5,
     "above_threshold": 45
   },
   "cfps": [
@@ -98,10 +98,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:15.806720+00:00",
       "match_scores": {
-        "composite_score": 0.342,
+        "composite_score": 0.372,
         "tag_relevance": 0.329,
         "talk_match_score": 0.157,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -2542,10 +2542,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:37.020437+00:00",
       "match_scores": {
-        "composite_score": 0.369,
+        "composite_score": 0.399,
         "tag_relevance": 0.347,
         "talk_match_score": 0.059,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.7,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -3219,7 +3219,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:56.586377+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "education",
@@ -3271,17 +3271,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:48.030388+00:00",
-      "match_scores": {
-        "composite_score": 0.42,
-        "tag_relevance": 0.343,
-        "talk_match_score": 0.098,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "8e6fbaf6f004a23a",
@@ -3393,10 +3383,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:50.235921+00:00",
       "match_scores": {
-        "composite_score": 0.349,
+        "composite_score": 0.379,
         "tag_relevance": 0.364,
         "talk_match_score": 0.039,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -4256,6 +4246,97 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "partial"
+      }
+    },
+    {
+      "id": "0334f81227267f1c",
+      "source": "callfordataspeakers",
+      "title": "Boston Data and AI Saturday 2026",
+      "url": "https://sessionize.com/sql-saturday-boston-2026",
+      "cfp_url": "https://sessionize.com/sql-saturday-boston-2026",
+      "description": "Data conference \u2014 Burlington, Massachusetts, United States",
+      "tags": [
+        "ai",
+        "cloud",
+        "security",
+        "north america",
+        "leadership",
+        "blockchain",
+        "database",
+        "open-source",
+        "education",
+        "web",
+        "data",
+        "conference"
+      ],
+      "deadline": "",
+      "event_date": "2026-10-03",
+      "location": "Burlington, Massachusetts, United States",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-04-17T07:51:07.381716+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 1.0
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "across the entire microsoft data platform"
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-17T07:51:09.210386+00:00",
+      "match_scores": {
+        "composite_score": 0.277,
+        "tag_relevance": 0.356,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.1,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
       }
     }
   ]

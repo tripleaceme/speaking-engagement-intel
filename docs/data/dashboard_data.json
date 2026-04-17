@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-04-16T07:50:44.191376+00:00",
+  "generated_at": "2026-04-17T07:51:09.375628+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 54,
+    "total_cfps_discovered": 55,
     "open_cfps": 52,
-    "expired_cfps": 2,
-    "total_applications": 47,
+    "expired_cfps": 3,
+    "total_applications": 48,
     "drafts": 45,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 2,
+    "expired_apps": 3,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-04-16T07:50:43.969280+00:00",
+    "last_crawled": "2026-04-17T07:51:08.249494+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 6,
@@ -37,7 +37,7 @@
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 25
+      "count": 26
     },
     {
       "source": "confs.tech",
@@ -58,8 +58,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 6,
-    "low": 46
+    "medium": 5,
+    "low": 47
   },
   "tag_cloud": [
     {
@@ -83,19 +83,15 @@
       "count": 34
     },
     {
+      "tag": "cloud",
+      "count": 31
+    },
+    {
       "tag": "education",
       "count": 31
     },
     {
-      "tag": "cloud",
-      "count": 30
-    },
-    {
       "tag": "database",
-      "count": 23
-    },
-    {
-      "tag": "devops",
       "count": 23
     },
     {
@@ -103,24 +99,28 @@
       "count": 22
     },
     {
-      "tag": "conference",
-      "count": 16
+      "tag": "devops",
+      "count": 22
     },
     {
-      "tag": "testing",
-      "count": 10
+      "tag": "conference",
+      "count": 16
     },
     {
       "tag": "usergroup",
       "count": 10
     },
     {
-      "tag": "call-for-papers",
+      "tag": "testing",
       "count": 9
     },
     {
       "tag": "blockchain",
-      "count": 8
+      "count": 9
+    },
+    {
+      "tag": "call-for-papers",
+      "count": 9
     },
     {
       "tag": "europe",
@@ -235,31 +235,6 @@
       "event_type": "conference"
     },
     {
-      "id": "0dda486643ff2330",
-      "title": "Power BI Days DC 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/power-bi-days-dc-2026",
-      "deadline": "2026-04-16",
-      "event_date": "2026-06-11",
-      "location": "Arlington, Virginia, United States",
-      "is_online": false,
-      "tags": [
-        "database",
-        "education",
-        "north america",
-        "security",
-        "testing"
-      ],
-      "score": 0.42,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.343,
-      "talk_match": 0.098,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "013da2f160509c12",
       "title": "CLC",
       "source": "confs.tech",
@@ -335,6 +310,31 @@
       "event_type": "usergroup"
     },
     {
+      "id": "5c162d9dad315513",
+      "title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/cloud-data-driven-user-group-2026",
+      "deadline": "2026-05-01",
+      "event_date": "2026-01-08",
+      "location": "Online",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "education",
+        "ai",
+        "leadership",
+        "open-source"
+      ],
+      "score": 0.399,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.347,
+      "talk_match": 0.059,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
       "id": "a3b095e668bd8a61",
       "title": "Power BI Next Step",
       "source": "callfordataspeakers",
@@ -360,29 +360,54 @@
       "event_type": "conference"
     },
     {
-      "id": "5c162d9dad315513",
-      "title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
+      "id": "bf470d2615bfbc4d",
+      "title": "Day of Data Albany 2026",
       "source": "callfordataspeakers",
-      "url": "https://sessionize.com/cloud-data-driven-user-group-2026",
+      "url": "https://sessionize.com/day-of-data-albany-2026/",
       "deadline": "2026-05-01",
-      "event_date": "2026-01-08",
-      "location": "Online",
-      "is_online": true,
+      "event_date": "2026-08-07",
+      "location": "Massry School of Business, UAlbany, Albany, NY 12202",
+      "is_online": false,
       "tags": [
-        "cloud",
         "education",
+        "north america",
         "ai",
-        "leadership",
-        "open-source"
+        "conference, precon",
+        "leadership"
       ],
-      "score": 0.369,
+      "score": 0.379,
       "priority": "low",
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.347,
-      "talk_match": 0.059,
-      "urgency": 0.6,
+      "tag_relevance": 0.364,
+      "talk_match": 0.039,
+      "urgency": 0.8,
       "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
+      "event_type": "conference, precon"
+    },
+    {
+      "id": "4e7c90af4be64378",
+      "title": "TechEx North America",
+      "source": "confs.tech",
+      "url": "https://techexevent.com/register-now",
+      "deadline": "2026-05-17",
+      "event_date": "2026-05-18",
+      "location": "San Jose, CA, U.S.A.",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "iot",
+        "education",
+        "security",
+        "leadership"
+      ],
+      "score": 0.372,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.329,
+      "talk_match": 0.157,
+      "urgency": 0.6,
+      "travel_sponsorship": "partial",
+      "event_type": "conference"
     },
     {
       "id": "1dc1809e06936eb6",
@@ -458,56 +483,6 @@
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "bf470d2615bfbc4d",
-      "title": "Day of Data Albany 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/day-of-data-albany-2026/",
-      "deadline": "2026-05-01",
-      "event_date": "2026-08-07",
-      "location": "Massry School of Business, UAlbany, Albany, NY 12202",
-      "is_online": false,
-      "tags": [
-        "education",
-        "north america",
-        "ai",
-        "conference, precon",
-        "leadership"
-      ],
-      "score": 0.349,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.364,
-      "talk_match": 0.039,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference, precon"
-    },
-    {
-      "id": "4e7c90af4be64378",
-      "title": "TechEx North America",
-      "source": "confs.tech",
-      "url": "https://techexevent.com/register-now",
-      "deadline": "2026-05-17",
-      "event_date": "2026-05-18",
-      "location": "San Jose, CA, U.S.A.",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "iot",
-        "education",
-        "security",
-        "leadership"
-      ],
-      "score": 0.342,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.329,
-      "talk_match": 0.157,
-      "urgency": 0.4,
-      "travel_sponsorship": "partial",
-      "event_type": "conference"
     },
     {
       "id": "7b6619640770ddab",
@@ -683,6 +658,31 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "817753aaf9b0bac3",
+      "title": "Microsoft Fabric Cafe 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
+      "deadline": "2026-11-01",
+      "event_date": "2026-01-02",
+      "location": "Virtual - InPerson",
+      "is_online": true,
+      "tags": [
+        "education",
+        "ai",
+        "open-source",
+        "usergroup",
+        "web"
+      ],
+      "score": 0.318,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.371,
+      "talk_match": 0.06,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -754,7 +754,7 @@
       "cfp_url": "https://sessionize.com/power-bi-days-dc-2026",
       "deadline": "2026-04-16",
       "event_date": "2026-06-11",
-      "status": "draft",
+      "status": "expired",
       "score": 0.42,
       "priority": "medium",
       "created_at": "2026-04-08T12:28:22.664859+00:00",
@@ -827,6 +827,26 @@
       "event_location": "VIrtual"
     },
     {
+      "id": "8496831bd6d324e2",
+      "cfp_title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/cloud-data-driven-user-group-2026",
+      "deadline": "2026-05-01",
+      "event_date": "2026-01-08",
+      "status": "draft",
+      "score": 0.399,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.663835+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 8.3)",
+      "is_online": true,
+      "event_location": "Online"
+    },
+    {
       "id": "6f5d674772812ce9",
       "cfp_title": "Power BI Next Step",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -847,24 +867,44 @@
       "event_location": "Odense, Denmark"
     },
     {
-      "id": "8496831bd6d324e2",
-      "cfp_title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "id": "7f82ee61109f3fc7",
+      "cfp_title": "Day of Data Albany 2026",
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
       "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/cloud-data-driven-user-group-2026",
+      "cfp_url": "https://sessionize.com/day-of-data-albany-2026/",
       "deadline": "2026-05-01",
-      "event_date": "2026-01-08",
+      "event_date": "2026-08-07",
       "status": "draft",
-      "score": 0.369,
+      "score": 0.379,
       "priority": "low",
-      "created_at": "2026-04-08T12:28:22.663835+00:00",
+      "created_at": "2026-04-08T12:28:22.665022+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": "",
       "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 8.3)",
-      "is_online": true,
-      "event_location": "Online"
+      "match_reason": "Conference themes align with 'education' (score: 6.0)",
+      "is_online": false,
+      "event_location": "Massry School of Business, UAlbany, Albany, NY 12202"
+    },
+    {
+      "id": "c8f2597c6e5db7c4",
+      "cfp_title": "TechEx North America",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://techexevent.com/register-now",
+      "deadline": "2026-05-17",
+      "event_date": "2026-05-18",
+      "status": "draft",
+      "score": 0.372,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.660624+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
+      "is_online": false,
+      "event_location": "San Jose, CA, U.S.A."
     },
     {
       "id": "ff7950850daa5cb0",
@@ -925,46 +965,6 @@
       "match_reason": "Conference themes align with 'database' (score: 4.3)",
       "is_online": false,
       "event_location": "Baton Rouge, Louisiana, United States"
-    },
-    {
-      "id": "7f82ee61109f3fc7",
-      "cfp_title": "Day of Data Albany 2026",
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/day-of-data-albany-2026/",
-      "deadline": "2026-05-01",
-      "event_date": "2026-08-07",
-      "status": "draft",
-      "score": 0.349,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.665022+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'education' (score: 6.0)",
-      "is_online": false,
-      "event_location": "Massry School of Business, UAlbany, Albany, NY 12202"
-    },
-    {
-      "id": "c8f2597c6e5db7c4",
-      "cfp_title": "TechEx North America",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://techexevent.com/register-now",
-      "deadline": "2026-05-17",
-      "event_date": "2026-05-18",
-      "status": "draft",
-      "score": 0.342,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.660624+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
-      "is_online": false,
-      "event_location": "San Jose, CA, U.S.A."
     },
     {
       "id": "5e1414e189fef8fd",
@@ -1387,6 +1387,26 @@
       "event_location": "Online"
     },
     {
+      "id": "2be9e1bafde142b6",
+      "cfp_title": "Boston Data and AI Saturday 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sql-saturday-boston-2026",
+      "deadline": "",
+      "event_date": "2026-10-03",
+      "status": "draft",
+      "score": 0.277,
+      "priority": "low",
+      "created_at": "2026-04-17T07:51:09.330428+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 11.3)",
+      "is_online": false,
+      "event_location": "Burlington, Massachusetts, United States"
+    },
+    {
       "id": "8ef1aa5b4718f454",
       "cfp_title": "The AI Conf",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1629,7 +1649,7 @@
   ],
   "talk_performance": [
     {
-      "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
       "applications": 12,
       "accepted": 0,
       "rejected": 0,
@@ -1637,8 +1657,8 @@
       "acceptance_rate": 0
     },
     {
-      "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 11,
+      "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "applications": 12,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -1686,15 +1706,6 @@
     }
   ],
   "upcoming_deadlines": [
-    {
-      "title": "Power BI Days DC 2026",
-      "deadline": "2026-04-16",
-      "source": "callfordataspeakers",
-      "score": 0.42,
-      "url": "https://sessionize.com/power-bi-days-dc-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Arlington, Virginia, United States"
-    },
     {
       "title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
       "deadline": "2026-04-18",
@@ -1775,6 +1786,15 @@
       "url": "https://sessionize.com/power-bi-next-step",
       "travel_sponsorship": "partial",
       "location": "Odense, Denmark"
+    },
+    {
+      "title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
+      "deadline": "2026-05-01",
+      "source": "callfordataspeakers",
+      "score": 0.399,
+      "url": "https://sessionize.com/cloud-data-driven-user-group-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Online"
     }
   ]
 }
