@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-17T07:51:09.375628+00:00",
+  "generated_at": "2026-04-18T07:12:25.488750+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 55,
-    "open_cfps": 52,
+    "total_cfps_discovered": 65,
+    "open_cfps": 62,
     "expired_cfps": 3,
-    "total_applications": 48,
-    "drafts": 45,
+    "total_applications": 52,
+    "drafts": 49,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 3,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-04-17T07:51:08.249494+00:00",
+    "last_crawled": "2026-04-18T07:12:17.275695+00:00",
     "sources_checked": 9,
-    "travel_yes": 3,
+    "travel_yes": 4,
     "travel_partial": 6,
-    "travel_unknown": 43
+    "travel_unknown": 52
   },
   "timeline": [
     {
@@ -31,17 +31,17 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 45
+      "draft": 49
     }
   ],
   "source_breakdown": [
     {
-      "source": "callfordataspeakers",
-      "count": 26
+      "source": "confs.tech",
+      "count": 29
     },
     {
-      "source": "confs.tech",
-      "count": 19
+      "source": "callfordataspeakers",
+      "count": 26
     },
     {
       "source": "github",
@@ -59,60 +59,64 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 5,
-    "low": 47
+    "low": 57
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 51
+      "count": 59
     },
     {
       "tag": "web",
-      "count": 46
+      "count": 49
     },
     {
       "tag": "open-source",
-      "count": 44
+      "count": 46
     },
     {
       "tag": "data",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "leadership",
-      "count": 34
-    },
-    {
-      "tag": "cloud",
-      "count": 31
+      "count": 35
     },
     {
       "tag": "education",
-      "count": 31
+      "count": 33
+    },
+    {
+      "tag": "cloud",
+      "count": 32
+    },
+    {
+      "tag": "security",
+      "count": 23
     },
     {
       "tag": "database",
       "count": 23
     },
     {
-      "tag": "security",
-      "count": 22
-    },
-    {
       "tag": "devops",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "conference",
       "count": 16
     },
     {
-      "tag": "usergroup",
-      "count": 10
+      "tag": "testing",
+      "count": 11
     },
     {
-      "tag": "testing",
-      "count": 9
+      "tag": "online",
+      "count": 11
+    },
+    {
+      "tag": "usergroup",
+      "count": 10
     },
     {
       "tag": "blockchain",
@@ -128,6 +132,14 @@
     },
     {
       "tag": "python",
+      "count": 7
+    },
+    {
+      "tag": "general",
+      "count": 7
+    },
+    {
+      "tag": "javascript",
       "count": 6
     },
     {
@@ -135,11 +147,7 @@
       "count": 6
     },
     {
-      "tag": "online",
-      "count": 5
-    },
-    {
-      "tag": "general",
+      "tag": "iot",
       "count": 5
     },
     {
@@ -153,10 +161,6 @@
     {
       "tag": "conference, precon",
       "count": 5
-    },
-    {
-      "tag": "iot",
-      "count": 4
     },
     {
       "tag": "north america",
@@ -176,10 +180,6 @@
     },
     {
       "tag": "conferences",
-      "count": 3
-    },
-    {
-      "tag": "technology",
       "count": 3
     }
   ],
@@ -360,6 +360,31 @@
       "event_type": "conference"
     },
     {
+      "id": "8e6fbaf6f004a23a",
+      "title": "Day of Data Baton Rouge 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sqlsatbr26",
+      "deadline": "2026-05-02",
+      "event_date": "2026-07-17",
+      "location": "Baton Rouge, Louisiana, United States",
+      "is_online": false,
+      "tags": [
+        "database",
+        "north america",
+        "education",
+        "ai",
+        "conference, precon"
+      ],
+      "score": 0.38,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.367,
+      "talk_match": 0.039,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon"
+    },
+    {
       "id": "bf470d2615bfbc4d",
       "title": "Day of Data Albany 2026",
       "source": "callfordataspeakers",
@@ -456,31 +481,6 @@
       "tag_relevance": 0.51,
       "talk_match": 0.078,
       "urgency": 0.4,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference, precon"
-    },
-    {
-      "id": "8e6fbaf6f004a23a",
-      "title": "Day of Data Baton Rouge 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sqlsatbr26",
-      "deadline": "2026-05-02",
-      "event_date": "2026-07-17",
-      "location": "Baton Rouge, Louisiana, United States",
-      "is_online": false,
-      "tags": [
-        "database",
-        "north america",
-        "education",
-        "ai",
-        "conference, precon"
-      ],
-      "score": 0.35,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.367,
-      "talk_match": 0.039,
-      "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
     },
@@ -867,6 +867,26 @@
       "event_location": "Odense, Denmark"
     },
     {
+      "id": "c6546a796d53b106",
+      "cfp_title": "Day of Data Baton Rouge 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sqlsatbr26",
+      "deadline": "2026-05-02",
+      "event_date": "2026-07-17",
+      "status": "draft",
+      "score": 0.38,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.664934+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 4.3)",
+      "is_online": false,
+      "event_location": "Baton Rouge, Louisiana, United States"
+    },
+    {
       "id": "7f82ee61109f3fc7",
       "cfp_title": "Day of Data Albany 2026",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -945,26 +965,6 @@
       "match_reason": "Conference themes align with 'data' (score: 14.5)",
       "is_online": false,
       "event_location": "Mechelen, Belgium"
-    },
-    {
-      "id": "c6546a796d53b106",
-      "cfp_title": "Day of Data Baton Rouge 2026",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/sqlsatbr26",
-      "deadline": "2026-05-02",
-      "event_date": "2026-07-17",
-      "status": "draft",
-      "score": 0.35,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.664934+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 4.3)",
-      "is_online": false,
-      "event_location": "Baton Rouge, Louisiana, United States"
     },
     {
       "id": "5e1414e189fef8fd",
@@ -1287,6 +1287,26 @@
       "event_location": "Amsterdam, Netherlands"
     },
     {
+      "id": "82f06ff2742d8c25",
+      "cfp_title": "SpiceWorld",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/spiceworld-2026",
+      "deadline": "2026-05-01",
+      "event_date": "2026-11-12",
+      "status": "draft",
+      "score": 0.297,
+      "priority": "low",
+      "created_at": "2026-04-18T07:12:25.442836+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
+      "is_online": false,
+      "event_location": "Austin, TX, U.S.A."
+    },
+    {
       "id": "ce336dbd55617205",
       "cfp_title": "CMS Conf",
       "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
@@ -1367,6 +1387,26 @@
       "event_location": "Paris, France"
     },
     {
+      "id": "05947dc74ac90853",
+      "cfp_title": "AI Coding Summit, London Edition",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://gitnation.com/events/ai-coding-summit-london/cfp",
+      "deadline": "2026-04-30",
+      "event_date": "2026-07-06",
+      "status": "draft",
+      "score": 0.28,
+      "priority": "low",
+      "created_at": "2026-04-18T07:12:25.442745+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": true,
+      "event_location": "London, U.K."
+    },
+    {
       "id": "55fa692cad8ca7f4",
       "cfp_title": "EightKB August 2026",
       "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
@@ -1405,6 +1445,26 @@
       "match_reason": "Conference themes align with 'data' (score: 11.3)",
       "is_online": false,
       "event_location": "Burlington, Massachusetts, United States"
+    },
+    {
+      "id": "b8e2af2bb48bfb63",
+      "cfp_title": "XtremeAI Online Conference",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://tinyurl.com/xtreme2026",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-24",
+      "status": "draft",
+      "score": 0.275,
+      "priority": "low",
+      "created_at": "2026-04-18T07:12:25.442632+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 3.0)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
     },
     {
       "id": "8ef1aa5b4718f454",
@@ -1525,6 +1585,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 11.5)",
       "is_online": true,
       "event_location": ""
+    },
+    {
+      "id": "ca1b621fe07c376e",
+      "cfp_title": "XtremePython Online Conference",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "http://www.zindell.com/documents/codeofconduct.pdf",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-17",
+      "status": "draft",
+      "score": 0.257,
+      "priority": "low",
+      "created_at": "2026-04-18T07:12:25.442699+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
     },
     {
       "id": "2beef322688d1330",
@@ -1649,16 +1729,16 @@
   ],
   "talk_performance": [
     {
-      "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 12,
+      "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "applications": 14,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
       "acceptance_rate": 0
     },
     {
-      "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 12,
+      "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "applications": 13,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -1681,15 +1761,15 @@
       "acceptance_rate": 0
     },
     {
-      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "applications": 4,
+      "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "applications": 5,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
       "acceptance_rate": 0
     },
     {
-      "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
       "applications": 4,
       "accepted": 0,
       "rejected": 0,
@@ -1788,13 +1868,13 @@
       "location": "Odense, Denmark"
     },
     {
-      "title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
-      "deadline": "2026-05-01",
-      "source": "callfordataspeakers",
-      "score": 0.399,
-      "url": "https://sessionize.com/cloud-data-driven-user-group-2026",
+      "title": "AI Coding Summit, London Edition",
+      "deadline": "2026-04-30",
+      "source": "confs.tech",
+      "score": 0.28,
+      "url": "https://gitnation.com/events/ai-coding-summit-london/cfp",
       "travel_sponsorship": "unknown",
-      "location": "Online"
+      "location": "London, U.K."
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-04-17T07:51:08.249494+00:00",
-    "total_cfps": 55,
-    "open_cfps": 52,
+    "last_crawled": "2026-04-18T07:12:17.275695+00:00",
+    "total_cfps": 65,
+    "open_cfps": 62,
     "sources_checked": 9,
-    "new_this_run": 1,
-    "expired_this_run": 1,
+    "new_this_run": 10,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 6,
-    "last_scored": "2026-04-17T07:51:09.280678+00:00",
+    "last_scored": "2026-04-18T07:12:25.392376+00:00",
     "high_priority": 0,
     "medium_priority": 5,
-    "above_threshold": 45
+    "above_threshold": 49
   },
   "cfps": [
     {
@@ -3320,10 +3320,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:49.331017+00:00",
       "match_scores": {
-        "composite_score": 0.35,
+        "composite_score": 0.38,
         "tag_relevance": 0.367,
         "talk_match_score": 0.039,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -4335,6 +4335,489 @@
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "179c401cecea9796",
+      "source": "confs.tech",
+      "title": "XtremeAI Online Conference",
+      "url": "https://xtremeai.dev",
+      "cfp_url": "https://tinyurl.com/xtreme2026",
+      "description": "Tech conference in TBD, TBD",
+      "tags": [
+        "data",
+        "online"
+      ],
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-24",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-04-18T07:12:13.935851+00:00",
+      "status": "open",
+      "match_scores": {
+        "composite_score": 0.275,
+        "tag_relevance": 0.223,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.2,
+        "format_score": 0.8,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "925345156dea5ecc",
+      "source": "confs.tech",
+      "title": "XtremePython Online Conference",
+      "url": "https://xtremepython.dev",
+      "cfp_url": "http://www.zindell.com/documents/codeofconduct.pdf",
+      "description": "{-\u042ac5#%XI0Lo\u001fu\u02bep\u0016?Iz\tw%JD\u0015\ud8de\udfe4B7\n\u0011 m\u0004V{Z\u0016. 0\u0013OK`$?\u00174\u000elg\u001bSZkd\nX\u078bcSM-Vg\u0001u\u01a3\u0016&\u001b:D4(W%gRo\b-Nf\u0001\u001d\tI\u001a\u00166\u001b4\u0005\u001bZ\u0014\u07eb\u000e#\u0005\u007f\u007fJW\u0010\u0016H\u001c\u0015\u0019\\\u0006\u000f(w%\fg\u007f1Ag*E\u001eTsC\u05cd\u0006bmh\n:aj\u01fe%\u0016\u001e?4iG?$Oj;QaY\n\u0006\u001faK#\u0014E\u00014g\u000f\u058f>@\u0005b%:B\u0017dFe& < \u001epMvD\u0682\u0013?_%\b8\u02f8C\n5s\u001eT\u0629[QI\u0015\u0003\u068e!>tm!T}[9vUm\u007f\\\"m. \u000e4\u0012L#^|??\u001f\u07dd\u0010H@q\u0010)H\u0004bU\n$[\u0002RT)H\tqA\u0010\f$#\u001aT\fT\u0014\u0012\u0015\u0019\u001cq\nDCA\u0010\b&\u007f\u001cx\u0006st\"\u0019\u001aER\u0018iM\b\u0013A\n6a\u04f7eo\u000e\u000bX-\u001b \u0001l\u0002%\u0002\u0087Cp\u001c\u000eCpH2\u001c\u000e\u0012\u0004'@PGs6\u00860\u01ef9{\u0002lA\u049f^.",
+      "tags": [
+        "python",
+        "online",
+        "ai",
+        "testing"
+      ],
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-17",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-04-18T07:12:14.016907+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-04-18T07:12:20.157358+00:00",
+      "match_scores": {
+        "composite_score": 0.257,
+        "tag_relevance": 0.172,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.2,
+        "format_score": 0.8,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "af994e2077bdc748",
+      "source": "confs.tech",
+      "title": "AI Coding Summit, London Edition",
+      "url": "https://aicodingsummit.com",
+      "cfp_url": "https://gitnation.com/events/ai-coding-summit-london/cfp",
+      "description": "Log In GitNation FAQ Support/Feedback Nation`s stats Log in 0 Log in or sign up to proceed Sign in with X Sign in with GitHub Sign in with LinkedIn Or continue with Email Sign up.",
+      "tags": [
+        "online",
+        "ai",
+        "devops"
+      ],
+      "deadline": "2026-04-30",
+      "event_date": "2026-07-06",
+      "location": "London, U.K.",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-04-18T07:12:14.107731+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-04-18T07:12:21.189458+00:00",
+      "match_scores": {
+        "composite_score": 0.28,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.0,
+        "urgency_score": 0.8,
+        "format_score": 0.8,
+        "suggested_talk": null,
+        "suggested_talk_level": null,
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "3a77676ab4b6b953",
+      "source": "confs.tech",
+      "title": "FrontKon",
+      "url": "https://www.frontkon.tech",
+      "cfp_url": "https://docs.google.com/forms/d/e/1FAIpQLSesYbIDZX7-3A_hKSxfmK6DAilUXBkIR6dAHfO7BDnyEratQQ/viewform",
+      "description": "Call for Papers: FrontKon 2026 Call for Papers: FrontKon 2026 Please read the  Speaker Information Document  before filling out this form. Three Ground Rules: 1. Three Main Themes:  React Done Right, AI coding in real life, and Next-Gen DX & Edge Tooling.",
+      "tags": [
+        "general",
+        "web",
+        "ai"
+      ],
+      "deadline": "2026-04-30",
+      "event_date": "2026-10-06",
+      "location": "Prague, Czech Republic",
+      "is_online": false,
+      "travel_sponsorship": "yes",
+      "event_type": "conference",
+      "discovered_at": "2026-04-18T07:12:14.193659+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "gen dx & edge tooling",
+        "react done right",
+        "and next",
+        "ai coding in real life"
+      ],
+      "speaker_perks": {
+        "hotel": true
+      },
+      "submission_fields": [
+        "abstract",
+        "bio",
+        "target audience",
+        "topic",
+        "photo"
+      ],
+      "enriched_at": "2026-04-18T07:12:21.622084+00:00",
+      "match_scores": {
+        "composite_score": 0.233,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.044,
+        "urgency_score": 0.8,
+        "format_score": 0.5,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "yes"
+      }
+    },
+    {
+      "id": "6eaa0d447775bc9c",
+      "source": "confs.tech",
+      "title": "SpiceWorld",
+      "url": "https://www.spiceworks.com/spiceworld",
+      "cfp_url": "https://sessionize.com/spiceworld-2026",
+      "description": "SpiceWorld 2026: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. Join us for two action-packed days of downloading IT know-how, uncovering insights with industry leaders, and getting hands-on with innovative solutions that can accelerate your business and your career.",
+      "tags": [
+        "iot",
+        "open-source",
+        "ai",
+        "education",
+        "general",
+        "leadership",
+        "cloud",
+        "web",
+        "security"
+      ],
+      "deadline": "2026-05-01",
+      "event_date": "2026-11-12",
+      "location": "Austin, TX, U.S.A.",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-04-18T07:12:14.193713+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "iot",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "career development: navigating the \u201chuman\u201d side of it"
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-18T07:12:22.361276+00:00",
+      "match_scores": {
+        "composite_score": 0.297,
+        "tag_relevance": 0.169,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.8,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "de256903b212cb87",
+      "source": "confs.tech",
+      "title": "CityJS Conference Athens",
+      "url": "https://athens.cityjsconf.org",
+      "cfp_url": "https://docs.google.com/forms/d/e/1FAIpQLSejZUdKqdZo0fZtcqDEWOqkhTGgsnXx5KJOo5flW2E-Ej2a2A/viewform",
+      "description": "CityJS Athens 2026 CFP CityJS Athens 2026 CFP CityJS Conference is an opportunity to speak in front of the JavaScript community of Athens and beyond. Despite the current global pandemic we've been able to continue online and reach a wider audience, as well as bring in speakers from all corners of the globe. For 2026 we are looking to host an in person event.",
+      "tags": [
+        "open-source",
+        "ai",
+        "education",
+        "testing",
+        "web",
+        "javascript"
+      ],
+      "deadline": "2026-06-30",
+      "event_date": "2026-10-21",
+      "location": "Athens, Greece",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-04-18T07:12:14.276616+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "nodejs",
+        "prior to any participation",
+        "friendly and sustainable",
+        "machine learning",
+        "cityjsconf",
+        "speakers",
+        "all attendees",
+        "architecture",
+        "which can be found here:  https:",
+        "as well as talks on how to be more eco",
+        "frameworks",
+        "typescript",
+        "such as testing"
+      ],
+      "submission_fields": [
+        "title",
+        "description",
+        "bio",
+        "talk length",
+        "topic",
+        "photo",
+        "social media",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-18T07:12:22.697455+00:00",
+      "match_scores": {
+        "composite_score": 0.232,
+        "tag_relevance": 0.167,
+        "talk_match_score": 0.078,
+        "urgency_score": 0.2,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "043ad5dafbcf0a2f",
+      "source": "confs.tech",
+      "title": "XtremeJS Online Conference",
+      "url": "https://xtremejs.dev",
+      "cfp_url": "https://tinyurl.com/xtreme2026",
+      "description": "Tech conference in TBD, TBD",
+      "tags": [
+        "javascript",
+        "online"
+      ],
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-10",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-04-18T07:12:14.276648+00:00",
+      "status": "open",
+      "match_scores": {
+        "composite_score": 0.19,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.0,
+        "urgency_score": 0.2,
+        "format_score": 0.8,
+        "suggested_talk": null,
+        "suggested_talk_level": null,
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "f05c47c6a5e87f79",
+      "source": "confs.tech",
+      "title": "JSNation US",
+      "url": "https://jsnation.us",
+      "cfp_url": "https://gitnation.com/events/jsnation-us-2026/cfp",
+      "description": "Log In GitNation FAQ Support/Feedback Nation`s stats Log in 0 Log in or sign up to proceed Sign in with X Sign in with GitHub Sign in with LinkedIn Or continue with Email Sign up.",
+      "tags": [
+        "javascript",
+        "ai"
+      ],
+      "deadline": "2026-07-13",
+      "event_date": "2026-11-16",
+      "location": "New York, NY, U.S.A.",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-04-18T07:12:14.276662+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-04-18T07:12:24.436657+00:00",
+      "match_scores": {
+        "composite_score": 0.13,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.0,
+        "urgency_score": 0.2,
+        "format_score": 0.5,
+        "suggested_talk": null,
+        "suggested_talk_level": null,
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "d2ce48bff79192a5",
+      "source": "confs.tech",
+      "title": "React Summit US",
+      "url": "https://reactsummit.us",
+      "cfp_url": "https://gitnation.com/events/react-summit-us-2026/cfp",
+      "description": "Log In GitNation FAQ Support/Feedback Nation`s stats Log in 0 Log in or sign up to proceed Sign in with X Sign in with GitHub Sign in with LinkedIn Or continue with Email Sign up.",
+      "tags": [
+        "online",
+        "javascript",
+        "ai"
+      ],
+      "deadline": "2026-07-09",
+      "event_date": "2026-11-17",
+      "location": "New York, NY, U.S.A.",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-04-18T07:12:14.276676+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-04-18T07:12:24.933282+00:00",
+      "match_scores": {
+        "composite_score": 0.19,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.0,
+        "urgency_score": 0.2,
+        "format_score": 0.8,
+        "suggested_talk": null,
+        "suggested_talk_level": null,
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "5c4ea69343e29864",
+      "source": "confs.tech",
+      "title": "React Day Berlin",
+      "url": "https://reactday.berlin",
+      "cfp_url": "https://gitnation.com/events/react-day-berlin-2026/cfp",
+      "description": "Log In GitNation FAQ Support/Feedback Nation`s stats Log in 0 Log in or sign up to proceed Sign in with X Sign in with GitHub Sign in with LinkedIn Or continue with Email Sign up.",
+      "tags": [
+        "online",
+        "javascript",
+        "ai"
+      ],
+      "deadline": "2026-08-12",
+      "event_date": "2026-12-04",
+      "location": "Berlin, Germany",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-04-18T07:12:14.276690+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-04-18T07:12:25.317427+00:00",
+      "match_scores": {
+        "composite_score": 0.17,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.0,
+        "urgency_score": 0.2,
+        "format_score": 0.7,
+        "suggested_talk": null,
+        "suggested_talk_level": null,
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
