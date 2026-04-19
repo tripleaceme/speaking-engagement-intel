@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-04-18T07:12:25.445353+00:00",
+    "last_updated": "2026-04-19T07:23:04.786426+00:00",
     "total_applications": 52,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 49,
-    "total_expired": 3,
+    "total_drafts": 48,
+    "total_expired": 4,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "draft": 49,
-      "expired": 3
+      "expired": 4,
+      "draft": 48
     },
     "unique_talk_titles": 7
   },
@@ -86,16 +86,21 @@
         "priority": "medium",
         "travel_sponsorship": "yes"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.665379+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.5)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-04-19T07:23:04.786129+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.665382+00:00",
-      "updated_at": "2026-04-08T12:28:22.665384+00:00",
+      "updated_at": "2026-04-19T07:23:04.786134+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

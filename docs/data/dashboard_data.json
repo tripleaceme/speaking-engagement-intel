@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T07:12:25.488750+00:00",
+  "generated_at": "2026-04-19T07:23:04.830066+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,20 +7,20 @@
   },
   "summary": {
     "total_cfps_discovered": 65,
-    "open_cfps": 62,
-    "expired_cfps": 3,
+    "open_cfps": 61,
+    "expired_cfps": 4,
     "total_applications": 52,
-    "drafts": 49,
+    "drafts": 48,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 3,
+    "expired_apps": 4,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-04-18T07:12:17.275695+00:00",
+    "last_crawled": "2026-04-19T07:23:01.978574+00:00",
     "sources_checked": 9,
-    "travel_yes": 4,
+    "travel_yes": 3,
     "travel_partial": 6,
     "travel_unknown": 52
   },
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 49
+      "draft": 48
     }
   ],
   "source_breakdown": [
@@ -58,44 +58,40 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 5,
+    "medium": 4,
     "low": 57
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 59
+      "count": 58
     },
     {
       "tag": "web",
-      "count": 49
+      "count": 48
     },
     {
       "tag": "open-source",
-      "count": 46
+      "count": 45
     },
     {
       "tag": "data",
-      "count": 36
-    },
-    {
-      "tag": "leadership",
       "count": 35
     },
     {
-      "tag": "education",
-      "count": 33
+      "tag": "leadership",
+      "count": 34
     },
     {
-      "tag": "cloud",
+      "tag": "education",
       "count": 32
     },
     {
-      "tag": "security",
-      "count": 23
+      "tag": "cloud",
+      "count": 31
     },
     {
-      "tag": "database",
+      "tag": "security",
       "count": 23
     },
     {
@@ -103,8 +99,12 @@
       "count": 23
     },
     {
+      "tag": "database",
+      "count": 22
+    },
+    {
       "tag": "conference",
-      "count": 16
+      "count": 15
     },
     {
       "tag": "testing",
@@ -119,15 +119,11 @@
       "count": 10
     },
     {
-      "tag": "blockchain",
-      "count": 9
-    },
-    {
       "tag": "call-for-papers",
       "count": 9
     },
     {
-      "tag": "europe",
+      "tag": "blockchain",
       "count": 8
     },
     {
@@ -136,6 +132,10 @@
     },
     {
       "tag": "general",
+      "count": 7
+    },
+    {
+      "tag": "europe",
       "count": 7
     },
     {
@@ -151,16 +151,16 @@
       "count": 5
     },
     {
-      "tag": "mobile",
-      "count": 5
-    },
-    {
       "tag": "events",
       "count": 5
     },
     {
       "tag": "conference, precon",
       "count": 5
+    },
+    {
+      "tag": "mobile",
+      "count": 4
     },
     {
       "tag": "north america",
@@ -184,31 +184,6 @@
     }
   ],
   "top_matches": [
-    {
-      "id": "7dda68e67daa431b",
-      "title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/fabcon26",
-      "deadline": "2026-04-18",
-      "event_date": "2026-09-28",
-      "location": "Barcelona, Spain",
-      "is_online": false,
-      "tags": [
-        "europe",
-        "database",
-        "cloud",
-        "education",
-        "ai"
-      ],
-      "score": 0.476,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.506,
-      "talk_match": 0.098,
-      "urgency": 1.0,
-      "travel_sponsorship": "yes",
-      "event_type": "conference"
-    },
     {
       "id": "c617b162f27db0cb",
       "title": "IT-Tage",
@@ -683,6 +658,31 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "78de4fe463d4aa28",
+      "title": "SQL Saturday Wellington 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sql-saturday-wellington-2026",
+      "deadline": "",
+      "event_date": "2026-05-30",
+      "location": "3 Wi Neera Dr,, Elsdon, Porirua 5022, New Zealand,",
+      "is_online": false,
+      "tags": [
+        "database",
+        "cloud",
+        "education",
+        "security",
+        "in-person"
+      ],
+      "score": 0.318,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.53,
+      "talk_match": 0.059,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": "external"
     }
   ],
   "applications": [
@@ -694,7 +694,7 @@
       "cfp_url": "https://sessionize.com/fabcon26",
       "deadline": "2026-04-18",
       "event_date": "2026-09-28",
-      "status": "draft",
+      "status": "expired",
       "score": 0.476,
       "priority": "medium",
       "created_at": "2026-04-08T12:28:22.665382+00:00",
@@ -1787,15 +1787,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
-      "deadline": "2026-04-18",
-      "source": "callfordataspeakers",
-      "score": 0.476,
-      "url": "https://sessionize.com/fabcon26",
-      "travel_sponsorship": "yes",
-      "location": "Barcelona, Spain"
-    },
-    {
       "title": "Fork it!",
       "deadline": "2026-04-19",
       "source": "confs.tech",
@@ -1875,6 +1866,15 @@
       "url": "https://gitnation.com/events/ai-coding-summit-london/cfp",
       "travel_sponsorship": "unknown",
       "location": "London, U.K."
+    },
+    {
+      "title": "FrontKon",
+      "deadline": "2026-04-30",
+      "source": "confs.tech",
+      "score": 0.233,
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSesYbIDZX7-3A_hKSxfmK6DAilUXBkIR6dAHfO7BDnyEratQQ/viewform",
+      "travel_sponsorship": "yes",
+      "location": "Prague, Czech Republic"
     }
   ]
 }
