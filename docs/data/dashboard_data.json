@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T07:52:11.556513+00:00",
+  "generated_at": "2026-04-23T07:58:19.595182+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -9,8 +9,8 @@
     "total_cfps_discovered": 65,
     "open_cfps": 59,
     "expired_cfps": 6,
-    "total_applications": 52,
-    "drafts": 46,
+    "total_applications": 53,
+    "drafts": 47,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,7 +18,7 @@
     "expired_apps": 6,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-04-22T07:52:07.773777+00:00",
+    "last_crawled": "2026-04-23T07:58:16.232487+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 6,
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 46
+      "draft": 47
     }
   ],
   "source_breakdown": [
@@ -58,8 +58,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 3,
-    "low": 56
+    "medium": 4,
+    "low": 55
   },
   "tag_cloud": [
     {
@@ -200,13 +200,38 @@
         "ai",
         "leadership"
       ],
-      "score": 0.426,
+      "score": 0.456,
       "priority": "medium",
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
       "tag_relevance": 0.523,
       "talk_match": 0.078,
-      "urgency": 0.8,
+      "urgency": 1.0,
       "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "a3b095e668bd8a61",
+      "title": "Power BI Next Step",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/power-bi-next-step",
+      "deadline": "2026-04-30",
+      "event_date": "2026-09-07",
+      "location": "Odense, Denmark",
+      "is_online": false,
+      "tags": [
+        "europe",
+        "education",
+        "ai",
+        "leadership",
+        "conference"
+      ],
+      "score": 0.417,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.335,
+      "talk_match": 0.098,
+      "urgency": 1.0,
+      "travel_sponsorship": "partial",
       "event_type": "conference"
     },
     {
@@ -285,6 +310,31 @@
       "event_type": "usergroup"
     },
     {
+      "id": "1dc1809e06936eb6",
+      "title": "Data Saturday Gothenburg",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/data-saturday-gothenburg-2026",
+      "deadline": "2026-04-30",
+      "event_date": "2026-09-05",
+      "location": "G\u00f6teborg, Sweden",
+      "is_online": false,
+      "tags": [
+        "europe",
+        "cloud",
+        "ai",
+        "leadership",
+        "conference"
+      ],
+      "score": 0.395,
+      "priority": "low",
+      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+      "tag_relevance": 0.343,
+      "talk_match": 0.082,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "1e63984aef734deb",
       "title": "dataMinds Connect 2026",
       "source": "callfordataspeakers",
@@ -308,31 +358,6 @@
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "a3b095e668bd8a61",
-      "title": "Power BI Next Step",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/power-bi-next-step",
-      "deadline": "2026-04-30",
-      "event_date": "2026-09-07",
-      "location": "Odense, Denmark",
-      "is_online": false,
-      "tags": [
-        "europe",
-        "education",
-        "ai",
-        "leadership",
-        "conference"
-      ],
-      "score": 0.387,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.335,
-      "talk_match": 0.098,
-      "urgency": 0.8,
-      "travel_sponsorship": "partial",
-      "event_type": "conference"
     },
     {
       "id": "8e6fbaf6f004a23a",
@@ -410,27 +435,27 @@
       "event_type": "conference"
     },
     {
-      "id": "1dc1809e06936eb6",
-      "title": "Data Saturday Gothenburg",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/data-saturday-gothenburg-2026",
+      "id": "55d24c2a7529cbf5",
+      "title": "DevOpsDays Graz",
+      "source": "confs.tech",
+      "url": "https://pretalx.com/devopsdays-graz-2026/cfp",
       "deadline": "2026-04-30",
-      "event_date": "2026-09-05",
-      "location": "G\u00f6teborg, Sweden",
+      "event_date": "2026-09-04",
+      "location": "Graz, Austria",
       "is_online": false,
       "tags": [
-        "europe",
-        "cloud",
+        "education",
         "ai",
-        "leadership",
-        "conference"
+        "devops",
+        "open-source",
+        "web"
       ],
-      "score": 0.365,
+      "score": 0.352,
       "priority": "low",
-      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-      "tag_relevance": 0.343,
-      "talk_match": 0.082,
-      "urgency": 0.8,
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.167,
+      "talk_match": 0.078,
+      "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -535,31 +560,6 @@
       "event_type": "conference"
     },
     {
-      "id": "55d24c2a7529cbf5",
-      "title": "DevOpsDays Graz",
-      "source": "confs.tech",
-      "url": "https://pretalx.com/devopsdays-graz-2026/cfp",
-      "deadline": "2026-04-30",
-      "event_date": "2026-09-04",
-      "location": "Graz, Austria",
-      "is_online": false,
-      "tags": [
-        "education",
-        "ai",
-        "devops",
-        "open-source",
-        "web"
-      ],
-      "score": 0.322,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.167,
-      "talk_match": 0.078,
-      "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "572d7d738708e54c",
       "title": "Data Engineers in Toronto",
       "source": "callfordataspeakers",
@@ -583,6 +583,31 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "c194a8eca6f2f3e9",
+      "title": "CMS Conf",
+      "source": "confs.tech",
+      "url": "https://cmsconf.com/call-for-papers",
+      "deadline": "2026-04-30",
+      "event_date": "2026-11-12",
+      "location": "Gdynia, Poland",
+      "is_online": false,
+      "tags": [
+        "general",
+        "security",
+        "leadership",
+        "ai",
+        "open-source"
+      ],
+      "score": 0.319,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.165,
+      "talk_match": 0.039,
+      "urgency": 1.0,
+      "travel_sponsorship": "partial",
+      "event_type": "conference"
     },
     {
       "id": "817753aaf9b0bac3",
@@ -658,31 +683,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
-    },
-    {
-      "id": "0486b7fd0e05c814",
-      "title": "Persian and Fabric Power BI User Group",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/persian-power-bi-user-group",
-      "deadline": "2026-09-12",
-      "event_date": "2025-09-25",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "education",
-        "ai",
-        "leadership",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.313,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.34,
-      "talk_match": 0.078,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -707,6 +707,26 @@
       "event_location": "Barcelona, Spain"
     },
     {
+      "id": "d3220eaa0057c36f",
+      "cfp_title": "IT-Tage",
+      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://www.ittage.informatik-aktuell.de/index.html",
+      "deadline": "2026-04-30",
+      "event_date": "2026-12-07",
+      "status": "draft",
+      "score": 0.456,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.661281+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'devops' (score: 8.5)",
+      "is_online": false,
+      "event_location": "Frankfurt am Main, Germany"
+    },
+    {
       "id": "e7535e1aad2d5567",
       "cfp_title": "data2day",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -727,26 +747,6 @@
       "event_location": "Cologne, Germany"
     },
     {
-      "id": "d3220eaa0057c36f",
-      "cfp_title": "IT-Tage",
-      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://www.ittage.informatik-aktuell.de/index.html",
-      "deadline": "2026-04-30",
-      "event_date": "2026-12-07",
-      "status": "draft",
-      "score": 0.426,
-      "priority": "medium",
-      "created_at": "2026-04-08T12:28:22.661281+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'devops' (score: 8.5)",
-      "is_online": false,
-      "event_location": "Frankfurt am Main, Germany"
-    },
-    {
       "id": "f05c499a51109afe",
       "cfp_title": "Power BI Days DC 2026",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -765,6 +765,26 @@
       "match_reason": "Conference themes align with 'education' (score: 6.5)",
       "is_online": false,
       "event_location": "Arlington, Virginia, United States"
+    },
+    {
+      "id": "6f5d674772812ce9",
+      "cfp_title": "Power BI Next Step",
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/power-bi-next-step",
+      "deadline": "2026-04-30",
+      "event_date": "2026-09-07",
+      "status": "draft",
+      "score": 0.417,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.665272+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'education' (score: 6.0)",
+      "is_online": false,
+      "event_location": "Odense, Denmark"
     },
     {
       "id": "a8926dfa8f782254",
@@ -847,6 +867,26 @@
       "event_location": "Online"
     },
     {
+      "id": "ff7950850daa5cb0",
+      "cfp_title": "Data Saturday Gothenburg",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-saturday-gothenburg-2026",
+      "deadline": "2026-04-30",
+      "event_date": "2026-09-05",
+      "status": "draft",
+      "score": 0.395,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.665170+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'cloud' (score: 5.5)",
+      "is_online": false,
+      "event_location": "G\u00f6teborg, Sweden"
+    },
+    {
       "id": "2493cc146e263fd6",
       "cfp_title": "dataMinds Connect 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -865,26 +905,6 @@
       "match_reason": "Conference themes align with 'data' (score: 14.5)",
       "is_online": false,
       "event_location": "Mechelen, Belgium"
-    },
-    {
-      "id": "6f5d674772812ce9",
-      "cfp_title": "Power BI Next Step",
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/power-bi-next-step",
-      "deadline": "2026-04-30",
-      "event_date": "2026-09-07",
-      "status": "draft",
-      "score": 0.387,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.665272+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'education' (score: 6.0)",
-      "is_online": false,
-      "event_location": "Odense, Denmark"
     },
     {
       "id": "c6546a796d53b106",
@@ -947,24 +967,24 @@
       "event_location": "San Jose, CA, U.S.A."
     },
     {
-      "id": "ff7950850daa5cb0",
-      "cfp_title": "Data Saturday Gothenburg",
-      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/data-saturday-gothenburg-2026",
+      "id": "b6517bb572c459b1",
+      "cfp_title": "DevOpsDays Graz",
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://pretalx.com/devopsdays-graz-2026/cfp",
       "deadline": "2026-04-30",
-      "event_date": "2026-09-05",
+      "event_date": "2026-09-04",
       "status": "draft",
-      "score": 0.365,
+      "score": 0.352,
       "priority": "low",
-      "created_at": "2026-04-08T12:28:22.665170+00:00",
+      "created_at": "2026-04-08T12:28:22.661705+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": "",
       "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'cloud' (score: 5.5)",
+      "match_reason": "Conference themes align with 'education' (score: 4.5)",
       "is_online": false,
-      "event_location": "G\u00f6teborg, Sweden"
+      "event_location": "Graz, Austria"
     },
     {
       "id": "5e1414e189fef8fd",
@@ -1067,26 +1087,6 @@
       "event_location": "Dubai, United Arab Emirates"
     },
     {
-      "id": "b6517bb572c459b1",
-      "cfp_title": "DevOpsDays Graz",
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://pretalx.com/devopsdays-graz-2026/cfp",
-      "deadline": "2026-04-30",
-      "event_date": "2026-09-04",
-      "status": "draft",
-      "score": 0.322,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.661705+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'education' (score: 4.5)",
-      "is_online": false,
-      "event_location": "Graz, Austria"
-    },
-    {
       "id": "072a243546db9f10",
       "cfp_title": "Data Engineers in Toronto",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -1105,6 +1105,26 @@
       "match_reason": "Conference themes align with 'education' (score: 4.5)",
       "is_online": true,
       "event_location": "Virtual / Online"
+    },
+    {
+      "id": "ce336dbd55617205",
+      "cfp_title": "CMS Conf",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://cmsconf.com/call-for-papers",
+      "deadline": "2026-04-30",
+      "event_date": "2026-11-12",
+      "status": "draft",
+      "score": 0.319,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.662555+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'leadership' (score: 4.5)",
+      "is_online": false,
+      "event_location": "Gdynia, Poland"
     },
     {
       "id": "14f24ec0a257b5c7",
@@ -1227,6 +1247,46 @@
       "event_location": "online"
     },
     {
+      "id": "0178fbaa5b7d8e18",
+      "cfp_title": "Asynconf",
+      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://cfp.asynconf.com",
+      "deadline": "2026-04-30",
+      "event_date": "2026-06-27",
+      "status": "draft",
+      "score": 0.31,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.661634+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'devops' (score: 2.5)",
+      "is_online": true,
+      "event_location": "Paris, France"
+    },
+    {
+      "id": "05947dc74ac90853",
+      "cfp_title": "AI Coding Summit, London Edition",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://gitnation.com/events/ai-coding-summit-london/cfp",
+      "deadline": "2026-04-30",
+      "event_date": "2026-07-06",
+      "status": "draft",
+      "score": 0.31,
+      "priority": "low",
+      "created_at": "2026-04-18T07:12:25.442745+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": true,
+      "event_location": "London, U.K."
+    },
+    {
       "id": "922be52c18c6e9a0",
       "cfp_title": "TechSummit Amsterdam",
       "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
@@ -1307,26 +1367,6 @@
       "event_location": "Austin, TX, U.S.A."
     },
     {
-      "id": "ce336dbd55617205",
-      "cfp_title": "CMS Conf",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://cmsconf.com/call-for-papers",
-      "deadline": "2026-04-30",
-      "event_date": "2026-11-12",
-      "status": "draft",
-      "score": 0.289,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.662555+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'leadership' (score: 4.5)",
-      "is_online": false,
-      "event_location": "Gdynia, Poland"
-    },
-    {
       "id": "a0c4f8271ff446ff",
       "cfp_title": "WeAreDevelopers Conference India",
       "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
@@ -1365,46 +1405,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 8.5)",
       "is_online": false,
       "event_location": "Prague, Czechia"
-    },
-    {
-      "id": "0178fbaa5b7d8e18",
-      "cfp_title": "Asynconf",
-      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://cfp.asynconf.com",
-      "deadline": "2026-04-30",
-      "event_date": "2026-06-27",
-      "status": "draft",
-      "score": 0.28,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.661634+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'devops' (score: 2.5)",
-      "is_online": true,
-      "event_location": "Paris, France"
-    },
-    {
-      "id": "05947dc74ac90853",
-      "cfp_title": "AI Coding Summit, London Edition",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://gitnation.com/events/ai-coding-summit-london/cfp",
-      "deadline": "2026-04-30",
-      "event_date": "2026-07-06",
-      "status": "draft",
-      "score": 0.28,
-      "priority": "low",
-      "created_at": "2026-04-18T07:12:25.442745+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
-      "is_online": true,
-      "event_location": "London, U.K."
     },
     {
       "id": "55fa692cad8ca7f4",
@@ -1545,6 +1545,26 @@
       "match_reason": "Conference themes align with 'database' (score: 15.0)",
       "is_online": false,
       "event_location": "Reynolds Community College, 1651 E Parham Rd, Richmond, VA 23228,"
+    },
+    {
+      "id": "ab70c364fbf1374a",
+      "cfp_title": "FrontKon",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://docs.google.com/forms/d/e/1FAIpQLSesYbIDZX7-3A_hKSxfmK6DAilUXBkIR6dAHfO7BDnyEratQQ/viewform",
+      "deadline": "2026-04-30",
+      "event_date": "2026-10-06",
+      "status": "draft",
+      "score": 0.263,
+      "priority": "low",
+      "created_at": "2026-04-23T07:58:19.546954+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'ai' (score: 7.0)",
+      "is_online": false,
+      "event_location": "Prague, Czech Republic"
     },
     {
       "id": "69a810840a371dd5",
@@ -1730,7 +1750,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 14,
+      "applications": 15,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -1790,7 +1810,7 @@
       "title": "IT-Tage",
       "deadline": "2026-04-30",
       "source": "confs.tech",
-      "score": 0.426,
+      "score": 0.456,
       "url": "https://www.ittage.informatik-aktuell.de/index.html",
       "travel_sponsorship": "unknown",
       "location": "Frankfurt am Main, Germany"
@@ -1799,7 +1819,7 @@
       "title": "Asynconf",
       "deadline": "2026-04-30",
       "source": "confs.tech",
-      "score": 0.28,
+      "score": 0.31,
       "url": "https://cfp.asynconf.com",
       "travel_sponsorship": "unknown",
       "location": "Paris, France"
@@ -1808,7 +1828,7 @@
       "title": "DevOpsDays Graz",
       "deadline": "2026-04-30",
       "source": "confs.tech",
-      "score": 0.322,
+      "score": 0.352,
       "url": "https://pretalx.com/devopsdays-graz-2026/cfp",
       "travel_sponsorship": "unknown",
       "location": "Graz, Austria"
@@ -1817,7 +1837,7 @@
       "title": "CMS Conf",
       "deadline": "2026-04-30",
       "source": "confs.tech",
-      "score": 0.289,
+      "score": 0.319,
       "url": "https://cmsconf.com/call-for-papers",
       "travel_sponsorship": "partial",
       "location": "Gdynia, Poland"
@@ -1826,7 +1846,7 @@
       "title": "Data Saturday Gothenburg",
       "deadline": "2026-04-30",
       "source": "callfordataspeakers",
-      "score": 0.365,
+      "score": 0.395,
       "url": "https://sessionize.com/data-saturday-gothenburg-2026",
       "travel_sponsorship": "unknown",
       "location": "G\u00f6teborg, Sweden"
@@ -1835,7 +1855,7 @@
       "title": "Power BI Next Step",
       "deadline": "2026-04-30",
       "source": "callfordataspeakers",
-      "score": 0.387,
+      "score": 0.417,
       "url": "https://sessionize.com/power-bi-next-step",
       "travel_sponsorship": "partial",
       "location": "Odense, Denmark"
@@ -1844,7 +1864,7 @@
       "title": "AI Coding Summit, London Edition",
       "deadline": "2026-04-30",
       "source": "confs.tech",
-      "score": 0.28,
+      "score": 0.31,
       "url": "https://gitnation.com/events/ai-coding-summit-london/cfp",
       "travel_sponsorship": "unknown",
       "location": "London, U.K."
@@ -1853,7 +1873,7 @@
       "title": "FrontKon",
       "deadline": "2026-04-30",
       "source": "confs.tech",
-      "score": 0.233,
+      "score": 0.263,
       "url": "https://docs.google.com/forms/d/e/1FAIpQLSesYbIDZX7-3A_hKSxfmK6DAilUXBkIR6dAHfO7BDnyEratQQ/viewform",
       "travel_sponsorship": "yes",
       "location": "Prague, Czech Republic"
