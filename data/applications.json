@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-04-23T07:58:19.549598+00:00",
+    "last_updated": "2026-04-24T08:07:21.359913+00:00",
     "total_applications": 53,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -277,6 +277,86 @@
       "notes": ""
     },
     {
+      "id": "8496831bd6d324e2",
+      "cfp_id": "5c162d9dad315513",
+      "cfp_title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
+      "cfp_url": "https://sessionize.com/cloud-data-driven-user-group-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-05-01",
+      "event_date": "2026-01-08",
+      "event_location": "Online",
+      "is_online": true,
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+      "talk_tags": [
+        "dbt",
+        "data-quality",
+        "documentation",
+        "analytics-engineering",
+        "ai"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'data' (score: 8.3)",
+      "conference_themes": [
+        "ai",
+        "cloud",
+        "web",
+        "open-source",
+        "leadership",
+        "education"
+      ],
+      "conference_categories": [
+        "related to data & ai and machine learning",
+        "technologies",
+        "and best practices in data platforms",
+        "engaging presentations on the latest trends"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "dbt",
+          "data-quality",
+          "documentation",
+          "analytics-engineering",
+          "ai"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.429,
+        "tag_relevance": 0.347,
+        "talk_match_score": 0.059,
+        "urgency_score": 1.0,
+        "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.663833+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 8.3)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.663835+00:00",
+      "updated_at": "2026-04-08T12:28:22.663837+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "f05c499a51109afe",
       "cfp_id": "0dda486643ff2330",
       "cfp_title": "Power BI Days DC 2026",
@@ -538,6 +618,82 @@
       "notes": ""
     },
     {
+      "id": "7f82ee61109f3fc7",
+      "cfp_id": "bf470d2615bfbc4d",
+      "cfp_title": "Day of Data Albany 2026",
+      "cfp_url": "https://sessionize.com/day-of-data-albany-2026/",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-05-01",
+      "event_date": "2026-08-07",
+      "event_location": "Massry School of Business, UAlbany, Albany, NY 12202",
+      "is_online": false,
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+      "talk_tags": [
+        "education",
+        "data-literacy",
+        "community",
+        "diversity",
+        "edtech"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'education' (score: 6.0)",
+      "conference_themes": [
+        "education",
+        "ai",
+        "web",
+        "leadership"
+      ],
+      "conference_categories": [
+        "sponsoring day of data albany",
+        "please visit our sponsorship page"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "education",
+          "data-literacy",
+          "community",
+          "diversity",
+          "edtech"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.409,
+        "tag_relevance": 0.364,
+        "talk_match_score": 0.039,
+        "urgency_score": 1.0,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.665019+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.0)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.665022+00:00",
+      "updated_at": "2026-04-08T12:28:22.665024+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "4773a1d619aabaed",
       "cfp_id": "5beb3fd03323d3b6",
       "cfp_title": "AI for Developers",
@@ -694,86 +850,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.663958+00:00",
       "updated_at": "2026-04-08T12:28:22.663960+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "8496831bd6d324e2",
-      "cfp_id": "5c162d9dad315513",
-      "cfp_title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
-      "cfp_url": "https://sessionize.com/cloud-data-driven-user-group-2026",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-05-01",
-      "event_date": "2026-01-08",
-      "event_location": "Online",
-      "is_online": true,
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-      "talk_tags": [
-        "dbt",
-        "data-quality",
-        "documentation",
-        "analytics-engineering",
-        "ai"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'data' (score: 8.3)",
-      "conference_themes": [
-        "ai",
-        "cloud",
-        "web",
-        "open-source",
-        "leadership",
-        "education"
-      ],
-      "conference_categories": [
-        "related to data & ai and machine learning",
-        "technologies",
-        "and best practices in data platforms",
-        "engaging presentations on the latest trends"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "dbt",
-          "data-quality",
-          "documentation",
-          "analytics-engineering",
-          "ai"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.399,
-        "tag_relevance": 0.347,
-        "talk_match_score": 0.059,
-        "urgency_score": 0.8,
-        "format_score": 0.7,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.663833+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 8.3)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.663835+00:00",
-      "updated_at": "2026-04-08T12:28:22.663837+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -1014,82 +1090,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.664934+00:00",
       "updated_at": "2026-04-08T12:28:22.664936+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "7f82ee61109f3fc7",
-      "cfp_id": "bf470d2615bfbc4d",
-      "cfp_title": "Day of Data Albany 2026",
-      "cfp_url": "https://sessionize.com/day-of-data-albany-2026/",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-05-01",
-      "event_date": "2026-08-07",
-      "event_location": "Massry School of Business, UAlbany, Albany, NY 12202",
-      "is_online": false,
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
-      "talk_tags": [
-        "education",
-        "data-literacy",
-        "community",
-        "diversity",
-        "edtech"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'education' (score: 6.0)",
-      "conference_themes": [
-        "education",
-        "ai",
-        "web",
-        "leadership"
-      ],
-      "conference_categories": [
-        "sponsoring day of data albany",
-        "please visit our sponsorship page"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "education",
-          "data-literacy",
-          "community",
-          "diversity",
-          "edtech"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.379,
-        "tag_relevance": 0.364,
-        "talk_match_score": 0.039,
-        "urgency_score": 0.8,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.665019+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.0)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.665022+00:00",
-      "updated_at": "2026-04-08T12:28:22.665024+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -1416,6 +1416,83 @@
       ],
       "created_at": "2026-04-08T12:28:22.662035+00:00",
       "updated_at": "2026-04-20T08:11:55.997865+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "82f06ff2742d8c25",
+      "cfp_id": "6eaa0d447775bc9c",
+      "cfp_title": "SpiceWorld",
+      "cfp_url": "https://sessionize.com/spiceworld-2026",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-05-01",
+      "event_date": "2026-11-12",
+      "event_location": "Austin, TX, U.S.A.",
+      "is_online": false,
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+      "talk_tags": [
+        "leadership",
+        "data-culture",
+        "analytics-engineering",
+        "strategy"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
+      "conference_themes": [
+        "leadership",
+        "ai",
+        "cloud",
+        "web",
+        "education",
+        "security",
+        "open-source",
+        "iot"
+      ],
+      "conference_categories": [
+        "career development: navigating the \u201chuman\u201d side of it"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "leadership",
+          "data-culture",
+          "analytics-engineering",
+          "strategy"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.327,
+        "tag_relevance": 0.169,
+        "talk_match_score": 0.059,
+        "urgency_score": 1.0,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-18T07:12:25.442834+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 5.5)"
+        }
+      ],
+      "created_at": "2026-04-18T07:12:25.442836+00:00",
+      "updated_at": "2026-04-18T07:12:25.442838+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -2728,83 +2805,6 @@
       "notes": ""
     },
     {
-      "id": "82f06ff2742d8c25",
-      "cfp_id": "6eaa0d447775bc9c",
-      "cfp_title": "SpiceWorld",
-      "cfp_url": "https://sessionize.com/spiceworld-2026",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-05-01",
-      "event_date": "2026-11-12",
-      "event_location": "Austin, TX, U.S.A.",
-      "is_online": false,
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-      "talk_tags": [
-        "leadership",
-        "data-culture",
-        "analytics-engineering",
-        "strategy"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
-      "conference_themes": [
-        "leadership",
-        "ai",
-        "cloud",
-        "web",
-        "education",
-        "security",
-        "open-source",
-        "iot"
-      ],
-      "conference_categories": [
-        "career development: navigating the \u201chuman\u201d side of it"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "leadership",
-          "data-culture",
-          "analytics-engineering",
-          "strategy"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.297,
-        "tag_relevance": 0.169,
-        "talk_match_score": 0.059,
-        "urgency_score": 0.8,
-        "format_score": 0.5,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-18T07:12:25.442834+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 5.5)"
-        }
-      ],
-      "created_at": "2026-04-18T07:12:25.442836+00:00",
-      "updated_at": "2026-04-18T07:12:25.442838+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
       "id": "a0c4f8271ff446ff",
       "cfp_id": "0a75fc53d01cae41",
       "cfp_title": "WeAreDevelopers Conference India",
@@ -2972,6 +2972,80 @@
       ],
       "created_at": "2026-04-08T12:28:22.665809+00:00",
       "updated_at": "2026-04-08T12:28:22.665810+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "cdf1f660bb88de25",
+      "cfp_id": "ee38724369f2d6c8",
+      "cfp_title": "Data Platform Women in Technology Virtual Group 2026",
+      "cfp_url": "https://sessionize.com/datawit-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-06-23",
+      "event_date": "2026-01-13",
+      "event_location": "Virtual",
+      "is_online": true,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "conference_themes": [
+        "ai",
+        "web",
+        "open-source"
+      ],
+      "conference_categories": [
+        "or wit issues in the workplace"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.28,
+        "tag_relevance": 0.179,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.4,
+        "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.664035+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 4.0)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.664038+00:00",
+      "updated_at": "2026-04-08T12:28:22.664040+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -4176,80 +4250,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.666101+00:00",
       "updated_at": "2026-04-08T12:28:22.666103+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "cdf1f660bb88de25",
-      "cfp_id": "ee38724369f2d6c8",
-      "cfp_title": "Data Platform Women in Technology Virtual Group 2026",
-      "cfp_url": "https://sessionize.com/datawit-2026",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-06-23",
-      "event_date": "2026-01-13",
-      "event_location": "Virtual",
-      "is_online": true,
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-      "talk_tags": [
-        "ai",
-        "llm",
-        "data-governance",
-        "dbt",
-        "automation"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
-      "conference_themes": [
-        "ai",
-        "web",
-        "open-source"
-      ],
-      "conference_categories": [
-        "or wit issues in the workplace"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "ai",
-          "llm",
-          "data-governance",
-          "dbt",
-          "automation"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.25,
-        "tag_relevance": 0.179,
-        "talk_match_score": 0.059,
-        "urgency_score": 0.2,
-        "format_score": 0.7,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.664035+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 4.0)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.664038+00:00",
-      "updated_at": "2026-04-08T12:28:22.664040+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
