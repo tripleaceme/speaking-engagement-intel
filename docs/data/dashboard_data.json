@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T08:07:21.403572+00:00",
+  "generated_at": "2026-04-25T07:20:56.778754+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 6,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-04-24T08:07:18.458244+00:00",
+    "last_crawled": "2026-04-25T07:20:53.989259+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 6,
@@ -58,8 +58,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 6,
-    "low": 53
+    "medium": 7,
+    "low": 52
   },
   "tag_cloud": [
     {
@@ -260,6 +260,31 @@
       "event_type": "conference"
     },
     {
+      "id": "8e6fbaf6f004a23a",
+      "title": "Day of Data Baton Rouge 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sqlsatbr26",
+      "deadline": "2026-05-02",
+      "event_date": "2026-07-17",
+      "location": "Baton Rouge, Louisiana, United States",
+      "is_online": false,
+      "tags": [
+        "database",
+        "north america",
+        "education",
+        "ai",
+        "conference, precon"
+      ],
+      "score": 0.41,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.367,
+      "talk_match": 0.039,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon"
+    },
+    {
       "id": "bf470d2615bfbc4d",
       "title": "Day of Data Albany 2026",
       "source": "callfordataspeakers",
@@ -381,31 +406,6 @@
       "tag_relevance": 0.51,
       "talk_match": 0.078,
       "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference, precon"
-    },
-    {
-      "id": "8e6fbaf6f004a23a",
-      "title": "Day of Data Baton Rouge 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sqlsatbr26",
-      "deadline": "2026-05-02",
-      "event_date": "2026-07-17",
-      "location": "Baton Rouge, Louisiana, United States",
-      "is_online": false,
-      "tags": [
-        "database",
-        "north america",
-        "education",
-        "ai",
-        "conference, precon"
-      ],
-      "score": 0.38,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.367,
-      "talk_match": 0.039,
-      "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
     },
@@ -827,6 +827,26 @@
       "event_location": "Mannheim, Germany"
     },
     {
+      "id": "c6546a796d53b106",
+      "cfp_title": "Day of Data Baton Rouge 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sqlsatbr26",
+      "deadline": "2026-05-02",
+      "event_date": "2026-07-17",
+      "status": "draft",
+      "score": 0.41,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.664934+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 4.3)",
+      "is_online": false,
+      "event_location": "Baton Rouge, Louisiana, United States"
+    },
+    {
       "id": "7f82ee61109f3fc7",
       "cfp_title": "Day of Data Albany 2026",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -925,26 +945,6 @@
       "match_reason": "Conference themes align with 'data' (score: 14.5)",
       "is_online": false,
       "event_location": "Mechelen, Belgium"
-    },
-    {
-      "id": "c6546a796d53b106",
-      "cfp_title": "Day of Data Baton Rouge 2026",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/sqlsatbr26",
-      "deadline": "2026-05-02",
-      "event_date": "2026-07-17",
-      "status": "draft",
-      "score": 0.38,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.664934+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 4.3)",
-      "is_online": false,
-      "event_location": "Baton Rouge, Louisiana, United States"
     },
     {
       "id": "c8f2597c6e5db7c4",
