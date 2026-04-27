@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-26T07:43:20.141105+00:00",
+  "generated_at": "2026-04-27T08:29:46.521835+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 65,
-    "open_cfps": 59,
+    "total_cfps_discovered": 66,
+    "open_cfps": 60,
     "expired_cfps": 6,
-    "total_applications": 53,
-    "drafts": 47,
+    "total_applications": 54,
+    "drafts": 48,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 6,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-04-26T07:43:17.660358+00:00",
+    "last_crawled": "2026-04-27T08:29:42.430584+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 6,
-    "travel_unknown": 51
+    "travel_unknown": 52
   },
   "timeline": [
     {
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 47
+      "draft": 48
     }
   ],
   "source_breakdown": [
@@ -41,7 +41,7 @@
     },
     {
       "source": "callfordataspeakers",
-      "count": 26
+      "count": 27
     },
     {
       "source": "github",
@@ -58,25 +58,25 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 7,
+    "medium": 8,
     "low": 52
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 56
+      "count": 57
     },
     {
       "tag": "web",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "open-source",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "data",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "leadership",
@@ -84,7 +84,7 @@
     },
     {
       "tag": "education",
-      "count": 30
+      "count": 31
     },
     {
       "tag": "cloud",
@@ -116,7 +116,7 @@
     },
     {
       "tag": "usergroup",
-      "count": 10
+      "count": 11
     },
     {
       "tag": "call-for-papers",
@@ -231,6 +231,31 @@
       "tag_relevance": 0.347,
       "talk_match": 0.059,
       "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
+      "id": "54914a3c37e33054",
+      "title": "Microsoft Fabric & Power BI Melbourne",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/fabric-powerbi-melbourne",
+      "deadline": "2026-05-11",
+      "event_date": "2026-05-21",
+      "location": "Melbourne, Australia",
+      "is_online": true,
+      "tags": [
+        "education",
+        "usergroup",
+        "ai",
+        "data",
+        "web"
+      ],
+      "score": 0.424,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.343,
+      "talk_match": 0.078,
+      "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
     },
@@ -658,31 +683,6 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
-    },
-    {
-      "id": "78de4fe463d4aa28",
-      "title": "SQL Saturday Wellington 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sql-saturday-wellington-2026",
-      "deadline": "",
-      "event_date": "2026-05-30",
-      "location": "3 Wi Neera Dr,, Elsdon, Porirua 5022, New Zealand,",
-      "is_online": false,
-      "tags": [
-        "database",
-        "cloud",
-        "education",
-        "security",
-        "in-person"
-      ],
-      "score": 0.318,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.53,
-      "talk_match": 0.059,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": "external"
     }
   ],
   "applications": [
@@ -765,6 +765,26 @@
       "match_reason": "Conference themes align with 'data' (score: 8.3)",
       "is_online": true,
       "event_location": "Online"
+    },
+    {
+      "id": "219e8819ef0a5d02",
+      "cfp_title": "Microsoft Fabric & Power BI Melbourne",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/fabric-powerbi-melbourne",
+      "deadline": "2026-05-11",
+      "event_date": "2026-05-21",
+      "status": "draft",
+      "score": 0.424,
+      "priority": "medium",
+      "created_at": "2026-04-27T08:29:46.475874+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 5.0)",
+      "is_online": true,
+      "event_location": "Melbourne, Australia"
     },
     {
       "id": "f05c499a51109afe",
@@ -1750,7 +1770,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 15,
+      "applications": 16,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,

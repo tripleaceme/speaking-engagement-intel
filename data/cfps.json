@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-04-26T07:43:17.660358+00:00",
-    "total_cfps": 65,
-    "open_cfps": 59,
+    "last_crawled": "2026-04-27T08:29:42.430584+00:00",
+    "total_cfps": 66,
+    "open_cfps": 60,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 6,
-    "last_scored": "2026-04-26T07:43:20.047061+00:00",
+    "last_scored": "2026-04-27T08:29:46.425620+00:00",
     "high_priority": 0,
-    "medium_priority": 7,
-    "above_threshold": 47
+    "medium_priority": 8,
+    "above_threshold": 48
   },
   "cfps": [
     {
@@ -4789,6 +4789,69 @@
         "suggested_talk": null,
         "suggested_talk_level": null,
         "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "54914a3c37e33054",
+      "source": "callfordataspeakers",
+      "title": "Microsoft Fabric & Power BI Melbourne",
+      "url": "https://sessionize.com/fabric-powerbi-melbourne",
+      "cfp_url": "https://sessionize.com/fabric-powerbi-melbourne",
+      "description": "Microsoft Fabric & Power BI Melbourne: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. We've been bringing the community together monthly for years, and we're opening up our meetup on sessionize for speaker submissions.",
+      "tags": [
+        "education",
+        "usergroup",
+        "ai",
+        "data",
+        "web",
+        "oceania",
+        "open-source"
+      ],
+      "deadline": "2026-05-11",
+      "event_date": "2026-05-21",
+      "location": "Melbourne, Australia",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup",
+      "discovered_at": "2026-04-27T08:29:41.951233+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "title",
+        "abstract",
+        "bio",
+        "target audience",
+        "headshot",
+        "twitter"
+      ],
+      "enriched_at": "2026-04-27T08:29:46.350765+00:00",
+      "match_scores": {
+        "composite_score": 0.424,
+        "tag_relevance": 0.343,
+        "talk_match_score": 0.078,
+        "urgency_score": 0.8,
+        "format_score": 0.8,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
         "travel_sponsorship": "unknown"
       }
     }
