@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-04-30T08:25:02.839753+00:00",
+    "last_crawled": "2026-05-01T08:14:11.551335+00:00",
     "total_cfps": 66,
-    "open_cfps": 60,
+    "open_cfps": 52,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 0,
-    "travel_sponsorship_yes": 2,
-    "travel_sponsorship_partial": 6,
-    "last_scored": "2026-04-30T08:25:05.406540+00:00",
+    "expired_this_run": 8,
+    "travel_sponsorship_yes": 1,
+    "travel_sponsorship_partial": 4,
+    "last_scored": "2026-05-01T08:14:13.811200+00:00",
     "high_priority": 0,
-    "medium_priority": 8,
-    "above_threshold": 48
+    "medium_priority": 6,
+    "above_threshold": 41
   },
   "cfps": [
     {
@@ -461,7 +461,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:45.455475+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "devops",
@@ -514,17 +514,7 @@
         "track"
       ],
       "enriched_at": "2026-04-08T12:26:22.670666+00:00",
-      "match_scores": {
-        "composite_score": 0.456,
-        "tag_relevance": 0.523,
-        "talk_match_score": 0.078,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "5beb3fd03323d3b6",
@@ -739,19 +729,9 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:46.749263+00:00",
-      "status": "open",
+      "status": "expired",
       "enriched_at": "2026-04-08T12:26:32.474643+00:00",
-      "match_scores": {
-        "composite_score": 0.31,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
-        "urgency_score": 1.0,
-        "format_score": 0.8,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "55d24c2a7529cbf5",
@@ -774,7 +754,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:46.749317+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "education",
@@ -798,17 +778,7 @@
         }
       ],
       "enriched_at": "2026-04-08T12:26:33.085034+00:00",
-      "match_scores": {
-        "composite_score": 0.352,
-        "tag_relevance": 0.167,
-        "talk_match_score": 0.078,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "dfef6664af81dc72",
@@ -882,10 +852,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:33.994797+00:00",
       "match_scores": {
-        "composite_score": 0.303,
+        "composite_score": 0.333,
         "tag_relevance": 0.166,
         "talk_match_score": 0.118,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -1251,7 +1221,7 @@
       "travel_sponsorship": "partial",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:47.351438+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "web",
@@ -1291,17 +1261,7 @@
         "social media"
       ],
       "enriched_at": "2026-04-08T12:26:49.789653+00:00",
-      "match_scores": {
-        "composite_score": 0.319,
-        "tag_relevance": 0.165,
-        "talk_match_score": 0.039,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "partial"
-      }
+      "match_scores": null
     },
     {
       "id": "a6d3b93c921d5c72",
@@ -3416,10 +3376,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:51.399149+00:00",
       "match_scores": {
-        "composite_score": 0.278,
+        "composite_score": 0.308,
         "tag_relevance": 0.183,
         "talk_match_score": 0.044,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.7,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
@@ -3451,7 +3411,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:56.586637+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "cloud",
@@ -3480,17 +3440,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:52.291998+00:00",
-      "match_scores": {
-        "composite_score": 0.395,
-        "tag_relevance": 0.343,
-        "talk_match_score": 0.082,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "a3b095e668bd8a61",
@@ -3516,7 +3466,7 @@
       "travel_sponsorship": "partial",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:56.586847+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "education",
@@ -3558,17 +3508,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:53.143917+00:00",
-      "match_scores": {
-        "composite_score": 0.417,
-        "tag_relevance": 0.335,
-        "talk_match_score": 0.098,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "partial"
-      }
+      "match_scores": null
     },
     {
       "id": "7dda68e67daa431b",
@@ -3733,10 +3673,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:54.891974+00:00",
       "match_scores": {
-        "composite_score": 0.326,
+        "composite_score": 0.356,
         "tag_relevance": 0.367,
         "talk_match_score": 0.059,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -4403,7 +4343,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-18T07:12:14.107731+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -4411,17 +4351,7 @@
         }
       ],
       "enriched_at": "2026-04-18T07:12:21.189458+00:00",
-      "match_scores": {
-        "composite_score": 0.31,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
-        "urgency_score": 1.0,
-        "format_score": 0.8,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "3a77676ab4b6b953",
@@ -4442,7 +4372,7 @@
       "travel_sponsorship": "yes",
       "event_type": "conference",
       "discovered_at": "2026-04-18T07:12:14.193659+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "web",
@@ -4470,17 +4400,7 @@
         "photo"
       ],
       "enriched_at": "2026-04-18T07:12:21.622084+00:00",
-      "match_scores": {
-        "composite_score": 0.263,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.044,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "yes"
-      }
+      "match_scores": null
     },
     {
       "id": "6eaa0d447775bc9c",
@@ -4634,10 +4554,10 @@
       ],
       "enriched_at": "2026-04-18T07:12:22.697455+00:00",
       "match_scores": {
-        "composite_score": 0.232,
+        "composite_score": 0.262,
         "tag_relevance": 0.167,
         "talk_match_score": 0.078,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",

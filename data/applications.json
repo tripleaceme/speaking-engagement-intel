@@ -1,19 +1,19 @@
 {
   "metadata": {
-    "last_updated": "2026-04-30T08:25:05.463988+00:00",
-    "total_applications": 54,
+    "last_updated": "2026-05-01T08:14:13.862893+00:00",
+    "total_applications": 55,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 48,
-    "total_expired": 6,
+    "total_drafts": 41,
+    "total_expired": 14,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 6,
-      "draft": 48
+      "expired": 14,
+      "draft": 41
     },
-    "unique_talk_titles": 7
+    "unique_talk_titles": 6
   },
   "applications": [
     {
@@ -180,16 +180,21 @@
         "priority": "medium",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.661278+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'devops' (score: 8.5)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-05-01T08:14:13.862605+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.661281+00:00",
-      "updated_at": "2026-04-08T12:28:22.661282+00:00",
+      "updated_at": "2026-05-01T08:14:13.862611+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -583,16 +588,21 @@
         "priority": "medium",
         "travel_sponsorship": "partial"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.665269+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-05-01T08:14:13.862657+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.665272+00:00",
-      "updated_at": "2026-04-08T12:28:22.665274+00:00",
+      "updated_at": "2026-05-01T08:14:13.862660+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -1064,16 +1074,21 @@
         "priority": "low",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.665168+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'cloud' (score: 5.5)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-05-01T08:14:13.862701+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.665170+00:00",
-      "updated_at": "2026-04-08T12:28:22.665172+00:00",
+      "updated_at": "2026-05-01T08:14:13.862703+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -1259,6 +1274,90 @@
       "notes": ""
     },
     {
+      "id": "1f6da5968473ffdf",
+      "cfp_id": "6d2dc48769f59e27",
+      "cfp_title": "Data Saturday Holland 2026",
+      "cfp_url": "https://sessionize.com/data-saturday-holland-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-05-31",
+      "event_date": "2026-10-09",
+      "event_location": "Utrecht, The Netherlands",
+      "is_online": false,
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+      "talk_tags": [
+        "dbt",
+        "data-quality",
+        "documentation",
+        "analytics-engineering",
+        "ai"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'data' (score: 9.0)",
+      "conference_themes": [
+        "data",
+        "cloud",
+        "database",
+        "education",
+        "ai",
+        "web",
+        "open-source",
+        "leadership"
+      ],
+      "conference_categories": [
+        "to become deep dives",
+        "are more limited in comparison to data related topics",
+        "not just microsoft fabric"
+      ],
+      "travel_sponsorship": "yes",
+      "speaker_perks": {
+        "hotel": true,
+        "honorarium": true
+      },
+      "proposal": {
+        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "dbt",
+          "data-quality",
+          "documentation",
+          "analytics-engineering",
+          "ai"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.356,
+        "tag_relevance": 0.367,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "yes"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.665480+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 9.0)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.665483+00:00",
+      "updated_at": "2026-04-08T12:28:22.665485+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "8577e06db0081c5c",
       "cfp_id": "87f3a7d9b271dc1f",
       "cfp_title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
@@ -1403,16 +1502,100 @@
         "priority": "low",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.661702+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 4.5)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-05-01T08:14:13.862728+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.661705+00:00",
-      "updated_at": "2026-04-08T12:28:22.661707+00:00",
+      "updated_at": "2026-05-01T08:14:13.862730+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "922be52c18c6e9a0",
+      "cfp_id": "dfef6664af81dc72",
+      "cfp_title": "TechSummit Amsterdam",
+      "cfp_url": "https://pretalx.com/techsummit-2026/cfp",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-05-15",
+      "event_date": "2026-09-30",
+      "event_location": "Amsterdam, Netherlands",
+      "is_online": false,
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+      "talk_tags": [
+        "leadership",
+        "data-culture",
+        "analytics-engineering",
+        "strategy"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
+      "conference_themes": [
+        "web",
+        "leadership",
+        "ai",
+        "cloud",
+        "devops",
+        "security",
+        "open-source",
+        "education"
+      ],
+      "conference_categories": [
+        "of interest designing self",
+        "healing internet infrastructures",
+        "commercially focused talks"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "leadership",
+          "data-culture",
+          "analytics-engineering",
+          "strategy"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.333,
+        "tag_relevance": 0.166,
+        "talk_match_score": 0.118,
+        "urgency_score": 0.8,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.661809+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 5.5)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.661812+00:00",
+      "updated_at": "2026-04-08T12:28:22.661814+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -1656,90 +1839,6 @@
       "notes": ""
     },
     {
-      "id": "1f6da5968473ffdf",
-      "cfp_id": "6d2dc48769f59e27",
-      "cfp_title": "Data Saturday Holland 2026",
-      "cfp_url": "https://sessionize.com/data-saturday-holland-2026",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-05-31",
-      "event_date": "2026-10-09",
-      "event_location": "Utrecht, The Netherlands",
-      "is_online": false,
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-      "talk_tags": [
-        "dbt",
-        "data-quality",
-        "documentation",
-        "analytics-engineering",
-        "ai"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'data' (score: 9.0)",
-      "conference_themes": [
-        "data",
-        "cloud",
-        "database",
-        "education",
-        "ai",
-        "web",
-        "open-source",
-        "leadership"
-      ],
-      "conference_categories": [
-        "to become deep dives",
-        "are more limited in comparison to data related topics",
-        "not just microsoft fabric"
-      ],
-      "travel_sponsorship": "yes",
-      "speaker_perks": {
-        "hotel": true,
-        "honorarium": true
-      },
-      "proposal": {
-        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "dbt",
-          "data-quality",
-          "documentation",
-          "analytics-engineering",
-          "ai"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.326,
-        "tag_relevance": 0.367,
-        "talk_match_score": 0.059,
-        "urgency_score": 0.4,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "yes"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.665480+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 9.0)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.665483+00:00",
-      "updated_at": "2026-04-08T12:28:22.665485+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
       "id": "df89b10514e7fe7b",
       "cfp_id": "f6afba3518281dad",
       "cfp_title": "Stockholm SQL 2025-2026",
@@ -1954,16 +2053,21 @@
         "priority": "low",
         "travel_sponsorship": "partial"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.662551+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 4.5)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-05-01T08:14:13.862763+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.662555+00:00",
-      "updated_at": "2026-04-08T12:28:22.662557+00:00",
+      "updated_at": "2026-05-01T08:14:13.862765+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -2540,16 +2644,21 @@
         "priority": "low",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.661632+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'devops' (score: 2.5)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-05-01T08:14:13.862787+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.661634+00:00",
-      "updated_at": "2026-04-08T12:28:22.661636+00:00",
+      "updated_at": "2026-05-01T08:14:13.862789+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -2610,82 +2719,82 @@
         "priority": "low",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-18T07:12:25.442743+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 4.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-05-01T08:14:13.862796+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-18T07:12:25.442745+00:00",
-      "updated_at": "2026-04-18T07:12:25.442746+00:00",
+      "updated_at": "2026-05-01T08:14:13.862797+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
     },
     {
-      "id": "922be52c18c6e9a0",
-      "cfp_id": "dfef6664af81dc72",
-      "cfp_title": "TechSummit Amsterdam",
-      "cfp_url": "https://pretalx.com/techsummit-2026/cfp",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-05-15",
-      "event_date": "2026-09-30",
-      "event_location": "Amsterdam, Netherlands",
-      "is_online": false,
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+      "id": "55fa692cad8ca7f4",
+      "cfp_id": "523b27473934c6f1",
+      "cfp_title": "EightKB August 2026",
+      "cfp_url": "https://sessionize.com/eightkb-august-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-05-31",
+      "event_date": "2026-08-20",
+      "event_location": "Online",
+      "is_online": true,
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
       "talk_tags": [
-        "leadership",
-        "data-culture",
-        "analytics-engineering",
-        "strategy"
+        "sql",
+        "dbt",
+        "migration",
+        "database",
+        "snowflake",
+        "bigquery"
       ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'database' (score: 4.3)",
       "conference_themes": [
-        "web",
-        "leadership",
         "ai",
-        "cloud",
-        "devops",
-        "security",
-        "open-source",
-        "education"
+        "web",
+        "database"
       ],
-      "conference_categories": [
-        "of interest designing self",
-        "healing internet infrastructures",
-        "commercially focused talks"
-      ],
+      "conference_categories": [],
       "travel_sponsorship": "unknown",
       "speaker_perks": {},
       "proposal": {
-        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
         "speaker_name": "Ayoade Adegbite",
         "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
         "speaker_email": "ayoadeadegbitee@gmail.com",
         "speaker_website": "https://ayoadeabel.tech/",
         "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
+        "talk_level": "intermediate",
         "talk_duration": 30,
         "tags": [
-          "leadership",
-          "data-culture",
-          "analytics-engineering",
-          "strategy"
+          "sql",
+          "dbt",
+          "migration",
+          "database",
+          "snowflake",
+          "bigquery"
         ]
       },
       "match_scores": {
-        "composite_score": 0.303,
-        "tag_relevance": 0.166,
-        "talk_match_score": 0.118,
+        "composite_score": 0.308,
+        "tag_relevance": 0.183,
+        "talk_match_score": 0.044,
         "urgency_score": 0.6,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
+        "format_score": 0.7,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
       },
@@ -2693,12 +2802,12 @@
       "status_history": [
         {
           "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.661809+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 5.5)"
+          "timestamp": "2026-04-08T12:28:22.665086+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 4.3)"
         }
       ],
-      "created_at": "2026-04-08T12:28:22.661812+00:00",
-      "updated_at": "2026-04-08T12:28:22.661814+00:00",
+      "created_at": "2026-04-08T12:28:22.665089+00:00",
+      "updated_at": "2026-04-08T12:28:22.665090+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -3119,80 +3228,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.664038+00:00",
       "updated_at": "2026-04-08T12:28:22.664040+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "55fa692cad8ca7f4",
-      "cfp_id": "523b27473934c6f1",
-      "cfp_title": "EightKB August 2026",
-      "cfp_url": "https://sessionize.com/eightkb-august-2026",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-05-31",
-      "event_date": "2026-08-20",
-      "event_location": "Online",
-      "is_online": true,
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
-      "talk_tags": [
-        "sql",
-        "dbt",
-        "migration",
-        "database",
-        "snowflake",
-        "bigquery"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'database' (score: 4.3)",
-      "conference_themes": [
-        "ai",
-        "web",
-        "database"
-      ],
-      "conference_categories": [],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "sql",
-          "dbt",
-          "migration",
-          "database",
-          "snowflake",
-          "bigquery"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.278,
-        "tag_relevance": 0.183,
-        "talk_match_score": 0.044,
-        "urgency_score": 0.4,
-        "format_score": 0.7,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.665086+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 4.3)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.665089+00:00",
-      "updated_at": "2026-04-08T12:28:22.665090+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -3736,16 +3771,21 @@
         "priority": "low",
         "travel_sponsorship": "yes"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-23T07:58:19.546946+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 7.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-05-01T08:14:13.862850+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-23T07:58:19.546954+00:00",
-      "updated_at": "2026-04-23T07:58:19.546956+00:00",
+      "updated_at": "2026-05-01T08:14:13.862851+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -3821,6 +3861,94 @@
       ],
       "created_at": "2026-04-08T12:28:22.662416+00:00",
       "updated_at": "2026-04-08T12:28:22.662418+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "ecfbc36c4797406f",
+      "cfp_id": "de256903b212cb87",
+      "cfp_title": "CityJS Conference Athens",
+      "cfp_url": "https://docs.google.com/forms/d/e/1FAIpQLSejZUdKqdZo0fZtcqDEWOqkhTGgsnXx5KJOo5flW2E-Ej2a2A/viewform",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-06-30",
+      "event_date": "2026-10-21",
+      "event_location": "Athens, Greece",
+      "is_online": false,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
+      "conference_themes": [
+        "web",
+        "ai",
+        "open-source",
+        "education",
+        "testing"
+      ],
+      "conference_categories": [
+        "nodejs",
+        "prior to any participation",
+        "friendly and sustainable",
+        "machine learning",
+        "cityjsconf",
+        "speakers",
+        "all attendees",
+        "architecture",
+        "which can be found here:  https:",
+        "as well as talks on how to be more eco",
+        "frameworks",
+        "typescript",
+        "such as testing"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.262,
+        "tag_relevance": 0.167,
+        "talk_match_score": 0.078,
+        "urgency_score": 0.4,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-05-01T08:14:13.860304+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 7.5)"
+        }
+      ],
+      "created_at": "2026-05-01T08:14:13.860311+00:00",
+      "updated_at": "2026-05-01T08:14:13.860313+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
