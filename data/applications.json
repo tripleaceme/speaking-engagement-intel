@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-05-01T08:14:13.862893+00:00",
+    "last_updated": "2026-05-02T07:47:30.532620+00:00",
     "total_applications": 55,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 41,
-    "total_expired": 14,
+    "total_drafts": 38,
+    "total_expired": 17,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 14,
-      "draft": 41
+      "expired": 17,
+      "draft": 38
     },
     "unique_talk_titles": 6
   },
@@ -282,6 +282,84 @@
       "notes": ""
     },
     {
+      "id": "4773a1d619aabaed",
+      "cfp_id": "5beb3fd03323d3b6",
+      "cfp_title": "AI for Developers",
+      "cfp_url": "https://aiconference.dev/cfp",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-06-01",
+      "event_date": "2026-12-17",
+      "event_location": "TBD, TBD",
+      "is_online": true,
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+      "talk_tags": [
+        "education",
+        "data-literacy",
+        "community",
+        "diversity",
+        "edtech"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'education' (score: 6.0)",
+      "conference_themes": [
+        "leadership",
+        "education",
+        "web",
+        "testing",
+        "ai",
+        "data",
+        "devops",
+        "open-source",
+        "blockchain"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "education",
+          "data-literacy",
+          "community",
+          "diversity",
+          "edtech"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.434,
+        "tag_relevance": 0.507,
+        "talk_match_score": 0.089,
+        "urgency_score": 0.6,
+        "format_score": 0.7,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.661392+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.0)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.661395+00:00",
+      "updated_at": "2026-04-08T12:28:22.661397+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "8496831bd6d324e2",
       "cfp_id": "5c162d9dad315513",
       "cfp_title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
@@ -347,16 +425,21 @@
         "priority": "medium",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.663833+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 8.3)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-05-02T07:47:30.532388+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.663835+00:00",
-      "updated_at": "2026-04-08T12:28:22.663837+00:00",
+      "updated_at": "2026-05-02T07:47:30.532395+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -837,94 +920,21 @@
         "priority": "medium",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.665019+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-05-02T07:47:30.532442+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.665022+00:00",
-      "updated_at": "2026-04-08T12:28:22.665024+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "4773a1d619aabaed",
-      "cfp_id": "5beb3fd03323d3b6",
-      "cfp_title": "AI for Developers",
-      "cfp_url": "https://aiconference.dev/cfp",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-06-01",
-      "event_date": "2026-12-17",
-      "event_location": "TBD, TBD",
-      "is_online": true,
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
-      "talk_tags": [
-        "education",
-        "data-literacy",
-        "community",
-        "diversity",
-        "edtech"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'education' (score: 6.0)",
-      "conference_themes": [
-        "leadership",
-        "education",
-        "web",
-        "testing",
-        "ai",
-        "data",
-        "devops",
-        "open-source",
-        "blockchain"
-      ],
-      "conference_categories": [],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "education",
-          "data-literacy",
-          "community",
-          "diversity",
-          "edtech"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.404,
-        "tag_relevance": 0.507,
-        "talk_match_score": 0.089,
-        "urgency_score": 0.4,
-        "format_score": 0.7,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.661392+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.0)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.661395+00:00",
-      "updated_at": "2026-04-08T12:28:22.661397+00:00",
+      "updated_at": "2026-05-02T07:47:30.532444+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -1824,16 +1834,21 @@
         "priority": "low",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-18T07:12:25.442834+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 5.5)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-05-02T07:47:30.532506+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-18T07:12:25.442836+00:00",
-      "updated_at": "2026-04-18T07:12:25.442838+00:00",
+      "updated_at": "2026-05-02T07:47:30.532508+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -2987,6 +3002,81 @@
       "notes": ""
     },
     {
+      "id": "69a810840a371dd5",
+      "cfp_id": "0eebeda60230c767",
+      "cfp_title": "Heapcon",
+      "cfp_url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-06-01",
+      "event_date": "2026-11-05",
+      "event_location": "Belgrade, Serbia",
+      "is_online": false,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 3.5)",
+      "conference_themes": [
+        "ai",
+        "open-source",
+        "testing"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "partial",
+      "speaker_perks": {
+        "ticket": true,
+        "dinner": true
+      },
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.292,
+        "tag_relevance": 0.166,
+        "talk_match_score": 0.08,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "partial"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.662407+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 3.5)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.662416+00:00",
+      "updated_at": "2026-04-08T12:28:22.662418+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "a0c4f8271ff446ff",
       "cfp_id": "0a75fc53d01cae41",
       "cfp_title": "WeAreDevelopers Conference India",
@@ -3786,81 +3876,6 @@
       ],
       "created_at": "2026-04-23T07:58:19.546954+00:00",
       "updated_at": "2026-05-01T08:14:13.862851+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "69a810840a371dd5",
-      "cfp_id": "0eebeda60230c767",
-      "cfp_title": "Heapcon",
-      "cfp_url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-06-01",
-      "event_date": "2026-11-05",
-      "event_location": "Belgrade, Serbia",
-      "is_online": false,
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-      "talk_tags": [
-        "ai",
-        "llm",
-        "data-governance",
-        "dbt",
-        "automation"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'ai' (score: 3.5)",
-      "conference_themes": [
-        "ai",
-        "open-source",
-        "testing"
-      ],
-      "conference_categories": [],
-      "travel_sponsorship": "partial",
-      "speaker_perks": {
-        "ticket": true,
-        "dinner": true
-      },
-      "proposal": {
-        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "ai",
-          "llm",
-          "data-governance",
-          "dbt",
-          "automation"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.262,
-        "tag_relevance": 0.166,
-        "talk_match_score": 0.08,
-        "urgency_score": 0.4,
-        "format_score": 0.6,
-        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "partial"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.662407+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 3.5)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.662416+00:00",
-      "updated_at": "2026-04-08T12:28:22.662418+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

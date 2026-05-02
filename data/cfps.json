@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-01T08:14:11.551335+00:00",
+    "last_crawled": "2026-05-02T07:47:27.427155+00:00",
     "total_cfps": 66,
-    "open_cfps": 52,
+    "open_cfps": 49,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 8,
+    "expired_this_run": 3,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-01T08:14:13.811200+00:00",
+    "last_scored": "2026-05-02T07:47:30.479144+00:00",
     "high_priority": 0,
-    "medium_priority": 6,
-    "above_threshold": 41
+    "medium_priority": 4,
+    "above_threshold": 38
   },
   "cfps": [
     {
@@ -583,10 +583,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:24.432425+00:00",
       "match_scores": {
-        "composite_score": 0.404,
+        "composite_score": 0.434,
         "tag_relevance": 0.507,
         "talk_match_score": 0.089,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.7,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
@@ -1188,10 +1188,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:45.480034+00:00",
       "match_scores": {
-        "composite_score": 0.262,
+        "composite_score": 0.292,
         "tag_relevance": 0.166,
         "talk_match_score": 0.08,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.6,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
@@ -2442,7 +2442,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
       "discovered_at": "2026-04-08T12:25:56.585844+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -2481,17 +2481,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:37.020437+00:00",
-      "match_scores": {
-        "composite_score": 0.429,
-        "tag_relevance": 0.347,
-        "talk_match_score": 0.059,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "807c8a3e1afc3084",
@@ -3294,7 +3284,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon",
       "discovered_at": "2026-04-08T12:25:56.586455+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "education",
@@ -3322,17 +3312,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:50.235921+00:00",
-      "match_scores": {
-        "composite_score": 0.409,
-        "tag_relevance": 0.364,
-        "talk_match_score": 0.039,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "523b27473934c6f1",
@@ -4427,7 +4407,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-18T07:12:14.193713+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "leadership",
@@ -4470,17 +4450,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-18T07:12:22.361276+00:00",
-      "match_scores": {
-        "composite_score": 0.327,
-        "tag_relevance": 0.169,
-        "talk_match_score": 0.059,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "de256903b212cb87",
