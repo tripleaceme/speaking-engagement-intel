@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-02T07:47:27.427155+00:00",
+    "last_crawled": "2026-05-03T08:03:39.327975+00:00",
     "total_cfps": 66,
-    "open_cfps": 49,
+    "open_cfps": 48,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 3,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-02T07:47:30.479144+00:00",
+    "last_scored": "2026-05-03T08:03:42.241243+00:00",
     "high_priority": 0,
     "medium_priority": 4,
-    "above_threshold": 38
+    "above_threshold": 37
   },
   "cfps": [
     {
@@ -98,14 +98,14 @@
       ],
       "enriched_at": "2026-04-08T12:26:15.806720+00:00",
       "match_scores": {
-        "composite_score": 0.372,
+        "composite_score": 0.402,
         "tag_relevance": 0.329,
         "talk_match_score": 0.157,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
-        "priority": "low",
+        "priority": "medium",
         "travel_sponsorship": "partial"
       }
     },
@@ -3226,7 +3226,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon",
       "discovered_at": "2026-04-08T12:25:56.586416+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -3249,17 +3249,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:49.331017+00:00",
-      "match_scores": {
-        "composite_score": 0.41,
-        "tag_relevance": 0.367,
-        "talk_match_score": 0.039,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "bf470d2615bfbc4d",

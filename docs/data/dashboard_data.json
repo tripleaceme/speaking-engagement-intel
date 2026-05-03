@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T07:47:30.577984+00:00",
+  "generated_at": "2026-05-03T08:03:42.531191+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 66,
-    "open_cfps": 49,
-    "expired_cfps": 17,
+    "open_cfps": 48,
+    "expired_cfps": 18,
     "total_applications": 55,
-    "drafts": 38,
+    "drafts": 37,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 17,
+    "expired_apps": 18,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-02T07:47:27.427155+00:00",
+    "last_crawled": "2026-05-03T08:03:39.327975+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 44
+    "travel_unknown": 43
   },
   "timeline": [
     {
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 37
+      "draft": 36
     },
     {
       "month": "2026-05",
@@ -67,16 +67,16 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 4,
-    "low": 45
+    "low": 44
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 47
+      "count": 46
     },
     {
       "tag": "web",
-      "count": 40
+      "count": 39
     },
     {
       "tag": "open-source",
@@ -84,14 +84,10 @@
     },
     {
       "tag": "data",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "cloud",
-      "count": 25
-    },
-    {
-      "tag": "education",
       "count": 25
     },
     {
@@ -99,8 +95,12 @@
       "count": 25
     },
     {
+      "tag": "education",
+      "count": 24
+    },
+    {
       "tag": "database",
-      "count": 22
+      "count": 21
     },
     {
       "tag": "security",
@@ -171,10 +171,6 @@
       "count": 4
     },
     {
-      "tag": "conference, precon",
-      "count": 4
-    },
-    {
       "tag": "general",
       "count": 3
     },
@@ -188,6 +184,10 @@
     },
     {
       "tag": "technology",
+      "count": 3
+    },
+    {
+      "tag": "conference, precon",
       "count": 3
     }
   ],
@@ -243,29 +243,29 @@
       "event_type": "usergroup"
     },
     {
-      "id": "8e6fbaf6f004a23a",
-      "title": "Day of Data Baton Rouge 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sqlsatbr26",
-      "deadline": "2026-05-02",
-      "event_date": "2026-07-17",
-      "location": "Baton Rouge, Louisiana, United States",
+      "id": "4e7c90af4be64378",
+      "title": "TechEx North America",
+      "source": "confs.tech",
+      "url": "https://techexevent.com/register-now",
+      "deadline": "2026-05-17",
+      "event_date": "2026-05-18",
+      "location": "San Jose, CA, U.S.A.",
       "is_online": false,
       "tags": [
-        "database",
-        "north america",
+        "cloud",
+        "iot",
         "education",
-        "ai",
-        "conference, precon"
+        "security",
+        "leadership"
       ],
-      "score": 0.41,
+      "score": 0.402,
       "priority": "medium",
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.367,
-      "talk_match": 0.039,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference, precon"
+      "tag_relevance": 0.329,
+      "talk_match": 0.157,
+      "urgency": 0.8,
+      "travel_sponsorship": "partial",
+      "event_type": "conference"
     },
     {
       "id": "807c8a3e1afc3084",
@@ -316,31 +316,6 @@
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "4e7c90af4be64378",
-      "title": "TechEx North America",
-      "source": "confs.tech",
-      "url": "https://techexevent.com/register-now",
-      "deadline": "2026-05-17",
-      "event_date": "2026-05-18",
-      "location": "San Jose, CA, U.S.A.",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "iot",
-        "education",
-        "security",
-        "leadership"
-      ],
-      "score": 0.372,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.329,
-      "talk_match": 0.157,
-      "urgency": 0.6,
-      "travel_sponsorship": "partial",
-      "event_type": "conference"
     },
     {
       "id": "6d2dc48769f59e27",
@@ -691,6 +666,31 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
+    },
+    {
+      "id": "d04355fb1fd02eeb",
+      "title": "KubeCon + CloudNativeCon Europe",
+      "source": "confs.tech",
+      "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp",
+      "deadline": "",
+      "event_date": "2026-03-23",
+      "location": "Amsterdam, Netherlands",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "database",
+        "education",
+        "security",
+        "testing"
+      ],
+      "score": 0.3,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.33,
+      "talk_match": 0.098,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     }
   ],
   "applications": [
@@ -882,7 +882,7 @@
       "cfp_url": "https://sessionize.com/sqlsatbr26",
       "deadline": "2026-05-02",
       "event_date": "2026-07-17",
-      "status": "draft",
+      "status": "expired",
       "score": 0.41,
       "priority": "medium",
       "created_at": "2026-04-08T12:28:22.664934+00:00",
@@ -913,6 +913,26 @@
       "match_reason": "Conference themes align with 'education' (score: 6.0)",
       "is_online": false,
       "event_location": "Massry School of Business, UAlbany, Albany, NY 12202"
+    },
+    {
+      "id": "c8f2597c6e5db7c4",
+      "cfp_title": "TechEx North America",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://techexevent.com/register-now",
+      "deadline": "2026-05-17",
+      "event_date": "2026-05-18",
+      "status": "draft",
+      "score": 0.402,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.660624+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
+      "is_online": false,
+      "event_location": "San Jose, CA, U.S.A."
     },
     {
       "id": "fb6f89b6ee144699",
@@ -973,26 +993,6 @@
       "match_reason": "Conference themes align with 'data' (score: 14.5)",
       "is_online": false,
       "event_location": "Mechelen, Belgium"
-    },
-    {
-      "id": "c8f2597c6e5db7c4",
-      "cfp_title": "TechEx North America",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://techexevent.com/register-now",
-      "deadline": "2026-05-17",
-      "event_date": "2026-05-18",
-      "status": "draft",
-      "score": 0.372,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.660624+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
-      "is_online": false,
-      "event_location": "San Jose, CA, U.S.A."
     },
     {
       "id": "1f6da5968473ffdf",
@@ -1855,15 +1855,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Day of Data Baton Rouge 2026",
-      "deadline": "2026-05-02",
-      "source": "callfordataspeakers",
-      "score": 0.41,
-      "url": "https://sessionize.com/sqlsatbr26",
-      "travel_sponsorship": "unknown",
-      "location": "Baton Rouge, Louisiana, United States"
-    },
-    {
       "title": "Microsoft Fabric & Power BI Melbourne",
       "deadline": "2026-05-11",
       "source": "callfordataspeakers",
@@ -1885,7 +1876,7 @@
       "title": "TechEx North America",
       "deadline": "2026-05-17",
       "source": "confs.tech",
-      "score": 0.372,
+      "score": 0.402,
       "url": "https://techexevent.com/register-now",
       "travel_sponsorship": "partial",
       "location": "San Jose, CA, U.S.A."
@@ -1943,6 +1934,15 @@
       "url": "https://aiconference.dev/cfp",
       "travel_sponsorship": "unknown",
       "location": "TBD, TBD"
+    },
+    {
+      "title": "Heapcon",
+      "deadline": "2026-06-01",
+      "source": "confs.tech",
+      "score": 0.292,
+      "url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
+      "travel_sponsorship": "partial",
+      "location": "Belgrade, Serbia"
     }
   ]
 }
