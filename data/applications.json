@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-05-03T08:03:42.365852+00:00",
+    "last_updated": "2026-05-04T08:32:19.623886+00:00",
     "total_applications": 55,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -195,6 +195,79 @@
       ],
       "created_at": "2026-04-08T12:28:22.661281+00:00",
       "updated_at": "2026-05-01T08:14:13.862611+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "219e8819ef0a5d02",
+      "cfp_id": "54914a3c37e33054",
+      "cfp_title": "Microsoft Fabric & Power BI Melbourne",
+      "cfp_url": "https://sessionize.com/fabric-powerbi-melbourne",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-05-11",
+      "event_date": "2026-05-21",
+      "event_location": "Melbourne, Australia",
+      "is_online": true,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 5.0)",
+      "conference_themes": [
+        "ai",
+        "open-source",
+        "web",
+        "education"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.454,
+        "tag_relevance": 0.343,
+        "talk_match_score": 0.078,
+        "urgency_score": 1.0,
+        "format_score": 0.8,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-27T08:29:46.475867+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 5.0)"
+        }
+      ],
+      "created_at": "2026-04-27T08:29:46.475874+00:00",
+      "updated_at": "2026-04-27T08:29:46.475877+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -440,79 +513,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.663835+00:00",
       "updated_at": "2026-05-02T07:47:30.532395+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "219e8819ef0a5d02",
-      "cfp_id": "54914a3c37e33054",
-      "cfp_title": "Microsoft Fabric & Power BI Melbourne",
-      "cfp_url": "https://sessionize.com/fabric-powerbi-melbourne",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-05-11",
-      "event_date": "2026-05-21",
-      "event_location": "Melbourne, Australia",
-      "is_online": true,
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-      "talk_tags": [
-        "ai",
-        "llm",
-        "data-governance",
-        "dbt",
-        "automation"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'ai' (score: 5.0)",
-      "conference_themes": [
-        "ai",
-        "open-source",
-        "web",
-        "education"
-      ],
-      "conference_categories": [],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "ai",
-          "llm",
-          "data-governance",
-          "dbt",
-          "automation"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.424,
-        "tag_relevance": 0.343,
-        "talk_match_score": 0.078,
-        "urgency_score": 0.8,
-        "format_score": 0.8,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-27T08:29:46.475867+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 5.0)"
-        }
-      ],
-      "created_at": "2026-04-27T08:29:46.475874+00:00",
-      "updated_at": "2026-04-27T08:29:46.475877+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T08:03:42.531191+00:00",
+  "generated_at": "2026-05-04T08:32:19.661329+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 18,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-03T08:03:39.327975+00:00",
+    "last_crawled": "2026-05-04T08:32:16.449232+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
@@ -193,6 +193,31 @@
   ],
   "top_matches": [
     {
+      "id": "54914a3c37e33054",
+      "title": "Microsoft Fabric & Power BI Melbourne",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/fabric-powerbi-melbourne",
+      "deadline": "2026-05-11",
+      "event_date": "2026-05-21",
+      "location": "Melbourne, Australia",
+      "is_online": true,
+      "tags": [
+        "education",
+        "usergroup",
+        "ai",
+        "data",
+        "web"
+      ],
+      "score": 0.454,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.343,
+      "talk_match": 0.078,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
       "id": "5beb3fd03323d3b6",
       "title": "AI for Developers",
       "source": "confs.tech",
@@ -216,31 +241,6 @@
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
-    },
-    {
-      "id": "54914a3c37e33054",
-      "title": "Microsoft Fabric & Power BI Melbourne",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/fabric-powerbi-melbourne",
-      "deadline": "2026-05-11",
-      "event_date": "2026-05-21",
-      "location": "Melbourne, Australia",
-      "is_online": true,
-      "tags": [
-        "education",
-        "usergroup",
-        "ai",
-        "data",
-        "web"
-      ],
-      "score": 0.424,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.343,
-      "talk_match": 0.078,
-      "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     },
     {
       "id": "4e7c90af4be64378",
@@ -735,6 +735,26 @@
       "event_location": "Frankfurt am Main, Germany"
     },
     {
+      "id": "219e8819ef0a5d02",
+      "cfp_title": "Microsoft Fabric & Power BI Melbourne",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/fabric-powerbi-melbourne",
+      "deadline": "2026-05-11",
+      "event_date": "2026-05-21",
+      "status": "draft",
+      "score": 0.454,
+      "priority": "medium",
+      "created_at": "2026-04-27T08:29:46.475874+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 5.0)",
+      "is_online": true,
+      "event_location": "Melbourne, Australia"
+    },
+    {
       "id": "e7535e1aad2d5567",
       "cfp_title": "data2day",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -793,26 +813,6 @@
       "match_reason": "Conference themes align with 'data' (score: 8.3)",
       "is_online": true,
       "event_location": "Online"
-    },
-    {
-      "id": "219e8819ef0a5d02",
-      "cfp_title": "Microsoft Fabric & Power BI Melbourne",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/fabric-powerbi-melbourne",
-      "deadline": "2026-05-11",
-      "event_date": "2026-05-21",
-      "status": "draft",
-      "score": 0.424,
-      "priority": "medium",
-      "created_at": "2026-04-27T08:29:46.475874+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 5.0)",
-      "is_online": true,
-      "event_location": "Melbourne, Australia"
     },
     {
       "id": "f05c499a51109afe",
@@ -1858,7 +1858,7 @@
       "title": "Microsoft Fabric & Power BI Melbourne",
       "deadline": "2026-05-11",
       "source": "callfordataspeakers",
-      "score": 0.424,
+      "score": 0.454,
       "url": "https://sessionize.com/fabric-powerbi-melbourne",
       "travel_sponsorship": "unknown",
       "location": "Melbourne, Australia"
