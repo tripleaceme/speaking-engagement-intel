@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T08:29:12.377836+00:00",
+  "generated_at": "2026-05-07T08:36:33.984047+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 18,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-06T08:29:08.929239+00:00",
+    "last_crawled": "2026-05-07T08:36:31.437250+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
@@ -66,8 +66,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 4,
-    "low": 44
+    "medium": 5,
+    "low": 43
   },
   "tag_cloud": [
     {
@@ -243,6 +243,31 @@
       "event_type": "conference"
     },
     {
+      "id": "1e63984aef734deb",
+      "title": "dataMinds Connect 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/dataminds-connect-2026",
+      "deadline": "2026-05-21",
+      "event_date": "2026-10-12",
+      "location": "Mechelen, Belgium",
+      "is_online": false,
+      "tags": [
+        "europe",
+        "cloud",
+        "database",
+        "education",
+        "security"
+      ],
+      "score": 0.422,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.51,
+      "talk_match": 0.078,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon"
+    },
+    {
       "id": "4e7c90af4be64378",
       "title": "TechEx North America",
       "source": "confs.tech",
@@ -291,31 +316,6 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
-    },
-    {
-      "id": "1e63984aef734deb",
-      "title": "dataMinds Connect 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/dataminds-connect-2026",
-      "deadline": "2026-05-21",
-      "event_date": "2026-10-12",
-      "location": "Mechelen, Belgium",
-      "is_online": false,
-      "tags": [
-        "europe",
-        "cloud",
-        "database",
-        "education",
-        "security"
-      ],
-      "score": 0.392,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.51,
-      "talk_match": 0.078,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference, precon"
     },
     {
       "id": "6d2dc48769f59e27",
@@ -815,6 +815,26 @@
       "event_location": "Online"
     },
     {
+      "id": "2493cc146e263fd6",
+      "cfp_title": "dataMinds Connect 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/dataminds-connect-2026",
+      "deadline": "2026-05-21",
+      "event_date": "2026-10-12",
+      "status": "draft",
+      "score": 0.422,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.665647+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 14.5)",
+      "is_online": false,
+      "event_location": "Mechelen, Belgium"
+    },
+    {
       "id": "f05c499a51109afe",
       "cfp_title": "Power BI Days DC 2026",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -973,26 +993,6 @@
       "match_reason": "Conference themes align with 'cloud' (score: 5.5)",
       "is_online": false,
       "event_location": "G\u00f6teborg, Sweden"
-    },
-    {
-      "id": "2493cc146e263fd6",
-      "cfp_title": "dataMinds Connect 2026",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/dataminds-connect-2026",
-      "deadline": "2026-05-21",
-      "event_date": "2026-10-12",
-      "status": "draft",
-      "score": 0.392,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.665647+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 14.5)",
-      "is_online": false,
-      "event_location": "Mechelen, Belgium"
     },
     {
       "id": "1f6da5968473ffdf",
@@ -1885,7 +1885,7 @@
       "title": "dataMinds Connect 2026",
       "deadline": "2026-05-21",
       "source": "callfordataspeakers",
-      "score": 0.392,
+      "score": 0.422,
       "url": "https://sessionize.com/dataminds-connect-2026",
       "travel_sponsorship": "unknown",
       "location": "Mechelen, Belgium"
