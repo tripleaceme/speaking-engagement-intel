@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-07T08:36:31.437250+00:00",
-    "total_cfps": 66,
-    "open_cfps": 48,
+    "last_crawled": "2026-05-08T07:44:48.086337+00:00",
+    "total_cfps": 70,
+    "open_cfps": 52,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 4,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-07T08:36:33.883403+00:00",
+    "last_scored": "2026-05-08T07:44:54.625646+00:00",
     "high_priority": 0,
     "medium_priority": 5,
-    "above_threshold": 37
+    "above_threshold": 41
   },
   "cfps": [
     {
@@ -852,10 +852,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:33.994797+00:00",
       "match_scores": {
-        "composite_score": 0.333,
+        "composite_score": 0.363,
         "tag_relevance": 0.166,
         "talk_match_score": 0.118,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -4732,6 +4732,341 @@
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
         "priority": "medium",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "f55f5921be481d80",
+      "source": "confs.tech",
+      "title": "AgentCon - Bengaluru",
+      "url": "https://agentcon.city/bengaluru",
+      "cfp_url": "https://sessionize.com/agentcon-bengaluru",
+      "description": "AgentCon - Bengaluru: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. city/bengaluru \r\n                             \r\n                         \r\n                     \r\n                 \r\n                     \r\n                         \r\n                         Welcome to  AgentCon Bengaluru , a conference all about AI Agents - for developers, by developers.",
+      "tags": [
+        "security",
+        "cloud",
+        "devops",
+        "mobile",
+        "ai",
+        "web",
+        "education",
+        "open-source",
+        "data"
+      ],
+      "deadline": "2026-05-20",
+      "event_date": "2026-06-20",
+      "location": "Bangalore, India",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-05-08T07:44:43.529816+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "education",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "agent systems",
+        "applied ai and multi",
+        "to consider:"
+      ],
+      "submission_fields": [
+        "experience level",
+        "target audience",
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-05-08T07:44:52.550753+00:00",
+      "match_scores": {
+        "composite_score": 0.381,
+        "tag_relevance": 0.352,
+        "talk_match_score": 0.06,
+        "urgency_score": 0.8,
+        "format_score": 0.6,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "26a5235847da3d44",
+      "source": "confs.tech",
+      "title": "Agentic Engineering Days Zurich",
+      "url": "https://www.agenticdays.com",
+      "cfp_url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
+      "description": "Agentic Engineering Days Zurich 2026: Call for Speakers @ Sessionize. Bookmark this page and come back  in 15 days. We bring together practitioners who ship real systems with AI agents and the builders creating the next generation of agentic platforms, tools, and products.",
+      "tags": [
+        "leadership",
+        "security",
+        "cloud",
+        "ai",
+        "web",
+        "education",
+        "data"
+      ],
+      "deadline": "2026-07-23",
+      "event_date": "2026-11-20",
+      "location": "Zurich, Switzerland",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-05-08T07:44:43.529888+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "no q&a",
+        "1\u20133): 30 minutes + q&a",
+        "track 1 \u2014 let it build: using ai in the engineering loop",
+        "3\u20134): 8 minutes"
+      ],
+      "submission_fields": [
+        "track"
+      ],
+      "enriched_at": "2026-05-08T07:44:53.262743+00:00",
+      "match_scores": {
+        "composite_score": 0.334,
+        "tag_relevance": 0.506,
+        "talk_match_score": 0.089,
+        "urgency_score": 0.2,
+        "format_score": 0.5,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "a9c241bd74d4955d",
+      "source": "confs.tech",
+      "title": "swampUP Europe",
+      "url": "https://swampup.jfrog.com/europe",
+      "cfp_url": "https://sessionize.com/swampup-europe-2026",
+      "description": "swampUP Europe 2026: Call for Speakers @ Sessionize. \ud83d\udce3 Important Note for Speakers swampUP Europe is JFrog\u2019s annual user conference, focused on real-world experiences and practical insights. To ensure sessions align with audience expectations, we ask that proposals ideally include a connection to JFrog products, whether through direct usage, integration, or lessons learned in the context of the JFrog Platform (i.",
+      "tags": [
+        "leadership",
+        "security",
+        "cloud",
+        "devops",
+        "ai",
+        "web",
+        "education",
+        "open-source"
+      ],
+      "deadline": "2026-05-18",
+      "event_date": "2026-10-20",
+      "location": "Barcelona, Spain",
+      "is_online": false,
+      "travel_sponsorship": "yes",
+      "event_type": "conference",
+      "discovered_at": "2026-05-08T07:44:43.939922+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "security",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "software supply chain security",
+        "secrets management and vulnerability mitigation",
+        "real",
+        "world applicability and best practices",
+        "monitoring",
+        "observability",
+        "and performance optimization",
+        "cd best practices at scale",
+        "infrastructure as code and",
+        "compliance and policy automation",
+        "technical depth and innovation"
+      ],
+      "speaker_perks": {
+        "hotel": true,
+        "ticket": true
+      },
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-05-08T07:44:54.029261+00:00",
+      "match_scores": {
+        "composite_score": 0.379,
+        "tag_relevance": 0.331,
+        "talk_match_score": 0.078,
+        "urgency_score": 0.8,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "yes"
+      }
+    },
+    {
+      "id": "74235fbd6d2888e8",
+      "source": "confs.tech",
+      "title": "AWS Community Day CEE",
+      "url": "https://awscommunity.eu",
+      "cfp_url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
+      "description": "AWS Community Day CEE 2026 - CFP AWS Community Day CEE 2026 - CFP \n Thank you for your interest in speaking at AWS Community Day CEE. Please complete the form below to submit your proposal. CFP Deadline: 8 June, 2026 Event date: September 17, 2026 Event location: Budapest, Hungary Please note that we cannot cover travel & accommodation, however you will receive a complimentary VIP ticket if your session is accepted.",
+      "tags": [
+        "security",
+        "cloud",
+        "devops",
+        "ai",
+        "web",
+        "education",
+        "open-source",
+        "general",
+        "iot",
+        "data"
+      ],
+      "deadline": "2026-06-08",
+      "event_date": "2026-09-17",
+      "location": "Budapest, Hungary",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-05-08T07:44:44.083607+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "iot",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "title",
+        "abstract",
+        "bio",
+        "duration",
+        "topic"
+      ],
+      "enriched_at": "2026-05-08T07:44:54.551975+00:00",
+      "match_scores": {
+        "composite_score": 0.305,
+        "tag_relevance": 0.33,
+        "talk_match_score": 0.098,
+        "urgency_score": 0.4,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
         "travel_sponsorship": "unknown"
       }
     }

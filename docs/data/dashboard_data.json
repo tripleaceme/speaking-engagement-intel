@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-07T08:36:33.984047+00:00",
+  "generated_at": "2026-05-08T07:44:54.731200+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 66,
-    "open_cfps": 48,
+    "total_cfps_discovered": 70,
+    "open_cfps": 52,
     "expired_cfps": 18,
-    "total_applications": 55,
-    "drafts": 37,
+    "total_applications": 59,
+    "drafts": 41,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 18,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-07T08:36:31.437250+00:00",
+    "last_crawled": "2026-05-08T07:44:48.086337+00:00",
     "sources_checked": 9,
-    "travel_yes": 1,
+    "travel_yes": 2,
     "travel_partial": 4,
-    "travel_unknown": 43
+    "travel_unknown": 46
   },
   "timeline": [
     {
@@ -39,13 +39,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 1
+      "draft": 5
     }
   ],
   "source_breakdown": [
     {
       "source": "confs.tech",
-      "count": 29
+      "count": 33
     },
     {
       "source": "callfordataspeakers",
@@ -67,48 +67,48 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 5,
-    "low": 43
+    "low": 47
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 46
+      "count": 50
     },
     {
       "tag": "web",
-      "count": 39
+      "count": 43
     },
     {
       "tag": "open-source",
-      "count": 37
+      "count": 40
     },
     {
       "tag": "data",
-      "count": 30
+      "count": 33
     },
     {
       "tag": "cloud",
-      "count": 25
-    },
-    {
-      "tag": "leadership",
-      "count": 25
+      "count": 29
     },
     {
       "tag": "education",
-      "count": 24
+      "count": 28
+    },
+    {
+      "tag": "leadership",
+      "count": 27
+    },
+    {
+      "tag": "security",
+      "count": 22
     },
     {
       "tag": "database",
       "count": 21
     },
     {
-      "tag": "security",
-      "count": 18
-    },
-    {
       "tag": "devops",
-      "count": 17
+      "count": 20
     },
     {
       "tag": "conference",
@@ -147,6 +147,14 @@
       "count": 6
     },
     {
+      "tag": "iot",
+      "count": 5
+    },
+    {
+      "tag": "mobile",
+      "count": 5
+    },
+    {
       "tag": "events",
       "count": 5
     },
@@ -155,11 +163,7 @@
       "count": 5
     },
     {
-      "tag": "iot",
-      "count": 4
-    },
-    {
-      "tag": "mobile",
+      "tag": "general",
       "count": 4
     },
     {
@@ -169,10 +173,6 @@
     {
       "tag": "external",
       "count": 4
-    },
-    {
-      "tag": "general",
-      "count": 3
     },
     {
       "tag": "call-for-paper",
@@ -318,6 +318,81 @@
       "event_type": "usergroup"
     },
     {
+      "id": "f55f5921be481d80",
+      "title": "AgentCon - Bengaluru",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/agentcon-bengaluru",
+      "deadline": "2026-05-20",
+      "event_date": "2026-06-20",
+      "location": "Bangalore, India",
+      "is_online": false,
+      "tags": [
+        "security",
+        "cloud",
+        "devops",
+        "mobile",
+        "ai"
+      ],
+      "score": 0.381,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.352,
+      "talk_match": 0.06,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "a9c241bd74d4955d",
+      "title": "swampUP Europe",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/swampup-europe-2026",
+      "deadline": "2026-05-18",
+      "event_date": "2026-10-20",
+      "location": "Barcelona, Spain",
+      "is_online": false,
+      "tags": [
+        "leadership",
+        "security",
+        "cloud",
+        "devops",
+        "ai"
+      ],
+      "score": 0.379,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.331,
+      "talk_match": 0.078,
+      "urgency": 0.8,
+      "travel_sponsorship": "yes",
+      "event_type": "conference"
+    },
+    {
+      "id": "dfef6664af81dc72",
+      "title": "TechSummit Amsterdam",
+      "source": "confs.tech",
+      "url": "https://pretalx.com/techsummit-2026/cfp",
+      "deadline": "2026-05-15",
+      "event_date": "2026-09-30",
+      "location": "Amsterdam, Netherlands",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "education",
+        "security",
+        "ai",
+        "leadership"
+      ],
+      "score": 0.363,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.166,
+      "talk_match": 0.118,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "6d2dc48769f59e27",
       "title": "Data Saturday Holland 2026",
       "source": "callfordataspeakers",
@@ -368,27 +443,27 @@
       "event_type": "conference"
     },
     {
-      "id": "dfef6664af81dc72",
-      "title": "TechSummit Amsterdam",
+      "id": "26a5235847da3d44",
+      "title": "Agentic Engineering Days Zurich",
       "source": "confs.tech",
-      "url": "https://pretalx.com/techsummit-2026/cfp",
-      "deadline": "2026-05-15",
-      "event_date": "2026-09-30",
-      "location": "Amsterdam, Netherlands",
+      "url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
+      "deadline": "2026-07-23",
+      "event_date": "2026-11-20",
+      "location": "Zurich, Switzerland",
       "is_online": false,
       "tags": [
-        "cloud",
-        "education",
+        "leadership",
         "security",
+        "cloud",
         "ai",
-        "leadership"
+        "web"
       ],
-      "score": 0.333,
+      "score": 0.334,
       "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.166,
-      "talk_match": 0.118,
-      "urgency": 0.8,
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.506,
+      "talk_match": 0.089,
+      "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -616,81 +691,6 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
-    },
-    {
-      "id": "523b27473934c6f1",
-      "title": "EightKB August 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/eightkb-august-2026",
-      "deadline": "2026-05-31",
-      "event_date": "2026-08-20",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "database",
-        "ai",
-        "conference",
-        "web",
-        "data"
-      ],
-      "score": 0.308,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.183,
-      "talk_match": 0.044,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "2353c784b684765d",
-      "title": "Global Summit on Data Science and Cloud Computing",
-      "source": "confs.tech",
-      "url": "https://datascience.novelticsconferences.com/register",
-      "deadline": "2026-10-15",
-      "event_date": "2026-10-19",
-      "location": "Rome, Italy",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "education",
-        "testing",
-        "ai",
-        "leadership"
-      ],
-      "score": 0.301,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.331,
-      "talk_match": 0.118,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "d04355fb1fd02eeb",
-      "title": "KubeCon + CloudNativeCon Europe",
-      "source": "confs.tech",
-      "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp",
-      "deadline": "",
-      "event_date": "2026-03-23",
-      "location": "Amsterdam, Netherlands",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "database",
-        "education",
-        "security",
-        "testing"
-      ],
-      "score": 0.3,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.33,
-      "talk_match": 0.098,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     }
   ],
   "applications": [
@@ -995,6 +995,66 @@
       "event_location": "G\u00f6teborg, Sweden"
     },
     {
+      "id": "5746ef209fd30412",
+      "cfp_title": "AgentCon - Bengaluru",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/agentcon-bengaluru",
+      "deadline": "2026-05-20",
+      "event_date": "2026-06-20",
+      "status": "draft",
+      "score": 0.381,
+      "priority": "low",
+      "created_at": "2026-05-08T07:44:54.680090+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
+      "is_online": false,
+      "event_location": "Bangalore, India"
+    },
+    {
+      "id": "89d499afef96fafc",
+      "cfp_title": "swampUP Europe",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/swampup-europe-2026",
+      "deadline": "2026-05-18",
+      "event_date": "2026-10-20",
+      "status": "draft",
+      "score": 0.379,
+      "priority": "low",
+      "created_at": "2026-05-08T07:44:54.680367+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'ai' (score: 8.5)",
+      "is_online": false,
+      "event_location": "Barcelona, Spain"
+    },
+    {
+      "id": "922be52c18c6e9a0",
+      "cfp_title": "TechSummit Amsterdam",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://pretalx.com/techsummit-2026/cfp",
+      "deadline": "2026-05-15",
+      "event_date": "2026-09-30",
+      "status": "draft",
+      "score": 0.363,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.661812+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
+      "is_online": false,
+      "event_location": "Amsterdam, Netherlands"
+    },
+    {
       "id": "1f6da5968473ffdf",
       "cfp_title": "Data Saturday Holland 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1055,24 +1115,24 @@
       "event_location": "Graz, Austria"
     },
     {
-      "id": "922be52c18c6e9a0",
-      "cfp_title": "TechSummit Amsterdam",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "id": "3aada1db0f19fc46",
+      "cfp_title": "Agentic Engineering Days Zurich",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
       "cfp_source": "confs.tech",
-      "cfp_url": "https://pretalx.com/techsummit-2026/cfp",
-      "deadline": "2026-05-15",
-      "event_date": "2026-09-30",
+      "cfp_url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
+      "deadline": "2026-07-23",
+      "event_date": "2026-11-20",
       "status": "draft",
-      "score": 0.333,
+      "score": 0.334,
       "priority": "low",
-      "created_at": "2026-04-08T12:28:22.661812+00:00",
+      "created_at": "2026-05-08T07:44:54.680228+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": "",
       "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
+      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
       "is_online": false,
-      "event_location": "Amsterdam, Netherlands"
+      "event_location": "Zurich, Switzerland"
     },
     {
       "id": "5e1414e189fef8fd",
@@ -1373,6 +1433,26 @@
       "match_reason": "Conference themes align with 'database' (score: 4.3)",
       "is_online": true,
       "event_location": "Online"
+    },
+    {
+      "id": "6c1ada5badf51ef9",
+      "cfp_title": "AWS Community Day CEE",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
+      "deadline": "2026-06-08",
+      "event_date": "2026-09-17",
+      "status": "draft",
+      "score": 0.305,
+      "priority": "low",
+      "created_at": "2026-05-08T07:44:54.680447+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 6.7)",
+      "is_online": false,
+      "event_location": "Budapest, Hungary"
     },
     {
       "id": "ff9a70eb4d6e1d74",
@@ -1798,7 +1878,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 17,
+      "applications": 20,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -1806,7 +1886,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 13,
+      "applications": 14,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -1867,7 +1947,7 @@
       "title": "TechSummit Amsterdam",
       "deadline": "2026-05-15",
       "source": "confs.tech",
-      "score": 0.333,
+      "score": 0.363,
       "url": "https://pretalx.com/techsummit-2026/cfp",
       "travel_sponsorship": "unknown",
       "location": "Amsterdam, Netherlands"
@@ -1880,6 +1960,24 @@
       "url": "https://techexevent.com/register-now",
       "travel_sponsorship": "partial",
       "location": "San Jose, CA, U.S.A."
+    },
+    {
+      "title": "swampUP Europe",
+      "deadline": "2026-05-18",
+      "source": "confs.tech",
+      "score": 0.379,
+      "url": "https://sessionize.com/swampup-europe-2026",
+      "travel_sponsorship": "yes",
+      "location": "Barcelona, Spain"
+    },
+    {
+      "title": "AgentCon - Bengaluru",
+      "deadline": "2026-05-20",
+      "source": "confs.tech",
+      "score": 0.381,
+      "url": "https://sessionize.com/agentcon-bengaluru",
+      "travel_sponsorship": "unknown",
+      "location": "Bangalore, India"
     },
     {
       "title": "dataMinds Connect 2026",
@@ -1925,24 +2023,6 @@
       "url": "https://sessionize.com/data-saturday-holland-2026",
       "travel_sponsorship": "yes",
       "location": "Utrecht, The Netherlands"
-    },
-    {
-      "title": "AI for Developers",
-      "deadline": "2026-06-01",
-      "source": "confs.tech",
-      "score": 0.434,
-      "url": "https://aiconference.dev/cfp",
-      "travel_sponsorship": "unknown",
-      "location": "TBD, TBD"
-    },
-    {
-      "title": "Heapcon",
-      "deadline": "2026-06-01",
-      "source": "confs.tech",
-      "score": 0.292,
-      "url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
-      "travel_sponsorship": "partial",
-      "location": "Belgrade, Serbia"
     }
   ]
 }
