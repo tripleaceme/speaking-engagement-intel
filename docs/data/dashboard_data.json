@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T07:44:54.731200+00:00",
+  "generated_at": "2026-05-09T07:59:11.742323+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 18,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-08T07:44:48.086337+00:00",
+    "last_crawled": "2026-05-09T07:59:09.092273+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 4,
@@ -443,6 +443,31 @@
       "event_type": "conference"
     },
     {
+      "id": "74235fbd6d2888e8",
+      "title": "AWS Community Day CEE",
+      "source": "confs.tech",
+      "url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
+      "deadline": "2026-06-08",
+      "event_date": "2026-09-17",
+      "location": "Budapest, Hungary",
+      "is_online": false,
+      "tags": [
+        "security",
+        "cloud",
+        "devops",
+        "ai",
+        "web"
+      ],
+      "score": 0.335,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.33,
+      "talk_match": 0.098,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "26a5235847da3d44",
       "title": "Agentic Engineering Days Zurich",
       "source": "confs.tech",
@@ -666,31 +691,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
-    },
-    {
-      "id": "c3c30f2797ec1bba",
-      "title": "SQL Server User Group Croatia 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
-      "deadline": "2026-09-12",
-      "event_date": "2026-04-08",
-      "location": "online",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "database",
-        "ai",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.311,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.346,
-      "talk_match": 0.067,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -1115,6 +1115,26 @@
       "event_location": "Graz, Austria"
     },
     {
+      "id": "6c1ada5badf51ef9",
+      "cfp_title": "AWS Community Day CEE",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
+      "deadline": "2026-06-08",
+      "event_date": "2026-09-17",
+      "status": "draft",
+      "score": 0.335,
+      "priority": "low",
+      "created_at": "2026-05-08T07:44:54.680447+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 6.7)",
+      "is_online": false,
+      "event_location": "Budapest, Hungary"
+    },
+    {
       "id": "3aada1db0f19fc46",
       "cfp_title": "Agentic Engineering Days Zurich",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1433,26 +1453,6 @@
       "match_reason": "Conference themes align with 'database' (score: 4.3)",
       "is_online": true,
       "event_location": "Online"
-    },
-    {
-      "id": "6c1ada5badf51ef9",
-      "cfp_title": "AWS Community Day CEE",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
-      "deadline": "2026-06-08",
-      "event_date": "2026-09-17",
-      "status": "draft",
-      "score": 0.305,
-      "priority": "low",
-      "created_at": "2026-05-08T07:44:54.680447+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 6.7)",
-      "is_online": false,
-      "event_location": "Budapest, Hungary"
     },
     {
       "id": "ff9a70eb4d6e1d74",

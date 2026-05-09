@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-08T07:44:48.086337+00:00",
+    "last_crawled": "2026-05-09T07:59:09.092273+00:00",
     "total_cfps": 70,
     "open_cfps": 52,
     "sources_checked": 9,
-    "new_this_run": 4,
+    "new_this_run": 0,
     "expired_this_run": 0,
-    "travel_sponsorship_yes": 1,
+    "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-08T07:44:54.625646+00:00",
+    "last_scored": "2026-05-09T07:59:11.646755+00:00",
     "high_priority": 0,
     "medium_priority": 5,
     "above_threshold": 41
@@ -5059,10 +5059,10 @@
       ],
       "enriched_at": "2026-05-08T07:44:54.551975+00:00",
       "match_scores": {
-        "composite_score": 0.305,
+        "composite_score": 0.335,
         "tag_relevance": 0.33,
         "talk_match_score": 0.098,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
