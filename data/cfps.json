@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-09T07:59:09.092273+00:00",
-    "total_cfps": 70,
-    "open_cfps": 52,
+    "last_crawled": "2026-05-10T08:10:16.230197+00:00",
+    "total_cfps": 71,
+    "open_cfps": 53,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-09T07:59:11.646755+00:00",
+    "last_scored": "2026-05-10T08:10:19.208655+00:00",
     "high_priority": 0,
     "medium_priority": 5,
-    "above_threshold": 41
+    "above_threshold": 43
   },
   "cfps": [
     {
@@ -98,10 +98,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:15.806720+00:00",
       "match_scores": {
-        "composite_score": 0.402,
+        "composite_score": 0.432,
         "tag_relevance": 0.329,
         "talk_match_score": 0.157,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -1362,10 +1362,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:53.873341+00:00",
       "match_scores": {
-        "composite_score": 0.23,
+        "composite_score": 0.26,
         "tag_relevance": 0.0,
         "talk_match_score": 0.0,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.7,
         "suggested_talk": null,
         "suggested_talk_level": null,
@@ -4622,10 +4622,10 @@
       ],
       "enriched_at": "2026-04-18T07:12:24.933282+00:00",
       "match_scores": {
-        "composite_score": 0.19,
+        "composite_score": 0.22,
         "tag_relevance": 0.0,
         "talk_match_score": 0.0,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.8,
         "suggested_talk": null,
         "suggested_talk_level": null,
@@ -5063,6 +5063,83 @@
         "tag_relevance": 0.33,
         "talk_match_score": 0.098,
         "urgency_score": 0.6,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "882cf27a411c6cc2",
+      "source": "callfordataspeakers",
+      "title": "Minnesota Day of Data 2026",
+      "url": "https://sessionize.com/sqlsaturday-minnesota-2026",
+      "cfp_url": "https://sessionize.com/sqlsaturday-minnesota-2026",
+      "description": "Data external \u2014 St Paul College, 235 Marshall Avenue, Saint Paul, MN 55102,",
+      "tags": [
+        "external",
+        "education",
+        "database",
+        "web",
+        "ai",
+        "data",
+        "in-person",
+        "leadership",
+        "cloud"
+      ],
+      "deadline": "",
+      "event_date": "2026-10-24",
+      "location": "St Paul College, 235 Marshall Avenue, Saint Paul, MN 55102,",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "external",
+      "discovered_at": "2026-05-10T08:10:15.759746+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "fabric",
+        "power bi",
+        "and related products",
+        "including azure",
+        "sql server",
+        "microsoft data platform"
+      ],
+      "submission_fields": [
+        "target audience",
+        "twitter"
+      ],
+      "enriched_at": "2026-05-10T08:10:19.138181+00:00",
+      "match_scores": {
+        "composite_score": 0.252,
+        "tag_relevance": 0.358,
+        "talk_match_score": 0.039,
+        "urgency_score": 0.1,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",

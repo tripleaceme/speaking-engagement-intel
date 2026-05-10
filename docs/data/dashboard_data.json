@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-09T07:59:11.742323+00:00",
+  "generated_at": "2026-05-10T08:10:19.303776+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 70,
-    "open_cfps": 52,
+    "total_cfps_discovered": 71,
+    "open_cfps": 53,
     "expired_cfps": 18,
-    "total_applications": 59,
-    "drafts": 41,
+    "total_applications": 61,
+    "drafts": 43,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 18,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-09T07:59:09.092273+00:00",
+    "last_crawled": "2026-05-10T08:10:16.230197+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 4,
-    "travel_unknown": 46
+    "travel_unknown": 47
   },
   "timeline": [
     {
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 5
+      "draft": 7
     }
   ],
   "source_breakdown": [
@@ -49,7 +49,7 @@
     },
     {
       "source": "callfordataspeakers",
-      "count": 27
+      "count": 28
     },
     {
       "source": "github",
@@ -67,16 +67,16 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 5,
-    "low": 47
+    "low": 48
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "web",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "open-source",
@@ -84,19 +84,19 @@
     },
     {
       "tag": "data",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "cloud",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "education",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "leadership",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "security",
@@ -104,7 +104,7 @@
     },
     {
       "tag": "database",
-      "count": 21
+      "count": 22
     },
     {
       "tag": "devops",
@@ -163,15 +163,15 @@
       "count": 5
     },
     {
-      "tag": "general",
-      "count": 4
-    },
-    {
       "tag": "in-person",
-      "count": 4
+      "count": 5
     },
     {
       "tag": "external",
+      "count": 5
+    },
+    {
+      "tag": "general",
       "count": 4
     },
     {
@@ -243,6 +243,31 @@
       "event_type": "conference"
     },
     {
+      "id": "4e7c90af4be64378",
+      "title": "TechEx North America",
+      "source": "confs.tech",
+      "url": "https://techexevent.com/register-now",
+      "deadline": "2026-05-17",
+      "event_date": "2026-05-18",
+      "location": "San Jose, CA, U.S.A.",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "iot",
+        "education",
+        "security",
+        "leadership"
+      ],
+      "score": 0.432,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.329,
+      "talk_match": 0.157,
+      "urgency": 1.0,
+      "travel_sponsorship": "partial",
+      "event_type": "conference"
+    },
+    {
       "id": "1e63984aef734deb",
       "title": "dataMinds Connect 2026",
       "source": "callfordataspeakers",
@@ -266,31 +291,6 @@
       "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "4e7c90af4be64378",
-      "title": "TechEx North America",
-      "source": "confs.tech",
-      "url": "https://techexevent.com/register-now",
-      "deadline": "2026-05-17",
-      "event_date": "2026-05-18",
-      "location": "San Jose, CA, U.S.A.",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "iot",
-        "education",
-        "security",
-        "leadership"
-      ],
-      "score": 0.402,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.329,
-      "talk_match": 0.157,
-      "urgency": 0.8,
-      "travel_sponsorship": "partial",
-      "event_type": "conference"
     },
     {
       "id": "807c8a3e1afc3084",
@@ -795,6 +795,26 @@
       "event_location": "TBD, TBD"
     },
     {
+      "id": "c8f2597c6e5db7c4",
+      "cfp_title": "TechEx North America",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://techexevent.com/register-now",
+      "deadline": "2026-05-17",
+      "event_date": "2026-05-18",
+      "status": "draft",
+      "score": 0.432,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.660624+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
+      "is_online": false,
+      "event_location": "San Jose, CA, U.S.A."
+    },
+    {
       "id": "8496831bd6d324e2",
       "cfp_title": "Cloud Data Driven User Group - 2026 Virtual Sessions",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -933,26 +953,6 @@
       "match_reason": "Conference themes align with 'education' (score: 6.0)",
       "is_online": false,
       "event_location": "Massry School of Business, UAlbany, Albany, NY 12202"
-    },
-    {
-      "id": "c8f2597c6e5db7c4",
-      "cfp_title": "TechEx North America",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://techexevent.com/register-now",
-      "deadline": "2026-05-17",
-      "event_date": "2026-05-18",
-      "status": "draft",
-      "score": 0.402,
-      "priority": "medium",
-      "created_at": "2026-04-08T12:28:22.660624+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
-      "is_online": false,
-      "event_location": "San Jose, CA, U.S.A."
     },
     {
       "id": "fb6f89b6ee144699",
@@ -1735,6 +1735,26 @@
       "event_location": "Athens, Greece"
     },
     {
+      "id": "9c40017725216ae5",
+      "cfp_title": "React Advanced",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://gitnation.com/events/react-advanced-2026/cfp",
+      "deadline": "2026-05-24",
+      "event_date": "2026-10-23",
+      "status": "draft",
+      "score": 0.26,
+      "priority": "low",
+      "created_at": "2026-05-10T08:10:19.254777+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": true,
+      "event_location": "London, U.K."
+    },
+    {
       "id": "e320b5689ff3ded6",
       "cfp_title": "ZhongkuiMa/CFPMonitor",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1815,6 +1835,26 @@
       "event_location": "Washington State University Vancouver, 14204 NE Salmon Creek Avenue, Vancouver, WA, USA 98686-9600, Campus map,"
     },
     {
+      "id": "3fc10419038bf1eb",
+      "cfp_title": "Minnesota Day of Data 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sqlsaturday-minnesota-2026",
+      "deadline": "",
+      "event_date": "2026-10-24",
+      "status": "draft",
+      "score": 0.252,
+      "priority": "low",
+      "created_at": "2026-05-10T08:10:19.257557+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 7.0)",
+      "is_online": false,
+      "event_location": "St Paul College, 235 Marshall Avenue, Saint Paul, MN 55102,"
+    },
+    {
       "id": "0f2d88cede794151",
       "cfp_title": "cloudcommunity/Tech-Conferences",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1878,7 +1918,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 20,
+      "applications": 21,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -1893,15 +1933,15 @@
       "acceptance_rate": 0
     },
     {
-      "title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "applications": 7,
+      "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "applications": 8,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
       "acceptance_rate": 0
     },
     {
-      "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
       "applications": 7,
       "accepted": 0,
       "rejected": 0,
@@ -1956,7 +1996,7 @@
       "title": "TechEx North America",
       "deadline": "2026-05-17",
       "source": "confs.tech",
-      "score": 0.402,
+      "score": 0.432,
       "url": "https://techexevent.com/register-now",
       "travel_sponsorship": "partial",
       "location": "San Jose, CA, U.S.A."
@@ -1992,7 +2032,7 @@
       "title": "React Advanced",
       "deadline": "2026-05-24",
       "source": "confs.tech",
-      "score": 0.23,
+      "score": 0.26,
       "url": "https://gitnation.com/events/react-advanced-2026/cfp",
       "travel_sponsorship": "unknown",
       "location": "London, U.K."
