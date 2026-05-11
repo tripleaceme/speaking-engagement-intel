@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T08:10:19.303776+00:00",
+  "generated_at": "2026-05-11T09:43:04.870478+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 18,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-10T08:10:16.230197+00:00",
+    "last_crawled": "2026-05-11T09:43:02.127533+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 4,
@@ -66,8 +66,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 5,
-    "low": 48
+    "medium": 6,
+    "low": 47
   },
   "tag_cloud": [
     {
@@ -293,6 +293,31 @@
       "event_type": "conference, precon"
     },
     {
+      "id": "a9c241bd74d4955d",
+      "title": "swampUP Europe",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/swampup-europe-2026",
+      "deadline": "2026-05-18",
+      "event_date": "2026-10-20",
+      "location": "Barcelona, Spain",
+      "is_online": false,
+      "tags": [
+        "leadership",
+        "security",
+        "cloud",
+        "devops",
+        "ai"
+      ],
+      "score": 0.409,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.331,
+      "talk_match": 0.078,
+      "urgency": 1.0,
+      "travel_sponsorship": "yes",
+      "event_type": "conference"
+    },
+    {
       "id": "807c8a3e1afc3084",
       "title": "Triangle SQL Server User Group 2026",
       "source": "callfordataspeakers",
@@ -340,31 +365,6 @@
       "talk_match": 0.06,
       "urgency": 0.8,
       "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "a9c241bd74d4955d",
-      "title": "swampUP Europe",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/swampup-europe-2026",
-      "deadline": "2026-05-18",
-      "event_date": "2026-10-20",
-      "location": "Barcelona, Spain",
-      "is_online": false,
-      "tags": [
-        "leadership",
-        "security",
-        "cloud",
-        "devops",
-        "ai"
-      ],
-      "score": 0.379,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.331,
-      "talk_match": 0.078,
-      "urgency": 0.8,
-      "travel_sponsorship": "yes",
       "event_type": "conference"
     },
     {
@@ -955,6 +955,26 @@
       "event_location": "Massry School of Business, UAlbany, Albany, NY 12202"
     },
     {
+      "id": "89d499afef96fafc",
+      "cfp_title": "swampUP Europe",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/swampup-europe-2026",
+      "deadline": "2026-05-18",
+      "event_date": "2026-10-20",
+      "status": "draft",
+      "score": 0.409,
+      "priority": "medium",
+      "created_at": "2026-05-08T07:44:54.680367+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'ai' (score: 8.5)",
+      "is_online": false,
+      "event_location": "Barcelona, Spain"
+    },
+    {
       "id": "fb6f89b6ee144699",
       "cfp_title": "Triangle SQL Server User Group 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1013,26 +1033,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 9.5)",
       "is_online": false,
       "event_location": "Bangalore, India"
-    },
-    {
-      "id": "89d499afef96fafc",
-      "cfp_title": "swampUP Europe",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/swampup-europe-2026",
-      "deadline": "2026-05-18",
-      "event_date": "2026-10-20",
-      "status": "draft",
-      "score": 0.379,
-      "priority": "low",
-      "created_at": "2026-05-08T07:44:54.680367+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "yes",
-      "match_reason": "Conference themes align with 'ai' (score: 8.5)",
-      "is_online": false,
-      "event_location": "Barcelona, Spain"
     },
     {
       "id": "922be52c18c6e9a0",
@@ -1455,6 +1455,26 @@
       "event_location": "Online"
     },
     {
+      "id": "b8e2af2bb48bfb63",
+      "cfp_title": "XtremeAI Online Conference",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://tinyurl.com/xtreme2026",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-24",
+      "status": "draft",
+      "score": 0.305,
+      "priority": "low",
+      "created_at": "2026-04-18T07:12:25.442632+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 3.0)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
+    },
+    {
       "id": "ff9a70eb4d6e1d74",
       "cfp_title": "Global Summit on Data Science and Cloud Computing",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1513,6 +1533,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 3.5)",
       "is_online": false,
       "event_location": "Belgrade, Serbia"
+    },
+    {
+      "id": "ca1b621fe07c376e",
+      "cfp_title": "XtremePython Online Conference",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "http://www.zindell.com/documents/codeofconduct.pdf",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-17",
+      "status": "draft",
+      "score": 0.287,
+      "priority": "low",
+      "created_at": "2026-04-18T07:12:25.442699+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
     },
     {
       "id": "a0c4f8271ff446ff",
@@ -1593,26 +1633,6 @@
       "match_reason": "Conference themes align with 'data' (score: 11.3)",
       "is_online": false,
       "event_location": "Burlington, Massachusetts, United States"
-    },
-    {
-      "id": "b8e2af2bb48bfb63",
-      "cfp_title": "XtremeAI Online Conference",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://tinyurl.com/xtreme2026",
-      "deadline": "2026-07-10",
-      "event_date": "2026-11-24",
-      "status": "draft",
-      "score": 0.275,
-      "priority": "low",
-      "created_at": "2026-04-18T07:12:25.442632+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 3.0)",
-      "is_online": true,
-      "event_location": "TBD, TBD"
     },
     {
       "id": "8ef1aa5b4718f454",
@@ -1773,26 +1793,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 11.5)",
       "is_online": true,
       "event_location": ""
-    },
-    {
-      "id": "ca1b621fe07c376e",
-      "cfp_title": "XtremePython Online Conference",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "http://www.zindell.com/documents/codeofconduct.pdf",
-      "deadline": "2026-07-10",
-      "event_date": "2026-11-17",
-      "status": "draft",
-      "score": 0.257,
-      "priority": "low",
-      "created_at": "2026-04-18T07:12:25.442699+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
-      "is_online": true,
-      "event_location": "TBD, TBD"
     },
     {
       "id": "2beef322688d1330",
@@ -2005,7 +2005,7 @@
       "title": "swampUP Europe",
       "deadline": "2026-05-18",
       "source": "confs.tech",
-      "score": 0.379,
+      "score": 0.409,
       "url": "https://sessionize.com/swampup-europe-2026",
       "travel_sponsorship": "yes",
       "location": "Barcelona, Spain"

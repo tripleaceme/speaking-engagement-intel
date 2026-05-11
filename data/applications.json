@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-05-10T08:10:19.259971+00:00",
+    "last_updated": "2026-05-11T09:43:04.821706+00:00",
     "total_applications": 61,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -1125,6 +1125,98 @@
       "notes": ""
     },
     {
+      "id": "89d499afef96fafc",
+      "cfp_id": "a9c241bd74d4955d",
+      "cfp_title": "swampUP Europe",
+      "cfp_url": "https://sessionize.com/swampup-europe-2026",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-05-18",
+      "event_date": "2026-10-20",
+      "event_location": "Barcelona, Spain",
+      "is_online": false,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 8.5)",
+      "conference_themes": [
+        "cloud",
+        "devops",
+        "security",
+        "web",
+        "ai",
+        "open-source",
+        "leadership",
+        "education"
+      ],
+      "conference_categories": [
+        "software supply chain security",
+        "secrets management and vulnerability mitigation",
+        "real",
+        "world applicability and best practices",
+        "monitoring",
+        "observability",
+        "and performance optimization",
+        "cd best practices at scale",
+        "infrastructure as code and",
+        "compliance and policy automation",
+        "technical depth and innovation"
+      ],
+      "travel_sponsorship": "yes",
+      "speaker_perks": {
+        "hotel": true,
+        "ticket": true
+      },
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.409,
+        "tag_relevance": 0.331,
+        "talk_match_score": 0.078,
+        "urgency_score": 1.0,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "yes"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-05-08T07:44:54.680365+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 8.5)"
+        }
+      ],
+      "created_at": "2026-05-08T07:44:54.680367+00:00",
+      "updated_at": "2026-05-08T07:44:54.680368+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "fb6f89b6ee144699",
       "cfp_id": "807c8a3e1afc3084",
       "cfp_title": "Triangle SQL Server User Group 2026",
@@ -1365,98 +1457,6 @@
       ],
       "created_at": "2026-05-08T07:44:54.680090+00:00",
       "updated_at": "2026-05-08T07:44:54.680093+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "89d499afef96fafc",
-      "cfp_id": "a9c241bd74d4955d",
-      "cfp_title": "swampUP Europe",
-      "cfp_url": "https://sessionize.com/swampup-europe-2026",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-05-18",
-      "event_date": "2026-10-20",
-      "event_location": "Barcelona, Spain",
-      "is_online": false,
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-      "talk_tags": [
-        "ai",
-        "llm",
-        "data-governance",
-        "dbt",
-        "automation"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'ai' (score: 8.5)",
-      "conference_themes": [
-        "cloud",
-        "devops",
-        "security",
-        "web",
-        "ai",
-        "open-source",
-        "leadership",
-        "education"
-      ],
-      "conference_categories": [
-        "software supply chain security",
-        "secrets management and vulnerability mitigation",
-        "real",
-        "world applicability and best practices",
-        "monitoring",
-        "observability",
-        "and performance optimization",
-        "cd best practices at scale",
-        "infrastructure as code and",
-        "compliance and policy automation",
-        "technical depth and innovation"
-      ],
-      "travel_sponsorship": "yes",
-      "speaker_perks": {
-        "hotel": true,
-        "ticket": true
-      },
-      "proposal": {
-        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "ai",
-          "llm",
-          "data-governance",
-          "dbt",
-          "automation"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.379,
-        "tag_relevance": 0.331,
-        "talk_match_score": 0.078,
-        "urgency_score": 0.8,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "yes"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-05-08T07:44:54.680365+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 8.5)"
-        }
-      ],
-      "created_at": "2026-05-08T07:44:54.680367+00:00",
-      "updated_at": "2026-05-08T07:44:54.680368+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -3164,6 +3164,74 @@
       "notes": ""
     },
     {
+      "id": "b8e2af2bb48bfb63",
+      "cfp_id": "179c401cecea9796",
+      "cfp_title": "XtremeAI Online Conference",
+      "cfp_url": "https://tinyurl.com/xtreme2026",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-07-10",
+      "event_date": "2026-11-24",
+      "event_location": "TBD, TBD",
+      "is_online": true,
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+      "talk_tags": [
+        "dbt",
+        "data-quality",
+        "documentation",
+        "analytics-engineering",
+        "ai"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'data' (score: 3.0)",
+      "conference_themes": [],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "dbt",
+          "data-quality",
+          "documentation",
+          "analytics-engineering",
+          "ai"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.305,
+        "tag_relevance": 0.223,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.4,
+        "format_score": 0.8,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-18T07:12:25.442624+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 3.0)"
+        }
+      ],
+      "created_at": "2026-04-18T07:12:25.442632+00:00",
+      "updated_at": "2026-04-18T07:12:25.442634+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "ff9a70eb4d6e1d74",
       "cfp_id": "2353c784b684765d",
       "cfp_title": "Global Summit on Data Science and Cloud Computing",
@@ -3408,6 +3476,77 @@
       ],
       "created_at": "2026-04-08T12:28:22.662416+00:00",
       "updated_at": "2026-04-08T12:28:22.662418+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "ca1b621fe07c376e",
+      "cfp_id": "925345156dea5ecc",
+      "cfp_title": "XtremePython Online Conference",
+      "cfp_url": "http://www.zindell.com/documents/codeofconduct.pdf",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-07-10",
+      "event_date": "2026-11-17",
+      "event_location": "TBD, TBD",
+      "is_online": true,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
+      "conference_themes": [
+        "ai",
+        "testing"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.287,
+        "tag_relevance": 0.172,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.4,
+        "format_score": 0.8,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-18T07:12:25.442692+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 4.5)"
+        }
+      ],
+      "created_at": "2026-04-18T07:12:25.442699+00:00",
+      "updated_at": "2026-04-18T07:12:25.442702+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -3735,74 +3874,6 @@
       ],
       "created_at": "2026-04-17T07:51:09.330428+00:00",
       "updated_at": "2026-04-17T07:51:09.330430+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "b8e2af2bb48bfb63",
-      "cfp_id": "179c401cecea9796",
-      "cfp_title": "XtremeAI Online Conference",
-      "cfp_url": "https://tinyurl.com/xtreme2026",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-07-10",
-      "event_date": "2026-11-24",
-      "event_location": "TBD, TBD",
-      "is_online": true,
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-      "talk_tags": [
-        "dbt",
-        "data-quality",
-        "documentation",
-        "analytics-engineering",
-        "ai"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'data' (score: 3.0)",
-      "conference_themes": [],
-      "conference_categories": [],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "dbt",
-          "data-quality",
-          "documentation",
-          "analytics-engineering",
-          "ai"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.275,
-        "tag_relevance": 0.223,
-        "talk_match_score": 0.022,
-        "urgency_score": 0.2,
-        "format_score": 0.8,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-18T07:12:25.442624+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 3.0)"
-        }
-      ],
-      "created_at": "2026-04-18T07:12:25.442632+00:00",
-      "updated_at": "2026-04-18T07:12:25.442634+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -4463,77 +4534,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.663155+00:00",
       "updated_at": "2026-04-08T12:28:22.663156+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "ca1b621fe07c376e",
-      "cfp_id": "925345156dea5ecc",
-      "cfp_title": "XtremePython Online Conference",
-      "cfp_url": "http://www.zindell.com/documents/codeofconduct.pdf",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-07-10",
-      "event_date": "2026-11-17",
-      "event_location": "TBD, TBD",
-      "is_online": true,
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-      "talk_tags": [
-        "ai",
-        "llm",
-        "data-governance",
-        "dbt",
-        "automation"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
-      "conference_themes": [
-        "ai",
-        "testing"
-      ],
-      "conference_categories": [],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "ai",
-          "llm",
-          "data-governance",
-          "dbt",
-          "automation"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.257,
-        "tag_relevance": 0.172,
-        "talk_match_score": 0.022,
-        "urgency_score": 0.2,
-        "format_score": 0.8,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-18T07:12:25.442692+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 4.5)"
-        }
-      ],
-      "created_at": "2026-04-18T07:12:25.442699+00:00",
-      "updated_at": "2026-04-18T07:12:25.442702+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
