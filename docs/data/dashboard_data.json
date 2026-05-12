@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-05-11T09:43:04.870478+00:00",
+  "generated_at": "2026-05-12T08:43:02.201302+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 71,
+    "total_cfps_discovered": 72,
     "open_cfps": 53,
-    "expired_cfps": 18,
-    "total_applications": 61,
+    "expired_cfps": 19,
+    "total_applications": 62,
     "drafts": 43,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 18,
+    "expired_apps": 19,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-11T09:43:02.127533+00:00",
+    "last_crawled": "2026-05-12T08:42:58.025144+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 4,
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 36
+      "draft": 35
     },
     {
       "month": "2026-05",
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 7
+      "draft": 8
     }
   ],
   "source_breakdown": [
@@ -49,7 +49,7 @@
     },
     {
       "source": "callfordataspeakers",
-      "count": 28
+      "count": 29
     },
     {
       "source": "github",
@@ -66,8 +66,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 6,
-    "low": 47
+    "medium": 5,
+    "low": 48
   },
   "tag_cloud": [
     {
@@ -92,7 +92,7 @@
     },
     {
       "tag": "education",
-      "count": 29
+      "count": 28
     },
     {
       "tag": "leadership",
@@ -112,15 +112,11 @@
     },
     {
       "tag": "conference",
-      "count": 13
+      "count": 14
     },
     {
       "tag": "testing",
       "count": 11
-    },
-    {
-      "tag": "usergroup",
-      "count": 10
     },
     {
       "tag": "online",
@@ -128,6 +124,10 @@
     },
     {
       "tag": "call-for-papers",
+      "count": 9
+    },
+    {
+      "tag": "usergroup",
       "count": 9
     },
     {
@@ -187,36 +187,11 @@
       "count": 3
     },
     {
-      "tag": "conference, precon",
+      "tag": "north america",
       "count": 3
     }
   ],
   "top_matches": [
-    {
-      "id": "54914a3c37e33054",
-      "title": "Microsoft Fabric & Power BI Melbourne",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/fabric-powerbi-melbourne",
-      "deadline": "2026-05-11",
-      "event_date": "2026-05-21",
-      "location": "Melbourne, Australia",
-      "is_online": true,
-      "tags": [
-        "education",
-        "usergroup",
-        "ai",
-        "data",
-        "web"
-      ],
-      "score": 0.454,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.343,
-      "talk_match": 0.078,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
-    },
     {
       "id": "5beb3fd03323d3b6",
       "title": "AI for Developers",
@@ -691,6 +666,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
+    },
+    {
+      "id": "c3c30f2797ec1bba",
+      "title": "SQL Server User Group Croatia 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
+      "deadline": "2026-09-12",
+      "event_date": "2026-04-08",
+      "location": "online",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "database",
+        "ai",
+        "open-source",
+        "usergroup"
+      ],
+      "score": 0.311,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.346,
+      "talk_match": 0.067,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -742,7 +742,7 @@
       "cfp_url": "https://sessionize.com/fabric-powerbi-melbourne",
       "deadline": "2026-05-11",
       "event_date": "2026-05-21",
-      "status": "draft",
+      "status": "expired",
       "score": 0.454,
       "priority": "medium",
       "created_at": "2026-04-27T08:29:46.475874+00:00",
@@ -1575,6 +1575,26 @@
       "event_location": "Bengaluru, India"
     },
     {
+      "id": "e3fc02514c928a0c",
+      "cfp_title": "Global Fabric Day 2026 - NYC Edition",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/global-fabric-day-2026-nyc-edition",
+      "deadline": "2026-05-28",
+      "event_date": "2026-06-27",
+      "status": "draft",
+      "score": 0.285,
+      "priority": "low",
+      "created_at": "2026-05-12T08:43:02.158628+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 5.7)",
+      "is_online": false,
+      "event_location": "New York City, New York, United States"
+    },
+    {
       "id": "c1952d329f21d0e0",
       "cfp_title": "Power Conference 2026",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1926,7 +1946,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 14,
+      "applications": 15,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -1974,15 +1994,6 @@
     }
   ],
   "upcoming_deadlines": [
-    {
-      "title": "Microsoft Fabric & Power BI Melbourne",
-      "deadline": "2026-05-11",
-      "source": "callfordataspeakers",
-      "score": 0.454,
-      "url": "https://sessionize.com/fabric-powerbi-melbourne",
-      "travel_sponsorship": "unknown",
-      "location": "Melbourne, Australia"
-    },
     {
       "title": "TechSummit Amsterdam",
       "deadline": "2026-05-15",
@@ -2036,6 +2047,15 @@
       "url": "https://gitnation.com/events/react-advanced-2026/cfp",
       "travel_sponsorship": "unknown",
       "location": "London, U.K."
+    },
+    {
+      "title": "Global Fabric Day 2026 - NYC Edition",
+      "deadline": "2026-05-28",
+      "source": "callfordataspeakers",
+      "score": 0.285,
+      "url": "https://sessionize.com/global-fabric-day-2026-nyc-edition",
+      "travel_sponsorship": "unknown",
+      "location": "New York City, New York, United States"
     },
     {
       "title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",

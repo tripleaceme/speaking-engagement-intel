@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_updated": "2026-05-11T09:43:04.821706+00:00",
-    "total_applications": 61,
+    "last_updated": "2026-05-12T08:43:02.161009+00:00",
+    "total_applications": 62,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
     "total_drafts": 43,
-    "total_expired": 18,
+    "total_expired": 19,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 18,
+      "expired": 19,
       "draft": 43
     },
     "unique_talk_titles": 6
@@ -258,16 +258,21 @@
         "priority": "medium",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-27T08:29:46.475867+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 5.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-05-12T08:43:02.160790+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-27T08:29:46.475874+00:00",
-      "updated_at": "2026-04-27T08:29:46.475877+00:00",
+      "updated_at": "2026-05-12T08:43:02.160797+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -3629,6 +3634,79 @@
       ],
       "created_at": "2026-04-08T12:28:22.661154+00:00",
       "updated_at": "2026-04-08T12:28:22.661156+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "e3fc02514c928a0c",
+      "cfp_id": "e28b6bb717038163",
+      "cfp_title": "Global Fabric Day 2026 - NYC Edition",
+      "cfp_url": "https://sessionize.com/global-fabric-day-2026-nyc-edition",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-05-28",
+      "event_date": "2026-06-27",
+      "event_location": "New York City, New York, United States",
+      "is_online": false,
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+      "talk_tags": [
+        "dbt",
+        "data-quality",
+        "documentation",
+        "analytics-engineering",
+        "ai"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'data' (score: 5.7)",
+      "conference_themes": [
+        "data",
+        "ai",
+        "web",
+        "open-source"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "dbt",
+          "data-quality",
+          "documentation",
+          "analytics-engineering",
+          "ai"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.285,
+        "tag_relevance": 0.18,
+        "talk_match_score": 0.04,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-05-12T08:43:02.158618+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 5.7)"
+        }
+      ],
+      "created_at": "2026-05-12T08:43:02.158628+00:00",
+      "updated_at": "2026-05-12T08:43:02.158630+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
