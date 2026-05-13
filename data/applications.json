@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-05-12T08:43:02.161009+00:00",
+    "last_updated": "2026-05-13T08:47:18.947029+00:00",
     "total_applications": 62,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -969,6 +969,87 @@
       "notes": ""
     },
     {
+      "id": "5746ef209fd30412",
+      "cfp_id": "f55f5921be481d80",
+      "cfp_title": "AgentCon - Bengaluru",
+      "cfp_url": "https://sessionize.com/agentcon-bengaluru",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-05-20",
+      "event_date": "2026-06-20",
+      "event_location": "Bangalore, India",
+      "is_online": false,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
+      "conference_themes": [
+        "ai",
+        "education",
+        "web",
+        "open-source",
+        "cloud",
+        "devops",
+        "security",
+        "mobile"
+      ],
+      "conference_categories": [
+        "agent systems",
+        "applied ai and multi",
+        "to consider:"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.411,
+        "tag_relevance": 0.352,
+        "talk_match_score": 0.06,
+        "urgency_score": 1.0,
+        "format_score": 0.6,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-05-08T07:44:54.680079+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 9.5)"
+        }
+      ],
+      "created_at": "2026-05-08T07:44:54.680090+00:00",
+      "updated_at": "2026-05-08T07:44:54.680093+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "c6546a796d53b106",
       "cfp_id": "8e6fbaf6f004a23a",
       "cfp_title": "Day of Data Baton Rouge 2026",
@@ -1381,87 +1462,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.665170+00:00",
       "updated_at": "2026-05-01T08:14:13.862703+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "5746ef209fd30412",
-      "cfp_id": "f55f5921be481d80",
-      "cfp_title": "AgentCon - Bengaluru",
-      "cfp_url": "https://sessionize.com/agentcon-bengaluru",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-05-20",
-      "event_date": "2026-06-20",
-      "event_location": "Bangalore, India",
-      "is_online": false,
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-      "talk_tags": [
-        "ai",
-        "llm",
-        "data-governance",
-        "dbt",
-        "automation"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
-      "conference_themes": [
-        "ai",
-        "education",
-        "web",
-        "open-source",
-        "cloud",
-        "devops",
-        "security",
-        "mobile"
-      ],
-      "conference_categories": [
-        "agent systems",
-        "applied ai and multi",
-        "to consider:"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "ai",
-          "llm",
-          "data-governance",
-          "dbt",
-          "automation"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.381,
-        "tag_relevance": 0.352,
-        "talk_match_score": 0.06,
-        "urgency_score": 0.8,
-        "format_score": 0.6,
-        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-05-08T07:44:54.680079+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 9.5)"
-        }
-      ],
-      "created_at": "2026-05-08T07:44:54.680090+00:00",
-      "updated_at": "2026-05-08T07:44:54.680093+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

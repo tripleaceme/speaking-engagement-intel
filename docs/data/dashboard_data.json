@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T08:43:02.201302+00:00",
+  "generated_at": "2026-05-13T08:47:18.983513+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 19,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-12T08:42:58.025144+00:00",
+    "last_crawled": "2026-05-13T08:47:15.525613+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 4,
@@ -66,8 +66,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 5,
-    "low": 48
+    "medium": 6,
+    "low": 47
   },
   "tag_cloud": [
     {
@@ -268,6 +268,31 @@
       "event_type": "conference, precon"
     },
     {
+      "id": "f55f5921be481d80",
+      "title": "AgentCon - Bengaluru",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/agentcon-bengaluru",
+      "deadline": "2026-05-20",
+      "event_date": "2026-06-20",
+      "location": "Bangalore, India",
+      "is_online": false,
+      "tags": [
+        "security",
+        "cloud",
+        "devops",
+        "mobile",
+        "ai"
+      ],
+      "score": 0.411,
+      "priority": "medium",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.352,
+      "talk_match": 0.06,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "a9c241bd74d4955d",
       "title": "swampUP Europe",
       "source": "confs.tech",
@@ -316,31 +341,6 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
-    },
-    {
-      "id": "f55f5921be481d80",
-      "title": "AgentCon - Bengaluru",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/agentcon-bengaluru",
-      "deadline": "2026-05-20",
-      "event_date": "2026-06-20",
-      "location": "Bangalore, India",
-      "is_online": false,
-      "tags": [
-        "security",
-        "cloud",
-        "devops",
-        "mobile",
-        "ai"
-      ],
-      "score": 0.381,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.352,
-      "talk_match": 0.06,
-      "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     },
     {
       "id": "dfef6664af81dc72",
@@ -915,6 +915,26 @@
       "event_location": "Mannheim, Germany"
     },
     {
+      "id": "5746ef209fd30412",
+      "cfp_title": "AgentCon - Bengaluru",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/agentcon-bengaluru",
+      "deadline": "2026-05-20",
+      "event_date": "2026-06-20",
+      "status": "draft",
+      "score": 0.411,
+      "priority": "medium",
+      "created_at": "2026-05-08T07:44:54.680090+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
+      "is_online": false,
+      "event_location": "Bangalore, India"
+    },
+    {
       "id": "c6546a796d53b106",
       "cfp_title": "Day of Data Baton Rouge 2026",
       "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
@@ -1013,26 +1033,6 @@
       "match_reason": "Conference themes align with 'cloud' (score: 5.5)",
       "is_online": false,
       "event_location": "G\u00f6teborg, Sweden"
-    },
-    {
-      "id": "5746ef209fd30412",
-      "cfp_title": "AgentCon - Bengaluru",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/agentcon-bengaluru",
-      "deadline": "2026-05-20",
-      "event_date": "2026-06-20",
-      "status": "draft",
-      "score": 0.381,
-      "priority": "low",
-      "created_at": "2026-05-08T07:44:54.680090+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
-      "is_online": false,
-      "event_location": "Bangalore, India"
     },
     {
       "id": "922be52c18c6e9a0",
@@ -2025,7 +2025,7 @@
       "title": "AgentCon - Bengaluru",
       "deadline": "2026-05-20",
       "source": "confs.tech",
-      "score": 0.381,
+      "score": 0.411,
       "url": "https://sessionize.com/agentcon-bengaluru",
       "travel_sponsorship": "unknown",
       "location": "Bangalore, India"
