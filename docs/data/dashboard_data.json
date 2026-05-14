@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T08:47:18.983513+00:00",
+  "generated_at": "2026-05-14T08:39:59.843650+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 19,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-13T08:47:15.525613+00:00",
+    "last_crawled": "2026-05-14T08:39:57.143095+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 4,
@@ -193,6 +193,31 @@
   ],
   "top_matches": [
     {
+      "id": "1e63984aef734deb",
+      "title": "dataMinds Connect 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/dataminds-connect-2026",
+      "deadline": "2026-05-21",
+      "event_date": "2026-10-12",
+      "location": "Mechelen, Belgium",
+      "is_online": false,
+      "tags": [
+        "europe",
+        "cloud",
+        "database",
+        "education",
+        "security"
+      ],
+      "score": 0.452,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.51,
+      "talk_match": 0.078,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon"
+    },
+    {
       "id": "5beb3fd03323d3b6",
       "title": "AI for Developers",
       "source": "confs.tech",
@@ -241,31 +266,6 @@
       "urgency": 1.0,
       "travel_sponsorship": "partial",
       "event_type": "conference"
-    },
-    {
-      "id": "1e63984aef734deb",
-      "title": "dataMinds Connect 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/dataminds-connect-2026",
-      "deadline": "2026-05-21",
-      "event_date": "2026-10-12",
-      "location": "Mechelen, Belgium",
-      "is_online": false,
-      "tags": [
-        "europe",
-        "cloud",
-        "database",
-        "education",
-        "security"
-      ],
-      "score": 0.422,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.51,
-      "talk_match": 0.078,
-      "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference, precon"
     },
     {
       "id": "f55f5921be481d80",
@@ -618,6 +618,31 @@
       "event_type": ""
     },
     {
+      "id": "e28b6bb717038163",
+      "title": "Global Fabric Day 2026 - NYC Edition",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/global-fabric-day-2026-nyc-edition",
+      "deadline": "2026-05-28",
+      "event_date": "2026-06-27",
+      "location": "New York City, New York, United States",
+      "is_online": false,
+      "tags": [
+        "web",
+        "ai",
+        "data",
+        "open-source",
+        "north america"
+      ],
+      "score": 0.315,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.18,
+      "talk_match": 0.04,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "0486b7fd0e05c814",
       "title": "Persian and Fabric Power BI User Group",
       "source": "callfordataspeakers",
@@ -666,31 +691,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
-    },
-    {
-      "id": "c3c30f2797ec1bba",
-      "title": "SQL Server User Group Croatia 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
-      "deadline": "2026-09-12",
-      "event_date": "2026-04-08",
-      "location": "online",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "database",
-        "ai",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.311,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.346,
-      "talk_match": 0.067,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -775,6 +775,26 @@
       "event_location": "Cologne, Germany"
     },
     {
+      "id": "2493cc146e263fd6",
+      "cfp_title": "dataMinds Connect 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/dataminds-connect-2026",
+      "deadline": "2026-05-21",
+      "event_date": "2026-10-12",
+      "status": "draft",
+      "score": 0.452,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.665647+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 14.5)",
+      "is_online": false,
+      "event_location": "Mechelen, Belgium"
+    },
+    {
       "id": "4773a1d619aabaed",
       "cfp_title": "AI for Developers",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -833,26 +853,6 @@
       "match_reason": "Conference themes align with 'data' (score: 8.3)",
       "is_online": true,
       "event_location": "Online"
-    },
-    {
-      "id": "2493cc146e263fd6",
-      "cfp_title": "dataMinds Connect 2026",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/dataminds-connect-2026",
-      "deadline": "2026-05-21",
-      "event_date": "2026-10-12",
-      "status": "draft",
-      "score": 0.422,
-      "priority": "medium",
-      "created_at": "2026-04-08T12:28:22.665647+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 14.5)",
-      "is_online": false,
-      "event_location": "Mechelen, Belgium"
     },
     {
       "id": "f05c499a51109afe",
@@ -1335,6 +1335,26 @@
       "event_location": ""
     },
     {
+      "id": "e3fc02514c928a0c",
+      "cfp_title": "Global Fabric Day 2026 - NYC Edition",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/global-fabric-day-2026-nyc-edition",
+      "deadline": "2026-05-28",
+      "event_date": "2026-06-27",
+      "status": "draft",
+      "score": 0.315,
+      "priority": "low",
+      "created_at": "2026-05-12T08:43:02.158628+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 5.7)",
+      "is_online": false,
+      "event_location": "New York City, New York, United States"
+    },
+    {
       "id": "2fbe4cba6f0c1a5b",
       "cfp_title": "Persian and Fabric Power BI User Group",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1573,26 +1593,6 @@
       "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
       "is_online": false,
       "event_location": "Bengaluru, India"
-    },
-    {
-      "id": "e3fc02514c928a0c",
-      "cfp_title": "Global Fabric Day 2026 - NYC Edition",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/global-fabric-day-2026-nyc-edition",
-      "deadline": "2026-05-28",
-      "event_date": "2026-06-27",
-      "status": "draft",
-      "score": 0.285,
-      "priority": "low",
-      "created_at": "2026-05-12T08:43:02.158628+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 5.7)",
-      "is_online": false,
-      "event_location": "New York City, New York, United States"
     },
     {
       "id": "c1952d329f21d0e0",
@@ -2034,7 +2034,7 @@
       "title": "dataMinds Connect 2026",
       "deadline": "2026-05-21",
       "source": "callfordataspeakers",
-      "score": 0.422,
+      "score": 0.452,
       "url": "https://sessionize.com/dataminds-connect-2026",
       "travel_sponsorship": "unknown",
       "location": "Mechelen, Belgium"
@@ -2052,7 +2052,7 @@
       "title": "Global Fabric Day 2026 - NYC Edition",
       "deadline": "2026-05-28",
       "source": "callfordataspeakers",
-      "score": 0.285,
+      "score": 0.315,
       "url": "https://sessionize.com/global-fabric-day-2026-nyc-edition",
       "travel_sponsorship": "unknown",
       "location": "New York City, New York, United States"
