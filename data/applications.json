@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-05-14T08:39:59.797351+00:00",
+    "last_updated": "2026-05-15T08:51:11.633920+00:00",
     "total_applications": 62,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -2764,6 +2764,96 @@
       "notes": ""
     },
     {
+      "id": "c1952d329f21d0e0",
+      "cfp_id": "d227b6f4bf58f201",
+      "cfp_title": "Power Conference 2026",
+      "cfp_url": "https://sessionize.com/power-conference-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-07-14",
+      "event_date": "2026-12-02",
+      "event_location": "Prague, Czechia",
+      "is_online": false,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 8.5)",
+      "conference_themes": [
+        "ai",
+        "web",
+        "open-source",
+        "leadership",
+        "education",
+        "cloud",
+        "devops",
+        "mobile",
+        "blockchain",
+        "iot"
+      ],
+      "conference_categories": [
+        "scale implementations real",
+        "related content",
+        "world case studies ai",
+        "conference compensation is based on a  revenue",
+        "related content is welcome",
+        "sharing model",
+        "high",
+        "especially practical appl"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {
+        "honorarium": true
+      },
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.314,
+        "tag_relevance": 0.334,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.4,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.665806+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 8.5)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.665809+00:00",
+      "updated_at": "2026-04-08T12:28:22.665810+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "2fbe4cba6f0c1a5b",
       "cfp_id": "0486b7fd0e05c814",
       "cfp_title": "Persian and Fabric Power BI User Group",
@@ -3707,96 +3797,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.661154+00:00",
       "updated_at": "2026-04-08T12:28:22.661156+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "c1952d329f21d0e0",
-      "cfp_id": "d227b6f4bf58f201",
-      "cfp_title": "Power Conference 2026",
-      "cfp_url": "https://sessionize.com/power-conference-2026",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-07-14",
-      "event_date": "2026-12-02",
-      "event_location": "Prague, Czechia",
-      "is_online": false,
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-      "talk_tags": [
-        "ai",
-        "llm",
-        "data-governance",
-        "dbt",
-        "automation"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'ai' (score: 8.5)",
-      "conference_themes": [
-        "ai",
-        "web",
-        "open-source",
-        "leadership",
-        "education",
-        "cloud",
-        "devops",
-        "mobile",
-        "blockchain",
-        "iot"
-      ],
-      "conference_categories": [
-        "scale implementations real",
-        "related content",
-        "world case studies ai",
-        "conference compensation is based on a  revenue",
-        "related content is welcome",
-        "sharing model",
-        "high",
-        "especially practical appl"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {
-        "honorarium": true
-      },
-      "proposal": {
-        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "ai",
-          "llm",
-          "data-governance",
-          "dbt",
-          "automation"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.284,
-        "tag_relevance": 0.334,
-        "talk_match_score": 0.059,
-        "urgency_score": 0.2,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.665806+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 8.5)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.665809+00:00",
-      "updated_at": "2026-04-08T12:28:22.665810+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
