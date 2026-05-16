@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-15T08:51:08.411326+00:00",
+    "last_crawled": "2026-05-16T08:06:49.718072+00:00",
     "total_cfps": 72,
-    "open_cfps": 53,
+    "open_cfps": 52,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 0,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-15T08:51:11.577594+00:00",
+    "last_scored": "2026-05-16T08:06:53.020526+00:00",
     "high_priority": 0,
     "medium_priority": 6,
     "above_threshold": 43
@@ -804,7 +804,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:46.749363+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "web",
@@ -851,17 +851,7 @@
         "topic"
       ],
       "enriched_at": "2026-04-08T12:26:33.994797+00:00",
-      "match_scores": {
-        "composite_score": 0.363,
-        "tag_relevance": 0.166,
-        "talk_match_score": 0.118,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "013da2f160509c12",
@@ -1133,10 +1123,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:42.908757+00:00",
       "match_scores": {
-        "composite_score": 0.353,
+        "composite_score": 0.383,
         "tag_relevance": 0.323,
         "talk_match_score": 0.098,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -3818,10 +3808,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:57.196585+00:00",
       "match_scores": {
-        "composite_score": 0.242,
+        "composite_score": 0.272,
         "tag_relevance": 0.182,
         "talk_match_score": 0.06,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.5,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
