@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-16T08:06:49.718072+00:00",
-    "total_cfps": 72,
-    "open_cfps": 52,
+    "last_crawled": "2026-05-17T08:23:47.807989+00:00",
+    "total_cfps": 74,
+    "open_cfps": 54,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 1,
+    "new_this_run": 2,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-16T08:06:53.020526+00:00",
+    "last_scored": "2026-05-17T08:23:52.575702+00:00",
     "high_priority": 0,
     "medium_priority": 6,
-    "above_threshold": 43
+    "above_threshold": 44
   },
   "cfps": [
     {
@@ -1352,10 +1352,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:53.873341+00:00",
       "match_scores": {
-        "composite_score": 0.26,
+        "composite_score": 0.29,
         "tag_relevance": 0.0,
         "talk_match_score": 0.0,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.7,
         "suggested_talk": null,
         "suggested_talk_level": null,
@@ -3336,10 +3336,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:51.399149+00:00",
       "match_scores": {
-        "composite_score": 0.308,
+        "composite_score": 0.338,
         "tag_relevance": 0.183,
         "talk_match_score": 0.044,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.7,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
@@ -3633,10 +3633,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:54.891974+00:00",
       "match_scores": {
-        "composite_score": 0.356,
+        "composite_score": 0.386,
         "tag_relevance": 0.367,
         "talk_match_score": 0.059,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -5179,6 +5179,166 @@
         "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "b0f748e252c21674",
+      "source": "callfordataspeakers",
+      "title": "Salt Lake City Day of Data 2026",
+      "url": "https://sessionize.com/day-of-data-slc-2026",
+      "cfp_url": "https://sessionize.com/day-of-data-slc-2026",
+      "description": "Data external \u2014 Neumont University , 143 S Main St,, SLC, UT 84115,",
+      "tags": [
+        "cloud",
+        "leadership",
+        "web",
+        "open-source",
+        "in-person",
+        "ai",
+        "external",
+        "data",
+        "database"
+      ],
+      "deadline": "",
+      "event_date": "2026-09-19",
+      "location": "Neumont University , 143 S Main St,, SLC, UT 84115,",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "external",
+      "discovered_at": "2026-05-17T08:23:46.738103+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "data",
+          "confidence": 1.0
+        },
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "database",
+          "confidence": 1.0
+        },
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        }
+      ],
+      "categories": [
+        "from all database systems",
+        "different career",
+        "getting more projects in the future or perhaps a new job"
+      ],
+      "submission_fields": [
+        "abstract",
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-05-17T08:23:51.619518+00:00",
+      "match_scores": {
+        "composite_score": 0.189,
+        "tag_relevance": 0.178,
+        "talk_match_score": 0.04,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "db40a7d1f6bc0c59",
+      "source": "callfordataspeakers",
+      "title": "Day of Data St. Louis",
+      "url": "https://sessionize.com/st-louis-day-of-data",
+      "cfp_url": "https://sessionize.com/st-louis-day-of-data",
+      "description": "Data conference \u2014 St. Louis, Missouri, United States",
+      "tags": [
+        "conference",
+        "web",
+        "leadership",
+        "open-source",
+        "ai",
+        "education",
+        "north america",
+        "data",
+        "database"
+      ],
+      "deadline": "2026-07-01",
+      "event_date": "2026-10-24",
+      "location": "St. Louis, Missouri, United States",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-05-17T08:23:46.738218+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "real\u2011world content you can put to work right away"
+      ],
+      "submission_fields": [
+        "title",
+        "description",
+        "bio",
+        "target audience",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-05-17T08:23:52.501327+00:00",
+      "match_scores": {
+        "composite_score": 0.327,
+        "tag_relevance": 0.371,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.4,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
