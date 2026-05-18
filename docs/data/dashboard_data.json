@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T08:23:52.679496+00:00",
+  "generated_at": "2026-05-18T10:08:27.320890+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,21 +7,21 @@
   },
   "summary": {
     "total_cfps_discovered": 74,
-    "open_cfps": 54,
-    "expired_cfps": 20,
+    "open_cfps": 53,
+    "expired_cfps": 21,
     "total_applications": 64,
-    "drafts": 44,
+    "drafts": 43,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 20,
+    "expired_apps": 21,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-17T08:23:47.807989+00:00",
+    "last_crawled": "2026-05-18T10:08:24.324318+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
-    "travel_partial": 4,
+    "travel_partial": 3,
     "travel_unknown": 48
   },
   "timeline": [
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 34
+      "draft": 33
     },
     {
       "month": "2026-05",
@@ -66,37 +66,37 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 6,
+    "medium": 5,
     "low": 48
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 52
+      "count": 51
     },
     {
       "tag": "web",
-      "count": 45
+      "count": 44
     },
     {
       "tag": "open-source",
-      "count": 41
+      "count": 40
     },
     {
       "tag": "data",
-      "count": 36
+      "count": 35
     },
     {
       "tag": "cloud",
-      "count": 30
-    },
-    {
-      "tag": "leadership",
       "count": 29
     },
     {
-      "tag": "education",
+      "tag": "leadership",
       "count": 28
+    },
+    {
+      "tag": "education",
+      "count": 27
     },
     {
       "tag": "database",
@@ -104,7 +104,7 @@
     },
     {
       "tag": "security",
-      "count": 21
+      "count": 20
     },
     {
       "tag": "devops",
@@ -155,10 +155,6 @@
       "count": 6
     },
     {
-      "tag": "iot",
-      "count": 5
-    },
-    {
       "tag": "mobile",
       "count": 5
     },
@@ -169,6 +165,10 @@
     {
       "tag": "europe",
       "count": 5
+    },
+    {
+      "tag": "iot",
+      "count": 4
     },
     {
       "tag": "general",
@@ -193,6 +193,31 @@
   ],
   "top_matches": [
     {
+      "id": "5beb3fd03323d3b6",
+      "title": "AI for Developers",
+      "source": "confs.tech",
+      "url": "https://aiconference.dev/cfp",
+      "deadline": "2026-06-01",
+      "event_date": "2026-12-17",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "tags": [
+        "education",
+        "testing",
+        "leadership",
+        "ai",
+        "devops"
+      ],
+      "score": 0.464,
+      "priority": "medium",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.507,
+      "talk_match": 0.089,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "1e63984aef734deb",
       "title": "dataMinds Connect 2026",
       "source": "callfordataspeakers",
@@ -216,56 +241,6 @@
       "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "5beb3fd03323d3b6",
-      "title": "AI for Developers",
-      "source": "confs.tech",
-      "url": "https://aiconference.dev/cfp",
-      "deadline": "2026-06-01",
-      "event_date": "2026-12-17",
-      "location": "TBD, TBD",
-      "is_online": true,
-      "tags": [
-        "education",
-        "testing",
-        "leadership",
-        "ai",
-        "devops"
-      ],
-      "score": 0.434,
-      "priority": "medium",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.507,
-      "talk_match": 0.089,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "4e7c90af4be64378",
-      "title": "TechEx North America",
-      "source": "confs.tech",
-      "url": "https://techexevent.com/register-now",
-      "deadline": "2026-05-17",
-      "event_date": "2026-05-18",
-      "location": "San Jose, CA, U.S.A.",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "iot",
-        "education",
-        "security",
-        "leadership"
-      ],
-      "score": 0.432,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.329,
-      "talk_match": 0.157,
-      "urgency": 1.0,
-      "travel_sponsorship": "partial",
-      "event_type": "conference"
     },
     {
       "id": "f55f5921be481d80",
@@ -543,6 +518,30 @@
       "event_type": "usergroup"
     },
     {
+      "id": "0eebeda60230c767",
+      "title": "Heapcon",
+      "source": "confs.tech",
+      "url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
+      "deadline": "2026-06-01",
+      "event_date": "2026-11-05",
+      "location": "Belgrade, Serbia",
+      "is_online": false,
+      "tags": [
+        "general",
+        "open-source",
+        "ai",
+        "testing"
+      ],
+      "score": 0.322,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.166,
+      "talk_match": 0.08,
+      "urgency": 0.8,
+      "travel_sponsorship": "partial",
+      "event_type": "conference"
+    },
+    {
       "id": "572d7d738708e54c",
       "title": "Data Engineers in Toronto",
       "source": "callfordataspeakers",
@@ -715,6 +714,26 @@
       "event_location": "Barcelona, Spain"
     },
     {
+      "id": "4773a1d619aabaed",
+      "cfp_title": "AI for Developers",
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://aiconference.dev/cfp",
+      "deadline": "2026-06-01",
+      "event_date": "2026-12-17",
+      "status": "draft",
+      "score": 0.464,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.661395+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'education' (score: 6.0)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
+    },
+    {
       "id": "d3220eaa0057c36f",
       "cfp_title": "IT-Tage",
       "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
@@ -795,26 +814,6 @@
       "event_location": "Mechelen, Belgium"
     },
     {
-      "id": "4773a1d619aabaed",
-      "cfp_title": "AI for Developers",
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://aiconference.dev/cfp",
-      "deadline": "2026-06-01",
-      "event_date": "2026-12-17",
-      "status": "draft",
-      "score": 0.434,
-      "priority": "medium",
-      "created_at": "2026-04-08T12:28:22.661395+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'education' (score: 6.0)",
-      "is_online": true,
-      "event_location": "TBD, TBD"
-    },
-    {
       "id": "c8f2597c6e5db7c4",
       "cfp_title": "TechEx North America",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -822,7 +821,7 @@
       "cfp_url": "https://techexevent.com/register-now",
       "deadline": "2026-05-17",
       "event_date": "2026-05-18",
-      "status": "draft",
+      "status": "expired",
       "score": 0.432,
       "priority": "medium",
       "created_at": "2026-04-08T12:28:22.660624+00:00",
@@ -1275,6 +1274,26 @@
       "event_location": "Stockholm, Sweden"
     },
     {
+      "id": "69a810840a371dd5",
+      "cfp_title": "Heapcon",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
+      "deadline": "2026-06-01",
+      "event_date": "2026-11-05",
+      "status": "draft",
+      "score": 0.322,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.662416+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'ai' (score: 3.5)",
+      "is_online": false,
+      "event_location": "Belgrade, Serbia"
+    },
+    {
       "id": "072a243546db9f10",
       "cfp_title": "Data Engineers in Toronto",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -1573,26 +1592,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 15.0)",
       "is_online": true,
       "event_location": "Amsterdam, Netherlands"
-    },
-    {
-      "id": "69a810840a371dd5",
-      "cfp_title": "Heapcon",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
-      "deadline": "2026-06-01",
-      "event_date": "2026-11-05",
-      "status": "draft",
-      "score": 0.292,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.662416+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'ai' (score: 3.5)",
-      "is_online": false,
-      "event_location": "Belgrade, Serbia"
     },
     {
       "id": "9c40017725216ae5",
@@ -2035,15 +2034,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "TechEx North America",
-      "deadline": "2026-05-17",
-      "source": "confs.tech",
-      "score": 0.432,
-      "url": "https://techexevent.com/register-now",
-      "travel_sponsorship": "partial",
-      "location": "San Jose, CA, U.S.A."
-    },
-    {
       "title": "swampUP Europe",
       "deadline": "2026-05-18",
       "source": "confs.tech",
@@ -2119,10 +2109,19 @@
       "title": "AI for Developers",
       "deadline": "2026-06-01",
       "source": "confs.tech",
-      "score": 0.434,
+      "score": 0.464,
       "url": "https://aiconference.dev/cfp",
       "travel_sponsorship": "unknown",
       "location": "TBD, TBD"
+    },
+    {
+      "title": "Heapcon",
+      "deadline": "2026-06-01",
+      "source": "confs.tech",
+      "score": 0.322,
+      "url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
+      "travel_sponsorship": "partial",
+      "location": "Belgrade, Serbia"
     }
   ]
 }
