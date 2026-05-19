@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T10:08:27.320890+00:00",
+  "generated_at": "2026-05-19T09:49:23.119157+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,20 +7,20 @@
   },
   "summary": {
     "total_cfps_discovered": 74,
-    "open_cfps": 53,
-    "expired_cfps": 21,
+    "open_cfps": 52,
+    "expired_cfps": 22,
     "total_applications": 64,
-    "drafts": 43,
+    "drafts": 42,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 21,
+    "expired_apps": 22,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-18T10:08:24.324318+00:00",
+    "last_crawled": "2026-05-19T09:49:20.162302+00:00",
     "sources_checked": 9,
-    "travel_yes": 2,
+    "travel_yes": 1,
     "travel_partial": 3,
     "travel_unknown": 48
   },
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 10
+      "draft": 9
     }
   ],
   "source_breakdown": [
@@ -66,21 +66,21 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 5,
+    "medium": 4,
     "low": 48
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 51
+      "count": 50
     },
     {
       "tag": "web",
-      "count": 44
+      "count": 43
     },
     {
       "tag": "open-source",
-      "count": 40
+      "count": 39
     },
     {
       "tag": "data",
@@ -88,15 +88,15 @@
     },
     {
       "tag": "cloud",
-      "count": 29
-    },
-    {
-      "tag": "leadership",
       "count": 28
     },
     {
-      "tag": "education",
+      "tag": "leadership",
       "count": 27
+    },
+    {
+      "tag": "education",
+      "count": 26
     },
     {
       "tag": "database",
@@ -104,11 +104,11 @@
     },
     {
       "tag": "security",
-      "count": 20
+      "count": 19
     },
     {
       "tag": "devops",
-      "count": 19
+      "count": 18
     },
     {
       "tag": "conference",
@@ -265,31 +265,6 @@
       "talk_match": 0.06,
       "urgency": 1.0,
       "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "a9c241bd74d4955d",
-      "title": "swampUP Europe",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/swampup-europe-2026",
-      "deadline": "2026-05-18",
-      "event_date": "2026-10-20",
-      "location": "Barcelona, Spain",
-      "is_online": false,
-      "tags": [
-        "leadership",
-        "security",
-        "cloud",
-        "devops",
-        "ai"
-      ],
-      "score": 0.409,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.331,
-      "talk_match": 0.078,
-      "urgency": 1.0,
-      "travel_sponsorship": "yes",
       "event_type": "conference"
     },
     {
@@ -690,6 +665,31 @@
       "urgency": 0.4,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
+    },
+    {
+      "id": "0486b7fd0e05c814",
+      "title": "Persian and Fabric Power BI User Group",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/persian-power-bi-user-group",
+      "deadline": "2026-09-12",
+      "event_date": "2025-09-25",
+      "location": "Online",
+      "is_online": true,
+      "tags": [
+        "education",
+        "ai",
+        "leadership",
+        "open-source",
+        "usergroup"
+      ],
+      "score": 0.313,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.34,
+      "talk_match": 0.078,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -981,7 +981,7 @@
       "cfp_url": "https://sessionize.com/swampup-europe-2026",
       "deadline": "2026-05-18",
       "event_date": "2026-10-20",
-      "status": "draft",
+      "status": "expired",
       "score": 0.409,
       "priority": "medium",
       "created_at": "2026-05-08T07:44:54.680367+00:00",
@@ -2034,15 +2034,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "swampUP Europe",
-      "deadline": "2026-05-18",
-      "source": "confs.tech",
-      "score": 0.409,
-      "url": "https://sessionize.com/swampup-europe-2026",
-      "travel_sponsorship": "yes",
-      "location": "Barcelona, Spain"
-    },
-    {
       "title": "AgentCon - Bengaluru",
       "deadline": "2026-05-20",
       "source": "confs.tech",
@@ -2122,6 +2113,15 @@
       "url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
       "travel_sponsorship": "partial",
       "location": "Belgrade, Serbia"
+    },
+    {
+      "title": "AWS Community Day CEE",
+      "deadline": "2026-06-08",
+      "source": "confs.tech",
+      "score": 0.335,
+      "url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
+      "travel_sponsorship": "unknown",
+      "location": "Budapest, Hungary"
     }
   ]
 }
