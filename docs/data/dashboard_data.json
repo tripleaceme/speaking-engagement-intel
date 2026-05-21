@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-05-20T09:37:44.873174+00:00",
+  "generated_at": "2026-05-21T09:44:48.619684+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 74,
-    "open_cfps": 52,
-    "expired_cfps": 22,
-    "total_applications": 64,
-    "drafts": 42,
+    "total_cfps_discovered": 76,
+    "open_cfps": 53,
+    "expired_cfps": 23,
+    "total_applications": 66,
+    "drafts": 43,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 22,
+    "expired_apps": 23,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-20T09:37:42.372111+00:00",
+    "last_crawled": "2026-05-21T09:44:44.169921+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
-    "travel_partial": 3,
+    "travel_partial": 4,
     "travel_unknown": 48
   },
   "timeline": [
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 9
+      "draft": 10
     }
   ],
   "source_breakdown": [
@@ -49,7 +49,7 @@
     },
     {
       "source": "callfordataspeakers",
-      "count": 31
+      "count": 33
     },
     {
       "source": "github",
@@ -67,16 +67,16 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 4,
-    "low": 48
+    "low": 49
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "web",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "open-source",
@@ -84,7 +84,7 @@
     },
     {
       "tag": "data",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "cloud",
@@ -100,19 +100,19 @@
     },
     {
       "tag": "database",
-      "count": 24
-    },
-    {
-      "tag": "security",
-      "count": 19
+      "count": 26
     },
     {
       "tag": "devops",
       "count": 18
     },
     {
+      "tag": "security",
+      "count": 18
+    },
+    {
       "tag": "conference",
-      "count": 15
+      "count": 17
     },
     {
       "tag": "testing",
@@ -147,6 +147,10 @@
       "count": 6
     },
     {
+      "tag": "europe",
+      "count": 6
+    },
+    {
       "tag": "in-person",
       "count": 6
     },
@@ -155,15 +159,11 @@
       "count": 6
     },
     {
-      "tag": "mobile",
-      "count": 5
-    },
-    {
       "tag": "events",
       "count": 5
     },
     {
-      "tag": "europe",
+      "tag": "north america",
       "count": 5
     },
     {
@@ -175,7 +175,7 @@
       "count": 4
     },
     {
-      "tag": "north america",
+      "tag": "mobile",
       "count": 4
     },
     {
@@ -243,27 +243,27 @@
       "event_type": "conference, precon"
     },
     {
-      "id": "f55f5921be481d80",
-      "title": "AgentCon - Bengaluru",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/agentcon-bengaluru",
-      "deadline": "2026-05-20",
-      "event_date": "2026-06-20",
-      "location": "Bangalore, India",
+      "id": "71e550bc2fea3f6d",
+      "title": "SQL Saturday - Austin 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sqlsaturday-austin-2026",
+      "deadline": "2026-06-02",
+      "event_date": "2026-06-26",
+      "location": "Austin, Texas, United States",
       "is_online": false,
       "tags": [
-        "security",
-        "cloud",
-        "devops",
-        "mobile",
-        "ai"
+        "north america",
+        "conference",
+        "database",
+        "ai",
+        "education"
       ],
-      "score": 0.411,
+      "score": 0.422,
       "priority": "medium",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.352,
-      "talk_match": 0.06,
-      "urgency": 1.0,
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.52,
+      "talk_match": 0.067,
+      "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -339,6 +339,31 @@
       "tag_relevance": 0.323,
       "talk_match": 0.098,
       "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "e28b6bb717038163",
+      "title": "Global Fabric Day 2026 - NYC Edition",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/global-fabric-day-2026-nyc-edition",
+      "deadline": "2026-05-28",
+      "event_date": "2026-06-27",
+      "location": "New York City, New York, United States",
+      "is_online": false,
+      "tags": [
+        "web",
+        "ai",
+        "data",
+        "open-source",
+        "north america"
+      ],
+      "score": 0.345,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.18,
+      "talk_match": 0.04,
+      "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -617,31 +642,6 @@
       "event_type": ""
     },
     {
-      "id": "e28b6bb717038163",
-      "title": "Global Fabric Day 2026 - NYC Edition",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/global-fabric-day-2026-nyc-edition",
-      "deadline": "2026-05-28",
-      "event_date": "2026-06-27",
-      "location": "New York City, New York, United States",
-      "is_online": false,
-      "tags": [
-        "web",
-        "ai",
-        "data",
-        "open-source",
-        "north america"
-      ],
-      "score": 0.315,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.18,
-      "talk_match": 0.04,
-      "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "d227b6f4bf58f201",
       "title": "Power Conference 2026",
       "source": "callfordataspeakers",
@@ -854,6 +854,26 @@
       "event_location": "Online"
     },
     {
+      "id": "ec84c6957b185351",
+      "cfp_title": "SQL Saturday - Austin 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sqlsaturday-austin-2026",
+      "deadline": "2026-06-02",
+      "event_date": "2026-06-26",
+      "status": "draft",
+      "score": 0.422,
+      "priority": "medium",
+      "created_at": "2026-05-21T09:44:48.566764+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 8.7)",
+      "is_online": false,
+      "event_location": "Austin, Texas, United States"
+    },
+    {
       "id": "f05c499a51109afe",
       "cfp_title": "Power BI Days DC 2026",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -921,7 +941,7 @@
       "cfp_url": "https://sessionize.com/agentcon-bengaluru",
       "deadline": "2026-05-20",
       "event_date": "2026-06-20",
-      "status": "draft",
+      "status": "expired",
       "score": 0.411,
       "priority": "medium",
       "created_at": "2026-05-08T07:44:54.680090+00:00",
@@ -1112,6 +1132,26 @@
       "match_reason": "Conference themes align with 'education' (score: 4.5)",
       "is_online": false,
       "event_location": "Graz, Austria"
+    },
+    {
+      "id": "e3fc02514c928a0c",
+      "cfp_title": "Global Fabric Day 2026 - NYC Edition",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/global-fabric-day-2026-nyc-edition",
+      "deadline": "2026-05-28",
+      "event_date": "2026-06-27",
+      "status": "draft",
+      "score": 0.345,
+      "priority": "low",
+      "created_at": "2026-05-12T08:43:02.158628+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 5.7)",
+      "is_online": false,
+      "event_location": "New York City, New York, United States"
     },
     {
       "id": "55fa692cad8ca7f4",
@@ -1394,26 +1434,6 @@
       "event_location": ""
     },
     {
-      "id": "e3fc02514c928a0c",
-      "cfp_title": "Global Fabric Day 2026 - NYC Edition",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/global-fabric-day-2026-nyc-edition",
-      "deadline": "2026-05-28",
-      "event_date": "2026-06-27",
-      "status": "draft",
-      "score": 0.315,
-      "priority": "low",
-      "created_at": "2026-05-12T08:43:02.158628+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 5.7)",
-      "is_online": false,
-      "event_location": "New York City, New York, United States"
-    },
-    {
       "id": "c1952d329f21d0e0",
       "cfp_title": "Power Conference 2026",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1612,6 +1632,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": true,
       "event_location": "London, U.K."
+    },
+    {
+      "id": "bbc3cdf1c2419f2e",
+      "cfp_title": "SQL Konferenz 2027",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sql-konferenz-2027",
+      "deadline": "2026-10-04",
+      "event_date": "2027-02-22",
+      "status": "draft",
+      "score": 0.289,
+      "priority": "low",
+      "created_at": "2026-05-21T09:44:48.566831+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'database' (score: 4.8)",
+      "is_online": false,
+      "event_location": "Hanau am Main, Germany"
     },
     {
       "id": "ca1b621fe07c376e",
@@ -1985,7 +2025,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 16,
+      "applications": 17,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -1993,7 +2033,7 @@
     },
     {
       "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "applications": 8,
+      "applications": 9,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2034,15 +2074,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "AgentCon - Bengaluru",
-      "deadline": "2026-05-20",
-      "source": "confs.tech",
-      "score": 0.411,
-      "url": "https://sessionize.com/agentcon-bengaluru",
-      "travel_sponsorship": "unknown",
-      "location": "Bangalore, India"
-    },
-    {
       "title": "dataMinds Connect 2026",
       "deadline": "2026-05-21",
       "source": "callfordataspeakers",
@@ -2064,7 +2095,7 @@
       "title": "Global Fabric Day 2026 - NYC Edition",
       "deadline": "2026-05-28",
       "source": "callfordataspeakers",
-      "score": 0.315,
+      "score": 0.345,
       "url": "https://sessionize.com/global-fabric-day-2026-nyc-edition",
       "travel_sponsorship": "unknown",
       "location": "New York City, New York, United States"
@@ -2113,6 +2144,15 @@
       "url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
       "travel_sponsorship": "partial",
       "location": "Belgrade, Serbia"
+    },
+    {
+      "title": "SQL Saturday - Austin 2026",
+      "deadline": "2026-06-02",
+      "source": "callfordataspeakers",
+      "score": 0.422,
+      "url": "https://sessionize.com/sqlsaturday-austin-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Austin, Texas, United States"
     },
     {
       "title": "AWS Community Day CEE",
