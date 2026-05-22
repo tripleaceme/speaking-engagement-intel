@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:44:48.619684+00:00",
+  "generated_at": "2026-05-22T09:29:17.831483+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 76,
-    "open_cfps": 53,
-    "expired_cfps": 23,
+    "open_cfps": 52,
+    "expired_cfps": 24,
     "total_applications": 66,
-    "drafts": 43,
+    "drafts": 42,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 23,
+    "expired_apps": 24,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-21T09:44:44.169921+00:00",
+    "last_crawled": "2026-05-22T09:29:15.118062+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 48
+    "travel_unknown": 47
   },
   "timeline": [
     {
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 33
+      "draft": 32
     },
     {
       "month": "2026-05",
@@ -66,49 +66,49 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 4,
+    "medium": 3,
     "low": 49
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 51
+      "count": 50
     },
     {
       "tag": "web",
-      "count": 44
+      "count": 43
     },
     {
       "tag": "open-source",
-      "count": 39
+      "count": 38
     },
     {
       "tag": "data",
-      "count": 36
+      "count": 35
     },
     {
       "tag": "cloud",
-      "count": 28
-    },
-    {
-      "tag": "leadership",
       "count": 27
     },
     {
-      "tag": "education",
+      "tag": "leadership",
       "count": 26
+    },
+    {
+      "tag": "education",
+      "count": 25
     },
     {
       "tag": "database",
-      "count": 26
+      "count": 25
     },
     {
       "tag": "devops",
-      "count": 18
+      "count": 17
     },
     {
       "tag": "security",
-      "count": 18
+      "count": 17
     },
     {
       "tag": "conference",
@@ -116,7 +116,7 @@
     },
     {
       "tag": "testing",
-      "count": 11
+      "count": 10
     },
     {
       "tag": "online",
@@ -132,7 +132,7 @@
     },
     {
       "tag": "blockchain",
-      "count": 8
+      "count": 7
     },
     {
       "tag": "javascript",
@@ -140,14 +140,6 @@
     },
     {
       "tag": "cfp",
-      "count": 6
-    },
-    {
-      "tag": "python",
-      "count": 6
-    },
-    {
-      "tag": "europe",
       "count": 6
     },
     {
@@ -160,6 +152,14 @@
     },
     {
       "tag": "events",
+      "count": 5
+    },
+    {
+      "tag": "python",
+      "count": 5
+    },
+    {
+      "tag": "europe",
       "count": 5
     },
     {
@@ -176,7 +176,7 @@
     },
     {
       "tag": "mobile",
-      "count": 4
+      "count": 3
     },
     {
       "tag": "call-for-paper",
@@ -216,31 +216,6 @@
       "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
-    },
-    {
-      "id": "1e63984aef734deb",
-      "title": "dataMinds Connect 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/dataminds-connect-2026",
-      "deadline": "2026-05-21",
-      "event_date": "2026-10-12",
-      "location": "Mechelen, Belgium",
-      "is_online": false,
-      "tags": [
-        "europe",
-        "cloud",
-        "database",
-        "education",
-        "security"
-      ],
-      "score": 0.452,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.51,
-      "talk_match": 0.078,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference, precon"
     },
     {
       "id": "71e550bc2fea3f6d",
@@ -690,6 +665,31 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "6bf84ef1128c1e5f",
+      "title": "pretalx/pretalx",
+      "source": "github",
+      "url": "https://github.com/pretalx/pretalx",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "conference-management",
+        "django",
+        "pretalx",
+        "security",
+        "call-for-papers"
+      ],
+      "score": 0.312,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.354,
+      "talk_match": 0.044,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
     }
   ],
   "applications": [
@@ -801,7 +801,7 @@
       "cfp_url": "https://sessionize.com/dataminds-connect-2026",
       "deadline": "2026-05-21",
       "event_date": "2026-10-12",
-      "status": "draft",
+      "status": "expired",
       "score": 0.452,
       "priority": "medium",
       "created_at": "2026-04-08T12:28:22.665647+00:00",
@@ -2074,15 +2074,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "dataMinds Connect 2026",
-      "deadline": "2026-05-21",
-      "source": "callfordataspeakers",
-      "score": 0.452,
-      "url": "https://sessionize.com/dataminds-connect-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Mechelen, Belgium"
-    },
-    {
       "title": "React Advanced",
       "deadline": "2026-05-24",
       "source": "confs.tech",
@@ -2162,6 +2153,15 @@
       "url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
       "travel_sponsorship": "unknown",
       "location": "Budapest, Hungary"
+    },
+    {
+      "title": "FabFest 2026",
+      "deadline": "2026-06-15",
+      "source": "callfordataspeakers",
+      "score": 0.272,
+      "url": "https://sessionize.com/fabfest2026",
+      "travel_sponsorship": "unknown",
+      "location": "Birmingham, United Kingdom"
     }
   ]
 }
