@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-22T09:29:15.118062+00:00",
-    "total_cfps": 76,
-    "open_cfps": 52,
+    "last_crawled": "2026-05-23T08:21:55.051335+00:00",
+    "total_cfps": 80,
+    "open_cfps": 56,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 1,
+    "new_this_run": 4,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-22T09:29:17.724019+00:00",
+    "last_scored": "2026-05-23T08:22:02.736228+00:00",
     "high_priority": 0,
-    "medium_priority": 3,
-    "above_threshold": 42
+    "medium_priority": 4,
+    "above_threshold": 46
   },
   "cfps": [
     {
@@ -1113,14 +1113,14 @@
       ],
       "enriched_at": "2026-04-08T12:26:42.908757+00:00",
       "match_scores": {
-        "composite_score": 0.383,
+        "composite_score": 0.413,
         "tag_relevance": 0.323,
         "talk_match_score": 0.098,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
-        "priority": "low",
+        "priority": "medium",
         "travel_sponsorship": "unknown"
       }
     },
@@ -5445,6 +5445,329 @@
         "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "partial"
+      }
+    },
+    {
+      "id": "b22c08733d338a2e",
+      "source": "confs.tech",
+      "title": "Confitura",
+      "url": "https://2026.confitura.pl",
+      "cfp_url": "https://app.confitura.pl/login",
+      "description": "We\u2019re focusing on meaningful content for today\u2019s evolving IT landscape, a strong community, and speakers worth your time, all in a well-balanced, easy-to-enjoy format at an affordable price. confitura'25  in numbers  Everything started in 2007, when a group of passionate Java developers created a programming event for their local community. Today, Confitura brings together people from across Poland and beyond, with content in both Polish and English.",
+      "tags": [
+        "general",
+        "open-source",
+        "ai",
+        "web",
+        "leadership",
+        "education"
+      ],
+      "deadline": "2026-06-07",
+      "event_date": "2026-09-25",
+      "location": "Warsaw, Poland",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-05-23T08:21:51.987570+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "available"
+      ],
+      "submission_fields": [
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-05-23T08:22:00.771265+00:00",
+      "match_scores": {
+        "composite_score": 0.271,
+        "tag_relevance": 0.165,
+        "talk_match_score": 0.078,
+        "urgency_score": 0.6,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "73eb5132e244145f",
+      "source": "confs.tech",
+      "title": "Porto Tech Hub Conference",
+      "url": "https://portotechhub.com/conference-2026",
+      "cfp_url": "https://sessionize.com/pth-2026",
+      "description": "Porto Tech Hub Conference 2026: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. Its mission is to support the city\u2019s thriving tech ecosystem, inspire its talented professionals, and bring companies and people together to celebrate the transformative power of technology.",
+      "tags": [
+        "security",
+        "blockchain",
+        "general",
+        "open-source",
+        "cloud",
+        "data",
+        "mobile",
+        "ai",
+        "web",
+        "devops",
+        "testing",
+        "leadership",
+        "education"
+      ],
+      "deadline": "2026-06-14",
+      "event_date": "2026-11-10",
+      "location": "Porto, Portugal",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-05-23T08:21:51.987646+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "programming & development front",
+        "end server",
+        "side mobile software architecture & design cloud"
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-05-23T08:22:01.399129+00:00",
+      "match_scores": {
+        "composite_score": 0.349,
+        "tag_relevance": 0.335,
+        "talk_match_score": 0.074,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "9291ed9d480d3a65",
+      "source": "confs.tech",
+      "title": "Software Architecture Gathering",
+      "url": "https://www.software-architecture-gathering.com",
+      "cfp_url": "https://sessionize.com/sag2026-cfp",
+      "description": "iSAQB Software Architecture Gathering 2026: Call for Papers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. Organized by the  International Software Architecture Qualification Board (iSAQB\u00ae)  in cooperation with  heise conferences , SAG is the leading international conference for software architecture professionals \u2013 from early-career architects to seasoned leaders.",
+      "tags": [
+        "security",
+        "blockchain",
+        "general",
+        "open-source",
+        "cloud",
+        "mobile",
+        "web",
+        "ai",
+        "devops",
+        "leadership",
+        "education"
+      ],
+      "deadline": "2026-06-09",
+      "event_date": "2026-11-16",
+      "location": "Berlin, Germany",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-05-23T08:21:51.987684+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "methods",
+        "and principles every software architect needs",
+        "but matter to software architects",
+        "architecture foundations  \u2013 core skills"
+      ],
+      "submission_fields": [
+        "takeaway",
+        "twitter"
+      ],
+      "enriched_at": "2026-05-23T08:22:02.026655+00:00",
+      "match_scores": {
+        "composite_score": 0.281,
+        "tag_relevance": 0.169,
+        "talk_match_score": 0.039,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "18e3a682151239f6",
+      "source": "confs.tech",
+      "title": "Agent Conf",
+      "url": "https://www.agent.sh",
+      "cfp_url": "https://sessionize.com/agent-conf-2026",
+      "description": "Agent Conf 2026: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. Organized by Callstack, it explores the shift toward autonomous AI systems, covering topics like agent design, prompting techniques, orchestration, and building AI-driven workflows in modern software.",
+      "tags": [
+        "javascript",
+        "ai",
+        "web",
+        "cloud"
+      ],
+      "deadline": "2026-06-20",
+      "event_date": "2026-09-17",
+      "location": "Warsaw, Poland",
+      "is_online": false,
+      "travel_sponsorship": "yes",
+      "event_type": "conference",
+      "discovered_at": "2026-05-23T08:21:52.072281+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "prompting techniques",
+        "orchestration",
+        "and building ai",
+        "driven workflows in modern software",
+        "like agent design"
+      ],
+      "speaker_perks": {
+        "travel": true,
+        "dinner": true
+      },
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-05-23T08:22:02.660854+00:00",
+      "match_scores": {
+        "composite_score": 0.323,
+        "tag_relevance": 0.341,
+        "talk_match_score": 0.044,
+        "urgency_score": 0.6,
+        "format_score": 0.5,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "yes"
       }
     }
   ]

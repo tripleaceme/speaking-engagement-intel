@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-22T09:29:17.831483+00:00",
+  "generated_at": "2026-05-23T08:22:02.841551+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 76,
-    "open_cfps": 52,
+    "total_cfps_discovered": 80,
+    "open_cfps": 56,
     "expired_cfps": 24,
-    "total_applications": 66,
-    "drafts": 42,
+    "total_applications": 70,
+    "drafts": 46,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 24,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-22T09:29:15.118062+00:00",
+    "last_crawled": "2026-05-23T08:21:55.051335+00:00",
     "sources_checked": 9,
-    "travel_yes": 1,
+    "travel_yes": 2,
     "travel_partial": 4,
-    "travel_unknown": 47
+    "travel_unknown": 50
   },
   "timeline": [
     {
@@ -39,13 +39,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 10
+      "draft": 14
     }
   ],
   "source_breakdown": [
     {
       "source": "confs.tech",
-      "count": 33
+      "count": 37
     },
     {
       "source": "callfordataspeakers",
@@ -66,37 +66,37 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 3,
-    "low": 49
+    "medium": 4,
+    "low": 52
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 50
+      "count": 54
     },
     {
       "tag": "web",
-      "count": 43
+      "count": 47
     },
     {
       "tag": "open-source",
-      "count": 38
+      "count": 41
     },
     {
       "tag": "data",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "cloud",
-      "count": 27
+      "count": 30
     },
     {
       "tag": "leadership",
-      "count": 26
+      "count": 29
     },
     {
       "tag": "education",
-      "count": 25
+      "count": 28
     },
     {
       "tag": "database",
@@ -104,11 +104,11 @@
     },
     {
       "tag": "devops",
-      "count": 17
+      "count": 19
     },
     {
       "tag": "security",
-      "count": 17
+      "count": 19
     },
     {
       "tag": "conference",
@@ -116,10 +116,14 @@
     },
     {
       "tag": "testing",
-      "count": 10
+      "count": 11
     },
     {
       "tag": "online",
+      "count": 9
+    },
+    {
+      "tag": "blockchain",
       "count": 9
     },
     {
@@ -131,12 +135,12 @@
       "count": 9
     },
     {
-      "tag": "blockchain",
+      "tag": "general",
       "count": 7
     },
     {
       "tag": "javascript",
-      "count": 6
+      "count": 7
     },
     {
       "tag": "cfp",
@@ -149,6 +153,10 @@
     {
       "tag": "external",
       "count": 6
+    },
+    {
+      "tag": "mobile",
+      "count": 5
     },
     {
       "tag": "events",
@@ -169,14 +177,6 @@
     {
       "tag": "iot",
       "count": 4
-    },
-    {
-      "tag": "general",
-      "count": 4
-    },
-    {
-      "tag": "mobile",
-      "count": 3
     },
     {
       "tag": "call-for-paper",
@@ -243,6 +243,31 @@
       "event_type": "conference"
     },
     {
+      "id": "87f3a7d9b271dc1f",
+      "title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
+      "source": "confs.tech",
+      "url": "https://aiccsa.net/AICCSA2026/calls.php",
+      "deadline": "2026-05-30",
+      "event_date": "2026-10-26",
+      "location": "Dubai, United Arab Emirates",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "database",
+        "iot",
+        "education",
+        "general"
+      ],
+      "score": 0.413,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.323,
+      "talk_match": 0.098,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "807c8a3e1afc3084",
       "title": "Triangle SQL Server User Group 2026",
       "source": "callfordataspeakers",
@@ -293,27 +318,27 @@
       "event_type": "conference, precon"
     },
     {
-      "id": "87f3a7d9b271dc1f",
-      "title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
+      "id": "73eb5132e244145f",
+      "title": "Porto Tech Hub Conference",
       "source": "confs.tech",
-      "url": "https://aiccsa.net/AICCSA2026/calls.php",
-      "deadline": "2026-05-30",
-      "event_date": "2026-10-26",
-      "location": "Dubai, United Arab Emirates",
+      "url": "https://sessionize.com/pth-2026",
+      "deadline": "2026-06-14",
+      "event_date": "2026-11-10",
+      "location": "Porto, Portugal",
       "is_online": false,
       "tags": [
-        "cloud",
-        "database",
-        "iot",
-        "education",
-        "general"
+        "security",
+        "blockchain",
+        "general",
+        "open-source",
+        "cloud"
       ],
-      "score": 0.383,
+      "score": 0.349,
       "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.323,
-      "talk_match": 0.098,
-      "urgency": 0.8,
+      "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
+      "tag_relevance": 0.335,
+      "talk_match": 0.074,
+      "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -493,6 +518,30 @@
       "event_type": "usergroup"
     },
     {
+      "id": "18e3a682151239f6",
+      "title": "Agent Conf",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/agent-conf-2026",
+      "deadline": "2026-06-20",
+      "event_date": "2026-09-17",
+      "location": "Warsaw, Poland",
+      "is_online": false,
+      "tags": [
+        "javascript",
+        "ai",
+        "web",
+        "cloud"
+      ],
+      "score": 0.323,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.341,
+      "talk_match": 0.044,
+      "urgency": 0.6,
+      "travel_sponsorship": "yes",
+      "event_type": "conference"
+    },
+    {
       "id": "0eebeda60230c767",
       "title": "Heapcon",
       "source": "confs.tech",
@@ -640,56 +689,6 @@
       "urgency": 0.4,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "0486b7fd0e05c814",
-      "title": "Persian and Fabric Power BI User Group",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/persian-power-bi-user-group",
-      "deadline": "2026-09-12",
-      "event_date": "2025-09-25",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "education",
-        "ai",
-        "leadership",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.313,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.34,
-      "talk_match": 0.078,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
-    },
-    {
-      "id": "6bf84ef1128c1e5f",
-      "title": "pretalx/pretalx",
-      "source": "github",
-      "url": "https://github.com/pretalx/pretalx",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "conference-management",
-        "django",
-        "pretalx",
-        "security",
-        "call-for-papers"
-      ],
-      "score": 0.312,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.354,
-      "talk_match": 0.044,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
     }
   ],
   "applications": [
@@ -934,6 +933,26 @@
       "event_location": "Mannheim, Germany"
     },
     {
+      "id": "8577e06db0081c5c",
+      "cfp_title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://aiccsa.net/AICCSA2026/calls.php",
+      "deadline": "2026-05-30",
+      "event_date": "2026-10-26",
+      "status": "draft",
+      "score": 0.413,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.662245+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 7.7)",
+      "is_online": false,
+      "event_location": "Dubai, United Arab Emirates"
+    },
+    {
       "id": "5746ef209fd30412",
       "cfp_title": "AgentCon - Bengaluru",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1074,26 +1093,6 @@
       "event_location": "Utrecht, The Netherlands"
     },
     {
-      "id": "8577e06db0081c5c",
-      "cfp_title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://aiccsa.net/AICCSA2026/calls.php",
-      "deadline": "2026-05-30",
-      "event_date": "2026-10-26",
-      "status": "draft",
-      "score": 0.383,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.662245+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 7.7)",
-      "is_online": false,
-      "event_location": "Dubai, United Arab Emirates"
-    },
-    {
       "id": "922be52c18c6e9a0",
       "cfp_title": "TechSummit Amsterdam",
       "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
@@ -1132,6 +1131,26 @@
       "match_reason": "Conference themes align with 'education' (score: 4.5)",
       "is_online": false,
       "event_location": "Graz, Austria"
+    },
+    {
+      "id": "b4121c6a9607b830",
+      "cfp_title": "Porto Tech Hub Conference",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/pth-2026",
+      "deadline": "2026-06-14",
+      "event_date": "2026-11-10",
+      "status": "draft",
+      "score": 0.349,
+      "priority": "low",
+      "created_at": "2026-05-23T08:22:02.789068+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'cloud' (score: 9.0)",
+      "is_online": false,
+      "event_location": "Porto, Portugal"
     },
     {
       "id": "e3fc02514c928a0c",
@@ -1312,6 +1331,26 @@
       "match_reason": "Conference themes align with 'database' (score: 6.5)",
       "is_online": false,
       "event_location": "Stockholm, Sweden"
+    },
+    {
+      "id": "4e70256ccc26d492",
+      "cfp_title": "Agent Conf",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/agent-conf-2026",
+      "deadline": "2026-06-20",
+      "event_date": "2026-09-17",
+      "status": "draft",
+      "score": 0.323,
+      "priority": "low",
+      "created_at": "2026-05-23T08:22:02.789263+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'ai' (score: 7.0)",
+      "is_online": false,
+      "event_location": "Warsaw, Poland"
     },
     {
       "id": "69a810840a371dd5",
@@ -1694,6 +1733,26 @@
       "event_location": "Bengaluru, India"
     },
     {
+      "id": "7e85ca613dd5b674",
+      "cfp_title": "Software Architecture Gathering",
+      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/sag2026-cfp",
+      "deadline": "2026-06-09",
+      "event_date": "2026-11-16",
+      "status": "draft",
+      "score": 0.281,
+      "priority": "low",
+      "created_at": "2026-05-23T08:22:02.789189+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'devops' (score: 5.0)",
+      "is_online": false,
+      "event_location": "Berlin, Germany"
+    },
+    {
       "id": "cdf1f660bb88de25",
       "cfp_title": "Data Platform Women in Technology Virtual Group 2026",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1792,6 +1851,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": false,
       "event_location": "Birmingham, United Kingdom"
+    },
+    {
+      "id": "beace3259d600ad8",
+      "cfp_title": "Confitura",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://app.confitura.pl/login",
+      "deadline": "2026-06-07",
+      "event_date": "2026-09-25",
+      "status": "draft",
+      "score": 0.271,
+      "priority": "low",
+      "created_at": "2026-05-23T08:22:02.788934+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
+      "is_online": false,
+      "event_location": "Warsaw, Poland"
     },
     {
       "id": "42a12b7a32832a65",
@@ -2017,7 +2096,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 22,
+      "applications": 24,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2048,6 +2127,14 @@
       "acceptance_rate": 0
     },
     {
+      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "applications": 5,
+      "accepted": 0,
+      "rejected": 0,
+      "pending": 0,
+      "acceptance_rate": 0
+    },
+    {
       "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
       "applications": 5,
       "accepted": 0,
@@ -2056,16 +2143,8 @@
       "acceptance_rate": 0
     },
     {
-      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "applications": 4,
-      "accepted": 0,
-      "rejected": 0,
-      "pending": 0,
-      "acceptance_rate": 0
-    },
-    {
       "title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-      "applications": 2,
+      "applications": 3,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2095,7 +2174,7 @@
       "title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
       "deadline": "2026-05-30",
       "source": "confs.tech",
-      "score": 0.383,
+      "score": 0.413,
       "url": "https://aiccsa.net/AICCSA2026/calls.php",
       "travel_sponsorship": "unknown",
       "location": "Dubai, United Arab Emirates"
@@ -2146,6 +2225,15 @@
       "location": "Austin, Texas, United States"
     },
     {
+      "title": "Confitura",
+      "deadline": "2026-06-07",
+      "source": "confs.tech",
+      "score": 0.271,
+      "url": "https://app.confitura.pl/login",
+      "travel_sponsorship": "unknown",
+      "location": "Warsaw, Poland"
+    },
+    {
       "title": "AWS Community Day CEE",
       "deadline": "2026-06-08",
       "source": "confs.tech",
@@ -2153,15 +2241,6 @@
       "url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
       "travel_sponsorship": "unknown",
       "location": "Budapest, Hungary"
-    },
-    {
-      "title": "FabFest 2026",
-      "deadline": "2026-06-15",
-      "source": "callfordataspeakers",
-      "score": 0.272,
-      "url": "https://sessionize.com/fabfest2026",
-      "travel_sponsorship": "unknown",
-      "location": "Birmingham, United Kingdom"
     }
   ]
 }
