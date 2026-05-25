@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T08:31:44.974062+00:00",
+  "generated_at": "2026-05-25T10:10:48.150351+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 80,
-    "open_cfps": 56,
-    "expired_cfps": 24,
+    "open_cfps": 55,
+    "expired_cfps": 25,
     "total_applications": 70,
-    "drafts": 46,
+    "drafts": 45,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 24,
+    "expired_apps": 25,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-24T08:31:42.669788+00:00",
+    "last_crawled": "2026-05-25T10:10:44.932143+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 4,
-    "travel_unknown": 50
+    "travel_unknown": 49
   },
   "timeline": [
     {
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 14
+      "draft": 13
     }
   ],
   "source_breakdown": [
@@ -67,12 +67,12 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 5,
-    "low": 51
+    "low": 50
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 54
+      "count": 53
     },
     {
       "tag": "web",
@@ -119,10 +119,6 @@
       "count": 11
     },
     {
-      "tag": "online",
-      "count": 9
-    },
-    {
       "tag": "blockchain",
       "count": 9
     },
@@ -135,11 +131,11 @@
       "count": 9
     },
     {
-      "tag": "general",
-      "count": 7
+      "tag": "online",
+      "count": 8
     },
     {
-      "tag": "javascript",
+      "tag": "general",
       "count": 7
     },
     {
@@ -152,6 +148,10 @@
     },
     {
       "tag": "external",
+      "count": 6
+    },
+    {
+      "tag": "javascript",
       "count": 6
     },
     {
@@ -208,12 +208,12 @@
         "ai",
         "devops"
       ],
-      "score": 0.464,
+      "score": 0.494,
       "priority": "medium",
       "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
       "tag_relevance": 0.507,
       "talk_match": 0.089,
-      "urgency": 0.8,
+      "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -343,6 +343,31 @@
       "event_type": "conference"
     },
     {
+      "id": "74235fbd6d2888e8",
+      "title": "AWS Community Day CEE",
+      "source": "confs.tech",
+      "url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
+      "deadline": "2026-06-08",
+      "event_date": "2026-09-17",
+      "location": "Budapest, Hungary",
+      "is_online": false,
+      "tags": [
+        "security",
+        "cloud",
+        "devops",
+        "ai",
+        "web"
+      ],
+      "score": 0.365,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.33,
+      "talk_match": 0.098,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "26a5235847da3d44",
       "title": "Agentic Engineering Days Zurich",
       "source": "confs.tech",
@@ -365,6 +390,30 @@
       "talk_match": 0.089,
       "urgency": 0.4,
       "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "0eebeda60230c767",
+      "title": "Heapcon",
+      "source": "confs.tech",
+      "url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
+      "deadline": "2026-06-01",
+      "event_date": "2026-11-05",
+      "location": "Belgrade, Serbia",
+      "is_online": false,
+      "tags": [
+        "general",
+        "open-source",
+        "ai",
+        "testing"
+      ],
+      "score": 0.352,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.166,
+      "talk_match": 0.08,
+      "urgency": 1.0,
+      "travel_sponsorship": "partial",
       "event_type": "conference"
     },
     {
@@ -414,31 +463,6 @@
       "tag_relevance": 0.18,
       "talk_match": 0.04,
       "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "74235fbd6d2888e8",
-      "title": "AWS Community Day CEE",
-      "source": "confs.tech",
-      "url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
-      "deadline": "2026-06-08",
-      "event_date": "2026-09-17",
-      "location": "Budapest, Hungary",
-      "is_online": false,
-      "tags": [
-        "security",
-        "cloud",
-        "devops",
-        "ai",
-        "web"
-      ],
-      "score": 0.335,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.33,
-      "talk_match": 0.098,
-      "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -542,30 +566,6 @@
       "event_type": "conference"
     },
     {
-      "id": "0eebeda60230c767",
-      "title": "Heapcon",
-      "source": "confs.tech",
-      "url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
-      "deadline": "2026-06-01",
-      "event_date": "2026-11-05",
-      "location": "Belgrade, Serbia",
-      "is_online": false,
-      "tags": [
-        "general",
-        "open-source",
-        "ai",
-        "testing"
-      ],
-      "score": 0.322,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.166,
-      "talk_match": 0.08,
-      "urgency": 0.8,
-      "travel_sponsorship": "partial",
-      "event_type": "conference"
-    },
-    {
       "id": "572d7d738708e54c",
       "title": "Data Engineers in Toronto",
       "source": "callfordataspeakers",
@@ -641,6 +641,31 @@
       "event_type": "external"
     },
     {
+      "id": "0a75fc53d01cae41",
+      "title": "WeAreDevelopers Conference India",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/wearedevelopers-conference-2026-india",
+      "deadline": "2026-07-24",
+      "event_date": "2026-11-25",
+      "location": "Bengaluru, India",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "iot",
+        "education",
+        "security",
+        "testing"
+      ],
+      "score": 0.315,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.336,
+      "talk_match": 0.059,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "cf61797b20c3dd06",
       "title": "yegor256/awesome-cfp",
       "source": "github",
@@ -664,34 +689,29 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
-    },
-    {
-      "id": "d227b6f4bf58f201",
-      "title": "Power Conference 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/power-conference-2026",
-      "deadline": "2026-07-14",
-      "event_date": "2026-12-02",
-      "location": "Prague, Czechia",
-      "is_online": false,
-      "tags": [
-        "europe",
-        "cloud",
-        "iot",
-        "education",
-        "ai"
-      ],
-      "score": 0.314,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.334,
-      "talk_match": 0.059,
-      "urgency": 0.4,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference, precon"
     }
   ],
   "applications": [
+    {
+      "id": "4773a1d619aabaed",
+      "cfp_title": "AI for Developers",
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://aiconference.dev/cfp",
+      "deadline": "2026-06-01",
+      "event_date": "2026-12-17",
+      "status": "draft",
+      "score": 0.494,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.661395+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'education' (score: 6.0)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
+    },
     {
       "id": "cb123dd36e9b1c93",
       "cfp_title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
@@ -711,26 +731,6 @@
       "match_reason": "Conference themes align with 'education' (score: 6.5)",
       "is_online": false,
       "event_location": "Barcelona, Spain"
-    },
-    {
-      "id": "4773a1d619aabaed",
-      "cfp_title": "AI for Developers",
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://aiconference.dev/cfp",
-      "deadline": "2026-06-01",
-      "event_date": "2026-12-17",
-      "status": "draft",
-      "score": 0.464,
-      "priority": "medium",
-      "created_at": "2026-04-08T12:28:22.661395+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'education' (score: 6.0)",
-      "is_online": true,
-      "event_location": "TBD, TBD"
     },
     {
       "id": "d3220eaa0057c36f",
@@ -1113,6 +1113,26 @@
       "event_location": "Online"
     },
     {
+      "id": "6c1ada5badf51ef9",
+      "cfp_title": "AWS Community Day CEE",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
+      "deadline": "2026-06-08",
+      "event_date": "2026-09-17",
+      "status": "draft",
+      "score": 0.365,
+      "priority": "low",
+      "created_at": "2026-05-08T07:44:54.680447+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 6.7)",
+      "is_online": false,
+      "event_location": "Budapest, Hungary"
+    },
+    {
       "id": "3aada1db0f19fc46",
       "cfp_title": "Agentic Engineering Days Zurich",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1173,6 +1193,26 @@
       "event_location": "Graz, Austria"
     },
     {
+      "id": "69a810840a371dd5",
+      "cfp_title": "Heapcon",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
+      "deadline": "2026-06-01",
+      "event_date": "2026-11-05",
+      "status": "draft",
+      "score": 0.352,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.662416+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'ai' (score: 3.5)",
+      "is_online": false,
+      "event_location": "Belgrade, Serbia"
+    },
+    {
       "id": "b4121c6a9607b830",
       "cfp_title": "Porto Tech Hub Conference",
       "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
@@ -1211,26 +1251,6 @@
       "match_reason": "Conference themes align with 'data' (score: 5.7)",
       "is_online": false,
       "event_location": "New York City, New York, United States"
-    },
-    {
-      "id": "6c1ada5badf51ef9",
-      "cfp_title": "AWS Community Day CEE",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
-      "deadline": "2026-06-08",
-      "event_date": "2026-09-17",
-      "status": "draft",
-      "score": 0.335,
-      "priority": "low",
-      "created_at": "2026-05-08T07:44:54.680447+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 6.7)",
-      "is_online": false,
-      "event_location": "Budapest, Hungary"
     },
     {
       "id": "5e1414e189fef8fd",
@@ -1353,26 +1373,6 @@
       "event_location": "Warsaw, Poland"
     },
     {
-      "id": "69a810840a371dd5",
-      "cfp_title": "Heapcon",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
-      "deadline": "2026-06-01",
-      "event_date": "2026-11-05",
-      "status": "draft",
-      "score": 0.322,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.662416+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'ai' (score: 3.5)",
-      "is_online": false,
-      "event_location": "Belgrade, Serbia"
-    },
-    {
       "id": "072a243546db9f10",
       "cfp_title": "Data Engineers in Toronto",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -1471,6 +1471,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 10.5)",
       "is_online": true,
       "event_location": ""
+    },
+    {
+      "id": "a0c4f8271ff446ff",
+      "cfp_title": "WeAreDevelopers Conference India",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
+      "deadline": "2026-07-24",
+      "event_date": "2026-11-25",
+      "status": "draft",
+      "score": 0.315,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.661154+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
+      "is_online": false,
+      "event_location": "Bengaluru, India"
     },
     {
       "id": "c1952d329f21d0e0",
@@ -1700,7 +1720,7 @@
       "cfp_url": "https://gitnation.com/events/react-advanced-2026/cfp",
       "deadline": "2026-05-24",
       "event_date": "2026-10-23",
-      "status": "draft",
+      "status": "expired",
       "score": 0.29,
       "priority": "low",
       "created_at": "2026-05-10T08:10:19.254777+00:00",
@@ -1751,26 +1771,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.5)",
       "is_online": true,
       "event_location": "TBD, TBD"
-    },
-    {
-      "id": "a0c4f8271ff446ff",
-      "cfp_title": "WeAreDevelopers Conference India",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
-      "deadline": "2026-07-24",
-      "event_date": "2026-11-25",
-      "status": "draft",
-      "score": 0.285,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.661154+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
-      "is_online": false,
-      "event_location": "Bengaluru, India"
     },
     {
       "id": "7e85ca613dd5b674",
@@ -2153,15 +2153,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "React Advanced",
-      "deadline": "2026-05-24",
-      "source": "confs.tech",
-      "score": 0.29,
-      "url": "https://gitnation.com/events/react-advanced-2026/cfp",
-      "travel_sponsorship": "unknown",
-      "location": "London, U.K."
-    },
-    {
       "title": "Global Fabric Day 2026 - NYC Edition",
       "deadline": "2026-05-28",
       "source": "callfordataspeakers",
@@ -2201,7 +2192,7 @@
       "title": "AI for Developers",
       "deadline": "2026-06-01",
       "source": "confs.tech",
-      "score": 0.464,
+      "score": 0.494,
       "url": "https://aiconference.dev/cfp",
       "travel_sponsorship": "unknown",
       "location": "TBD, TBD"
@@ -2210,7 +2201,7 @@
       "title": "Heapcon",
       "deadline": "2026-06-01",
       "source": "confs.tech",
-      "score": 0.322,
+      "score": 0.352,
       "url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
       "travel_sponsorship": "partial",
       "location": "Belgrade, Serbia"
@@ -2237,10 +2228,19 @@
       "title": "AWS Community Day CEE",
       "deadline": "2026-06-08",
       "source": "confs.tech",
-      "score": 0.335,
+      "score": 0.365,
       "url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
       "travel_sponsorship": "unknown",
       "location": "Budapest, Hungary"
+    },
+    {
+      "title": "Software Architecture Gathering",
+      "deadline": "2026-06-09",
+      "source": "confs.tech",
+      "score": 0.281,
+      "url": "https://sessionize.com/sag2026-cfp",
+      "travel_sponsorship": "unknown",
+      "location": "Berlin, Germany"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-24T08:31:42.669788+00:00",
+    "last_crawled": "2026-05-25T10:10:44.932143+00:00",
     "total_cfps": 80,
-    "open_cfps": 56,
+    "open_cfps": 55,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 0,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-24T08:31:44.868266+00:00",
+    "last_scored": "2026-05-25T10:10:48.039671+00:00",
     "high_priority": 0,
     "medium_priority": 5,
-    "above_threshold": 46
+    "above_threshold": 45
   },
   "cfps": [
     {
@@ -415,10 +415,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:20.731347+00:00",
       "match_scores": {
-        "composite_score": 0.285,
+        "composite_score": 0.315,
         "tag_relevance": 0.336,
         "talk_match_score": 0.059,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -573,10 +573,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:24.432425+00:00",
       "match_scores": {
-        "composite_score": 0.464,
+        "composite_score": 0.494,
         "tag_relevance": 0.507,
         "talk_match_score": 0.089,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.7,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
@@ -1168,10 +1168,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:45.480034+00:00",
       "match_scores": {
-        "composite_score": 0.322,
+        "composite_score": 0.352,
         "tag_relevance": 0.166,
         "talk_match_score": 0.08,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.6,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
@@ -1333,7 +1333,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:47.948036+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -1341,17 +1341,7 @@
         }
       ],
       "enriched_at": "2026-04-08T12:26:53.873341+00:00",
-      "match_scores": {
-        "composite_score": 0.29,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "c192b5efbfc272e5",
@@ -4999,10 +4989,10 @@
       ],
       "enriched_at": "2026-05-08T07:44:54.551975+00:00",
       "match_scores": {
-        "composite_score": 0.335,
+        "composite_score": 0.365,
         "tag_relevance": 0.33,
         "talk_match_score": 0.098,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
