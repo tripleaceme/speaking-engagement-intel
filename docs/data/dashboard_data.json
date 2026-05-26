@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-25T10:10:48.150351+00:00",
+  "generated_at": "2026-05-26T09:59:31.996402+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 80,
-    "open_cfps": 55,
+    "total_cfps_discovered": 81,
+    "open_cfps": 56,
     "expired_cfps": 25,
-    "total_applications": 70,
-    "drafts": 45,
+    "total_applications": 71,
+    "drafts": 46,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 25,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-25T10:10:44.932143+00:00",
+    "last_crawled": "2026-05-26T09:59:28.404078+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 4,
-    "travel_unknown": 49
+    "travel_unknown": 50
   },
   "timeline": [
     {
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 13
+      "draft": 14
     }
   ],
   "source_breakdown": [
@@ -49,7 +49,7 @@
     },
     {
       "source": "callfordataspeakers",
-      "count": 33
+      "count": 34
     },
     {
       "source": "github",
@@ -67,12 +67,12 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 5,
-    "low": 50
+    "low": 51
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 53
+      "count": 54
     },
     {
       "tag": "web",
@@ -80,11 +80,11 @@
     },
     {
       "tag": "open-source",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "data",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "cloud",
@@ -92,7 +92,7 @@
     },
     {
       "tag": "leadership",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "education",
@@ -104,7 +104,7 @@
     },
     {
       "tag": "devops",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "security",
@@ -112,7 +112,7 @@
     },
     {
       "tag": "conference",
-      "count": 17
+      "count": 18
     },
     {
       "tag": "testing",
@@ -233,12 +233,12 @@
         "ai",
         "education"
       ],
-      "score": 0.422,
+      "score": 0.452,
       "priority": "medium",
       "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
       "tag_relevance": 0.52,
       "talk_match": 0.067,
-      "urgency": 0.8,
+      "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -813,6 +813,26 @@
       "event_location": "Mechelen, Belgium"
     },
     {
+      "id": "ec84c6957b185351",
+      "cfp_title": "SQL Saturday - Austin 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sqlsaturday-austin-2026",
+      "deadline": "2026-06-02",
+      "event_date": "2026-06-26",
+      "status": "draft",
+      "score": 0.452,
+      "priority": "medium",
+      "created_at": "2026-05-21T09:44:48.566764+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 8.7)",
+      "is_online": false,
+      "event_location": "Austin, Texas, United States"
+    },
+    {
       "id": "c8f2597c6e5db7c4",
       "cfp_title": "TechEx North America",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -851,26 +871,6 @@
       "match_reason": "Conference themes align with 'data' (score: 8.3)",
       "is_online": true,
       "event_location": "Online"
-    },
-    {
-      "id": "ec84c6957b185351",
-      "cfp_title": "SQL Saturday - Austin 2026",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/sqlsaturday-austin-2026",
-      "deadline": "2026-06-02",
-      "event_date": "2026-06-26",
-      "status": "draft",
-      "score": 0.422,
-      "priority": "medium",
-      "created_at": "2026-05-21T09:44:48.566764+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 8.7)",
-      "is_online": false,
-      "event_location": "Austin, Texas, United States"
     },
     {
       "id": "f05c499a51109afe",
@@ -1573,6 +1573,26 @@
       "event_location": "online"
     },
     {
+      "id": "7e85ca613dd5b674",
+      "cfp_title": "Software Architecture Gathering",
+      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/sag2026-cfp",
+      "deadline": "2026-06-09",
+      "event_date": "2026-11-16",
+      "status": "draft",
+      "score": 0.311,
+      "priority": "low",
+      "created_at": "2026-05-23T08:22:02.789189+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'devops' (score: 5.0)",
+      "is_online": false,
+      "event_location": "Berlin, Germany"
+    },
+    {
       "id": "0178fbaa5b7d8e18",
       "cfp_title": "Asynconf",
       "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
@@ -1773,26 +1793,6 @@
       "event_location": "TBD, TBD"
     },
     {
-      "id": "7e85ca613dd5b674",
-      "cfp_title": "Software Architecture Gathering",
-      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/sag2026-cfp",
-      "deadline": "2026-06-09",
-      "event_date": "2026-11-16",
-      "status": "draft",
-      "score": 0.281,
-      "priority": "low",
-      "created_at": "2026-05-23T08:22:02.789189+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'devops' (score: 5.0)",
-      "is_online": false,
-      "event_location": "Berlin, Germany"
-    },
-    {
       "id": "2be9e1bafde142b6",
       "cfp_title": "Boston Data and AI Saturday 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1811,6 +1811,26 @@
       "match_reason": "Conference themes align with 'data' (score: 11.3)",
       "is_online": false,
       "event_location": "Burlington, Massachusetts, United States"
+    },
+    {
+      "id": "a1fc30025a1f4f06",
+      "cfp_title": "Celebrating Diversity, Equity & Inclusion",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/datadei-happiness-happens",
+      "deadline": "2026-07-01",
+      "event_date": "2026-08-28",
+      "status": "draft",
+      "score": 0.277,
+      "priority": "low",
+      "created_at": "2026-05-26T09:59:31.940079+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
+      "is_online": true,
+      "event_location": "Online"
     },
     {
       "id": "8ef1aa5b4718f454",
@@ -2127,15 +2147,15 @@
       "acceptance_rate": 0
     },
     {
-      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "applications": 5,
+      "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "applications": 6,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
       "acceptance_rate": 0
     },
     {
-      "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
       "applications": 5,
       "accepted": 0,
       "rejected": 0,
@@ -2210,7 +2230,7 @@
       "title": "SQL Saturday - Austin 2026",
       "deadline": "2026-06-02",
       "source": "callfordataspeakers",
-      "score": 0.422,
+      "score": 0.452,
       "url": "https://sessionize.com/sqlsaturday-austin-2026",
       "travel_sponsorship": "unknown",
       "location": "Austin, Texas, United States"
@@ -2237,7 +2257,7 @@
       "title": "Software Architecture Gathering",
       "deadline": "2026-06-09",
       "source": "confs.tech",
-      "score": 0.281,
+      "score": 0.311,
       "url": "https://sessionize.com/sag2026-cfp",
       "travel_sponsorship": "unknown",
       "location": "Berlin, Germany"

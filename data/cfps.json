@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-25T10:10:44.932143+00:00",
-    "total_cfps": 80,
-    "open_cfps": 55,
+    "last_crawled": "2026-05-26T09:59:28.404078+00:00",
+    "total_cfps": 81,
+    "open_cfps": 56,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 1,
+    "new_this_run": 1,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-25T10:10:48.039671+00:00",
+    "last_scored": "2026-05-26T09:59:31.879763+00:00",
     "high_priority": 0,
     "medium_priority": 5,
-    "above_threshold": 45
+    "above_threshold": 46
   },
   "cfps": [
     {
@@ -5365,10 +5365,10 @@
       ],
       "enriched_at": "2026-05-21T09:44:47.804024+00:00",
       "match_scores": {
-        "composite_score": 0.422,
+        "composite_score": 0.452,
         "tag_relevance": 0.52,
         "talk_match_score": 0.067,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.5,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
@@ -5686,10 +5686,10 @@
       ],
       "enriched_at": "2026-05-23T08:22:02.026655+00:00",
       "match_scores": {
-        "composite_score": 0.281,
+        "composite_score": 0.311,
         "tag_relevance": 0.169,
         "talk_match_score": 0.039,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -5758,6 +5758,64 @@
         "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "yes"
+      }
+    },
+    {
+      "id": "d3d63b4a860cfd91",
+      "source": "callfordataspeakers",
+      "title": "Celebrating Diversity, Equity & Inclusion",
+      "url": "https://sessionize.com/datadei-happiness-happens",
+      "cfp_url": "https://sessionize.com/datadei-happiness-happens",
+      "description": "Celebrating Diversity, Equity & Inclusion - Because Happiness Happens When Everyone Belongs: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. The  Microsoft Data Platform DEI Group  is now accepting session proposals for a special event dedicated to all things  diversity, equity, inclusion, accessibility, neurodiversity, and belonging.",
+      "tags": [
+        "data",
+        "devops",
+        "ai",
+        "open-source",
+        "conference",
+        "leadership"
+      ],
+      "deadline": "2026-07-01",
+      "event_date": "2026-08-28",
+      "location": "Online",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-05-26T09:59:27.911365+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "experience level",
+        "twitter"
+      ],
+      "enriched_at": "2026-05-26T09:59:31.799579+00:00",
+      "match_scores": {
+        "composite_score": 0.277,
+        "tag_relevance": 0.168,
+        "talk_match_score": 0.06,
+        "urgency_score": 0.4,
+        "format_score": 0.7,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
       }
     }
   ]

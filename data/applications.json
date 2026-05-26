@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-05-25T10:10:48.099307+00:00",
-    "total_applications": 70,
+    "last_updated": "2026-05-26T09:59:31.942788+00:00",
+    "total_applications": 71,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 45,
+    "total_drafts": 46,
     "total_expired": 25,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 25,
-      "draft": 45
+      "draft": 46,
+      "expired": 25
     },
     "unique_talk_titles": 7
   },
@@ -532,6 +532,86 @@
       "notes": ""
     },
     {
+      "id": "ec84c6957b185351",
+      "cfp_id": "71e550bc2fea3f6d",
+      "cfp_title": "SQL Saturday - Austin 2026",
+      "cfp_url": "https://sessionize.com/sqlsaturday-austin-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-06-02",
+      "event_date": "2026-06-26",
+      "event_location": "Austin, Texas, United States",
+      "is_online": false,
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+      "talk_tags": [
+        "dbt",
+        "data-quality",
+        "documentation",
+        "analytics-engineering",
+        "ai"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'data' (score: 8.7)",
+      "conference_themes": [
+        "data",
+        "cloud",
+        "database",
+        "ai",
+        "devops",
+        "web",
+        "education"
+      ],
+      "conference_categories": [
+        "day workshop",
+        "speakers for 1",
+        "hour sessions and one all"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "dbt",
+          "data-quality",
+          "documentation",
+          "analytics-engineering",
+          "ai"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.452,
+        "tag_relevance": 0.52,
+        "talk_match_score": 0.067,
+        "urgency_score": 1.0,
+        "format_score": 0.5,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-05-21T09:44:48.566755+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 8.7)"
+        }
+      ],
+      "created_at": "2026-05-21T09:44:48.566764+00:00",
+      "updated_at": "2026-05-21T09:44:48.566766+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "c8f2597c6e5db7c4",
       "cfp_id": "4e7c90af4be64378",
       "cfp_title": "TechEx North America",
@@ -708,86 +788,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.663835+00:00",
       "updated_at": "2026-05-02T07:47:30.532395+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "ec84c6957b185351",
-      "cfp_id": "71e550bc2fea3f6d",
-      "cfp_title": "SQL Saturday - Austin 2026",
-      "cfp_url": "https://sessionize.com/sqlsaturday-austin-2026",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-06-02",
-      "event_date": "2026-06-26",
-      "event_location": "Austin, Texas, United States",
-      "is_online": false,
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-      "talk_tags": [
-        "dbt",
-        "data-quality",
-        "documentation",
-        "analytics-engineering",
-        "ai"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'data' (score: 8.7)",
-      "conference_themes": [
-        "data",
-        "cloud",
-        "database",
-        "ai",
-        "devops",
-        "web",
-        "education"
-      ],
-      "conference_categories": [
-        "day workshop",
-        "speakers for 1",
-        "hour sessions and one all"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "dbt",
-          "data-quality",
-          "documentation",
-          "analytics-engineering",
-          "ai"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.422,
-        "tag_relevance": 0.52,
-        "talk_match_score": 0.067,
-        "urgency_score": 0.8,
-        "format_score": 0.5,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-05-21T09:44:48.566755+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 8.7)"
-        }
-      ],
-      "created_at": "2026-05-21T09:44:48.566764+00:00",
-      "updated_at": "2026-05-21T09:44:48.566766+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -3690,6 +3690,92 @@
       "notes": ""
     },
     {
+      "id": "7e85ca613dd5b674",
+      "cfp_id": "9291ed9d480d3a65",
+      "cfp_title": "Software Architecture Gathering",
+      "cfp_url": "https://sessionize.com/sag2026-cfp",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-06-09",
+      "event_date": "2026-11-16",
+      "event_location": "Berlin, Germany",
+      "is_online": false,
+      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+      "talk_abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
+      "talk_tags": [
+        "devops",
+        "dataops",
+        "airflow",
+        "ci-cd",
+        "dbt",
+        "observability"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'devops' (score: 5.0)",
+      "conference_themes": [
+        "devops",
+        "web",
+        "open-source",
+        "leadership",
+        "ai",
+        "cloud",
+        "security",
+        "education",
+        "mobile",
+        "blockchain"
+      ],
+      "conference_categories": [
+        "methods",
+        "and principles every software architect needs",
+        "but matter to software architects",
+        "architecture foundations  \u2013 core skills"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+        "abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "devops",
+          "dataops",
+          "airflow",
+          "ci-cd",
+          "dbt",
+          "observability"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.311,
+        "tag_relevance": 0.169,
+        "talk_match_score": 0.039,
+        "urgency_score": 0.8,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-05-23T08:22:02.789186+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'devops' (score: 5.0)"
+        }
+      ],
+      "created_at": "2026-05-23T08:22:02.789189+00:00",
+      "updated_at": "2026-05-23T08:22:02.789190+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "0178fbaa5b7d8e18",
       "cfp_id": "9ad84e27421c557a",
       "cfp_title": "Asynconf",
@@ -4455,92 +4541,6 @@
       "notes": ""
     },
     {
-      "id": "7e85ca613dd5b674",
-      "cfp_id": "9291ed9d480d3a65",
-      "cfp_title": "Software Architecture Gathering",
-      "cfp_url": "https://sessionize.com/sag2026-cfp",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-06-09",
-      "event_date": "2026-11-16",
-      "event_location": "Berlin, Germany",
-      "is_online": false,
-      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-      "talk_abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
-      "talk_tags": [
-        "devops",
-        "dataops",
-        "airflow",
-        "ci-cd",
-        "dbt",
-        "observability"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'devops' (score: 5.0)",
-      "conference_themes": [
-        "devops",
-        "web",
-        "open-source",
-        "leadership",
-        "ai",
-        "cloud",
-        "security",
-        "education",
-        "mobile",
-        "blockchain"
-      ],
-      "conference_categories": [
-        "methods",
-        "and principles every software architect needs",
-        "but matter to software architects",
-        "architecture foundations  \u2013 core skills"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-        "abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "devops",
-          "dataops",
-          "airflow",
-          "ci-cd",
-          "dbt",
-          "observability"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.281,
-        "tag_relevance": 0.169,
-        "talk_match_score": 0.039,
-        "urgency_score": 0.6,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-05-23T08:22:02.789186+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'devops' (score: 5.0)"
-        }
-      ],
-      "created_at": "2026-05-23T08:22:02.789189+00:00",
-      "updated_at": "2026-05-23T08:22:02.789190+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
       "id": "2be9e1bafde142b6",
       "cfp_id": "0334f81227267f1c",
       "cfp_title": "Boston Data and AI Saturday 2026",
@@ -4617,6 +4617,77 @@
       ],
       "created_at": "2026-04-17T07:51:09.330428+00:00",
       "updated_at": "2026-04-17T07:51:09.330430+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "a1fc30025a1f4f06",
+      "cfp_id": "d3d63b4a860cfd91",
+      "cfp_title": "Celebrating Diversity, Equity & Inclusion",
+      "cfp_url": "https://sessionize.com/datadei-happiness-happens",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-07-01",
+      "event_date": "2026-08-28",
+      "event_location": "Online",
+      "is_online": true,
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+      "talk_tags": [
+        "leadership",
+        "data-culture",
+        "analytics-engineering",
+        "strategy"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
+      "conference_themes": [
+        "open-source",
+        "leadership",
+        "ai",
+        "devops"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "leadership",
+          "data-culture",
+          "analytics-engineering",
+          "strategy"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.277,
+        "tag_relevance": 0.168,
+        "talk_match_score": 0.06,
+        "urgency_score": 0.4,
+        "format_score": 0.7,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-05-26T09:59:31.940065+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 5.0)"
+        }
+      ],
+      "created_at": "2026-05-26T09:59:31.940079+00:00",
+      "updated_at": "2026-05-26T09:59:31.940081+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
