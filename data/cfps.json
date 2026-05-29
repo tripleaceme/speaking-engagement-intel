@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-28T10:05:26.833882+00:00",
-    "total_cfps": 81,
+    "last_crawled": "2026-05-29T09:56:59.643630+00:00",
+    "total_cfps": 82,
     "open_cfps": 56,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 0,
+    "new_this_run": 1,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-28T10:05:29.875383+00:00",
+    "last_scored": "2026-05-29T09:57:03.032997+00:00",
     "high_priority": 0,
     "medium_priority": 5,
     "above_threshold": 46
@@ -5099,7 +5099,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-05-12T08:42:57.279767+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "data",
@@ -5122,17 +5122,7 @@
         "twitter"
       ],
       "enriched_at": "2026-05-12T08:43:02.050545+00:00",
-      "match_scores": {
-        "composite_score": 0.345,
-        "tag_relevance": 0.18,
-        "talk_match_score": 0.04,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "b0f748e252c21674",
@@ -5814,6 +5804,83 @@
         "format_score": 0.7,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "1c63198476b9ef0a",
+      "source": "callfordataspeakers",
+      "title": "Data Day Edinburgh 2026",
+      "url": "https://sessionize.com/data-day-edinburgh-2026",
+      "cfp_url": "https://sessionize.com/data-day-edinburgh-2026",
+      "description": "Data Day Edinburgh 2026: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. This community-led event offers content across data management, cloud and hybrid architecture, analytics, business intelligence, AI, and much more.",
+      "tags": [
+        "data",
+        "cloud",
+        "open-source",
+        "education",
+        "leadership",
+        "conference",
+        "europe",
+        "database",
+        "devops",
+        "ai"
+      ],
+      "deadline": "2026-07-12",
+      "event_date": "2026-10-23",
+      "location": "Edinburgh, United Kingdom",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-05-29T09:56:58.852170+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "twitter"
+      ],
+      "enriched_at": "2026-05-29T09:57:02.958261+00:00",
+      "match_scores": {
+        "composite_score": 0.363,
+        "tag_relevance": 0.51,
+        "talk_match_score": 0.082,
+        "urgency_score": 0.4,
+        "format_score": 0.5,
+        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+        "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
