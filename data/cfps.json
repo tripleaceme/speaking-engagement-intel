@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-29T09:56:59.643630+00:00",
-    "total_cfps": 82,
-    "open_cfps": 56,
+    "last_crawled": "2026-05-30T08:29:52.980529+00:00",
+    "total_cfps": 83,
+    "open_cfps": 57,
     "sources_checked": 9,
     "new_this_run": 1,
-    "expired_this_run": 1,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-29T09:57:03.032997+00:00",
+    "last_scored": "2026-05-30T08:29:57.069889+00:00",
     "high_priority": 0,
     "medium_priority": 5,
     "above_threshold": 46
@@ -5881,6 +5881,67 @@
         "format_score": 0.5,
         "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
         "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "0d94c8eca7d2ef0a",
+      "source": "callfordataspeakers",
+      "title": "Data Community Day Austria 2027",
+      "url": "https://sessionize.com/data-community-day-austria-2027",
+      "cfp_url": "https://sessionize.com/data-community-day-austria-2027",
+      "description": "Data Community Day Austria 2027: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. We are looking for technical sessions all around Microsoft's Data Platform as well as non-technical sessions.",
+      "tags": [
+        "data",
+        "database",
+        "open-source",
+        "web",
+        "europe",
+        "ai",
+        "conference"
+      ],
+      "deadline": "2026-10-04",
+      "event_date": "2027-01-18",
+      "location": "Vienna, Austria",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-05-30T08:29:51.824230+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "technical sessions"
+      ],
+      "submission_fields": [
+        "twitter"
+      ],
+      "enriched_at": "2026-05-30T08:29:56.994611+00:00",
+      "match_scores": {
+        "composite_score": 0.22,
+        "tag_relevance": 0.173,
+        "talk_match_score": 0.098,
+        "urgency_score": 0.2,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-29T09:57:03.133726+00:00",
+  "generated_at": "2026-05-30T08:29:57.173175+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 82,
-    "open_cfps": 56,
+    "total_cfps_discovered": 83,
+    "open_cfps": 57,
     "expired_cfps": 26,
     "total_applications": 72,
     "drafts": 46,
@@ -18,11 +18,11 @@
     "expired_apps": 26,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-29T09:56:59.643630+00:00",
+    "last_crawled": "2026-05-30T08:29:52.980529+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 4,
-    "travel_unknown": 50
+    "travel_unknown": 51
   },
   "timeline": [
     {
@@ -49,7 +49,7 @@
     },
     {
       "source": "callfordataspeakers",
-      "count": 35
+      "count": 36
     },
     {
       "source": "github",
@@ -67,24 +67,24 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 5,
-    "low": 51
+    "low": 52
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 54
+      "count": 55
     },
     {
       "tag": "web",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "open-source",
-      "count": 42
+      "count": 43
     },
     {
       "tag": "data",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "cloud",
@@ -100,7 +100,7 @@
     },
     {
       "tag": "database",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "devops",
@@ -112,7 +112,7 @@
     },
     {
       "tag": "conference",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "testing",
@@ -139,11 +139,11 @@
       "count": 7
     },
     {
-      "tag": "cfp",
-      "count": 6
+      "tag": "europe",
+      "count": 7
     },
     {
-      "tag": "europe",
+      "tag": "cfp",
       "count": 6
     },
     {
