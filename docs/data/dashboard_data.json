@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T08:29:57.173175+00:00",
+  "generated_at": "2026-05-31T08:48:19.833930+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 83,
-    "open_cfps": 57,
-    "expired_cfps": 26,
+    "open_cfps": 56,
+    "expired_cfps": 27,
     "total_applications": 72,
-    "drafts": 46,
+    "drafts": 45,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 26,
+    "expired_apps": 27,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-05-30T08:29:52.980529+00:00",
+    "last_crawled": "2026-05-31T08:48:16.630877+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 4,
-    "travel_unknown": 51
+    "travel_unknown": 50
   },
   "timeline": [
     {
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 32
+      "draft": 31
     },
     {
       "month": "2026-05",
@@ -66,61 +66,57 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 5,
+    "medium": 4,
     "low": 52
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 55
+      "count": 54
     },
     {
       "tag": "web",
-      "count": 47
+      "count": 46
     },
     {
       "tag": "open-source",
-      "count": 43
+      "count": 42
     },
     {
       "tag": "data",
-      "count": 38
+      "count": 37
     },
     {
       "tag": "cloud",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "leadership",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "education",
-      "count": 29
+      "count": 28
     },
     {
       "tag": "database",
-      "count": 27
+      "count": 26
     },
     {
       "tag": "devops",
       "count": 21
     },
     {
-      "tag": "security",
-      "count": 19
-    },
-    {
       "tag": "conference",
       "count": 19
     },
     {
-      "tag": "testing",
-      "count": 11
+      "tag": "security",
+      "count": 18
     },
     {
-      "tag": "blockchain",
-      "count": 9
+      "tag": "testing",
+      "count": 11
     },
     {
       "tag": "call-for-papers",
@@ -135,12 +131,16 @@
       "count": 8
     },
     {
-      "tag": "general",
-      "count": 7
+      "tag": "blockchain",
+      "count": 8
     },
     {
       "tag": "europe",
       "count": 7
+    },
+    {
+      "tag": "general",
+      "count": 6
     },
     {
       "tag": "cfp",
@@ -171,12 +171,12 @@
       "count": 5
     },
     {
-      "tag": "iot",
+      "tag": "north america",
       "count": 4
     },
     {
-      "tag": "north america",
-      "count": 4
+      "tag": "iot",
+      "count": 3
     },
     {
       "tag": "call-for-paper",
@@ -268,31 +268,6 @@
       "event_type": "conference, precon"
     },
     {
-      "id": "87f3a7d9b271dc1f",
-      "title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
-      "source": "confs.tech",
-      "url": "https://aiccsa.net/AICCSA2026/calls.php",
-      "deadline": "2026-05-30",
-      "event_date": "2026-10-26",
-      "location": "Dubai, United Arab Emirates",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "database",
-        "iot",
-        "education",
-        "general"
-      ],
-      "score": 0.413,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.323,
-      "talk_match": 0.098,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "807c8a3e1afc3084",
       "title": "Triangle SQL Server User Group 2026",
       "source": "callfordataspeakers",
@@ -316,6 +291,31 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "73eb5132e244145f",
+      "title": "Porto Tech Hub Conference",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/pth-2026",
+      "deadline": "2026-06-14",
+      "event_date": "2026-11-10",
+      "location": "Porto, Portugal",
+      "is_online": false,
+      "tags": [
+        "security",
+        "blockchain",
+        "general",
+        "open-source",
+        "cloud"
+      ],
+      "score": 0.379,
+      "priority": "low",
+      "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
+      "tag_relevance": 0.335,
+      "talk_match": 0.074,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     },
     {
       "id": "523b27473934c6f1",
@@ -442,31 +442,6 @@
       "event_type": "conference"
     },
     {
-      "id": "73eb5132e244145f",
-      "title": "Porto Tech Hub Conference",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/pth-2026",
-      "deadline": "2026-06-14",
-      "event_date": "2026-11-10",
-      "location": "Porto, Portugal",
-      "is_online": false,
-      "tags": [
-        "security",
-        "blockchain",
-        "general",
-        "open-source",
-        "cloud"
-      ],
-      "score": 0.349,
-      "priority": "low",
-      "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
-      "tag_relevance": 0.335,
-      "talk_match": 0.074,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "f5236e3008d6c44b",
       "title": "San Diego SQL Server User Group",
       "source": "callfordataspeakers",
@@ -490,6 +465,31 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "b22c08733d338a2e",
+      "title": "Confitura",
+      "source": "confs.tech",
+      "url": "https://app.confitura.pl/login",
+      "deadline": "2026-06-07",
+      "event_date": "2026-09-25",
+      "location": "Warsaw, Poland",
+      "is_online": false,
+      "tags": [
+        "general",
+        "open-source",
+        "ai",
+        "web",
+        "leadership"
+      ],
+      "score": 0.331,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.165,
+      "talk_match": 0.078,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     },
     {
       "id": "db40a7d1f6bc0c59",
@@ -960,7 +960,7 @@
       "cfp_url": "https://aiccsa.net/AICCSA2026/calls.php",
       "deadline": "2026-05-30",
       "event_date": "2026-10-26",
-      "status": "draft",
+      "status": "expired",
       "score": 0.413,
       "priority": "medium",
       "created_at": "2026-04-08T12:28:22.662245+00:00",
@@ -1091,6 +1091,26 @@
       "match_reason": "Conference themes align with 'cloud' (score: 5.5)",
       "is_online": false,
       "event_location": "G\u00f6teborg, Sweden"
+    },
+    {
+      "id": "b4121c6a9607b830",
+      "cfp_title": "Porto Tech Hub Conference",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/pth-2026",
+      "deadline": "2026-06-14",
+      "event_date": "2026-11-10",
+      "status": "draft",
+      "score": 0.379,
+      "priority": "low",
+      "created_at": "2026-05-23T08:22:02.789068+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'cloud' (score: 9.0)",
+      "is_online": false,
+      "event_location": "Porto, Portugal"
     },
     {
       "id": "55fa692cad8ca7f4",
@@ -1233,26 +1253,6 @@
       "event_location": "Belgrade, Serbia"
     },
     {
-      "id": "b4121c6a9607b830",
-      "cfp_title": "Porto Tech Hub Conference",
-      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/pth-2026",
-      "deadline": "2026-06-14",
-      "event_date": "2026-11-10",
-      "status": "draft",
-      "score": 0.349,
-      "priority": "low",
-      "created_at": "2026-05-23T08:22:02.789068+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'cloud' (score: 9.0)",
-      "is_online": false,
-      "event_location": "Porto, Portugal"
-    },
-    {
       "id": "e3fc02514c928a0c",
       "cfp_title": "Global Fabric Day 2026 - NYC Edition",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1311,6 +1311,26 @@
       "match_reason": "Conference themes align with 'cloud' (score: 4.0)",
       "is_online": false,
       "event_location": "Rouen, France"
+    },
+    {
+      "id": "beace3259d600ad8",
+      "cfp_title": "Confitura",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://app.confitura.pl/login",
+      "deadline": "2026-06-07",
+      "event_date": "2026-09-25",
+      "status": "draft",
+      "score": 0.331,
+      "priority": "low",
+      "created_at": "2026-05-23T08:22:02.788934+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
+      "is_online": false,
+      "event_location": "Warsaw, Poland"
     },
     {
       "id": "82f06ff2742d8c25",
@@ -1713,26 +1733,6 @@
       "event_location": "Rome, Italy"
     },
     {
-      "id": "beace3259d600ad8",
-      "cfp_title": "Confitura",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://app.confitura.pl/login",
-      "deadline": "2026-06-07",
-      "event_date": "2026-09-25",
-      "status": "draft",
-      "score": 0.301,
-      "priority": "low",
-      "created_at": "2026-05-23T08:22:02.788934+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
-      "is_online": false,
-      "event_location": "Warsaw, Poland"
-    },
-    {
       "id": "1e23b12ac004e96a",
       "cfp_title": "KubeCon + CloudNativeCon Europe",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1751,6 +1751,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 15.0)",
       "is_online": true,
       "event_location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "ecfbc36c4797406f",
+      "cfp_title": "CityJS Conference Athens",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://docs.google.com/forms/d/e/1FAIpQLSejZUdKqdZo0fZtcqDEWOqkhTGgsnXx5KJOo5flW2E-Ej2a2A/viewform",
+      "deadline": "2026-06-30",
+      "event_date": "2026-10-21",
+      "status": "draft",
+      "score": 0.292,
+      "priority": "low",
+      "created_at": "2026-05-01T08:14:13.860311+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
+      "is_online": false,
+      "event_location": "Athens, Greece"
     },
     {
       "id": "9c40017725216ae5",
@@ -1973,26 +1993,6 @@
       "event_location": "Prague, Czech Republic"
     },
     {
-      "id": "ecfbc36c4797406f",
-      "cfp_title": "CityJS Conference Athens",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://docs.google.com/forms/d/e/1FAIpQLSejZUdKqdZo0fZtcqDEWOqkhTGgsnXx5KJOo5flW2E-Ej2a2A/viewform",
-      "deadline": "2026-06-30",
-      "event_date": "2026-10-21",
-      "status": "draft",
-      "score": 0.262,
-      "priority": "low",
-      "created_at": "2026-05-01T08:14:13.860311+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
-      "is_online": false,
-      "event_location": "Athens, Greece"
-    },
-    {
       "id": "e320b5689ff3ded6",
       "cfp_title": "ZhongkuiMa/CFPMonitor",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2193,15 +2193,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
-      "deadline": "2026-05-30",
-      "source": "confs.tech",
-      "score": 0.413,
-      "url": "https://aiccsa.net/AICCSA2026/calls.php",
-      "travel_sponsorship": "unknown",
-      "location": "Dubai, United Arab Emirates"
-    },
-    {
       "title": "EightKB August 2026",
       "deadline": "2026-05-31",
       "source": "callfordataspeakers",
@@ -2250,7 +2241,7 @@
       "title": "Confitura",
       "deadline": "2026-06-07",
       "source": "confs.tech",
-      "score": 0.301,
+      "score": 0.331,
       "url": "https://app.confitura.pl/login",
       "travel_sponsorship": "unknown",
       "location": "Warsaw, Poland"
@@ -2277,10 +2268,19 @@
       "title": "Porto Tech Hub Conference",
       "deadline": "2026-06-14",
       "source": "confs.tech",
-      "score": 0.349,
+      "score": 0.379,
       "url": "https://sessionize.com/pth-2026",
       "travel_sponsorship": "unknown",
       "location": "Porto, Portugal"
+    },
+    {
+      "title": "FabFest 2026",
+      "deadline": "2026-06-15",
+      "source": "callfordataspeakers",
+      "score": 0.272,
+      "url": "https://sessionize.com/fabfest2026",
+      "travel_sponsorship": "unknown",
+      "location": "Birmingham, United Kingdom"
     }
   ]
 }
