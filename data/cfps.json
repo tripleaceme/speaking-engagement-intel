@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-05-31T08:48:16.630877+00:00",
-    "total_cfps": 83,
-    "open_cfps": 56,
+    "last_crawled": "2026-06-01T11:38:48.913316+00:00",
+    "total_cfps": 84,
+    "open_cfps": 55,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 1,
-    "travel_sponsorship_yes": 2,
+    "new_this_run": 1,
+    "expired_this_run": 2,
+    "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-05-31T08:48:19.730099+00:00",
+    "last_scored": "2026-06-01T11:38:54.301020+00:00",
     "high_priority": 0,
-    "medium_priority": 4,
-    "above_threshold": 45
+    "medium_priority": 3,
+    "above_threshold": 44
   },
   "cfps": [
     {
@@ -3285,7 +3285,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:56.586498+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -3305,17 +3305,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:51.399149+00:00",
-      "match_scores": {
-        "composite_score": 0.368,
-        "tag_relevance": 0.183,
-        "talk_match_score": 0.044,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "1dc1809e06936eb6",
@@ -3553,7 +3543,7 @@
       "travel_sponsorship": "yes",
       "event_type": "conference, precon",
       "discovered_at": "2026-04-08T12:25:56.586955+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "data",
@@ -3602,17 +3592,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:54.891974+00:00",
-      "match_scores": {
-        "composite_score": 0.416,
-        "tag_relevance": 0.367,
-        "talk_match_score": 0.059,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "yes"
-      }
+      "match_scores": null
     },
     {
       "id": "1e63984aef734deb",
@@ -3768,10 +3748,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:57.196585+00:00",
       "match_scores": {
-        "composite_score": 0.272,
+        "composite_score": 0.302,
         "tag_relevance": 0.182,
         "talk_match_score": 0.06,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.5,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
@@ -4979,10 +4959,10 @@
       ],
       "enriched_at": "2026-05-08T07:44:54.551975+00:00",
       "match_scores": {
-        "composite_score": 0.365,
+        "composite_score": 0.395,
         "tag_relevance": 0.33,
         "talk_match_score": 0.098,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -5263,10 +5243,10 @@
       ],
       "enriched_at": "2026-05-17T08:23:52.501327+00:00",
       "match_scores": {
-        "composite_score": 0.327,
+        "composite_score": 0.357,
         "tag_relevance": 0.371,
         "talk_match_score": 0.059,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -5787,10 +5767,10 @@
       ],
       "enriched_at": "2026-05-26T09:59:31.799579+00:00",
       "match_scores": {
-        "composite_score": 0.277,
+        "composite_score": 0.307,
         "tag_relevance": 0.168,
         "talk_match_score": 0.06,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.7,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
@@ -5934,6 +5914,124 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "03a19de23ecd84b3",
+      "source": "confs.tech",
+      "title": "Great International AI Native Summit (GAINS)",
+      "url": "https://ainativesummit.com",
+      "cfp_url": "https://ainativesummit.com/cfp",
+      "description": "\ud83d\udccd Bengaluru, India  \ud83d\udcc5 09\u201310 December 2026  \u23f3 Submission Deadline: 15th July 2026 \r\n             \ud83c\udfdb\ufe0f The GAINS Editorial Mandate \r\n             GAINS is not a generic AI conference. The Great International AI Native Summit (GAINS) is an engineering-first summit focused on the design, behavior, operation, supervision, and operational maturation of AI-native systems. What Do We Mean By AI-Native? \r\n             AI-native systems are systems whose behavior is shaped by intelligence rather than being entirely determined by predefined software logic.",
+      "tags": [
+        "leadership",
+        "ai",
+        "mobile",
+        "web",
+        "open-source",
+        "blockchain",
+        "testing",
+        "cloud",
+        "iot",
+        "security",
+        "data",
+        "devops"
+      ],
+      "deadline": "2026-07-15",
+      "event_date": "2026-12-09",
+      "location": "Bangalore, India",
+      "is_online": false,
+      "travel_sponsorship": "yes",
+      "event_type": "conference",
+      "discovered_at": "2026-06-01T11:38:45.380199+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "iot",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "memory systems",
+        "governance architectures",
+        "retrieval systems",
+        "for your talk",
+        "native developer workflows",
+        "operational platforms for intelligent systems",
+        "if any",
+        "related to this proposal",
+        "context engineering",
+        "evaluation infrastructure",
+        "native applications",
+        "include:",
+        "the focus areas below are not technology categories",
+        "supervision systems",
+        "are highly curated"
+      ],
+      "speaker_perks": {
+        "travel": true,
+        "ticket": true
+      },
+      "submission_fields": [
+        "title",
+        "abstract",
+        "bio",
+        "biography",
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-06-01T11:38:54.226122+00:00",
+      "match_scores": {
+        "composite_score": 0.322,
+        "tag_relevance": 0.328,
+        "talk_match_score": 0.089,
+        "urgency_score": 0.4,
+        "format_score": 0.6,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "yes"
       }
     }
   ]
