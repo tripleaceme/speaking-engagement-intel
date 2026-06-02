@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-06-01T11:38:48.913316+00:00",
-    "total_cfps": 84,
-    "open_cfps": 55,
+    "last_crawled": "2026-06-02T10:27:21.566626+00:00",
+    "total_cfps": 85,
+    "open_cfps": 54,
     "sources_checked": 9,
     "new_this_run": 1,
     "expired_this_run": 2,
-    "travel_sponsorship_yes": 1,
-    "travel_sponsorship_partial": 4,
-    "last_scored": "2026-06-01T11:38:54.301020+00:00",
+    "travel_sponsorship_yes": 2,
+    "travel_sponsorship_partial": 3,
+    "last_scored": "2026-06-02T10:27:25.619578+00:00",
     "high_priority": 0,
-    "medium_priority": 3,
-    "above_threshold": 44
+    "medium_priority": 2,
+    "above_threshold": 43
   },
   "cfps": [
     {
@@ -532,7 +532,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:45.455510+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "leadership",
@@ -572,17 +572,7 @@
         }
       ],
       "enriched_at": "2026-04-08T12:26:24.432425+00:00",
-      "match_scores": {
-        "composite_score": 0.494,
-        "tag_relevance": 0.507,
-        "talk_match_score": 0.089,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "d04355fb1fd02eeb",
@@ -1134,7 +1124,7 @@
       "travel_sponsorship": "partial",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:47.351418+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -1157,17 +1147,7 @@
         "topic"
       ],
       "enriched_at": "2026-04-08T12:26:45.480034+00:00",
-      "match_scores": {
-        "composite_score": 0.352,
-        "tag_relevance": 0.166,
-        "talk_match_score": 0.08,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "partial"
-      }
+      "match_scores": null
     },
     {
       "id": "c194a8eca6f2f3e9",
@@ -5646,10 +5626,10 @@
       ],
       "enriched_at": "2026-05-23T08:22:02.026655+00:00",
       "match_scores": {
-        "composite_score": 0.311,
+        "composite_score": 0.341,
         "tag_relevance": 0.169,
         "talk_match_score": 0.039,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -6032,6 +6012,90 @@
         "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "yes"
+      }
+    },
+    {
+      "id": "a12769d08cefcd0e",
+      "source": "callfordataspeakers",
+      "title": "SQLDay Lite 2026",
+      "url": "https://sessionize.com/sqlday-lite-2026",
+      "cfp_url": "https://sessionize.com/sqlday-lite-2026",
+      "description": "SQLDay Lite 2026: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. pl/ \r\n                             \r\n                         \r\n                     \r\n                 \r\n                     \r\n                         \r\n                         It's another fabulous edition of\u00a0 SQLDay Lite  in Poland.",
+      "tags": [
+        "cloud",
+        "web",
+        "education",
+        "data",
+        "ai",
+        "database",
+        "security",
+        "open-source",
+        "europe",
+        "conference, precon",
+        "leadership"
+      ],
+      "deadline": "2026-07-31",
+      "event_date": "2026-09-24",
+      "location": "Gda\u0144sk, Poland",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon",
+      "discovered_at": "2026-06-02T10:27:20.607935+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "bio",
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-06-02T10:27:25.542877+00:00",
+      "match_scores": {
+        "composite_score": 0.3,
+        "tag_relevance": 0.348,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.4,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
       }
     }
   ]

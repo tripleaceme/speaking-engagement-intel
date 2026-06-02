@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-06-01T11:38:54.358715+00:00",
-    "total_applications": 73,
+    "last_updated": "2026-06-02T10:27:25.677719+00:00",
+    "total_applications": 74,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 44,
-    "total_expired": 29,
+    "total_drafts": 43,
+    "total_expired": 31,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "draft": 44,
-      "expired": 29
+      "expired": 31,
+      "draft": 43
     },
     "unique_talk_titles": 7
   },
@@ -80,16 +80,21 @@
         "priority": "medium",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.661392+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-06-02T10:27:25.677461+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.661395+00:00",
-      "updated_at": "2026-04-08T12:28:22.661397+00:00",
+      "updated_at": "2026-06-02T10:27:25.677469+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -2450,16 +2455,21 @@
         "priority": "low",
         "travel_sponsorship": "partial"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.662407+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 3.5)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-06-02T10:27:25.677563+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.662416+00:00",
-      "updated_at": "2026-04-08T12:28:22.662418+00:00",
+      "updated_at": "2026-06-02T10:27:25.677566+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -2538,6 +2548,92 @@
       ],
       "created_at": "2026-05-12T08:43:02.158628+00:00",
       "updated_at": "2026-05-29T09:57:03.086895+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "7e85ca613dd5b674",
+      "cfp_id": "9291ed9d480d3a65",
+      "cfp_title": "Software Architecture Gathering",
+      "cfp_url": "https://sessionize.com/sag2026-cfp",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-06-09",
+      "event_date": "2026-11-16",
+      "event_location": "Berlin, Germany",
+      "is_online": false,
+      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+      "talk_abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
+      "talk_tags": [
+        "devops",
+        "dataops",
+        "airflow",
+        "ci-cd",
+        "dbt",
+        "observability"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'devops' (score: 5.0)",
+      "conference_themes": [
+        "devops",
+        "web",
+        "open-source",
+        "leadership",
+        "ai",
+        "cloud",
+        "security",
+        "education",
+        "mobile",
+        "blockchain"
+      ],
+      "conference_categories": [
+        "methods",
+        "and principles every software architect needs",
+        "but matter to software architects",
+        "architecture foundations  \u2013 core skills"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+        "abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "devops",
+          "dataops",
+          "airflow",
+          "ci-cd",
+          "dbt",
+          "observability"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.341,
+        "tag_relevance": 0.169,
+        "talk_match_score": 0.039,
+        "urgency_score": 1.0,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-05-23T08:22:02.789186+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'devops' (score: 5.0)"
+        }
+      ],
+      "created_at": "2026-05-23T08:22:02.789189+00:00",
+      "updated_at": "2026-05-23T08:22:02.789190+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -3966,92 +4062,6 @@
       "notes": ""
     },
     {
-      "id": "7e85ca613dd5b674",
-      "cfp_id": "9291ed9d480d3a65",
-      "cfp_title": "Software Architecture Gathering",
-      "cfp_url": "https://sessionize.com/sag2026-cfp",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-06-09",
-      "event_date": "2026-11-16",
-      "event_location": "Berlin, Germany",
-      "is_online": false,
-      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-      "talk_abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
-      "talk_tags": [
-        "devops",
-        "dataops",
-        "airflow",
-        "ci-cd",
-        "dbt",
-        "observability"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'devops' (score: 5.0)",
-      "conference_themes": [
-        "devops",
-        "web",
-        "open-source",
-        "leadership",
-        "ai",
-        "cloud",
-        "security",
-        "education",
-        "mobile",
-        "blockchain"
-      ],
-      "conference_categories": [
-        "methods",
-        "and principles every software architect needs",
-        "but matter to software architects",
-        "architecture foundations  \u2013 core skills"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-        "abstract": "Software engineering has CI/CD. Data engineering is catching up. I'll share how I built end-to-end DataOps workflows: Airflow DAGs for orchestration, automated dbt tests in CI, monitoring dashboards for pipeline health, and alerting that pages before the data is stale. Drawing from building pipelines across SFTP, S3, BigQuery, and Snowflake, you'll learn practical patterns for treating your data stack like production software.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "devops",
-          "dataops",
-          "airflow",
-          "ci-cd",
-          "dbt",
-          "observability"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.311,
-        "tag_relevance": 0.169,
-        "talk_match_score": 0.039,
-        "urgency_score": 0.8,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-05-23T08:22:02.789186+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'devops' (score: 5.0)"
-        }
-      ],
-      "created_at": "2026-05-23T08:22:02.789189+00:00",
-      "updated_at": "2026-05-23T08:22:02.789190+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
       "id": "0178fbaa5b7d8e18",
       "cfp_id": "9ad84e27421c557a",
       "cfp_title": "Asynconf",
@@ -4656,6 +4666,86 @@
       ],
       "created_at": "2026-04-08T12:28:22.661592+00:00",
       "updated_at": "2026-04-08T12:28:22.661594+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "b751f36df5b690c8",
+      "cfp_id": "a12769d08cefcd0e",
+      "cfp_title": "SQLDay Lite 2026",
+      "cfp_url": "https://sessionize.com/sqlday-lite-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-07-31",
+      "event_date": "2026-09-24",
+      "event_location": "Gda\u0144sk, Poland",
+      "is_online": false,
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+      "talk_tags": [
+        "sql",
+        "dbt",
+        "migration",
+        "database",
+        "snowflake",
+        "bigquery"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'database' (score: 7.5)",
+      "conference_themes": [
+        "ai",
+        "open-source",
+        "data",
+        "cloud",
+        "database",
+        "leadership",
+        "education",
+        "security",
+        "web"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "sql",
+          "dbt",
+          "migration",
+          "database",
+          "snowflake",
+          "bigquery"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.3,
+        "tag_relevance": 0.348,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.4,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-06-02T10:27:25.675111+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 7.5)"
+        }
+      ],
+      "created_at": "2026-06-02T10:27:25.675121+00:00",
+      "updated_at": "2026-06-02T10:27:25.675123+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

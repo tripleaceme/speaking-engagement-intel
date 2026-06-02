@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-06-01T11:38:54.406849+00:00",
+  "generated_at": "2026-06-02T10:27:25.726400+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 84,
-    "open_cfps": 55,
-    "expired_cfps": 29,
-    "total_applications": 73,
-    "drafts": 44,
+    "total_cfps_discovered": 85,
+    "open_cfps": 54,
+    "expired_cfps": 31,
+    "total_applications": 74,
+    "drafts": 43,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 29,
+    "expired_apps": 31,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-01T11:38:48.913316+00:00",
+    "last_crawled": "2026-06-02T10:27:21.566626+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
-    "travel_partial": 4,
+    "travel_partial": 3,
     "travel_unknown": 49
   },
   "timeline": [
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 29
+      "draft": 27
     },
     {
       "month": "2026-05",
@@ -47,7 +47,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 1
+      "draft": 2
     }
   ],
   "source_breakdown": [
@@ -57,7 +57,7 @@
     },
     {
       "source": "callfordataspeakers",
-      "count": 36
+      "count": 37
     },
     {
       "source": "github",
@@ -74,13 +74,13 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 3,
+    "medium": 2,
     "low": 52
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 53
+      "count": 52
     },
     {
       "tag": "web",
@@ -88,7 +88,7 @@
     },
     {
       "tag": "open-source",
-      "count": 42
+      "count": 41
     },
     {
       "tag": "data",
@@ -96,7 +96,7 @@
     },
     {
       "tag": "cloud",
-      "count": 30
+      "count": 31
     },
     {
       "tag": "leadership",
@@ -108,15 +108,15 @@
     },
     {
       "tag": "database",
-      "count": 24
+      "count": 25
     },
     {
       "tag": "devops",
-      "count": 22
+      "count": 21
     },
     {
       "tag": "security",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "conference",
@@ -124,11 +124,7 @@
     },
     {
       "tag": "testing",
-      "count": 12
-    },
-    {
-      "tag": "blockchain",
-      "count": 9
+      "count": 10
     },
     {
       "tag": "call-for-papers",
@@ -139,12 +135,16 @@
       "count": 9
     },
     {
-      "tag": "online",
+      "tag": "blockchain",
       "count": 8
     },
     {
-      "tag": "general",
-      "count": 6
+      "tag": "online",
+      "count": 7
+    },
+    {
+      "tag": "europe",
+      "count": 7
     },
     {
       "tag": "mobile",
@@ -152,10 +152,6 @@
     },
     {
       "tag": "cfp",
-      "count": 6
-    },
-    {
-      "tag": "europe",
       "count": 6
     },
     {
@@ -169,6 +165,10 @@
     {
       "tag": "javascript",
       "count": 6
+    },
+    {
+      "tag": "general",
+      "count": 5
     },
     {
       "tag": "events",
@@ -200,31 +200,6 @@
     }
   ],
   "top_matches": [
-    {
-      "id": "5beb3fd03323d3b6",
-      "title": "AI for Developers",
-      "source": "confs.tech",
-      "url": "https://aiconference.dev/cfp",
-      "deadline": "2026-06-01",
-      "event_date": "2026-12-17",
-      "location": "TBD, TBD",
-      "is_online": true,
-      "tags": [
-        "education",
-        "testing",
-        "leadership",
-        "ai",
-        "devops"
-      ],
-      "score": 0.494,
-      "priority": "medium",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.507,
-      "talk_match": 0.089,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
     {
       "id": "71e550bc2fea3f6d",
       "title": "SQL Saturday - Austin 2026",
@@ -401,27 +376,28 @@
       "event_type": "conference"
     },
     {
-      "id": "0eebeda60230c767",
-      "title": "Heapcon",
+      "id": "9291ed9d480d3a65",
+      "title": "Software Architecture Gathering",
       "source": "confs.tech",
-      "url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
-      "deadline": "2026-06-01",
-      "event_date": "2026-11-05",
-      "location": "Belgrade, Serbia",
+      "url": "https://sessionize.com/sag2026-cfp",
+      "deadline": "2026-06-09",
+      "event_date": "2026-11-16",
+      "location": "Berlin, Germany",
       "is_online": false,
       "tags": [
+        "security",
+        "blockchain",
         "general",
         "open-source",
-        "ai",
-        "testing"
+        "cloud"
       ],
-      "score": 0.352,
+      "score": 0.341,
       "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.166,
-      "talk_match": 0.08,
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.169,
+      "talk_match": 0.039,
       "urgency": 1.0,
-      "travel_sponsorship": "partial",
+      "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
     {
@@ -697,6 +673,31 @@
       "urgency": 0.4,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
+    },
+    {
+      "id": "0486b7fd0e05c814",
+      "title": "Persian and Fabric Power BI User Group",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/persian-power-bi-user-group",
+      "deadline": "2026-09-12",
+      "event_date": "2025-09-25",
+      "location": "Online",
+      "is_online": true,
+      "tags": [
+        "education",
+        "ai",
+        "leadership",
+        "open-source",
+        "usergroup"
+      ],
+      "score": 0.313,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.34,
+      "talk_match": 0.078,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -708,7 +709,7 @@
       "cfp_url": "https://aiconference.dev/cfp",
       "deadline": "2026-06-01",
       "event_date": "2026-12-17",
-      "status": "draft",
+      "status": "expired",
       "score": 0.494,
       "priority": "medium",
       "created_at": "2026-04-08T12:28:22.661395+00:00",
@@ -1268,7 +1269,7 @@
       "cfp_url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
       "deadline": "2026-06-01",
       "event_date": "2026-11-05",
-      "status": "draft",
+      "status": "expired",
       "score": 0.352,
       "priority": "low",
       "created_at": "2026-04-08T12:28:22.662416+00:00",
@@ -1299,6 +1300,26 @@
       "match_reason": "Conference themes align with 'data' (score: 5.7)",
       "is_online": false,
       "event_location": "New York City, New York, United States"
+    },
+    {
+      "id": "7e85ca613dd5b674",
+      "cfp_title": "Software Architecture Gathering",
+      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/sag2026-cfp",
+      "deadline": "2026-06-09",
+      "event_date": "2026-11-16",
+      "status": "draft",
+      "score": 0.341,
+      "priority": "low",
+      "created_at": "2026-05-23T08:22:02.789189+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'devops' (score: 5.0)",
+      "is_online": false,
+      "event_location": "Berlin, Germany"
     },
     {
       "id": "5e1414e189fef8fd",
@@ -1641,26 +1662,6 @@
       "event_location": "online"
     },
     {
-      "id": "7e85ca613dd5b674",
-      "cfp_title": "Software Architecture Gathering",
-      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/sag2026-cfp",
-      "deadline": "2026-06-09",
-      "event_date": "2026-11-16",
-      "status": "draft",
-      "score": 0.311,
-      "priority": "low",
-      "created_at": "2026-05-23T08:22:02.789189+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'devops' (score: 5.0)",
-      "is_online": false,
-      "event_location": "Berlin, Germany"
-    },
-    {
       "id": "0178fbaa5b7d8e18",
       "cfp_title": "Asynconf",
       "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
@@ -1819,6 +1820,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 15.0)",
       "is_online": true,
       "event_location": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "b751f36df5b690c8",
+      "cfp_title": "SQLDay Lite 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sqlday-lite-2026",
+      "deadline": "2026-07-31",
+      "event_date": "2026-09-24",
+      "status": "draft",
+      "score": 0.3,
+      "priority": "low",
+      "created_at": "2026-06-02T10:27:25.675121+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 7.5)",
+      "is_online": false,
+      "event_location": "Gda\u0144sk, Poland"
     },
     {
       "id": "ecfbc36c4797406f",
@@ -2180,7 +2201,7 @@
     },
     {
       "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "applications": 10,
+      "applications": 11,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2221,24 +2242,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "AI for Developers",
-      "deadline": "2026-06-01",
-      "source": "confs.tech",
-      "score": 0.494,
-      "url": "https://aiconference.dev/cfp",
-      "travel_sponsorship": "unknown",
-      "location": "TBD, TBD"
-    },
-    {
-      "title": "Heapcon",
-      "deadline": "2026-06-01",
-      "source": "confs.tech",
-      "score": 0.352,
-      "url": "https://forms.gle/QBM1aqkL8yS4c6YM8",
-      "travel_sponsorship": "partial",
-      "location": "Belgrade, Serbia"
-    },
-    {
       "title": "SQL Saturday - Austin 2026",
       "deadline": "2026-06-02",
       "source": "callfordataspeakers",
@@ -2269,7 +2272,7 @@
       "title": "Software Architecture Gathering",
       "deadline": "2026-06-09",
       "source": "confs.tech",
-      "score": 0.311,
+      "score": 0.341,
       "url": "https://sessionize.com/sag2026-cfp",
       "travel_sponsorship": "unknown",
       "location": "Berlin, Germany"
@@ -2309,6 +2312,24 @@
       "url": "https://sessionize.com/datawit-2026",
       "travel_sponsorship": "unknown",
       "location": "Virtual"
+    },
+    {
+      "title": "CityJS Conference Athens",
+      "deadline": "2026-06-30",
+      "source": "confs.tech",
+      "score": 0.292,
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSejZUdKqdZo0fZtcqDEWOqkhTGgsnXx5KJOo5flW2E-Ej2a2A/viewform",
+      "travel_sponsorship": "unknown",
+      "location": "Athens, Greece"
+    },
+    {
+      "title": "Day of Data St. Louis",
+      "deadline": "2026-07-01",
+      "source": "callfordataspeakers",
+      "score": 0.357,
+      "url": "https://sessionize.com/st-louis-day-of-data",
+      "travel_sponsorship": "unknown",
+      "location": "St. Louis, Missouri, United States"
     }
   ]
 }
