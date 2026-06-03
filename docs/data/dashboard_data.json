@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T10:27:25.726400+00:00",
+  "generated_at": "2026-06-03T11:03:13.758421+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 85,
-    "open_cfps": 54,
-    "expired_cfps": 31,
+    "open_cfps": 53,
+    "expired_cfps": 32,
     "total_applications": 74,
-    "drafts": 43,
+    "drafts": 42,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 31,
+    "expired_apps": 32,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-02T10:27:21.566626+00:00",
+    "last_crawled": "2026-06-03T11:03:09.734577+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
-    "travel_unknown": 49
+    "travel_unknown": 48
   },
   "timeline": [
     {
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 14
+      "draft": 13
     },
     {
       "month": "2026-06",
@@ -74,17 +74,17 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 2,
+    "medium": 1,
     "low": 52
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 52
+      "count": 51
     },
     {
       "tag": "web",
-      "count": 45
+      "count": 44
     },
     {
       "tag": "open-source",
@@ -92,11 +92,11 @@
     },
     {
       "tag": "data",
-      "count": 36
+      "count": 35
     },
     {
       "tag": "cloud",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "leadership",
@@ -104,15 +104,15 @@
     },
     {
       "tag": "education",
-      "count": 27
+      "count": 26
     },
     {
       "tag": "database",
-      "count": 25
+      "count": 24
     },
     {
       "tag": "devops",
-      "count": 21
+      "count": 20
     },
     {
       "tag": "security",
@@ -120,7 +120,7 @@
     },
     {
       "tag": "conference",
-      "count": 18
+      "count": 17
     },
     {
       "tag": "testing",
@@ -183,10 +183,6 @@
       "count": 4
     },
     {
-      "tag": "north america",
-      "count": 4
-    },
-    {
       "tag": "call-for-paper",
       "count": 3
     },
@@ -197,34 +193,13 @@
     {
       "tag": "technology",
       "count": 3
+    },
+    {
+      "tag": "north america",
+      "count": 3
     }
   ],
   "top_matches": [
-    {
-      "id": "71e550bc2fea3f6d",
-      "title": "SQL Saturday - Austin 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sqlsaturday-austin-2026",
-      "deadline": "2026-06-02",
-      "event_date": "2026-06-26",
-      "location": "Austin, Texas, United States",
-      "is_online": false,
-      "tags": [
-        "north america",
-        "conference",
-        "database",
-        "ai",
-        "education"
-      ],
-      "score": 0.452,
-      "priority": "medium",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.52,
-      "talk_match": 0.067,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
     {
       "id": "807c8a3e1afc3084",
       "title": "Triangle SQL Server User Group 2026",
@@ -698,6 +673,31 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "6bf84ef1128c1e5f",
+      "title": "pretalx/pretalx",
+      "source": "github",
+      "url": "https://github.com/pretalx/pretalx",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "conference-management",
+        "django",
+        "pretalx",
+        "security",
+        "call-for-papers"
+      ],
+      "score": 0.312,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.354,
+      "talk_match": 0.044,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
     }
   ],
   "applications": [
@@ -829,7 +829,7 @@
       "cfp_url": "https://sessionize.com/sqlsaturday-austin-2026",
       "deadline": "2026-06-02",
       "event_date": "2026-06-26",
-      "status": "draft",
+      "status": "expired",
       "score": 0.452,
       "priority": "medium",
       "created_at": "2026-05-21T09:44:48.566764+00:00",
@@ -2242,15 +2242,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "SQL Saturday - Austin 2026",
-      "deadline": "2026-06-02",
-      "source": "callfordataspeakers",
-      "score": 0.452,
-      "url": "https://sessionize.com/sqlsaturday-austin-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Austin, Texas, United States"
-    },
-    {
       "title": "Confitura",
       "deadline": "2026-06-07",
       "source": "confs.tech",
@@ -2330,6 +2321,15 @@
       "url": "https://sessionize.com/st-louis-day-of-data",
       "travel_sponsorship": "unknown",
       "location": "St. Louis, Missouri, United States"
+    },
+    {
+      "title": "Celebrating Diversity, Equity & Inclusion",
+      "deadline": "2026-07-01",
+      "source": "callfordataspeakers",
+      "score": 0.307,
+      "url": "https://sessionize.com/datadei-happiness-happens",
+      "travel_sponsorship": "unknown",
+      "location": "Online"
     }
   ]
 }
