@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-06T08:35:33.586258+00:00",
+  "generated_at": "2026-06-07T09:15:18.210399+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 85,
-    "open_cfps": 53,
+    "total_cfps_discovered": 86,
+    "open_cfps": 54,
     "expired_cfps": 32,
     "total_applications": 74,
     "drafts": 42,
@@ -18,11 +18,11 @@
     "expired_apps": 32,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-06T08:35:30.928903+00:00",
+    "last_crawled": "2026-06-07T09:15:15.071222+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
-    "travel_unknown": 48
+    "travel_unknown": 49
   },
   "timeline": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "source": "callfordataspeakers",
-      "count": 37
+      "count": 38
     },
     {
       "source": "github",
@@ -74,25 +74,25 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "low": 52
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "web",
-      "count": 44
+      "count": 45
     },
     {
       "tag": "open-source",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "data",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "cloud",
@@ -108,7 +108,7 @@
     },
     {
       "tag": "database",
-      "count": 24
+      "count": 25
     },
     {
       "tag": "devops",
@@ -147,19 +147,19 @@
       "count": 7
     },
     {
+      "tag": "in-person",
+      "count": 7
+    },
+    {
+      "tag": "external",
+      "count": 7
+    },
+    {
       "tag": "mobile",
       "count": 6
     },
     {
       "tag": "cfp",
-      "count": 6
-    },
-    {
-      "tag": "in-person",
-      "count": 6
-    },
-    {
-      "tag": "external",
       "count": 6
     },
     {
@@ -200,6 +200,31 @@
     }
   ],
   "top_matches": [
+    {
+      "id": "73eb5132e244145f",
+      "title": "Porto Tech Hub Conference",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/pth-2026",
+      "deadline": "2026-06-14",
+      "event_date": "2026-11-10",
+      "location": "Porto, Portugal",
+      "is_online": false,
+      "tags": [
+        "security",
+        "blockchain",
+        "general",
+        "open-source",
+        "cloud"
+      ],
+      "score": 0.409,
+      "priority": "medium",
+      "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
+      "tag_relevance": 0.335,
+      "talk_match": 0.074,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
     {
       "id": "807c8a3e1afc3084",
       "title": "Triangle SQL Server User Group 2026",
@@ -247,31 +272,6 @@
       "tag_relevance": 0.33,
       "talk_match": 0.098,
       "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "73eb5132e244145f",
-      "title": "Porto Tech Hub Conference",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/pth-2026",
-      "deadline": "2026-06-14",
-      "event_date": "2026-11-10",
-      "location": "Porto, Portugal",
-      "is_online": false,
-      "tags": [
-        "security",
-        "blockchain",
-        "general",
-        "open-source",
-        "cloud"
-      ],
-      "score": 0.379,
-      "priority": "low",
-      "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
-      "tag_relevance": 0.335,
-      "talk_match": 0.074,
-      "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -1062,6 +1062,26 @@
       "event_location": "Barcelona, Spain"
     },
     {
+      "id": "b4121c6a9607b830",
+      "cfp_title": "Porto Tech Hub Conference",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/pth-2026",
+      "deadline": "2026-06-14",
+      "event_date": "2026-11-10",
+      "status": "draft",
+      "score": 0.409,
+      "priority": "medium",
+      "created_at": "2026-05-23T08:22:02.789068+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'cloud' (score: 9.0)",
+      "is_online": false,
+      "event_location": "Porto, Portugal"
+    },
+    {
       "id": "fb6f89b6ee144699",
       "cfp_title": "Triangle SQL Server User Group 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1120,26 +1140,6 @@
       "match_reason": "Conference themes align with 'data' (score: 6.7)",
       "is_online": false,
       "event_location": "Budapest, Hungary"
-    },
-    {
-      "id": "b4121c6a9607b830",
-      "cfp_title": "Porto Tech Hub Conference",
-      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/pth-2026",
-      "deadline": "2026-06-14",
-      "event_date": "2026-11-10",
-      "status": "draft",
-      "score": 0.379,
-      "priority": "low",
-      "created_at": "2026-05-23T08:22:02.789068+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'cloud' (score: 9.0)",
-      "is_online": false,
-      "event_location": "Porto, Portugal"
     },
     {
       "id": "55fa692cad8ca7f4",
@@ -2272,7 +2272,7 @@
       "title": "Porto Tech Hub Conference",
       "deadline": "2026-06-14",
       "source": "confs.tech",
-      "score": 0.379,
+      "score": 0.409,
       "url": "https://sessionize.com/pth-2026",
       "travel_sponsorship": "unknown",
       "location": "Porto, Portugal"
