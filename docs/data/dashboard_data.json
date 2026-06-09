@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T10:59:46.025954+00:00",
+  "generated_at": "2026-06-09T09:49:04.112337+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 86,
-    "open_cfps": 53,
-    "expired_cfps": 33,
-    "total_applications": 74,
+    "open_cfps": 52,
+    "expired_cfps": 34,
+    "total_applications": 75,
     "drafts": 41,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 33,
+    "expired_apps": 34,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-08T10:59:43.423343+00:00",
+    "last_crawled": "2026-06-09T09:49:01.668597+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
-    "travel_unknown": 48
+    "travel_unknown": 47
   },
   "timeline": [
     {
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 12
+      "draft": 11
     },
     {
       "month": "2026-06",
@@ -47,7 +47,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 2
+      "draft": 3
     }
   ],
   "source_breakdown": [
@@ -75,48 +75,48 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 2,
-    "low": 51
+    "low": 50
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 51
+      "count": 50
     },
     {
       "tag": "web",
-      "count": 44
+      "count": 43
     },
     {
       "tag": "open-source",
-      "count": 41
+      "count": 40
     },
     {
       "tag": "data",
-      "count": 36
+      "count": 35
     },
     {
       "tag": "cloud",
-      "count": 30
+      "count": 29
     },
     {
       "tag": "leadership",
       "count": 29
     },
     {
-      "tag": "education",
-      "count": 25
-    },
-    {
       "tag": "database",
       "count": 25
     },
     {
+      "tag": "education",
+      "count": 24
+    },
+    {
       "tag": "devops",
-      "count": 20
+      "count": 19
     },
     {
       "tag": "security",
-      "count": 20
+      "count": 19
     },
     {
       "tag": "conference",
@@ -176,11 +176,11 @@
     },
     {
       "tag": "iot",
-      "count": 4
+      "count": 3
     },
     {
       "tag": "general",
-      "count": 4
+      "count": 3
     },
     {
       "tag": "call-for-paper",
@@ -249,31 +249,6 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
-    },
-    {
-      "id": "74235fbd6d2888e8",
-      "title": "AWS Community Day CEE",
-      "source": "confs.tech",
-      "url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
-      "deadline": "2026-06-08",
-      "event_date": "2026-09-17",
-      "location": "Budapest, Hungary",
-      "is_online": false,
-      "tags": [
-        "security",
-        "cloud",
-        "devops",
-        "ai",
-        "web"
-      ],
-      "score": 0.395,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.33,
-      "talk_match": 0.098,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     },
     {
       "id": "26a5235847da3d44",
@@ -398,6 +373,31 @@
       "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
+    },
+    {
+      "id": "ee38724369f2d6c8",
+      "title": "Data Platform Women in Technology Virtual Group 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/datawit-2026",
+      "deadline": "2026-06-23",
+      "event_date": "2026-01-13",
+      "location": "Virtual",
+      "is_online": true,
+      "tags": [
+        "ai",
+        "open-source",
+        "usergroup",
+        "web",
+        "data"
+      ],
+      "score": 0.34,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.179,
+      "talk_match": 0.059,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     },
     {
       "id": "0b8c14c59f109526",
@@ -1129,7 +1129,7 @@
       "cfp_url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
       "deadline": "2026-06-08",
       "event_date": "2026-09-17",
-      "status": "draft",
+      "status": "expired",
       "score": 0.395,
       "priority": "low",
       "created_at": "2026-05-08T07:44:54.680447+00:00",
@@ -1340,6 +1340,26 @@
       "match_reason": "Conference themes align with 'devops' (score: 5.0)",
       "is_online": false,
       "event_location": "Berlin, Germany"
+    },
+    {
+      "id": "cdf1f660bb88de25",
+      "cfp_title": "Data Platform Women in Technology Virtual Group 2026",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/datawit-2026",
+      "deadline": "2026-06-23",
+      "event_date": "2026-01-13",
+      "status": "draft",
+      "score": 0.34,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.664038+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": true,
+      "event_location": "Virtual"
     },
     {
       "id": "9cbedab72f22fb65",
@@ -1720,26 +1740,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": true,
       "event_location": "London, U.K."
-    },
-    {
-      "id": "cdf1f660bb88de25",
-      "cfp_title": "Data Platform Women in Technology Virtual Group 2026",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/datawit-2026",
-      "deadline": "2026-06-23",
-      "event_date": "2026-01-13",
-      "status": "draft",
-      "score": 0.31,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.664038+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
-      "is_online": true,
-      "event_location": "Virtual"
     },
     {
       "id": "a1fc30025a1f4f06",
@@ -2180,12 +2180,32 @@
       "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
       "is_online": true,
       "event_location": "Online"
+    },
+    {
+      "id": "535dd3e055b84ca0",
+      "cfp_title": "React Summit US",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://gitnation.com/events/react-summit-us-2026/cfp",
+      "deadline": "2026-07-09",
+      "event_date": "2026-11-17",
+      "status": "draft",
+      "score": 0.25,
+      "priority": "low",
+      "created_at": "2026-06-09T09:49:04.054763+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": true,
+      "event_location": "New York, NY, U.S.A."
     }
   ],
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 24,
+      "applications": 25,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2242,15 +2262,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "AWS Community Day CEE",
-      "deadline": "2026-06-08",
-      "source": "confs.tech",
-      "score": 0.395,
-      "url": "https://forms.gle/q9w6QvYC1jTHDUQU8",
-      "travel_sponsorship": "unknown",
-      "location": "Budapest, Hungary"
-    },
-    {
       "title": "Software Architecture Gathering",
       "deadline": "2026-06-09",
       "source": "confs.tech",
@@ -2290,7 +2301,7 @@
       "title": "Data Platform Women in Technology Virtual Group 2026",
       "deadline": "2026-06-23",
       "source": "callfordataspeakers",
-      "score": 0.31,
+      "score": 0.34,
       "url": "https://sessionize.com/datawit-2026",
       "travel_sponsorship": "unknown",
       "location": "Virtual"
@@ -2326,10 +2337,19 @@
       "title": "React Summit US",
       "deadline": "2026-07-09",
       "source": "confs.tech",
-      "score": 0.22,
+      "score": 0.25,
       "url": "https://gitnation.com/events/react-summit-us-2026/cfp",
       "travel_sponsorship": "unknown",
       "location": "New York, NY, U.S.A."
+    },
+    {
+      "title": "XtremeAI Online Conference",
+      "deadline": "2026-07-10",
+      "source": "confs.tech",
+      "score": 0.305,
+      "url": "https://tinyurl.com/xtreme2026",
+      "travel_sponsorship": "unknown",
+      "location": "TBD, TBD"
     }
   ]
 }
