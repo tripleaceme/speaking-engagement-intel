@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T09:49:04.112337+00:00",
+  "generated_at": "2026-06-10T10:04:24.941411+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 86,
-    "open_cfps": 52,
-    "expired_cfps": 34,
-    "total_applications": 75,
+    "open_cfps": 51,
+    "expired_cfps": 35,
+    "total_applications": 76,
     "drafts": 41,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 34,
+    "expired_apps": 35,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-09T09:49:01.668597+00:00",
+    "last_crawled": "2026-06-10T10:04:21.672490+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
-    "travel_unknown": 47
+    "travel_unknown": 46
   },
   "timeline": [
     {
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 11
+      "draft": 10
     },
     {
       "month": "2026-06",
@@ -47,7 +47,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 3
+      "draft": 4
     }
   ],
   "source_breakdown": [
@@ -75,20 +75,20 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 2,
-    "low": 50
+    "low": 49
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 50
+      "count": 49
     },
     {
       "tag": "web",
-      "count": 43
+      "count": 42
     },
     {
       "tag": "open-source",
-      "count": 40
+      "count": 39
     },
     {
       "tag": "data",
@@ -96,11 +96,11 @@
     },
     {
       "tag": "cloud",
-      "count": 29
+      "count": 28
     },
     {
       "tag": "leadership",
-      "count": 29
+      "count": 28
     },
     {
       "tag": "database",
@@ -108,15 +108,15 @@
     },
     {
       "tag": "education",
-      "count": 24
+      "count": 23
     },
     {
       "tag": "devops",
-      "count": 19
+      "count": 18
     },
     {
       "tag": "security",
-      "count": 19
+      "count": 18
     },
     {
       "tag": "conference",
@@ -135,11 +135,11 @@
       "count": 9
     },
     {
-      "tag": "blockchain",
-      "count": 8
+      "tag": "online",
+      "count": 7
     },
     {
-      "tag": "online",
+      "tag": "blockchain",
       "count": 7
     },
     {
@@ -155,16 +155,16 @@
       "count": 7
     },
     {
-      "tag": "mobile",
-      "count": 6
-    },
-    {
       "tag": "cfp",
       "count": 6
     },
     {
       "tag": "javascript",
       "count": 6
+    },
+    {
+      "tag": "mobile",
+      "count": 5
     },
     {
       "tag": "events",
@@ -176,10 +176,6 @@
     },
     {
       "tag": "iot",
-      "count": 3
-    },
-    {
-      "tag": "general",
       "count": 3
     },
     {
@@ -197,6 +193,10 @@
     {
       "tag": "north america",
       "count": 3
+    },
+    {
+      "tag": "general",
+      "count": 2
     }
   ],
   "top_matches": [
@@ -350,31 +350,6 @@
       "event_type": "conference"
     },
     {
-      "id": "9291ed9d480d3a65",
-      "title": "Software Architecture Gathering",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/sag2026-cfp",
-      "deadline": "2026-06-09",
-      "event_date": "2026-11-16",
-      "location": "Berlin, Germany",
-      "is_online": false,
-      "tags": [
-        "security",
-        "blockchain",
-        "general",
-        "open-source",
-        "cloud"
-      ],
-      "score": 0.341,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.169,
-      "talk_match": 0.039,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "ee38724369f2d6c8",
       "title": "Data Platform Women in Technology Virtual Group 2026",
       "source": "callfordataspeakers",
@@ -398,6 +373,28 @@
       "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "179c401cecea9796",
+      "title": "XtremeAI Online Conference",
+      "source": "confs.tech",
+      "url": "https://tinyurl.com/xtreme2026",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-24",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "tags": [
+        "data",
+        "online"
+      ],
+      "score": 0.335,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.223,
+      "talk_match": 0.022,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     },
     {
       "id": "0b8c14c59f109526",
@@ -575,6 +572,30 @@
       "event_type": "external"
     },
     {
+      "id": "925345156dea5ecc",
+      "title": "XtremePython Online Conference",
+      "source": "confs.tech",
+      "url": "http://www.zindell.com/documents/codeofconduct.pdf",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-17",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "tags": [
+        "python",
+        "online",
+        "ai",
+        "testing"
+      ],
+      "score": 0.317,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.172,
+      "talk_match": 0.022,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "0a75fc53d01cae41",
       "title": "WeAreDevelopers Conference India",
       "source": "confs.tech",
@@ -673,31 +694,6 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
-    },
-    {
-      "id": "6bf84ef1128c1e5f",
-      "title": "pretalx/pretalx",
-      "source": "github",
-      "url": "https://github.com/pretalx/pretalx",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "conference-management",
-        "django",
-        "pretalx",
-        "security",
-        "call-for-papers"
-      ],
-      "score": 0.312,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.354,
-      "talk_match": 0.044,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
     }
   ],
   "applications": [
@@ -1329,7 +1325,7 @@
       "cfp_url": "https://sessionize.com/sag2026-cfp",
       "deadline": "2026-06-09",
       "event_date": "2026-11-16",
-      "status": "draft",
+      "status": "expired",
       "score": 0.341,
       "priority": "low",
       "created_at": "2026-05-23T08:22:02.789189+00:00",
@@ -1360,6 +1356,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": true,
       "event_location": "Virtual"
+    },
+    {
+      "id": "b8e2af2bb48bfb63",
+      "cfp_title": "XtremeAI Online Conference",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://tinyurl.com/xtreme2026",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-24",
+      "status": "draft",
+      "score": 0.335,
+      "priority": "low",
+      "created_at": "2026-04-18T07:12:25.442632+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 3.0)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
     },
     {
       "id": "9cbedab72f22fb65",
@@ -1582,6 +1598,26 @@
       "event_location": "3 Wi Neera Dr,, Elsdon, Porirua 5022, New Zealand,"
     },
     {
+      "id": "ca1b621fe07c376e",
+      "cfp_title": "XtremePython Online Conference",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "http://www.zindell.com/documents/codeofconduct.pdf",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-17",
+      "status": "draft",
+      "score": 0.317,
+      "priority": "low",
+      "created_at": "2026-04-18T07:12:25.442699+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
+    },
+    {
       "id": "f149cccfc6c966ed",
       "cfp_title": "yegor256/awesome-cfp",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1762,26 +1798,6 @@
       "event_location": "Online"
     },
     {
-      "id": "b8e2af2bb48bfb63",
-      "cfp_title": "XtremeAI Online Conference",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://tinyurl.com/xtreme2026",
-      "deadline": "2026-07-10",
-      "event_date": "2026-11-24",
-      "status": "draft",
-      "score": 0.305,
-      "priority": "low",
-      "created_at": "2026-04-18T07:12:25.442632+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 3.0)",
-      "is_online": true,
-      "event_location": "TBD, TBD"
-    },
-    {
       "id": "ff9a70eb4d6e1d74",
       "cfp_title": "Global Summit on Data Science and Cloud Computing",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1900,26 +1916,6 @@
       "match_reason": "Conference themes align with 'database' (score: 4.8)",
       "is_online": false,
       "event_location": "Hanau am Main, Germany"
-    },
-    {
-      "id": "ca1b621fe07c376e",
-      "cfp_title": "XtremePython Online Conference",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "http://www.zindell.com/documents/codeofconduct.pdf",
-      "deadline": "2026-07-10",
-      "event_date": "2026-11-17",
-      "status": "draft",
-      "score": 0.287,
-      "priority": "low",
-      "created_at": "2026-04-18T07:12:25.442699+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
-      "is_online": true,
-      "event_location": "TBD, TBD"
     },
     {
       "id": "2be9e1bafde142b6",
@@ -2200,6 +2196,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": true,
       "event_location": "New York, NY, U.S.A."
+    },
+    {
+      "id": "900f9c9e0aca848b",
+      "cfp_title": "XtremeJS Online Conference",
+      "talk_title": "The Analytics Engineer's Toolkit: dbt, AI Documentation, and Open Source in Production",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://tinyurl.com/xtreme2026",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-10",
+      "status": "draft",
+      "score": 0.25,
+      "priority": "low",
+      "created_at": "2026-06-10T10:04:24.888919+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "No specific theme detected \u2014 using versatile default proposal",
+      "is_online": true,
+      "event_location": "TBD, TBD"
     }
   ],
   "talk_performance": [
@@ -2258,18 +2274,17 @@
       "rejected": 0,
       "pending": 0,
       "acceptance_rate": 0
+    },
+    {
+      "title": "The Analytics Engineer's Toolkit: dbt, AI Documentation, and Open Source in Production",
+      "applications": 1,
+      "accepted": 0,
+      "rejected": 0,
+      "pending": 0,
+      "acceptance_rate": 0
     }
   ],
   "upcoming_deadlines": [
-    {
-      "title": "Software Architecture Gathering",
-      "deadline": "2026-06-09",
-      "source": "confs.tech",
-      "score": 0.341,
-      "url": "https://sessionize.com/sag2026-cfp",
-      "travel_sponsorship": "unknown",
-      "location": "Berlin, Germany"
-    },
     {
       "title": "Porto Tech Hub Conference",
       "deadline": "2026-06-14",
@@ -2346,8 +2361,17 @@
       "title": "XtremeAI Online Conference",
       "deadline": "2026-07-10",
       "source": "confs.tech",
-      "score": 0.305,
+      "score": 0.335,
       "url": "https://tinyurl.com/xtreme2026",
+      "travel_sponsorship": "unknown",
+      "location": "TBD, TBD"
+    },
+    {
+      "title": "XtremePython Online Conference",
+      "deadline": "2026-07-10",
+      "source": "confs.tech",
+      "score": 0.317,
+      "url": "http://www.zindell.com/documents/codeofconduct.pdf",
       "travel_sponsorship": "unknown",
       "location": "TBD, TBD"
     }
