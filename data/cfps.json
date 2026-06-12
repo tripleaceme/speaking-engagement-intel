@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-06-11T10:38:52.188929+00:00",
-    "total_cfps": 86,
-    "open_cfps": 51,
+    "last_crawled": "2026-06-12T10:16:36.752360+00:00",
+    "total_cfps": 88,
+    "open_cfps": 53,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-06-11T10:38:54.600997+00:00",
+    "last_scored": "2026-06-12T10:16:43.557866+00:00",
     "high_priority": 0,
     "medium_priority": 2,
     "above_threshold": 41
@@ -5784,10 +5784,10 @@
       ],
       "enriched_at": "2026-05-29T09:57:02.958261+00:00",
       "match_scores": {
-        "composite_score": 0.363,
+        "composite_score": 0.393,
         "tag_relevance": 0.51,
         "talk_match_score": 0.082,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.5,
         "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
         "suggested_talk_level": "intermediate",
@@ -6112,6 +6112,153 @@
         "format_score": 0.5,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "4eda1cff311c7101",
+      "source": "callfordataspeakers",
+      "title": "Ticino Data Conference 2026",
+      "url": "https://sessionize.com/ticino-data-conference-2026",
+      "cfp_url": "https://sessionize.com/ticino-data-conference-2026",
+      "description": "Hosted by Acer, with SQLBI and Powerbi user group Italy",
+      "tags": [
+        "open-source",
+        "data",
+        "conference",
+        "ai",
+        "europe",
+        "web",
+        "database"
+      ],
+      "deadline": "2026-08-31",
+      "event_date": "2026-10-30",
+      "location": "Bioggio, Switzerland",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-06-12T10:16:35.881438+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "from data engineering to data warehousing",
+        "in both italian and english",
+        "including data visualization",
+        "and sql",
+        "sessions covering a wide range of topics",
+        "from business intelligence to adoption"
+      ],
+      "submission_fields": [
+        "bio",
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-06-12T10:16:40.822157+00:00",
+      "match_scores": {
+        "composite_score": 0.226,
+        "tag_relevance": 0.183,
+        "talk_match_score": 0.04,
+        "urgency_score": 0.2,
+        "format_score": 0.6,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "f457264f43870ab3",
+      "source": "callfordataspeakers",
+      "title": "Pass Summit West (Seattle) - New Speaker Track",
+      "url": "https://www.newstarsofdata.com/pass-data-community-summit/",
+      "cfp_url": "https://www.newstarsofdata.com/pass-data-community-summit/",
+      "description": "Special conditions apply - must have speaking experience but not have presented at big Events before.",
+      "tags": [
+        "open-source",
+        "data",
+        "conference",
+        "ai",
+        "iot",
+        "leadership",
+        "web",
+        "security",
+        "database",
+        "north america"
+      ],
+      "deadline": "",
+      "event_date": "2026-11-10",
+      "location": "Seattle, WA ",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-06-12T10:16:35.881490+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "iot",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "category",
+        "twitter"
+      ],
+      "enriched_at": "2026-06-12T10:16:43.483291+00:00",
+      "match_scores": {
+        "composite_score": 0.212,
+        "tag_relevance": 0.17,
+        "talk_match_score": 0.057,
+        "urgency_score": 0.1,
+        "format_score": 0.6,
+        "suggested_talk": "Data Quality as Code: Building Scalable Validation Pipelines with dbt and Great Expectations",
+        "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
