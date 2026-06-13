@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T10:16:43.662503+00:00",
+  "generated_at": "2026-06-13T09:19:01.755201+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 35,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-12T10:16:36.752360+00:00",
+    "last_crawled": "2026-06-13T09:18:59.148186+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
@@ -276,6 +276,30 @@
       "event_type": "conference"
     },
     {
+      "id": "18e3a682151239f6",
+      "title": "Agent Conf",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/agent-conf-2026",
+      "deadline": "2026-06-20",
+      "event_date": "2026-09-17",
+      "location": "Warsaw, Poland",
+      "is_online": false,
+      "tags": [
+        "javascript",
+        "ai",
+        "web",
+        "cloud"
+      ],
+      "score": 0.383,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.341,
+      "talk_match": 0.044,
+      "urgency": 1.0,
+      "travel_sponsorship": "yes",
+      "event_type": "conference"
+    },
+    {
       "id": "26a5235847da3d44",
       "title": "Agentic Engineering Days Zurich",
       "source": "confs.tech",
@@ -323,30 +347,6 @@
       "talk_match": 0.059,
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "18e3a682151239f6",
-      "title": "Agent Conf",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/agent-conf-2026",
-      "deadline": "2026-06-20",
-      "event_date": "2026-09-17",
-      "location": "Warsaw, Poland",
-      "is_online": false,
-      "tags": [
-        "javascript",
-        "ai",
-        "web",
-        "cloud"
-      ],
-      "score": 0.353,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.341,
-      "talk_match": 0.044,
-      "urgency": 0.8,
-      "travel_sponsorship": "yes",
       "event_type": "conference"
     },
     {
@@ -1158,6 +1158,26 @@
       "event_location": "Edinburgh, United Kingdom"
     },
     {
+      "id": "4e70256ccc26d492",
+      "cfp_title": "Agent Conf",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/agent-conf-2026",
+      "deadline": "2026-06-20",
+      "event_date": "2026-09-17",
+      "status": "draft",
+      "score": 0.383,
+      "priority": "low",
+      "created_at": "2026-05-23T08:22:02.789263+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'ai' (score: 7.0)",
+      "is_online": false,
+      "event_location": "Warsaw, Poland"
+    },
+    {
       "id": "55fa692cad8ca7f4",
       "cfp_title": "EightKB August 2026",
       "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
@@ -1236,26 +1256,6 @@
       "match_reason": "Conference themes align with 'data' (score: 7.3)",
       "is_online": false,
       "event_location": "St. Louis, Missouri, United States"
-    },
-    {
-      "id": "4e70256ccc26d492",
-      "cfp_title": "Agent Conf",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/agent-conf-2026",
-      "deadline": "2026-06-20",
-      "event_date": "2026-09-17",
-      "status": "draft",
-      "score": 0.353,
-      "priority": "low",
-      "created_at": "2026-05-23T08:22:02.789263+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "yes",
-      "match_reason": "Conference themes align with 'ai' (score: 7.0)",
-      "is_online": false,
-      "event_location": "Warsaw, Poland"
     },
     {
       "id": "b6517bb572c459b1",
@@ -2307,7 +2307,7 @@
       "title": "Agent Conf",
       "deadline": "2026-06-20",
       "source": "confs.tech",
-      "score": 0.353,
+      "score": 0.383,
       "url": "https://sessionize.com/agent-conf-2026",
       "travel_sponsorship": "yes",
       "location": "Warsaw, Poland"
