@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T09:19:01.755201+00:00",
+  "generated_at": "2026-06-14T09:37:01.188998+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 35,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-13T09:18:59.148186+00:00",
+    "last_crawled": "2026-06-14T09:36:58.415134+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
@@ -350,6 +350,31 @@
       "event_type": "conference"
     },
     {
+      "id": "d227b6f4bf58f201",
+      "title": "Power Conference 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/power-conference-2026",
+      "deadline": "2026-07-14",
+      "event_date": "2026-12-02",
+      "location": "Prague, Czechia",
+      "is_online": false,
+      "tags": [
+        "europe",
+        "cloud",
+        "iot",
+        "education",
+        "ai"
+      ],
+      "score": 0.344,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.334,
+      "talk_match": 0.059,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon"
+    },
+    {
       "id": "ee38724369f2d6c8",
       "title": "Data Platform Women in Technology Virtual Group 2026",
       "source": "callfordataspeakers",
@@ -644,31 +669,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
-    },
-    {
-      "id": "d227b6f4bf58f201",
-      "title": "Power Conference 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/power-conference-2026",
-      "deadline": "2026-07-14",
-      "event_date": "2026-12-02",
-      "location": "Prague, Czechia",
-      "is_online": false,
-      "tags": [
-        "europe",
-        "cloud",
-        "iot",
-        "education",
-        "ai"
-      ],
-      "score": 0.314,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.334,
-      "talk_match": 0.059,
-      "urgency": 0.4,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference, precon"
     },
     {
       "id": "0486b7fd0e05c814",
@@ -1318,6 +1318,26 @@
       "event_location": "New York City, New York, United States"
     },
     {
+      "id": "c1952d329f21d0e0",
+      "cfp_title": "Power Conference 2026",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/power-conference-2026",
+      "deadline": "2026-07-14",
+      "event_date": "2026-12-02",
+      "status": "draft",
+      "score": 0.344,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.665809+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 8.5)",
+      "is_online": false,
+      "event_location": "Prague, Czechia"
+    },
+    {
       "id": "7e85ca613dd5b674",
       "cfp_title": "Software Architecture Gathering",
       "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
@@ -1656,26 +1676,6 @@
       "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
       "is_online": false,
       "event_location": "Bengaluru, India"
-    },
-    {
-      "id": "c1952d329f21d0e0",
-      "cfp_title": "Power Conference 2026",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/power-conference-2026",
-      "deadline": "2026-07-14",
-      "event_date": "2026-12-02",
-      "status": "draft",
-      "score": 0.314,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.665809+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 8.5)",
-      "is_online": false,
-      "event_location": "Prague, Czechia"
     },
     {
       "id": "2fbe4cba6f0c1a5b",
