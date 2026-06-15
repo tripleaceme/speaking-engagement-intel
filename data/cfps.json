@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-06-14T09:36:58.415134+00:00",
+    "last_crawled": "2026-06-15T12:18:30.536907+00:00",
     "total_cfps": 88,
-    "open_cfps": 53,
+    "open_cfps": 52,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 0,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-06-14T09:37:01.080908+00:00",
+    "last_scored": "2026-06-15T12:18:33.188960+00:00",
     "high_priority": 0,
-    "medium_priority": 2,
-    "above_threshold": 41
+    "medium_priority": 1,
+    "above_threshold": 40
   },
   "cfps": [
     {
@@ -5441,7 +5441,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-05-23T08:21:51.987646+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -5502,17 +5502,7 @@
         "twitter"
       ],
       "enriched_at": "2026-05-23T08:22:01.399129+00:00",
-      "match_scores": {
-        "composite_score": 0.409,
-        "tag_relevance": 0.335,
-        "talk_match_score": 0.074,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
-        "suggested_talk_level": "intermediate",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "9291ed9d480d3a65",
@@ -5963,10 +5953,10 @@
       ],
       "enriched_at": "2026-06-01T11:38:54.226122+00:00",
       "match_scores": {
-        "composite_score": 0.322,
+        "composite_score": 0.352,
         "tag_relevance": 0.328,
         "talk_match_score": 0.089,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.6,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
