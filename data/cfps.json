@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-06-16T11:13:16.281001+00:00",
+    "last_crawled": "2026-06-17T10:59:53.572373+00:00",
     "total_cfps": 88,
     "open_cfps": 51,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 1,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-06-16T11:13:19.336872+00:00",
+    "last_scored": "2026-06-17T10:59:56.647269+00:00",
     "high_priority": 0,
     "medium_priority": 1,
     "above_threshold": 39
@@ -5203,10 +5203,10 @@
       ],
       "enriched_at": "2026-05-17T08:23:52.501327+00:00",
       "match_scores": {
-        "composite_score": 0.357,
+        "composite_score": 0.387,
         "tag_relevance": 0.371,
         "talk_match_score": 0.059,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -5687,10 +5687,10 @@
       ],
       "enriched_at": "2026-05-26T09:59:31.799579+00:00",
       "match_scores": {
-        "composite_score": 0.307,
+        "composite_score": 0.337,
         "tag_relevance": 0.168,
         "talk_match_score": 0.06,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.7,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
