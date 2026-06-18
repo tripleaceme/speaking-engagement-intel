@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-06-17T10:59:53.572373+00:00",
-    "total_cfps": 88,
-    "open_cfps": 51,
+    "last_crawled": "2026-06-18T10:23:03.334275+00:00",
+    "total_cfps": 90,
+    "open_cfps": 53,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-06-17T10:59:56.647269+00:00",
+    "last_scored": "2026-06-18T10:23:06.616007+00:00",
     "high_priority": 0,
     "medium_priority": 1,
-    "above_threshold": 39
+    "above_threshold": 40
   },
   "cfps": [
     {
@@ -6238,6 +6238,127 @@
         "urgency_score": 0.1,
         "format_score": 0.6,
         "suggested_talk": "Data Quality as Code: Building Scalable Validation Pipelines with dbt and Great Expectations",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "59847b3e6eae3ba8",
+      "source": "confs.tech",
+      "title": "Code Europe",
+      "url": "https://www.codeeurope.pl",
+      "cfp_url": "https://forms.gle/KpaT9ix5spaVe2A59",
+      "description": "Become a speaker at Code Europe 2026 Become a speaker at Code Europe 2026 Fill out\u00a0the form\u00a0and become a speaker at Code Europe. :) Code Europe 2026 runs 14 September online and 15 September on-site in Warsaw. Submission limit: 5 sessions per speaker.",
+      "tags": [
+        "general",
+        "online",
+        "open-source",
+        "devops",
+        "leadership",
+        "security",
+        "education",
+        "ai",
+        "cloud"
+      ],
+      "deadline": "2026-06-30",
+      "event_date": "2026-09-14",
+      "location": "Warsaw, Poland",
+      "is_online": true,
+      "travel_sponsorship": "yes",
+      "event_type": "conference",
+      "discovered_at": "2026-06-18T10:22:59.918544+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "live alongside the technical conversations they support"
+      ],
+      "speaker_perks": {
+        "travel": true,
+        "hotel": true,
+        "dinner": true,
+        "recording": true
+      },
+      "submission_fields": [
+        "topic",
+        "track",
+        "photo"
+      ],
+      "enriched_at": "2026-06-18T10:23:06.110633+00:00",
+      "match_scores": {
+        "composite_score": 0.332,
+        "tag_relevance": 0.173,
+        "talk_match_score": 0.039,
+        "urgency_score": 0.8,
+        "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "yes"
+      }
+    },
+    {
+      "id": "d601a9b7dc5e3f1b",
+      "source": "confs.tech",
+      "title": "AI Coding Summit New York Edition",
+      "url": "https://aicodingsummit.com/nyc",
+      "cfp_url": "https://gitnation.com/events/ai-coding-summit-nyc/cfp",
+      "description": "Log In GitNation FAQ Support/Feedback Nation`s stats Log in 0 Sign in to your account Sign in with X Sign in with GitHub Sign in with LinkedIn Or continue with Email Sign up.",
+      "tags": [
+        "ai",
+        "javascript"
+      ],
+      "deadline": "2026-07-09",
+      "event_date": "2026-11-16",
+      "location": "New York, NY, U.S.A.",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-06-18T10:22:59.985021+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-06-18T10:23:06.538298+00:00",
+      "match_scores": {
+        "composite_score": 0.217,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"

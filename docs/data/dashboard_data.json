@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-17T10:59:56.719430+00:00",
+  "generated_at": "2026-06-18T10:23:06.731370+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 88,
-    "open_cfps": 51,
+    "total_cfps_discovered": 90,
+    "open_cfps": 53,
     "expired_cfps": 37,
-    "total_applications": 76,
-    "drafts": 39,
+    "total_applications": 77,
+    "drafts": 40,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 37,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-17T10:59:53.572373+00:00",
+    "last_crawled": "2026-06-18T10:23:03.334275+00:00",
     "sources_checked": 9,
-    "travel_yes": 2,
+    "travel_yes": 3,
     "travel_partial": 3,
-    "travel_unknown": 46
+    "travel_unknown": 47
   },
   "timeline": [
     {
@@ -47,17 +47,17 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 4
+      "draft": 5
     }
   ],
   "source_breakdown": [
     {
-      "source": "callfordataspeakers",
+      "source": "confs.tech",
       "count": 40
     },
     {
-      "source": "confs.tech",
-      "count": 38
+      "source": "callfordataspeakers",
+      "count": 40
     },
     {
       "source": "github",
@@ -75,12 +75,12 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 1,
-    "low": 50
+    "low": 52
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 49
+      "count": 51
     },
     {
       "tag": "web",
@@ -88,7 +88,7 @@
     },
     {
       "tag": "open-source",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "data",
@@ -96,11 +96,11 @@
     },
     {
       "tag": "leadership",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "cloud",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "database",
@@ -108,19 +108,19 @@
     },
     {
       "tag": "education",
-      "count": 22
+      "count": 23
     },
     {
       "tag": "security",
+      "count": 19
+    },
+    {
+      "tag": "devops",
       "count": 18
     },
     {
       "tag": "conference",
       "count": 18
-    },
-    {
-      "tag": "devops",
-      "count": 17
     },
     {
       "tag": "testing",
@@ -136,7 +136,7 @@
     },
     {
       "tag": "online",
-      "count": 7
+      "count": 8
     },
     {
       "tag": "europe",
@@ -151,15 +151,15 @@
       "count": 7
     },
     {
+      "tag": "javascript",
+      "count": 7
+    },
+    {
       "tag": "blockchain",
       "count": 6
     },
     {
       "tag": "cfp",
-      "count": 6
-    },
-    {
-      "tag": "javascript",
       "count": 6
     },
     {
@@ -195,7 +195,7 @@
       "count": 3
     },
     {
-      "tag": "tech-conference",
+      "tag": "general",
       "count": 2
     }
   ],
@@ -447,6 +447,31 @@
       "event_type": "conference"
     },
     {
+      "id": "59847b3e6eae3ba8",
+      "title": "Code Europe",
+      "source": "confs.tech",
+      "url": "https://forms.gle/KpaT9ix5spaVe2A59",
+      "deadline": "2026-06-30",
+      "event_date": "2026-09-14",
+      "location": "Warsaw, Poland",
+      "is_online": true,
+      "tags": [
+        "general",
+        "online",
+        "open-source",
+        "devops",
+        "leadership"
+      ],
+      "score": 0.332,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.173,
+      "talk_match": 0.039,
+      "urgency": 0.8,
+      "travel_sponsorship": "yes",
+      "event_type": "conference"
+    },
+    {
       "id": "f5236e3008d6c44b",
       "title": "San Diego SQL Server User Group",
       "source": "callfordataspeakers",
@@ -669,31 +694,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
-    },
-    {
-      "id": "0486b7fd0e05c814",
-      "title": "Persian and Fabric Power BI User Group",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/persian-power-bi-user-group",
-      "deadline": "2026-09-12",
-      "event_date": "2025-09-25",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "education",
-        "ai",
-        "leadership",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.313,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.34,
-      "talk_match": 0.078,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -1456,6 +1456,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": false,
       "event_location": "Birmingham, United Kingdom"
+    },
+    {
+      "id": "ff2bca83f7780b86",
+      "cfp_title": "Code Europe",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://forms.gle/KpaT9ix5spaVe2A59",
+      "deadline": "2026-06-30",
+      "event_date": "2026-09-14",
+      "status": "draft",
+      "score": 0.332,
+      "priority": "low",
+      "created_at": "2026-06-18T10:23:06.673739+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
+      "is_online": true,
+      "event_location": "Warsaw, Poland"
     },
     {
       "id": "5e1414e189fef8fd",
@@ -2252,7 +2272,7 @@
       "acceptance_rate": 0
     },
     {
-      "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
       "applications": 6,
       "accepted": 0,
       "rejected": 0,
@@ -2260,8 +2280,8 @@
       "acceptance_rate": 0
     },
     {
-      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "applications": 5,
+      "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "applications": 6,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2313,6 +2333,15 @@
       "location": "Athens, Greece"
     },
     {
+      "title": "Code Europe",
+      "deadline": "2026-06-30",
+      "source": "confs.tech",
+      "score": 0.332,
+      "url": "https://forms.gle/KpaT9ix5spaVe2A59",
+      "travel_sponsorship": "yes",
+      "location": "Warsaw, Poland"
+    },
+    {
       "title": "Day of Data St. Louis",
       "deadline": "2026-07-01",
       "source": "callfordataspeakers",
@@ -2340,6 +2369,15 @@
       "location": "New York, NY, U.S.A."
     },
     {
+      "title": "AI Coding Summit New York Edition",
+      "deadline": "2026-07-09",
+      "source": "confs.tech",
+      "score": 0.217,
+      "url": "https://gitnation.com/events/ai-coding-summit-nyc/cfp",
+      "travel_sponsorship": "unknown",
+      "location": "New York, NY, U.S.A."
+    },
+    {
       "title": "XtremeAI Online Conference",
       "deadline": "2026-07-10",
       "source": "confs.tech",
@@ -2356,24 +2394,6 @@
       "url": "http://www.zindell.com/documents/codeofconduct.pdf",
       "travel_sponsorship": "unknown",
       "location": "TBD, TBD"
-    },
-    {
-      "title": "XtremeJS Online Conference",
-      "deadline": "2026-07-10",
-      "source": "confs.tech",
-      "score": 0.25,
-      "url": "https://tinyurl.com/xtreme2026",
-      "travel_sponsorship": "unknown",
-      "location": "TBD, TBD"
-    },
-    {
-      "title": "Data Day Edinburgh 2026",
-      "deadline": "2026-07-12",
-      "source": "callfordataspeakers",
-      "score": 0.393,
-      "url": "https://sessionize.com/data-day-edinburgh-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Edinburgh, United Kingdom"
     }
   ]
 }
