@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-06-20T09:18:10.797965+00:00",
+    "last_updated": "2026-06-21T09:52:37.302149+00:00",
     "total_applications": 77,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 40,
-    "total_expired": 37,
+    "total_drafts": 39,
+    "total_expired": 38,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 37,
-      "draft": 40
+      "expired": 38,
+      "draft": 39
     },
     "unique_talk_titles": 8
   },
@@ -2154,16 +2154,21 @@
         "priority": "low",
         "travel_sponsorship": "yes"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-05-23T08:22:02.789260+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 7.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-06-21T09:52:37.301977+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-05-23T08:22:02.789263+00:00",
-      "updated_at": "2026-05-23T08:22:02.789264+00:00",
+      "updated_at": "2026-06-21T09:52:37.301984+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

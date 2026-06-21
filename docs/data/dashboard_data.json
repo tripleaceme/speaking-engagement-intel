@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T09:18:10.847184+00:00",
+  "generated_at": "2026-06-21T09:52:37.352162+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,20 +7,20 @@
   },
   "summary": {
     "total_cfps_discovered": 90,
-    "open_cfps": 53,
-    "expired_cfps": 37,
+    "open_cfps": 52,
+    "expired_cfps": 38,
     "total_applications": 77,
-    "drafts": 40,
+    "drafts": 39,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 37,
+    "expired_apps": 38,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-20T09:18:07.850347+00:00",
+    "last_crawled": "2026-06-21T09:52:34.483706+00:00",
     "sources_checked": 9,
-    "travel_yes": 3,
+    "travel_yes": 2,
     "travel_partial": 3,
     "travel_unknown": 47
   },
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 8
+      "draft": 7
     },
     {
       "month": "2026-06",
@@ -75,16 +75,16 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 1,
-    "low": 52
+    "low": 51
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 51
+      "count": 50
     },
     {
       "tag": "web",
-      "count": 42
+      "count": 41
     },
     {
       "tag": "open-source",
@@ -100,7 +100,7 @@
     },
     {
       "tag": "cloud",
-      "count": 28
+      "count": 27
     },
     {
       "tag": "database",
@@ -151,15 +151,15 @@
       "count": 7
     },
     {
-      "tag": "javascript",
-      "count": 7
-    },
-    {
       "tag": "blockchain",
       "count": 6
     },
     {
       "tag": "cfp",
+      "count": 6
+    },
+    {
+      "tag": "javascript",
       "count": 6
     },
     {
@@ -273,30 +273,6 @@
       "talk_match": 0.059,
       "urgency": 0.8,
       "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "18e3a682151239f6",
-      "title": "Agent Conf",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/agent-conf-2026",
-      "deadline": "2026-06-20",
-      "event_date": "2026-09-17",
-      "location": "Warsaw, Poland",
-      "is_online": false,
-      "tags": [
-        "javascript",
-        "ai",
-        "web",
-        "cloud"
-      ],
-      "score": 0.383,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.341,
-      "talk_match": 0.044,
-      "urgency": 1.0,
-      "travel_sponsorship": "yes",
       "event_type": "conference"
     },
     {
@@ -694,6 +670,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
+    },
+    {
+      "id": "0486b7fd0e05c814",
+      "title": "Persian and Fabric Power BI User Group",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/persian-power-bi-user-group",
+      "deadline": "2026-09-12",
+      "event_date": "2025-09-25",
+      "location": "Online",
+      "is_online": true,
+      "tags": [
+        "education",
+        "ai",
+        "leadership",
+        "open-source",
+        "usergroup"
+      ],
+      "score": 0.313,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.34,
+      "talk_match": 0.078,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -1185,7 +1186,7 @@
       "cfp_url": "https://sessionize.com/agent-conf-2026",
       "deadline": "2026-06-20",
       "event_date": "2026-09-17",
-      "status": "draft",
+      "status": "expired",
       "score": 0.383,
       "priority": "low",
       "created_at": "2026-05-23T08:22:02.789263+00:00",
@@ -2306,15 +2307,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Agent Conf",
-      "deadline": "2026-06-20",
-      "source": "confs.tech",
-      "score": 0.383,
-      "url": "https://sessionize.com/agent-conf-2026",
-      "travel_sponsorship": "yes",
-      "location": "Warsaw, Poland"
-    },
-    {
       "title": "Data Platform Women in Technology Virtual Group 2026",
       "deadline": "2026-06-23",
       "source": "callfordataspeakers",
@@ -2392,6 +2384,15 @@
       "source": "confs.tech",
       "score": 0.317,
       "url": "http://www.zindell.com/documents/codeofconduct.pdf",
+      "travel_sponsorship": "unknown",
+      "location": "TBD, TBD"
+    },
+    {
+      "title": "XtremeJS Online Conference",
+      "deadline": "2026-07-10",
+      "source": "confs.tech",
+      "score": 0.25,
+      "url": "https://tinyurl.com/xtreme2026",
       "travel_sponsorship": "unknown",
       "location": "TBD, TBD"
     }
