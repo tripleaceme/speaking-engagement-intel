@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-06-23T09:42:31.938148+00:00",
+    "last_crawled": "2026-06-24T09:33:21.615757+00:00",
     "total_cfps": 90,
-    "open_cfps": 52,
+    "open_cfps": 51,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 0,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-06-23T09:42:34.407538+00:00",
+    "last_scored": "2026-06-24T09:33:24.357380+00:00",
     "high_priority": 0,
-    "medium_priority": 1,
-    "above_threshold": 39
+    "medium_priority": 2,
+    "above_threshold": 38
   },
   "cfps": [
     {
@@ -415,10 +415,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:20.731347+00:00",
       "match_scores": {
-        "composite_score": 0.315,
+        "composite_score": 0.345,
         "tag_relevance": 0.336,
         "talk_match_score": 0.059,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -2528,7 +2528,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
       "discovered_at": "2026-04-08T12:25:56.585913+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -2551,17 +2551,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:38.856101+00:00",
-      "match_scores": {
-        "composite_score": 0.37,
-        "tag_relevance": 0.179,
-        "talk_match_score": 0.059,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "7b657a58d4c3645e",
@@ -5203,14 +5193,14 @@
       ],
       "enriched_at": "2026-05-17T08:23:52.501327+00:00",
       "match_scores": {
-        "composite_score": 0.387,
+        "composite_score": 0.417,
         "tag_relevance": 0.371,
         "talk_match_score": 0.059,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
-        "priority": "low",
+        "priority": "medium",
         "travel_sponsorship": "unknown"
       }
     },
@@ -5677,10 +5667,10 @@
       ],
       "enriched_at": "2026-05-26T09:59:31.799579+00:00",
       "match_scores": {
-        "composite_score": 0.337,
+        "composite_score": 0.367,
         "tag_relevance": 0.168,
         "talk_match_score": 0.06,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.7,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",

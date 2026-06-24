@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T09:42:34.528104+00:00",
+  "generated_at": "2026-06-24T09:33:24.449693+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 90,
-    "open_cfps": 52,
-    "expired_cfps": 38,
+    "open_cfps": 51,
+    "expired_cfps": 39,
     "total_applications": 77,
-    "drafts": 39,
+    "drafts": 38,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 38,
+    "expired_apps": 39,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-23T09:42:31.938148+00:00",
+    "last_crawled": "2026-06-24T09:33:21.615757+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
-    "travel_unknown": 47
+    "travel_unknown": 46
   },
   "timeline": [
     {
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 27
+      "draft": 26
     },
     {
       "month": "2026-05",
@@ -74,25 +74,25 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 1,
-    "low": 51
+    "medium": 2,
+    "low": 49
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 50
+      "count": 49
     },
     {
       "tag": "web",
-      "count": 41
-    },
-    {
-      "tag": "open-source",
       "count": 40
     },
     {
+      "tag": "open-source",
+      "count": 39
+    },
+    {
       "tag": "data",
-      "count": 35
+      "count": 34
     },
     {
       "tag": "leadership",
@@ -131,11 +131,11 @@
       "count": 9
     },
     {
-      "tag": "usergroup",
-      "count": 9
+      "tag": "online",
+      "count": 8
     },
     {
-      "tag": "online",
+      "tag": "usergroup",
       "count": 8
     },
     {
@@ -200,6 +200,31 @@
     }
   ],
   "top_matches": [
+    {
+      "id": "db40a7d1f6bc0c59",
+      "title": "Day of Data St. Louis",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/st-louis-day-of-data",
+      "deadline": "2026-07-01",
+      "event_date": "2026-10-24",
+      "location": "St. Louis, Missouri, United States",
+      "is_online": false,
+      "tags": [
+        "conference",
+        "web",
+        "leadership",
+        "open-source",
+        "ai"
+      ],
+      "score": 0.417,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.371,
+      "talk_match": 0.059,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
     {
       "id": "807c8a3e1afc3084",
       "title": "Triangle SQL Server User Group 2026",
@@ -276,54 +301,29 @@
       "event_type": "conference"
     },
     {
-      "id": "db40a7d1f6bc0c59",
-      "title": "Day of Data St. Louis",
+      "id": "d3d63b4a860cfd91",
+      "title": "Celebrating Diversity, Equity & Inclusion",
       "source": "callfordataspeakers",
-      "url": "https://sessionize.com/st-louis-day-of-data",
+      "url": "https://sessionize.com/datadei-happiness-happens",
       "deadline": "2026-07-01",
-      "event_date": "2026-10-24",
-      "location": "St. Louis, Missouri, United States",
-      "is_online": false,
-      "tags": [
-        "conference",
-        "web",
-        "leadership",
-        "open-source",
-        "ai"
-      ],
-      "score": 0.387,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.371,
-      "talk_match": 0.059,
-      "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "ee38724369f2d6c8",
-      "title": "Data Platform Women in Technology Virtual Group 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/datawit-2026",
-      "deadline": "2026-06-23",
-      "event_date": "2026-01-13",
-      "location": "Virtual",
+      "event_date": "2026-08-28",
+      "location": "Online",
       "is_online": true,
       "tags": [
+        "data",
+        "devops",
         "ai",
         "open-source",
-        "usergroup",
-        "web",
-        "data"
+        "conference"
       ],
-      "score": 0.37,
+      "score": 0.367,
       "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.179,
-      "talk_match": 0.059,
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.168,
+      "talk_match": 0.06,
       "urgency": 1.0,
       "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
+      "event_type": "conference"
     },
     {
       "id": "59847b3e6eae3ba8",
@@ -401,6 +401,31 @@
       "event_type": "conference"
     },
     {
+      "id": "0a75fc53d01cae41",
+      "title": "WeAreDevelopers Conference India",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/wearedevelopers-conference-2026-india",
+      "deadline": "2026-07-24",
+      "event_date": "2026-11-25",
+      "location": "Bengaluru, India",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "iot",
+        "education",
+        "security",
+        "testing"
+      ],
+      "score": 0.345,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.336,
+      "talk_match": 0.059,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "d227b6f4bf58f201",
       "title": "Power Conference 2026",
       "source": "callfordataspeakers",
@@ -424,31 +449,6 @@
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "d3d63b4a860cfd91",
-      "title": "Celebrating Diversity, Equity & Inclusion",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/datadei-happiness-happens",
-      "deadline": "2026-07-01",
-      "event_date": "2026-08-28",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "data",
-        "devops",
-        "ai",
-        "open-source",
-        "conference"
-      ],
-      "score": 0.337,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.168,
-      "talk_match": 0.06,
-      "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     },
     {
       "id": "179c401cecea9796",
@@ -622,31 +622,6 @@
       "event_type": "conference"
     },
     {
-      "id": "0a75fc53d01cae41",
-      "title": "WeAreDevelopers Conference India",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/wearedevelopers-conference-2026-india",
-      "deadline": "2026-07-24",
-      "event_date": "2026-11-25",
-      "location": "Bengaluru, India",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "iot",
-        "education",
-        "security",
-        "testing"
-      ],
-      "score": 0.315,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.336,
-      "talk_match": 0.059,
-      "urgency": 0.4,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "cf61797b20c3dd06",
       "title": "yegor256/awesome-cfp",
       "source": "github",
@@ -695,6 +670,31 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "6bf84ef1128c1e5f",
+      "title": "pretalx/pretalx",
+      "source": "github",
+      "url": "https://github.com/pretalx/pretalx",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "conference-management",
+        "django",
+        "pretalx",
+        "security",
+        "call-for-papers"
+      ],
+      "score": 0.312,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.354,
+      "talk_match": 0.044,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
     }
   ],
   "applications": [
@@ -917,6 +917,26 @@
       "match_reason": "Conference themes align with 'education' (score: 6.0)",
       "is_online": false,
       "event_location": "Odense, Denmark"
+    },
+    {
+      "id": "562a92619f5bbca7",
+      "cfp_title": "Day of Data St. Louis",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/st-louis-day-of-data",
+      "deadline": "2026-07-01",
+      "event_date": "2026-10-24",
+      "status": "draft",
+      "score": 0.417,
+      "priority": "medium",
+      "created_at": "2026-05-17T08:23:52.629373+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 7.3)",
+      "is_online": false,
+      "event_location": "St. Louis, Missouri, United States"
     },
     {
       "id": "a8926dfa8f782254",
@@ -1179,26 +1199,6 @@
       "event_location": "Edinburgh, United Kingdom"
     },
     {
-      "id": "562a92619f5bbca7",
-      "cfp_title": "Day of Data St. Louis",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/st-louis-day-of-data",
-      "deadline": "2026-07-01",
-      "event_date": "2026-10-24",
-      "status": "draft",
-      "score": 0.387,
-      "priority": "low",
-      "created_at": "2026-05-17T08:23:52.629373+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 7.3)",
-      "is_online": false,
-      "event_location": "St. Louis, Missouri, United States"
-    },
-    {
       "id": "4e70256ccc26d492",
       "cfp_title": "Agent Conf",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1226,7 +1226,7 @@
       "cfp_url": "https://sessionize.com/datawit-2026",
       "deadline": "2026-06-23",
       "event_date": "2026-01-13",
-      "status": "draft",
+      "status": "expired",
       "score": 0.37,
       "priority": "low",
       "created_at": "2026-04-08T12:28:22.664038+00:00",
@@ -1255,6 +1255,26 @@
       "notes": "",
       "travel_sponsorship": "unknown",
       "match_reason": "Conference themes align with 'database' (score: 4.3)",
+      "is_online": true,
+      "event_location": "Online"
+    },
+    {
+      "id": "a1fc30025a1f4f06",
+      "cfp_title": "Celebrating Diversity, Equity & Inclusion",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/datadei-happiness-happens",
+      "deadline": "2026-07-01",
+      "event_date": "2026-08-28",
+      "status": "draft",
+      "score": 0.367,
+      "priority": "low",
+      "created_at": "2026-05-26T09:59:31.940079+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
       "is_online": true,
       "event_location": "Online"
     },
@@ -1399,6 +1419,26 @@
       "event_location": "New York City, New York, United States"
     },
     {
+      "id": "a0c4f8271ff446ff",
+      "cfp_title": "WeAreDevelopers Conference India",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
+      "deadline": "2026-07-24",
+      "event_date": "2026-11-25",
+      "status": "draft",
+      "score": 0.345,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.661154+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
+      "is_online": false,
+      "event_location": "Bengaluru, India"
+    },
+    {
       "id": "c1952d329f21d0e0",
       "cfp_title": "Power Conference 2026",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1437,26 +1477,6 @@
       "match_reason": "Conference themes align with 'devops' (score: 5.0)",
       "is_online": false,
       "event_location": "Berlin, Germany"
-    },
-    {
-      "id": "a1fc30025a1f4f06",
-      "cfp_title": "Celebrating Diversity, Equity & Inclusion",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/datadei-happiness-happens",
-      "deadline": "2026-07-01",
-      "event_date": "2026-08-28",
-      "status": "draft",
-      "score": 0.337,
-      "priority": "low",
-      "created_at": "2026-05-26T09:59:31.940079+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
-      "is_online": true,
-      "event_location": "Online"
     },
     {
       "id": "b8e2af2bb48bfb63",
@@ -1717,26 +1737,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 10.5)",
       "is_online": true,
       "event_location": ""
-    },
-    {
-      "id": "a0c4f8271ff446ff",
-      "cfp_title": "WeAreDevelopers Conference India",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
-      "deadline": "2026-07-24",
-      "event_date": "2026-11-25",
-      "status": "draft",
-      "score": 0.315,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.661154+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
-      "is_online": false,
-      "event_location": "Bengaluru, India"
     },
     {
       "id": "2fbe4cba6f0c1a5b",
@@ -2307,15 +2307,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Data Platform Women in Technology Virtual Group 2026",
-      "deadline": "2026-06-23",
-      "source": "callfordataspeakers",
-      "score": 0.37,
-      "url": "https://sessionize.com/datawit-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Virtual"
-    },
-    {
       "title": "CityJS Conference Athens",
       "deadline": "2026-06-30",
       "source": "confs.tech",
@@ -2337,7 +2328,7 @@
       "title": "Day of Data St. Louis",
       "deadline": "2026-07-01",
       "source": "callfordataspeakers",
-      "score": 0.387,
+      "score": 0.417,
       "url": "https://sessionize.com/st-louis-day-of-data",
       "travel_sponsorship": "unknown",
       "location": "St. Louis, Missouri, United States"
@@ -2346,7 +2337,7 @@
       "title": "Celebrating Diversity, Equity & Inclusion",
       "deadline": "2026-07-01",
       "source": "callfordataspeakers",
-      "score": 0.337,
+      "score": 0.367,
       "url": "https://sessionize.com/datadei-happiness-happens",
       "travel_sponsorship": "unknown",
       "location": "Online"
@@ -2395,6 +2386,15 @@
       "url": "https://tinyurl.com/xtreme2026",
       "travel_sponsorship": "unknown",
       "location": "TBD, TBD"
+    },
+    {
+      "title": "Data Day Edinburgh 2026",
+      "deadline": "2026-07-12",
+      "source": "callfordataspeakers",
+      "score": 0.393,
+      "url": "https://sessionize.com/data-day-edinburgh-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Edinburgh, United Kingdom"
     }
   ]
 }
