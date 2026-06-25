@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-06-24T09:33:21.615757+00:00",
+    "last_crawled": "2026-06-25T09:25:07.516772+00:00",
     "total_cfps": 90,
     "open_cfps": 51,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 1,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-06-24T09:33:24.357380+00:00",
+    "last_scored": "2026-06-25T09:25:09.936933+00:00",
     "high_priority": 0,
     "medium_priority": 2,
     "above_threshold": 38
@@ -4512,10 +4512,10 @@
       ],
       "enriched_at": "2026-04-18T07:12:24.933282+00:00",
       "match_scores": {
-        "composite_score": 0.25,
+        "composite_score": 0.28,
         "tag_relevance": 0.0,
         "talk_match_score": 0.0,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.8,
         "suggested_talk": null,
         "suggested_talk_level": null,
@@ -6333,10 +6333,10 @@
       ],
       "enriched_at": "2026-06-18T10:23:06.538298+00:00",
       "match_scores": {
-        "composite_score": 0.217,
+        "composite_score": 0.247,
         "tag_relevance": 0.0,
         "talk_match_score": 0.022,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",

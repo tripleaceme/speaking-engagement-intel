@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T09:33:24.449693+00:00",
+  "generated_at": "2026-06-25T09:25:10.051123+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 39,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-24T09:33:21.615757+00:00",
+    "last_crawled": "2026-06-25T09:25:07.516772+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
@@ -1939,6 +1939,26 @@
       "event_location": "Hanau am Main, Germany"
     },
     {
+      "id": "535dd3e055b84ca0",
+      "cfp_title": "React Summit US",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://gitnation.com/events/react-summit-us-2026/cfp",
+      "deadline": "2026-07-09",
+      "event_date": "2026-11-17",
+      "status": "draft",
+      "score": 0.28,
+      "priority": "low",
+      "created_at": "2026-06-09T09:49:04.054763+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": true,
+      "event_location": "New York, NY, U.S.A."
+    },
+    {
       "id": "2be9e1bafde142b6",
       "cfp_title": "Boston Data and AI Saturday 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -2199,26 +2219,6 @@
       "event_location": "Online"
     },
     {
-      "id": "535dd3e055b84ca0",
-      "cfp_title": "React Summit US",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://gitnation.com/events/react-summit-us-2026/cfp",
-      "deadline": "2026-07-09",
-      "event_date": "2026-11-17",
-      "status": "draft",
-      "score": 0.25,
-      "priority": "low",
-      "created_at": "2026-06-09T09:49:04.054763+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
-      "is_online": true,
-      "event_location": "New York, NY, U.S.A."
-    },
-    {
       "id": "900f9c9e0aca848b",
       "cfp_title": "XtremeJS Online Conference",
       "talk_title": "The Analytics Engineer's Toolkit: dbt, AI Documentation, and Open Source in Production",
@@ -2346,7 +2346,7 @@
       "title": "React Summit US",
       "deadline": "2026-07-09",
       "source": "confs.tech",
-      "score": 0.25,
+      "score": 0.28,
       "url": "https://gitnation.com/events/react-summit-us-2026/cfp",
       "travel_sponsorship": "unknown",
       "location": "New York, NY, U.S.A."
@@ -2355,7 +2355,7 @@
       "title": "AI Coding Summit New York Edition",
       "deadline": "2026-07-09",
       "source": "confs.tech",
-      "score": 0.217,
+      "score": 0.247,
       "url": "https://gitnation.com/events/ai-coding-summit-nyc/cfp",
       "travel_sponsorship": "unknown",
       "location": "New York, NY, U.S.A."
