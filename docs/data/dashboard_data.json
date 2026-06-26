@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T09:25:10.051123+00:00",
+  "generated_at": "2026-06-26T09:30:19.070177+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 39,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-25T09:25:07.516772+00:00",
+    "last_crawled": "2026-06-26T09:30:16.333153+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
@@ -326,6 +326,28 @@
       "event_type": "conference"
     },
     {
+      "id": "179c401cecea9796",
+      "title": "XtremeAI Online Conference",
+      "source": "confs.tech",
+      "url": "https://tinyurl.com/xtreme2026",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-24",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "tags": [
+        "data",
+        "online"
+      ],
+      "score": 0.365,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.223,
+      "talk_match": 0.022,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "59847b3e6eae3ba8",
       "title": "Code Europe",
       "source": "confs.tech",
@@ -401,6 +423,30 @@
       "event_type": "conference"
     },
     {
+      "id": "925345156dea5ecc",
+      "title": "XtremePython Online Conference",
+      "source": "confs.tech",
+      "url": "http://www.zindell.com/documents/codeofconduct.pdf",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-17",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "tags": [
+        "python",
+        "online",
+        "ai",
+        "testing"
+      ],
+      "score": 0.347,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.172,
+      "talk_match": 0.022,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "0a75fc53d01cae41",
       "title": "WeAreDevelopers Conference India",
       "source": "confs.tech",
@@ -449,28 +495,6 @@
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "179c401cecea9796",
-      "title": "XtremeAI Online Conference",
-      "source": "confs.tech",
-      "url": "https://tinyurl.com/xtreme2026",
-      "deadline": "2026-07-10",
-      "event_date": "2026-11-24",
-      "location": "TBD, TBD",
-      "is_online": true,
-      "tags": [
-        "data",
-        "online"
-      ],
-      "score": 0.335,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.223,
-      "talk_match": 0.022,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     },
     {
       "id": "f5236e3008d6c44b",
@@ -596,30 +620,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": "external"
-    },
-    {
-      "id": "925345156dea5ecc",
-      "title": "XtremePython Online Conference",
-      "source": "confs.tech",
-      "url": "http://www.zindell.com/documents/codeofconduct.pdf",
-      "deadline": "2026-07-10",
-      "event_date": "2026-11-17",
-      "location": "TBD, TBD",
-      "is_online": true,
-      "tags": [
-        "python",
-        "online",
-        "ai",
-        "testing"
-      ],
-      "score": 0.317,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.172,
-      "talk_match": 0.022,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     },
     {
       "id": "cf61797b20c3dd06",
@@ -1279,6 +1279,26 @@
       "event_location": "Online"
     },
     {
+      "id": "b8e2af2bb48bfb63",
+      "cfp_title": "XtremeAI Online Conference",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://tinyurl.com/xtreme2026",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-24",
+      "status": "draft",
+      "score": 0.365,
+      "priority": "low",
+      "created_at": "2026-04-18T07:12:25.442632+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 3.0)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
+    },
+    {
       "id": "922be52c18c6e9a0",
       "cfp_title": "TechSummit Amsterdam",
       "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
@@ -1399,6 +1419,26 @@
       "event_location": "Athens, Greece"
     },
     {
+      "id": "ca1b621fe07c376e",
+      "cfp_title": "XtremePython Online Conference",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "http://www.zindell.com/documents/codeofconduct.pdf",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-17",
+      "status": "draft",
+      "score": 0.347,
+      "priority": "low",
+      "created_at": "2026-04-18T07:12:25.442699+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
+    },
+    {
       "id": "e3fc02514c928a0c",
       "cfp_title": "Global Fabric Day 2026 - NYC Edition",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1477,26 +1517,6 @@
       "match_reason": "Conference themes align with 'devops' (score: 5.0)",
       "is_online": false,
       "event_location": "Berlin, Germany"
-    },
-    {
-      "id": "b8e2af2bb48bfb63",
-      "cfp_title": "XtremeAI Online Conference",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://tinyurl.com/xtreme2026",
-      "deadline": "2026-07-10",
-      "event_date": "2026-11-24",
-      "status": "draft",
-      "score": 0.335,
-      "priority": "low",
-      "created_at": "2026-04-18T07:12:25.442632+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 3.0)",
-      "is_online": true,
-      "event_location": "TBD, TBD"
     },
     {
       "id": "9cbedab72f22fb65",
@@ -1697,26 +1717,6 @@
       "match_reason": "Conference themes align with 'data' (score: 14.7)",
       "is_online": false,
       "event_location": "3 Wi Neera Dr,, Elsdon, Porirua 5022, New Zealand,"
-    },
-    {
-      "id": "ca1b621fe07c376e",
-      "cfp_title": "XtremePython Online Conference",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "http://www.zindell.com/documents/codeofconduct.pdf",
-      "deadline": "2026-07-10",
-      "event_date": "2026-11-17",
-      "status": "draft",
-      "score": 0.317,
-      "priority": "low",
-      "created_at": "2026-04-18T07:12:25.442699+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
-      "is_online": true,
-      "event_location": "TBD, TBD"
     },
     {
       "id": "f149cccfc6c966ed",
@@ -1957,6 +1957,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": true,
       "event_location": "New York, NY, U.S.A."
+    },
+    {
+      "id": "900f9c9e0aca848b",
+      "cfp_title": "XtremeJS Online Conference",
+      "talk_title": "The Analytics Engineer's Toolkit: dbt, AI Documentation, and Open Source in Production",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://tinyurl.com/xtreme2026",
+      "deadline": "2026-07-10",
+      "event_date": "2026-11-10",
+      "status": "draft",
+      "score": 0.28,
+      "priority": "low",
+      "created_at": "2026-06-10T10:04:24.888919+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "No specific theme detected \u2014 using versatile default proposal",
+      "is_online": true,
+      "event_location": "TBD, TBD"
     },
     {
       "id": "2be9e1bafde142b6",
@@ -2217,26 +2237,6 @@
       "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
       "is_online": true,
       "event_location": "Online"
-    },
-    {
-      "id": "900f9c9e0aca848b",
-      "cfp_title": "XtremeJS Online Conference",
-      "talk_title": "The Analytics Engineer's Toolkit: dbt, AI Documentation, and Open Source in Production",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://tinyurl.com/xtreme2026",
-      "deadline": "2026-07-10",
-      "event_date": "2026-11-10",
-      "status": "draft",
-      "score": 0.25,
-      "priority": "low",
-      "created_at": "2026-06-10T10:04:24.888919+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "No specific theme detected \u2014 using versatile default proposal",
-      "is_online": true,
-      "event_location": "TBD, TBD"
     }
   ],
   "talk_performance": [
@@ -2364,7 +2364,7 @@
       "title": "XtremeAI Online Conference",
       "deadline": "2026-07-10",
       "source": "confs.tech",
-      "score": 0.335,
+      "score": 0.365,
       "url": "https://tinyurl.com/xtreme2026",
       "travel_sponsorship": "unknown",
       "location": "TBD, TBD"
@@ -2373,7 +2373,7 @@
       "title": "XtremePython Online Conference",
       "deadline": "2026-07-10",
       "source": "confs.tech",
-      "score": 0.317,
+      "score": 0.347,
       "url": "http://www.zindell.com/documents/codeofconduct.pdf",
       "travel_sponsorship": "unknown",
       "location": "TBD, TBD"
@@ -2382,7 +2382,7 @@
       "title": "XtremeJS Online Conference",
       "deadline": "2026-07-10",
       "source": "confs.tech",
-      "score": 0.25,
+      "score": 0.28,
       "url": "https://tinyurl.com/xtreme2026",
       "travel_sponsorship": "unknown",
       "location": "TBD, TBD"

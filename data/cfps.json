@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_crawled": "2026-06-25T09:25:07.516772+00:00",
+    "last_crawled": "2026-06-26T09:30:16.333153+00:00",
     "total_cfps": 90,
     "open_cfps": 51,
     "sources_checked": 9,
@@ -8,7 +8,7 @@
     "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-06-25T09:25:09.936933+00:00",
+    "last_scored": "2026-06-26T09:30:18.960719+00:00",
     "high_priority": 0,
     "medium_priority": 2,
     "above_threshold": 38
@@ -4129,10 +4129,10 @@
       "discovered_at": "2026-04-18T07:12:13.935851+00:00",
       "status": "open",
       "match_scores": {
-        "composite_score": 0.335,
+        "composite_score": 0.365,
         "tag_relevance": 0.223,
         "talk_match_score": 0.022,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.8,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
@@ -4173,10 +4173,10 @@
       ],
       "enriched_at": "2026-04-18T07:12:20.157358+00:00",
       "match_scores": {
-        "composite_score": 0.317,
+        "composite_score": 0.347,
         "tag_relevance": 0.172,
         "talk_match_score": 0.022,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.8,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
@@ -4435,10 +4435,10 @@
       "discovered_at": "2026-04-18T07:12:14.276648+00:00",
       "status": "open",
       "match_scores": {
-        "composite_score": 0.25,
+        "composite_score": 0.28,
         "tag_relevance": 0.0,
         "talk_match_score": 0.0,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.8,
         "suggested_talk": null,
         "suggested_talk_level": null,
