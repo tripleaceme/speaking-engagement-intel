@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-06-27T08:38:03.987888+00:00",
-    "total_cfps": 90,
-    "open_cfps": 51,
+    "last_crawled": "2026-06-28T08:54:38.898866+00:00",
+    "total_cfps": 91,
+    "open_cfps": 52,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-06-27T08:38:06.509583+00:00",
+    "last_scored": "2026-06-28T08:54:42.334706+00:00",
     "high_priority": 0,
-    "medium_priority": 2,
-    "above_threshold": 38
+    "medium_priority": 3,
+    "above_threshold": 39
   },
   "cfps": [
     {
@@ -5744,14 +5744,14 @@
       ],
       "enriched_at": "2026-05-29T09:57:02.958261+00:00",
       "match_scores": {
-        "composite_score": 0.393,
+        "composite_score": 0.423,
         "tag_relevance": 0.51,
         "talk_match_score": 0.082,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.5,
         "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
         "suggested_talk_level": "intermediate",
-        "priority": "low",
+        "priority": "medium",
         "travel_sponsorship": "unknown"
       }
     },
@@ -6340,6 +6340,92 @@
         "format_score": 0.6,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "a7f1d6ce283fab35",
+      "source": "dev.to",
+      "title": "I Built a CFP Copilot with Amazon Quick - From Prompt to Published App in Under 1 Hour",
+      "url": "https://dev.to/_76130e67067eab4c8510/i-built-a-cfp-copilot-with-amazon-quick-from-prompt-to-published-app-in-under-1-hour-1jba",
+      "cfp_url": "https://dev.to/_76130e67067eab4c8510/i-built-a-cfp-copilot-with-amazon-quick-from-prompt-to-published-app-in-under-1-hour-1jba",
+      "description": "No code. Just a prompt. And it works.              The Problem   I'm an AWS Community Builder (AI...",
+      "tags": [
+        "cloud",
+        "web",
+        "ai",
+        "database",
+        "leadership",
+        "python",
+        "cfp",
+        "i18n",
+        "education",
+        "open-source",
+        "amazonquick"
+      ],
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "",
+      "discovered_at": "2026-06-28T08:54:35.412078+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "python",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "dev help",
+        "\"mcp\"",
+        "\"ai agent autonomy vs human approval\"",
+        "upload your own content corpus for personalized suggestions"
+      ],
+      "submission_fields": [
+        "title",
+        "abstract",
+        "track"
+      ],
+      "enriched_at": "2026-06-28T08:54:42.257965+00:00",
+      "match_scores": {
+        "composite_score": 0.299,
+        "tag_relevance": 0.344,
+        "talk_match_score": 0.078,
+        "urgency_score": 0.1,
+        "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }

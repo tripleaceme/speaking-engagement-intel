@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-27T08:38:06.614985+00:00",
+  "generated_at": "2026-06-28T08:54:42.443784+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 90,
-    "open_cfps": 51,
+    "total_cfps_discovered": 91,
+    "open_cfps": 52,
     "expired_cfps": 39,
-    "total_applications": 77,
-    "drafts": 38,
+    "total_applications": 78,
+    "drafts": 39,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 39,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-27T08:38:03.987888+00:00",
+    "last_crawled": "2026-06-28T08:54:38.898866+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
-    "travel_unknown": 46
+    "travel_unknown": 47
   },
   "timeline": [
     {
@@ -47,7 +47,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 5
+      "draft": 6
     }
   ],
   "source_breakdown": [
@@ -65,7 +65,7 @@
     },
     {
       "source": "dev.to",
-      "count": 1
+      "count": 2
     },
     {
       "source": "opensource",
@@ -74,21 +74,21 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 2,
+    "medium": 3,
     "low": 49
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 49
+      "count": 50
     },
     {
       "tag": "web",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "open-source",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "data",
@@ -96,19 +96,19 @@
     },
     {
       "tag": "leadership",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "cloud",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "database",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "education",
-      "count": 23
+      "count": 24
     },
     {
       "tag": "security",
@@ -139,6 +139,10 @@
       "count": 8
     },
     {
+      "tag": "cfp",
+      "count": 7
+    },
+    {
       "tag": "europe",
       "count": 7
     },
@@ -155,7 +159,7 @@
       "count": 6
     },
     {
-      "tag": "cfp",
+      "tag": "python",
       "count": 6
     },
     {
@@ -164,10 +168,6 @@
     },
     {
       "tag": "events",
-      "count": 5
-    },
-    {
-      "tag": "python",
       "count": 5
     },
     {
@@ -200,6 +200,31 @@
     }
   ],
   "top_matches": [
+    {
+      "id": "1c63198476b9ef0a",
+      "title": "Data Day Edinburgh 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/data-day-edinburgh-2026",
+      "deadline": "2026-07-12",
+      "event_date": "2026-10-23",
+      "location": "Edinburgh, United Kingdom",
+      "is_online": false,
+      "tags": [
+        "data",
+        "cloud",
+        "open-source",
+        "education",
+        "leadership"
+      ],
+      "score": 0.423,
+      "priority": "medium",
+      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+      "tag_relevance": 0.51,
+      "talk_match": 0.082,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
     {
       "id": "db40a7d1f6bc0c59",
       "title": "Day of Data St. Louis",
@@ -271,31 +296,6 @@
       "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
       "tag_relevance": 0.506,
       "talk_match": 0.089,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "1c63198476b9ef0a",
-      "title": "Data Day Edinburgh 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/data-day-edinburgh-2026",
-      "deadline": "2026-07-12",
-      "event_date": "2026-10-23",
-      "location": "Edinburgh, United Kingdom",
-      "is_online": false,
-      "tags": [
-        "data",
-        "cloud",
-        "open-source",
-        "education",
-        "leadership"
-      ],
-      "score": 0.393,
-      "priority": "low",
-      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-      "tag_relevance": 0.51,
-      "talk_match": 0.082,
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
@@ -879,6 +879,26 @@
       "event_location": "Online"
     },
     {
+      "id": "f85369ea586136c2",
+      "cfp_title": "Data Day Edinburgh 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-day-edinburgh-2026",
+      "deadline": "2026-07-12",
+      "event_date": "2026-10-23",
+      "status": "draft",
+      "score": 0.423,
+      "priority": "medium",
+      "created_at": "2026-05-29T09:57:03.084612+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 7.0)",
+      "is_online": false,
+      "event_location": "Edinburgh, United Kingdom"
+    },
+    {
       "id": "f05c499a51109afe",
       "cfp_title": "Power BI Days DC 2026",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -1177,26 +1197,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 9.5)",
       "is_online": false,
       "event_location": "Zurich, Switzerland"
-    },
-    {
-      "id": "f85369ea586136c2",
-      "cfp_title": "Data Day Edinburgh 2026",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/data-day-edinburgh-2026",
-      "deadline": "2026-07-12",
-      "event_date": "2026-10-23",
-      "status": "draft",
-      "score": 0.393,
-      "priority": "low",
-      "created_at": "2026-05-29T09:57:03.084612+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 7.0)",
-      "is_online": false,
-      "event_location": "Edinburgh, United Kingdom"
     },
     {
       "id": "4e70256ccc26d492",
@@ -1899,6 +1899,26 @@
       "event_location": "Gda\u0144sk, Poland"
     },
     {
+      "id": "500f57ff34049f6a",
+      "cfp_title": "I Built a CFP Copilot with Amazon Quick - From Prompt to Published App in Under 1 Hour",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "dev.to",
+      "cfp_url": "https://dev.to/_76130e67067eab4c8510/i-built-a-cfp-copilot-with-amazon-quick-from-prompt-to-published-app-in-under-1-hour-1jba",
+      "deadline": "",
+      "event_date": "",
+      "status": "draft",
+      "score": 0.299,
+      "priority": "low",
+      "created_at": "2026-06-28T08:54:42.391405+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 8.0)",
+      "is_online": true,
+      "event_location": ""
+    },
+    {
       "id": "9c40017725216ae5",
       "cfp_title": "React Advanced",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2242,7 +2262,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 25,
+      "applications": 26,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2391,7 +2411,7 @@
       "title": "Data Day Edinburgh 2026",
       "deadline": "2026-07-12",
       "source": "callfordataspeakers",
-      "score": 0.393,
+      "score": 0.423,
       "url": "https://sessionize.com/data-day-edinburgh-2026",
       "travel_sponsorship": "unknown",
       "location": "Edinburgh, United Kingdom"
