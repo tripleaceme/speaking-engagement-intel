@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T09:39:06.505268+00:00",
+  "generated_at": "2026-07-01T09:50:53.967108+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 91,
-    "open_cfps": 52,
-    "expired_cfps": 39,
+    "open_cfps": 50,
+    "expired_cfps": 41,
     "total_applications": 78,
-    "drafts": 39,
+    "drafts": 37,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 39,
+    "expired_apps": 41,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-06-30T09:39:03.865586+00:00",
+    "last_crawled": "2026-07-01T09:50:50.911408+00:00",
     "sources_checked": 9,
-    "travel_yes": 2,
+    "travel_yes": 1,
     "travel_partial": 3,
-    "travel_unknown": 47
+    "travel_unknown": 46
   },
   "timeline": [
     {
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 7
+      "draft": 6
     },
     {
       "month": "2026-06",
@@ -47,7 +47,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 6
+      "draft": 5
     }
   ],
   "source_breakdown": [
@@ -75,20 +75,20 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 3,
-    "low": 49
+    "low": 47
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 50
+      "count": 48
     },
     {
       "tag": "web",
-      "count": 41
+      "count": 40
     },
     {
       "tag": "open-source",
-      "count": 40
+      "count": 38
     },
     {
       "tag": "data",
@@ -96,26 +96,22 @@
     },
     {
       "tag": "leadership",
-      "count": 30
-    },
-    {
-      "tag": "cloud",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "database",
       "count": 28
     },
     {
+      "tag": "cloud",
+      "count": 27
+    },
+    {
       "tag": "education",
-      "count": 24
+      "count": 22
     },
     {
       "tag": "security",
-      "count": 19
-    },
-    {
-      "tag": "devops",
       "count": 18
     },
     {
@@ -123,20 +119,24 @@
       "count": 18
     },
     {
-      "tag": "testing",
-      "count": 9
+      "tag": "devops",
+      "count": 17
     },
     {
       "tag": "call-for-papers",
       "count": 9
     },
     {
-      "tag": "online",
+      "tag": "testing",
       "count": 8
     },
     {
       "tag": "usergroup",
       "count": 8
+    },
+    {
+      "tag": "online",
+      "count": 7
     },
     {
       "tag": "cfp",
@@ -163,11 +163,11 @@
       "count": 6
     },
     {
-      "tag": "javascript",
-      "count": 6
+      "tag": "events",
+      "count": 5
     },
     {
-      "tag": "events",
+      "tag": "javascript",
       "count": 5
     },
     {
@@ -195,11 +195,36 @@
       "count": 3
     },
     {
-      "tag": "general",
+      "tag": "tech-conference",
       "count": 2
     }
   ],
   "top_matches": [
+    {
+      "id": "807c8a3e1afc3084",
+      "title": "Triangle SQL Server User Group 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/tripass-2026",
+      "deadline": "2026-08-30",
+      "event_date": "2026-01-13",
+      "location": "VIrtual",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "database",
+        "education",
+        "ai",
+        "open-source"
+      ],
+      "score": 0.43,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.591,
+      "talk_match": 0.078,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
     {
       "id": "1c63198476b9ef0a",
       "title": "Data Day Edinburgh 2026",
@@ -251,31 +276,6 @@
       "event_type": "conference"
     },
     {
-      "id": "807c8a3e1afc3084",
-      "title": "Triangle SQL Server User Group 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/tripass-2026",
-      "deadline": "2026-08-30",
-      "event_date": "2026-01-13",
-      "location": "VIrtual",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "database",
-        "education",
-        "ai",
-        "open-source"
-      ],
-      "score": 0.4,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.591,
-      "talk_match": 0.078,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
-    },
-    {
       "id": "26a5235847da3d44",
       "title": "Agentic Engineering Days Zurich",
       "source": "confs.tech",
@@ -298,6 +298,31 @@
       "talk_match": 0.089,
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "03a19de23ecd84b3",
+      "title": "Great International AI Native Summit (GAINS)",
+      "source": "confs.tech",
+      "url": "https://ainativesummit.com/cfp",
+      "deadline": "2026-07-15",
+      "event_date": "2026-12-09",
+      "location": "Bangalore, India",
+      "is_online": false,
+      "tags": [
+        "leadership",
+        "ai",
+        "mobile",
+        "web",
+        "open-source"
+      ],
+      "score": 0.382,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.328,
+      "talk_match": 0.089,
+      "urgency": 0.8,
+      "travel_sponsorship": "yes",
       "event_type": "conference"
     },
     {
@@ -373,81 +398,6 @@
       "event_type": "conference"
     },
     {
-      "id": "59847b3e6eae3ba8",
-      "title": "Code Europe",
-      "source": "confs.tech",
-      "url": "https://forms.gle/KpaT9ix5spaVe2A59",
-      "deadline": "2026-06-30",
-      "event_date": "2026-09-14",
-      "location": "Warsaw, Poland",
-      "is_online": true,
-      "tags": [
-        "general",
-        "online",
-        "open-source",
-        "devops",
-        "leadership"
-      ],
-      "score": 0.362,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.173,
-      "talk_match": 0.039,
-      "urgency": 1.0,
-      "travel_sponsorship": "yes",
-      "event_type": "conference"
-    },
-    {
-      "id": "de256903b212cb87",
-      "title": "CityJS Conference Athens",
-      "source": "confs.tech",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSejZUdKqdZo0fZtcqDEWOqkhTGgsnXx5KJOo5flW2E-Ej2a2A/viewform",
-      "deadline": "2026-06-30",
-      "event_date": "2026-10-21",
-      "location": "Athens, Greece",
-      "is_online": false,
-      "tags": [
-        "open-source",
-        "ai",
-        "education",
-        "testing",
-        "web"
-      ],
-      "score": 0.352,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.167,
-      "talk_match": 0.078,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "03a19de23ecd84b3",
-      "title": "Great International AI Native Summit (GAINS)",
-      "source": "confs.tech",
-      "url": "https://ainativesummit.com/cfp",
-      "deadline": "2026-07-15",
-      "event_date": "2026-12-09",
-      "location": "Bangalore, India",
-      "is_online": false,
-      "tags": [
-        "leadership",
-        "ai",
-        "mobile",
-        "web",
-        "open-source"
-      ],
-      "score": 0.352,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.328,
-      "talk_match": 0.089,
-      "urgency": 0.6,
-      "travel_sponsorship": "yes",
-      "event_type": "conference"
-    },
-    {
       "id": "925345156dea5ecc",
       "title": "XtremePython Online Conference",
       "source": "confs.tech",
@@ -520,6 +470,31 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "a12769d08cefcd0e",
+      "title": "SQLDay Lite 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sqlday-lite-2026",
+      "deadline": "2026-07-31",
+      "event_date": "2026-09-24",
+      "location": "Gda\u0144sk, Poland",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "web",
+        "education",
+        "data",
+        "ai"
+      ],
+      "score": 0.33,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.348,
+      "talk_match": 0.059,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon"
     },
     {
       "id": "f6afba3518281dad",
@@ -695,6 +670,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
+    },
+    {
+      "id": "c3c30f2797ec1bba",
+      "title": "SQL Server User Group Croatia 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
+      "deadline": "2026-09-12",
+      "event_date": "2026-04-08",
+      "location": "online",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "database",
+        "ai",
+        "open-source",
+        "usergroup"
+      ],
+      "score": 0.311,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.346,
+      "talk_match": 0.067,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -857,6 +857,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 7.5)",
       "is_online": false,
       "event_location": "San Jose, CA, U.S.A."
+    },
+    {
+      "id": "fb6f89b6ee144699",
+      "cfp_title": "Triangle SQL Server User Group 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/tripass-2026",
+      "deadline": "2026-08-30",
+      "event_date": "2026-01-13",
+      "status": "draft",
+      "score": 0.43,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.663958+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 8.3)",
+      "is_online": true,
+      "event_location": "VIrtual"
     },
     {
       "id": "8496831bd6d324e2",
@@ -1119,26 +1139,6 @@
       "event_location": "Porto, Portugal"
     },
     {
-      "id": "fb6f89b6ee144699",
-      "cfp_title": "Triangle SQL Server User Group 2026",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/tripass-2026",
-      "deadline": "2026-08-30",
-      "event_date": "2026-01-13",
-      "status": "draft",
-      "score": 0.4,
-      "priority": "medium",
-      "created_at": "2026-04-08T12:28:22.663958+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 8.3)",
-      "is_online": true,
-      "event_location": "VIrtual"
-    },
-    {
       "id": "ff7950850daa5cb0",
       "cfp_title": "Data Saturday Gothenburg",
       "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
@@ -1217,6 +1217,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 7.0)",
       "is_online": false,
       "event_location": "Warsaw, Poland"
+    },
+    {
+      "id": "69c8dcbdc60b97ce",
+      "cfp_title": "Great International AI Native Summit (GAINS)",
+      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://ainativesummit.com/cfp",
+      "deadline": "2026-07-15",
+      "event_date": "2026-12-09",
+      "status": "draft",
+      "score": 0.382,
+      "priority": "low",
+      "created_at": "2026-06-01T11:38:54.356137+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'devops' (score: 6.5)",
+      "is_online": false,
+      "event_location": "Bangalore, India"
     },
     {
       "id": "c1952d329f21d0e0",
@@ -1346,7 +1366,7 @@
       "cfp_url": "https://forms.gle/KpaT9ix5spaVe2A59",
       "deadline": "2026-06-30",
       "event_date": "2026-09-14",
-      "status": "draft",
+      "status": "expired",
       "score": 0.362,
       "priority": "low",
       "created_at": "2026-06-18T10:23:06.673739+00:00",
@@ -1399,26 +1419,6 @@
       "event_location": "Belgrade, Serbia"
     },
     {
-      "id": "69c8dcbdc60b97ce",
-      "cfp_title": "Great International AI Native Summit (GAINS)",
-      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://ainativesummit.com/cfp",
-      "deadline": "2026-07-15",
-      "event_date": "2026-12-09",
-      "status": "draft",
-      "score": 0.352,
-      "priority": "low",
-      "created_at": "2026-06-01T11:38:54.356137+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "yes",
-      "match_reason": "Conference themes align with 'devops' (score: 6.5)",
-      "is_online": false,
-      "event_location": "Bangalore, India"
-    },
-    {
       "id": "ecfbc36c4797406f",
       "cfp_title": "CityJS Conference Athens",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1426,7 +1426,7 @@
       "cfp_url": "https://docs.google.com/forms/d/e/1FAIpQLSejZUdKqdZo0fZtcqDEWOqkhTGgsnXx5KJOo5flW2E-Ej2a2A/viewform",
       "deadline": "2026-06-30",
       "event_date": "2026-10-21",
-      "status": "draft",
+      "status": "expired",
       "score": 0.352,
       "priority": "low",
       "created_at": "2026-05-01T08:14:13.860311+00:00",
@@ -1597,6 +1597,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 7.5)",
       "is_online": false,
       "event_location": "Warsaw, Poland"
+    },
+    {
+      "id": "b751f36df5b690c8",
+      "cfp_title": "SQLDay Lite 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sqlday-lite-2026",
+      "deadline": "2026-07-31",
+      "event_date": "2026-09-24",
+      "status": "draft",
+      "score": 0.33,
+      "priority": "low",
+      "created_at": "2026-06-02T10:27:25.675121+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 7.5)",
+      "is_online": false,
+      "event_location": "Gda\u0144sk, Poland"
     },
     {
       "id": "82f06ff2742d8c25",
@@ -1877,26 +1897,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 15.0)",
       "is_online": true,
       "event_location": "Amsterdam, Netherlands"
-    },
-    {
-      "id": "b751f36df5b690c8",
-      "cfp_title": "SQLDay Lite 2026",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/sqlday-lite-2026",
-      "deadline": "2026-07-31",
-      "event_date": "2026-09-24",
-      "status": "draft",
-      "score": 0.3,
-      "priority": "low",
-      "created_at": "2026-06-02T10:27:25.675121+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 7.5)",
-      "is_online": false,
-      "event_location": "Gda\u0144sk, Poland"
     },
     {
       "id": "500f57ff34049f6a",
@@ -2327,24 +2327,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "CityJS Conference Athens",
-      "deadline": "2026-06-30",
-      "source": "confs.tech",
-      "score": 0.352,
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSejZUdKqdZo0fZtcqDEWOqkhTGgsnXx5KJOo5flW2E-Ej2a2A/viewform",
-      "travel_sponsorship": "unknown",
-      "location": "Athens, Greece"
-    },
-    {
-      "title": "Code Europe",
-      "deadline": "2026-06-30",
-      "source": "confs.tech",
-      "score": 0.362,
-      "url": "https://forms.gle/KpaT9ix5spaVe2A59",
-      "travel_sponsorship": "yes",
-      "location": "Warsaw, Poland"
-    },
-    {
       "title": "Day of Data St. Louis",
       "deadline": "2026-07-01",
       "source": "callfordataspeakers",
@@ -2415,6 +2397,24 @@
       "url": "https://sessionize.com/data-day-edinburgh-2026",
       "travel_sponsorship": "unknown",
       "location": "Edinburgh, United Kingdom"
+    },
+    {
+      "title": "JSNation US",
+      "deadline": "2026-07-13",
+      "source": "confs.tech",
+      "score": 0.22,
+      "url": "https://gitnation.com/events/jsnation-us-2026/cfp",
+      "travel_sponsorship": "unknown",
+      "location": "New York, NY, U.S.A."
+    },
+    {
+      "title": "Power Conference 2026",
+      "deadline": "2026-07-14",
+      "source": "callfordataspeakers",
+      "score": 0.374,
+      "url": "https://sessionize.com/power-conference-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Prague, Czechia"
     }
   ]
 }
