@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-01T09:50:50.911408+00:00",
+    "last_crawled": "2026-07-02T09:15:11.105067+00:00",
     "total_cfps": 91,
-    "open_cfps": 50,
+    "open_cfps": 48,
     "sources_checked": 9,
     "new_this_run": 0,
     "expired_this_run": 2,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-07-01T09:50:53.862879+00:00",
+    "last_scored": "2026-07-02T09:15:13.703928+00:00",
     "high_priority": 0,
-    "medium_priority": 3,
+    "medium_priority": 2,
     "above_threshold": 37
   },
   "cfps": [
@@ -4502,10 +4502,10 @@
       ],
       "enriched_at": "2026-04-18T07:12:24.933282+00:00",
       "match_scores": {
-        "composite_score": 0.28,
+        "composite_score": 0.31,
         "tag_relevance": 0.0,
         "talk_match_score": 0.0,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.8,
         "suggested_talk": null,
         "suggested_talk_level": null,
@@ -5139,7 +5139,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-05-17T08:23:46.738218+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -5182,17 +5182,7 @@
         "twitter"
       ],
       "enriched_at": "2026-05-17T08:23:52.501327+00:00",
-      "match_scores": {
-        "composite_score": 0.417,
-        "tag_relevance": 0.371,
-        "talk_match_score": 0.059,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "71e550bc2fea3f6d",
@@ -5632,7 +5622,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-05-26T09:59:27.911365+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "open-source",
@@ -5656,17 +5646,7 @@
         "twitter"
       ],
       "enriched_at": "2026-05-26T09:59:31.799579+00:00",
-      "match_scores": {
-        "composite_score": 0.367,
-        "tag_relevance": 0.168,
-        "talk_match_score": 0.06,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "1c63198476b9ef0a",
@@ -6128,10 +6108,10 @@
       ],
       "enriched_at": "2026-06-12T10:16:40.822157+00:00",
       "match_scores": {
-        "composite_score": 0.226,
+        "composite_score": 0.256,
         "tag_relevance": 0.183,
         "talk_match_score": 0.04,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.6,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
@@ -6313,10 +6293,10 @@
       ],
       "enriched_at": "2026-06-18T10:23:06.538298+00:00",
       "match_scores": {
-        "composite_score": 0.247,
+        "composite_score": 0.277,
         "tag_relevance": 0.0,
         "talk_match_score": 0.022,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.6,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",

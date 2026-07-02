@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T09:50:53.967108+00:00",
+  "generated_at": "2026-07-02T09:15:13.809357+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 91,
-    "open_cfps": 50,
-    "expired_cfps": 41,
-    "total_applications": 78,
+    "open_cfps": 48,
+    "expired_cfps": 43,
+    "total_applications": 80,
     "drafts": 37,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 41,
+    "expired_apps": 43,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-01T09:50:50.911408+00:00",
+    "last_crawled": "2026-07-02T09:15:11.105067+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 3,
-    "travel_unknown": 46
+    "travel_unknown": 44
   },
   "timeline": [
     {
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 6
+      "draft": 4
     },
     {
       "month": "2026-06",
@@ -48,6 +48,14 @@
       "rejected": 0,
       "pending": 0,
       "draft": 5
+    },
+    {
+      "month": "2026-07",
+      "applied": 0,
+      "accepted": 0,
+      "rejected": 0,
+      "pending": 0,
+      "draft": 2
     }
   ],
   "source_breakdown": [
@@ -74,53 +82,53 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 3,
-    "low": 47
+    "medium": 2,
+    "low": 46
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 48
+      "count": 46
     },
     {
       "tag": "web",
-      "count": 40
+      "count": 39
     },
     {
       "tag": "open-source",
-      "count": 38
+      "count": 36
     },
     {
       "tag": "data",
-      "count": 34
-    },
-    {
-      "tag": "leadership",
-      "count": 29
-    },
-    {
-      "tag": "database",
-      "count": 28
+      "count": 32
     },
     {
       "tag": "cloud",
       "count": 27
     },
     {
+      "tag": "leadership",
+      "count": 27
+    },
+    {
+      "tag": "database",
+      "count": 27
+    },
+    {
       "tag": "education",
-      "count": 22
+      "count": 21
     },
     {
       "tag": "security",
       "count": 18
     },
     {
-      "tag": "conference",
-      "count": 18
+      "tag": "devops",
+      "count": 16
     },
     {
-      "tag": "devops",
-      "count": 17
+      "tag": "conference",
+      "count": 16
     },
     {
       "tag": "call-for-papers",
@@ -179,10 +187,6 @@
       "count": 4
     },
     {
-      "tag": "north america",
-      "count": 4
-    },
-    {
       "tag": "call-for-paper",
       "count": 3
     },
@@ -192,6 +196,10 @@
     },
     {
       "tag": "technology",
+      "count": 3
+    },
+    {
+      "tag": "north america",
       "count": 3
     },
     {
@@ -247,31 +255,6 @@
       "tag_relevance": 0.51,
       "talk_match": 0.082,
       "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "db40a7d1f6bc0c59",
-      "title": "Day of Data St. Louis",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/st-louis-day-of-data",
-      "deadline": "2026-07-01",
-      "event_date": "2026-10-24",
-      "location": "St. Louis, Missouri, United States",
-      "is_online": false,
-      "tags": [
-        "conference",
-        "web",
-        "leadership",
-        "open-source",
-        "ai"
-      ],
-      "score": 0.417,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.371,
-      "talk_match": 0.059,
-      "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -349,31 +332,6 @@
       "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "d3d63b4a860cfd91",
-      "title": "Celebrating Diversity, Equity & Inclusion",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/datadei-happiness-happens",
-      "deadline": "2026-07-01",
-      "event_date": "2026-08-28",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "data",
-        "devops",
-        "ai",
-        "open-source",
-        "conference"
-      ],
-      "score": 0.367,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.168,
-      "talk_match": 0.06,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     },
     {
       "id": "179c401cecea9796",
@@ -695,6 +653,54 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "d2ce48bff79192a5",
+      "title": "React Summit US",
+      "source": "confs.tech",
+      "url": "https://gitnation.com/events/react-summit-us-2026/cfp",
+      "deadline": "2026-07-09",
+      "event_date": "2026-11-17",
+      "location": "New York, NY, U.S.A.",
+      "is_online": true,
+      "tags": [
+        "online",
+        "javascript",
+        "ai"
+      ],
+      "score": 0.31,
+      "priority": "low",
+      "suggested_talk": null,
+      "tag_relevance": 0.0,
+      "talk_match": 0.0,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "2353c784b684765d",
+      "title": "Global Summit on Data Science and Cloud Computing",
+      "source": "confs.tech",
+      "url": "https://datascience.novelticsconferences.com/register",
+      "deadline": "2026-10-15",
+      "event_date": "2026-10-19",
+      "location": "Rome, Italy",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "education",
+        "testing",
+        "ai",
+        "leadership"
+      ],
+      "score": 0.301,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.331,
+      "talk_match": 0.118,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     }
   ],
   "applications": [
@@ -966,7 +972,7 @@
       "cfp_url": "https://sessionize.com/st-louis-day-of-data",
       "deadline": "2026-07-01",
       "event_date": "2026-10-24",
-      "status": "draft",
+      "status": "expired",
       "score": 0.417,
       "priority": "medium",
       "created_at": "2026-05-17T08:23:52.629373+00:00",
@@ -1306,7 +1312,7 @@
       "cfp_url": "https://sessionize.com/datadei-happiness-happens",
       "deadline": "2026-07-01",
       "event_date": "2026-08-28",
-      "status": "draft",
+      "status": "expired",
       "score": 0.367,
       "priority": "low",
       "created_at": "2026-05-26T09:59:31.940079+00:00",
@@ -1859,6 +1865,26 @@
       "event_location": "London, U.K."
     },
     {
+      "id": "535dd3e055b84ca0",
+      "cfp_title": "React Summit US",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://gitnation.com/events/react-summit-us-2026/cfp",
+      "deadline": "2026-07-09",
+      "event_date": "2026-11-17",
+      "status": "draft",
+      "score": 0.31,
+      "priority": "low",
+      "created_at": "2026-06-09T09:49:04.054763+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": true,
+      "event_location": "New York, NY, U.S.A."
+    },
+    {
       "id": "ff9a70eb4d6e1d74",
       "cfp_title": "Global Summit on Data Science and Cloud Computing",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1959,26 +1985,6 @@
       "event_location": "Hanau am Main, Germany"
     },
     {
-      "id": "535dd3e055b84ca0",
-      "cfp_title": "React Summit US",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://gitnation.com/events/react-summit-us-2026/cfp",
-      "deadline": "2026-07-09",
-      "event_date": "2026-11-17",
-      "status": "draft",
-      "score": 0.28,
-      "priority": "low",
-      "created_at": "2026-06-09T09:49:04.054763+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
-      "is_online": true,
-      "event_location": "New York, NY, U.S.A."
-    },
-    {
       "id": "900f9c9e0aca848b",
       "cfp_title": "XtremeJS Online Conference",
       "talk_title": "The Analytics Engineer's Toolkit: dbt, AI Documentation, and Open Source in Production",
@@ -2017,6 +2023,26 @@
       "match_reason": "Conference themes align with 'data' (score: 11.3)",
       "is_online": false,
       "event_location": "Burlington, Massachusetts, United States"
+    },
+    {
+      "id": "a0cfdabfb9616c61",
+      "cfp_title": "AI Coding Summit New York Edition",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://gitnation.com/events/ai-coding-summit-nyc/cfp",
+      "deadline": "2026-07-09",
+      "event_date": "2026-11-16",
+      "status": "draft",
+      "score": 0.277,
+      "priority": "low",
+      "created_at": "2026-07-02T09:15:13.758416+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": false,
+      "event_location": "New York, NY, U.S.A."
     },
     {
       "id": "8ef1aa5b4718f454",
@@ -2137,6 +2163,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 11.5)",
       "is_online": true,
       "event_location": ""
+    },
+    {
+      "id": "0f442c5b441fc24a",
+      "cfp_title": "Ticino Data Conference 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/ticino-data-conference-2026",
+      "deadline": "2026-08-31",
+      "event_date": "2026-10-30",
+      "status": "draft",
+      "score": 0.256,
+      "priority": "low",
+      "created_at": "2026-07-02T09:15:13.758367+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 8.7)",
+      "is_online": false,
+      "event_location": "Bioggio, Switzerland"
     },
     {
       "id": "2beef322688d1330",
@@ -2262,7 +2308,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 26,
+      "applications": 27,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2270,7 +2316,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 17,
+      "applications": 18,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2327,28 +2373,10 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Day of Data St. Louis",
-      "deadline": "2026-07-01",
-      "source": "callfordataspeakers",
-      "score": 0.417,
-      "url": "https://sessionize.com/st-louis-day-of-data",
-      "travel_sponsorship": "unknown",
-      "location": "St. Louis, Missouri, United States"
-    },
-    {
-      "title": "Celebrating Diversity, Equity & Inclusion",
-      "deadline": "2026-07-01",
-      "source": "callfordataspeakers",
-      "score": 0.367,
-      "url": "https://sessionize.com/datadei-happiness-happens",
-      "travel_sponsorship": "unknown",
-      "location": "Online"
-    },
-    {
       "title": "React Summit US",
       "deadline": "2026-07-09",
       "source": "confs.tech",
-      "score": 0.28,
+      "score": 0.31,
       "url": "https://gitnation.com/events/react-summit-us-2026/cfp",
       "travel_sponsorship": "unknown",
       "location": "New York, NY, U.S.A."
@@ -2357,7 +2385,7 @@
       "title": "AI Coding Summit New York Edition",
       "deadline": "2026-07-09",
       "source": "confs.tech",
-      "score": 0.247,
+      "score": 0.277,
       "url": "https://gitnation.com/events/ai-coding-summit-nyc/cfp",
       "travel_sponsorship": "unknown",
       "location": "New York, NY, U.S.A."
@@ -2415,6 +2443,24 @@
       "url": "https://sessionize.com/power-conference-2026",
       "travel_sponsorship": "unknown",
       "location": "Prague, Czechia"
+    },
+    {
+      "title": "Great International AI Native Summit (GAINS)",
+      "deadline": "2026-07-15",
+      "source": "confs.tech",
+      "score": 0.382,
+      "url": "https://ainativesummit.com/cfp",
+      "travel_sponsorship": "yes",
+      "location": "Bangalore, India"
+    },
+    {
+      "title": "Agentic Engineering Days Zurich",
+      "deadline": "2026-07-23",
+      "source": "confs.tech",
+      "score": 0.394,
+      "url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Zurich, Switzerland"
     }
   ]
 }
