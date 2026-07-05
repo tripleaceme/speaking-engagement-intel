@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-07-04T08:39:09.454736+00:00",
-    "total_applications": 80,
+    "last_updated": "2026-07-05T08:54:45.805747+00:00",
+    "total_applications": 81,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 37,
+    "total_drafts": 38,
     "total_expired": 43,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
       "expired": 43,
-      "draft": 37
+      "draft": 38
     },
     "unique_talk_titles": 8
   },
@@ -356,6 +356,85 @@
       ],
       "created_at": "2026-04-27T08:29:46.475874+00:00",
       "updated_at": "2026-05-12T08:43:02.160797+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "f85369ea586136c2",
+      "cfp_id": "1c63198476b9ef0a",
+      "cfp_title": "Data Day Edinburgh 2026",
+      "cfp_url": "https://sessionize.com/data-day-edinburgh-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-07-12",
+      "event_date": "2026-10-23",
+      "event_location": "Edinburgh, United Kingdom",
+      "is_online": false,
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+      "talk_tags": [
+        "sql",
+        "dbt",
+        "migration",
+        "database",
+        "snowflake",
+        "bigquery"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'database' (score: 7.0)",
+      "conference_themes": [
+        "ai",
+        "cloud",
+        "open-source",
+        "leadership",
+        "database",
+        "data",
+        "devops",
+        "education"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "sql",
+          "dbt",
+          "migration",
+          "database",
+          "snowflake",
+          "bigquery"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.453,
+        "tag_relevance": 0.51,
+        "talk_match_score": 0.082,
+        "urgency_score": 1.0,
+        "format_score": 0.5,
+        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+        "suggested_talk_level": "intermediate",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-05-29T09:57:03.084605+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 7.0)"
+        }
+      ],
+      "created_at": "2026-05-29T09:57:03.084612+00:00",
+      "updated_at": "2026-05-29T09:57:03.084614+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -881,85 +960,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.663835+00:00",
       "updated_at": "2026-05-02T07:47:30.532395+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "f85369ea586136c2",
-      "cfp_id": "1c63198476b9ef0a",
-      "cfp_title": "Data Day Edinburgh 2026",
-      "cfp_url": "https://sessionize.com/data-day-edinburgh-2026",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-07-12",
-      "event_date": "2026-10-23",
-      "event_location": "Edinburgh, United Kingdom",
-      "is_online": false,
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
-      "talk_tags": [
-        "sql",
-        "dbt",
-        "migration",
-        "database",
-        "snowflake",
-        "bigquery"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'database' (score: 7.0)",
-      "conference_themes": [
-        "ai",
-        "cloud",
-        "open-source",
-        "leadership",
-        "database",
-        "data",
-        "devops",
-        "education"
-      ],
-      "conference_categories": [],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "sql",
-          "dbt",
-          "migration",
-          "database",
-          "snowflake",
-          "bigquery"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.423,
-        "tag_relevance": 0.51,
-        "talk_match_score": 0.082,
-        "urgency_score": 0.8,
-        "format_score": 0.5,
-        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-        "suggested_talk_level": "intermediate",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-05-29T09:57:03.084605+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 7.0)"
-        }
-      ],
-      "created_at": "2026-05-29T09:57:03.084612+00:00",
-      "updated_at": "2026-05-29T09:57:03.084614+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -4386,6 +4386,93 @@
       ],
       "created_at": "2026-04-08T12:28:22.664742+00:00",
       "updated_at": "2026-04-08T12:28:22.664744+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "36ee843246e6ccb1",
+      "cfp_id": "bdd596c3571bc69d",
+      "cfp_title": "Data of Day Winnipeg 2026",
+      "cfp_url": "https://sessionize.com/day-of-data-winnipeg-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "",
+      "event_date": "2026-09-19",
+      "event_location": "University of Manitoba,, Engineering and Information Technology Complex, 75 Chancellors Circle, Winnipeg MB,",
+      "is_online": false,
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+      "talk_tags": [
+        "education",
+        "data-literacy",
+        "community",
+        "diversity",
+        "edtech"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'education' (score: 9.0)",
+      "conference_themes": [
+        "ai",
+        "data",
+        "education",
+        "database",
+        "open-source",
+        "cloud",
+        "devops",
+        "security",
+        "leadership"
+      ],
+      "conference_categories": [
+        "engaging",
+        "educational",
+        "time speaker or a seasoned presenter",
+        "we encourage you to submit a session",
+        "whether you're a first",
+        "and practical sessions that provide value to attendees"
+      ],
+      "travel_sponsorship": "partial",
+      "speaker_perks": {
+        "dinner": true
+      },
+      "proposal": {
+        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "education",
+          "data-literacy",
+          "community",
+          "diversity",
+          "edtech"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.317,
+        "tag_relevance": 0.528,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "partial"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-07-05T08:54:45.803392+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 9.0)"
+        }
+      ],
+      "created_at": "2026-07-05T08:54:45.803399+00:00",
+      "updated_at": "2026-07-05T08:54:45.803401+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

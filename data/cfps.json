@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-04T08:39:06.935518+00:00",
-    "total_cfps": 91,
-    "open_cfps": 48,
+    "last_crawled": "2026-07-05T08:54:41.686985+00:00",
+    "total_cfps": 92,
+    "open_cfps": 49,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-07-04T08:39:09.398500+00:00",
+    "last_scored": "2026-07-05T08:54:45.751072+00:00",
     "high_priority": 0,
     "medium_priority": 2,
-    "above_threshold": 37
+    "above_threshold": 38
   },
   "cfps": [
     {
@@ -5714,10 +5714,10 @@
       ],
       "enriched_at": "2026-05-29T09:57:02.958261+00:00",
       "match_scores": {
-        "composite_score": 0.423,
+        "composite_score": 0.453,
         "tag_relevance": 0.51,
         "talk_match_score": 0.082,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.5,
         "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
         "suggested_talk_level": "intermediate",
@@ -6388,6 +6388,102 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "bdd596c3571bc69d",
+      "source": "callfordataspeakers",
+      "title": "Data of Day Winnipeg 2026",
+      "url": "https://sessionize.com/day-of-data-winnipeg-2026",
+      "cfp_url": "https://sessionize.com/day-of-data-winnipeg-2026",
+      "description": "Data external \u2014 University of Manitoba,, Engineering and Information Technology Complex, 75 Chancellors Circle, Winnipeg MB,",
+      "tags": [
+        "in-person",
+        "cloud",
+        "external",
+        "education",
+        "security",
+        "data",
+        "devops",
+        "leadership",
+        "ai",
+        "open-source",
+        "database"
+      ],
+      "deadline": "",
+      "event_date": "2026-09-19",
+      "location": "University of Manitoba,, Engineering and Information Technology Complex, 75 Chancellors Circle, Winnipeg MB,",
+      "is_online": false,
+      "travel_sponsorship": "partial",
+      "event_type": "external",
+      "discovered_at": "2026-07-05T08:54:40.958298+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 1.0
+        },
+        {
+          "theme": "education",
+          "confidence": 1.0
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "engaging",
+        "educational",
+        "time speaker or a seasoned presenter",
+        "we encourage you to submit a session",
+        "whether you're a first",
+        "and practical sessions that provide value to attendees"
+      ],
+      "speaker_perks": {
+        "dinner": true
+      },
+      "submission_fields": [
+        "takeaway",
+        "experience level",
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-07-05T08:54:45.678460+00:00",
+      "match_scores": {
+        "composite_score": 0.317,
+        "tag_relevance": 0.528,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "partial"
       }
     }
   ]
