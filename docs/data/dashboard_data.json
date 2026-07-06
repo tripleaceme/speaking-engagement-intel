@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T08:54:45.852771+00:00",
+  "generated_at": "2026-07-06T10:26:02.857649+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -9,8 +9,8 @@
     "total_cfps_discovered": 92,
     "open_cfps": 49,
     "expired_cfps": 43,
-    "total_applications": 81,
-    "drafts": 38,
+    "total_applications": 82,
+    "drafts": 39,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,7 +18,7 @@
     "expired_apps": 43,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-05T08:54:41.686985+00:00",
+    "last_crawled": "2026-07-06T10:25:59.926759+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
@@ -55,7 +55,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 3
+      "draft": 4
     }
   ],
   "source_breakdown": [
@@ -2322,12 +2322,32 @@
       "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
       "is_online": true,
       "event_location": "Online"
+    },
+    {
+      "id": "5119d1456182bbf5",
+      "cfp_title": "JSNation US",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://gitnation.com/events/jsnation-us-2026/cfp",
+      "deadline": "2026-07-13",
+      "event_date": "2026-11-16",
+      "status": "draft",
+      "score": 0.25,
+      "priority": "low",
+      "created_at": "2026-07-06T10:26:02.805561+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": false,
+      "event_location": "New York, NY, U.S.A."
     }
   ],
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 27,
+      "applications": 28,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2449,7 +2469,7 @@
       "title": "JSNation US",
       "deadline": "2026-07-13",
       "source": "confs.tech",
-      "score": 0.22,
+      "score": 0.25,
       "url": "https://gitnation.com/events/jsnation-us-2026/cfp",
       "travel_sponsorship": "unknown",
       "location": "New York, NY, U.S.A."

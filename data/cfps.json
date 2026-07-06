@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-05T08:54:41.686985+00:00",
+    "last_crawled": "2026-07-06T10:25:59.926759+00:00",
     "total_cfps": 92,
     "open_cfps": 49,
     "sources_checked": 9,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
-    "travel_sponsorship_partial": 3,
-    "last_scored": "2026-07-05T08:54:45.751072+00:00",
+    "travel_sponsorship_partial": 4,
+    "last_scored": "2026-07-06T10:26:02.753379+00:00",
     "high_priority": 0,
     "medium_priority": 2,
-    "above_threshold": 38
+    "above_threshold": 39
   },
   "cfps": [
     {
@@ -4463,10 +4463,10 @@
       ],
       "enriched_at": "2026-04-18T07:12:24.436657+00:00",
       "match_scores": {
-        "composite_score": 0.22,
+        "composite_score": 0.25,
         "tag_relevance": 0.0,
         "talk_match_score": 0.0,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.5,
         "suggested_talk": null,
         "suggested_talk_level": null,
