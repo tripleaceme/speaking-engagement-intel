@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-07T09:44:42.858060+00:00",
+    "last_crawled": "2026-07-08T08:31:01.286729+00:00",
     "total_cfps": 92,
     "open_cfps": 49,
     "sources_checked": 9,
@@ -8,9 +8,9 @@
     "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-07-07T09:44:45.716912+00:00",
+    "last_scored": "2026-07-08T08:31:03.853476+00:00",
     "high_priority": 0,
-    "medium_priority": 3,
+    "medium_priority": 4,
     "above_threshold": 39
   },
   "cfps": [
@@ -5893,14 +5893,14 @@
       ],
       "enriched_at": "2026-06-01T11:38:54.226122+00:00",
       "match_scores": {
-        "composite_score": 0.382,
+        "composite_score": 0.412,
         "tag_relevance": 0.328,
         "talk_match_score": 0.089,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.6,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
-        "priority": "low",
+        "priority": "medium",
         "travel_sponsorship": "yes"
       }
     },

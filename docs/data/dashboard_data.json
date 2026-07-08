@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T09:44:45.826972+00:00",
+  "generated_at": "2026-07-08T08:31:03.968332+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 43,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-07T09:44:42.858060+00:00",
+    "last_crawled": "2026-07-08T08:31:01.286729+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
@@ -82,8 +82,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 3,
-    "low": 46
+    "medium": 4,
+    "low": 45
   },
   "tag_cloud": [
     {
@@ -259,6 +259,31 @@
       "event_type": "usergroup"
     },
     {
+      "id": "03a19de23ecd84b3",
+      "title": "Great International AI Native Summit (GAINS)",
+      "source": "confs.tech",
+      "url": "https://ainativesummit.com/cfp",
+      "deadline": "2026-07-15",
+      "event_date": "2026-12-09",
+      "location": "Bangalore, India",
+      "is_online": false,
+      "tags": [
+        "leadership",
+        "ai",
+        "mobile",
+        "web",
+        "open-source"
+      ],
+      "score": 0.412,
+      "priority": "medium",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.328,
+      "talk_match": 0.089,
+      "urgency": 1.0,
+      "travel_sponsorship": "yes",
+      "event_type": "conference"
+    },
+    {
       "id": "d227b6f4bf58f201",
       "title": "Power Conference 2026",
       "source": "callfordataspeakers",
@@ -328,31 +353,6 @@
       "talk_match": 0.089,
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "03a19de23ecd84b3",
-      "title": "Great International AI Native Summit (GAINS)",
-      "source": "confs.tech",
-      "url": "https://ainativesummit.com/cfp",
-      "deadline": "2026-07-15",
-      "event_date": "2026-12-09",
-      "location": "Bangalore, India",
-      "is_online": false,
-      "tags": [
-        "leadership",
-        "ai",
-        "mobile",
-        "web",
-        "open-source"
-      ],
-      "score": 0.382,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.328,
-      "talk_match": 0.089,
-      "urgency": 0.8,
-      "travel_sponsorship": "yes",
       "event_type": "conference"
     },
     {
@@ -1044,6 +1044,26 @@
       "event_location": "Dubai, United Arab Emirates"
     },
     {
+      "id": "69c8dcbdc60b97ce",
+      "cfp_title": "Great International AI Native Summit (GAINS)",
+      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://ainativesummit.com/cfp",
+      "deadline": "2026-07-15",
+      "event_date": "2026-12-09",
+      "status": "draft",
+      "score": 0.412,
+      "priority": "medium",
+      "created_at": "2026-06-01T11:38:54.356137+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'devops' (score: 6.5)",
+      "is_online": false,
+      "event_location": "Bangalore, India"
+    },
+    {
       "id": "5746ef209fd30412",
       "cfp_title": "AgentCon - Bengaluru",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1262,26 +1282,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 7.0)",
       "is_online": false,
       "event_location": "Warsaw, Poland"
-    },
-    {
-      "id": "69c8dcbdc60b97ce",
-      "cfp_title": "Great International AI Native Summit (GAINS)",
-      "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://ainativesummit.com/cfp",
-      "deadline": "2026-07-15",
-      "event_date": "2026-12-09",
-      "status": "draft",
-      "score": 0.382,
-      "priority": "low",
-      "created_at": "2026-06-01T11:38:54.356137+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "yes",
-      "match_reason": "Conference themes align with 'devops' (score: 6.5)",
-      "is_online": false,
-      "event_location": "Bangalore, India"
     },
     {
       "id": "ca1b621fe07c376e",
@@ -2487,7 +2487,7 @@
       "title": "Great International AI Native Summit (GAINS)",
       "deadline": "2026-07-15",
       "source": "confs.tech",
-      "score": 0.382,
+      "score": 0.412,
       "url": "https://ainativesummit.com/cfp",
       "travel_sponsorship": "yes",
       "location": "Bangalore, India"
