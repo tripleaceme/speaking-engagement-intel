@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-08T08:31:01.286729+00:00",
+    "last_crawled": "2026-07-10T09:37:42.449442+00:00",
     "total_cfps": 92,
-    "open_cfps": 49,
+    "open_cfps": 47,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 0,
+    "expired_this_run": 2,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-07-08T08:31:03.853476+00:00",
+    "last_scored": "2026-07-10T09:37:44.765193+00:00",
     "high_priority": 0,
-    "medium_priority": 4,
-    "above_threshold": 39
+    "medium_priority": 5,
+    "above_threshold": 37
   },
   "cfps": [
     {
@@ -415,10 +415,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:20.731347+00:00",
       "match_scores": {
-        "composite_score": 0.345,
+        "composite_score": 0.375,
         "tag_relevance": 0.336,
         "talk_match_score": 0.059,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -4493,7 +4493,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-18T07:12:14.276676+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -4501,17 +4501,7 @@
         }
       ],
       "enriched_at": "2026-04-18T07:12:24.933282+00:00",
-      "match_scores": {
-        "composite_score": 0.31,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
-        "urgency_score": 1.0,
-        "format_score": 0.8,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "5c4ea69343e29864",
@@ -4741,14 +4731,14 @@
       ],
       "enriched_at": "2026-05-08T07:44:53.262743+00:00",
       "match_scores": {
-        "composite_score": 0.394,
+        "composite_score": 0.424,
         "tag_relevance": 0.506,
         "talk_match_score": 0.089,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.5,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
-        "priority": "low",
+        "priority": "medium",
         "travel_sponsorship": "unknown"
       }
     },
@@ -6284,7 +6274,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-06-18T10:22:59.985021+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -6292,17 +6282,7 @@
         }
       ],
       "enriched_at": "2026-06-18T10:23:06.538298+00:00",
-      "match_scores": {
-        "composite_score": 0.277,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.022,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "a7f1d6ce283fab35",

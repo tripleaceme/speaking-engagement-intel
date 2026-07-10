@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T08:31:03.968332+00:00",
+  "generated_at": "2026-07-10T09:37:44.868755+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 92,
-    "open_cfps": 49,
-    "expired_cfps": 43,
+    "open_cfps": 47,
+    "expired_cfps": 45,
     "total_applications": 82,
-    "drafts": 39,
+    "drafts": 37,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 43,
+    "expired_apps": 45,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-08T08:31:01.286729+00:00",
+    "last_crawled": "2026-07-10T09:37:42.449442+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 44
+    "travel_unknown": 42
   },
   "timeline": [
     {
@@ -47,7 +47,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 5
+      "draft": 4
     },
     {
       "month": "2026-07",
@@ -55,7 +55,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 4
+      "draft": 3
     }
   ],
   "source_breakdown": [
@@ -82,13 +82,13 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 4,
-    "low": 45
+    "medium": 5,
+    "low": 42
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 47
+      "count": 45
     },
     {
       "tag": "web",
@@ -151,16 +151,16 @@
       "count": 8
     },
     {
-      "tag": "online",
-      "count": 7
-    },
-    {
       "tag": "cfp",
       "count": 7
     },
     {
       "tag": "europe",
       "count": 7
+    },
+    {
+      "tag": "online",
+      "count": 6
     },
     {
       "tag": "blockchain",
@@ -172,10 +172,6 @@
     },
     {
       "tag": "events",
-      "count": 5
-    },
-    {
-      "tag": "javascript",
       "count": 5
     },
     {
@@ -200,6 +196,10 @@
     },
     {
       "tag": "north america",
+      "count": 3
+    },
+    {
+      "tag": "javascript",
       "count": 3
     },
     {
@@ -257,6 +257,31 @@
       "urgency": 0.4,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "26a5235847da3d44",
+      "title": "Agentic Engineering Days Zurich",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
+      "deadline": "2026-07-23",
+      "event_date": "2026-11-20",
+      "location": "Zurich, Switzerland",
+      "is_online": false,
+      "tags": [
+        "leadership",
+        "security",
+        "cloud",
+        "ai",
+        "web"
+      ],
+      "score": 0.424,
+      "priority": "medium",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.506,
+      "talk_match": 0.089,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     },
     {
       "id": "03a19de23ecd84b3",
@@ -331,31 +356,6 @@
       "event_type": "conference"
     },
     {
-      "id": "26a5235847da3d44",
-      "title": "Agentic Engineering Days Zurich",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
-      "deadline": "2026-07-23",
-      "event_date": "2026-11-20",
-      "location": "Zurich, Switzerland",
-      "is_online": false,
-      "tags": [
-        "leadership",
-        "security",
-        "cloud",
-        "ai",
-        "web"
-      ],
-      "score": 0.394,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.506,
-      "talk_match": 0.089,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "925345156dea5ecc",
       "title": "XtremePython Online Conference",
       "source": "confs.tech",
@@ -395,12 +395,12 @@
         "security",
         "testing"
       ],
-      "score": 0.345,
+      "score": 0.375,
       "priority": "low",
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
       "tag_relevance": 0.336,
       "talk_match": 0.059,
-      "urgency": 0.6,
+      "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -924,6 +924,26 @@
       "event_location": "Online"
     },
     {
+      "id": "3aada1db0f19fc46",
+      "cfp_title": "Agentic Engineering Days Zurich",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
+      "deadline": "2026-07-23",
+      "event_date": "2026-11-20",
+      "status": "draft",
+      "score": 0.424,
+      "priority": "medium",
+      "created_at": "2026-05-08T07:44:54.680228+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
+      "is_online": false,
+      "event_location": "Zurich, Switzerland"
+    },
+    {
       "id": "f05c499a51109afe",
       "cfp_title": "Power BI Days DC 2026",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -1244,26 +1264,6 @@
       "event_location": "TBD, TBD"
     },
     {
-      "id": "3aada1db0f19fc46",
-      "cfp_title": "Agentic Engineering Days Zurich",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
-      "deadline": "2026-07-23",
-      "event_date": "2026-11-20",
-      "status": "draft",
-      "score": 0.394,
-      "priority": "low",
-      "created_at": "2026-05-08T07:44:54.680228+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
-      "is_online": false,
-      "event_location": "Zurich, Switzerland"
-    },
-    {
       "id": "4e70256ccc26d492",
       "cfp_title": "Agent Conf",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1302,6 +1302,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.5)",
       "is_online": true,
       "event_location": "TBD, TBD"
+    },
+    {
+      "id": "a0c4f8271ff446ff",
+      "cfp_title": "WeAreDevelopers Conference India",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
+      "deadline": "2026-07-24",
+      "event_date": "2026-11-25",
+      "status": "draft",
+      "score": 0.375,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.661154+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
+      "is_online": false,
+      "event_location": "Bengaluru, India"
     },
     {
       "id": "cdf1f660bb88de25",
@@ -1482,26 +1502,6 @@
       "match_reason": "Conference themes align with 'data' (score: 5.7)",
       "is_online": false,
       "event_location": "New York City, New York, United States"
-    },
-    {
-      "id": "a0c4f8271ff446ff",
-      "cfp_title": "WeAreDevelopers Conference India",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
-      "deadline": "2026-07-24",
-      "event_date": "2026-11-25",
-      "status": "draft",
-      "score": 0.345,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.661154+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
-      "is_online": false,
-      "event_location": "Bengaluru, India"
     },
     {
       "id": "7e85ca613dd5b674",
@@ -1891,7 +1891,7 @@
       "cfp_url": "https://gitnation.com/events/react-summit-us-2026/cfp",
       "deadline": "2026-07-09",
       "event_date": "2026-11-17",
-      "status": "draft",
+      "status": "expired",
       "score": 0.31,
       "priority": "low",
       "created_at": "2026-06-09T09:49:04.054763+00:00",
@@ -2051,7 +2051,7 @@
       "cfp_url": "https://gitnation.com/events/ai-coding-summit-nyc/cfp",
       "deadline": "2026-07-09",
       "event_date": "2026-11-16",
-      "status": "draft",
+      "status": "expired",
       "score": 0.277,
       "priority": "low",
       "created_at": "2026-07-02T09:15:13.758416+00:00",
@@ -2412,24 +2412,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "React Summit US",
-      "deadline": "2026-07-09",
-      "source": "confs.tech",
-      "score": 0.31,
-      "url": "https://gitnation.com/events/react-summit-us-2026/cfp",
-      "travel_sponsorship": "unknown",
-      "location": "New York, NY, U.S.A."
-    },
-    {
-      "title": "AI Coding Summit New York Edition",
-      "deadline": "2026-07-09",
-      "source": "confs.tech",
-      "score": 0.277,
-      "url": "https://gitnation.com/events/ai-coding-summit-nyc/cfp",
-      "travel_sponsorship": "unknown",
-      "location": "New York, NY, U.S.A."
-    },
-    {
       "title": "XtremeAI Online Conference",
       "deadline": "2026-07-10",
       "source": "confs.tech",
@@ -2496,10 +2478,28 @@
       "title": "Agentic Engineering Days Zurich",
       "deadline": "2026-07-23",
       "source": "confs.tech",
-      "score": 0.394,
+      "score": 0.424,
       "url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
       "travel_sponsorship": "unknown",
       "location": "Zurich, Switzerland"
+    },
+    {
+      "title": "WeAreDevelopers Conference India",
+      "deadline": "2026-07-24",
+      "source": "confs.tech",
+      "score": 0.375,
+      "url": "https://sessionize.com/wearedevelopers-conference-2026-india",
+      "travel_sponsorship": "unknown",
+      "location": "Bengaluru, India"
+    },
+    {
+      "title": "SQLDay Lite 2026",
+      "deadline": "2026-07-31",
+      "source": "callfordataspeakers",
+      "score": 0.33,
+      "url": "https://sessionize.com/sqlday-lite-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Gda\u0144sk, Poland"
     }
   ]
 }

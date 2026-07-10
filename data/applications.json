@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-07-08T08:31:03.914534+00:00",
+    "last_updated": "2026-07-10T09:37:44.820793+00:00",
     "total_applications": 82,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 39,
-    "total_expired": 43,
+    "total_drafts": 37,
+    "total_expired": 45,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 43,
-      "draft": 39
+      "expired": 45,
+      "draft": 37
     },
     "unique_talk_titles": 8
   },
@@ -960,6 +960,86 @@
       ],
       "created_at": "2026-04-08T12:28:22.663835+00:00",
       "updated_at": "2026-05-02T07:47:30.532395+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "3aada1db0f19fc46",
+      "cfp_id": "26a5235847da3d44",
+      "cfp_title": "Agentic Engineering Days Zurich",
+      "cfp_url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-07-23",
+      "event_date": "2026-11-20",
+      "event_location": "Zurich, Switzerland",
+      "is_online": false,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
+      "conference_themes": [
+        "ai",
+        "education",
+        "cloud",
+        "security",
+        "web",
+        "leadership"
+      ],
+      "conference_categories": [
+        "no q&a",
+        "1\u20133): 30 minutes + q&a",
+        "track 1 \u2014 let it build: using ai in the engineering loop",
+        "3\u20134): 8 minutes"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.424,
+        "tag_relevance": 0.506,
+        "talk_match_score": 0.089,
+        "urgency_score": 0.8,
+        "format_score": 0.5,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-05-08T07:44:54.680225+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 9.5)"
+        }
+      ],
+      "created_at": "2026-05-08T07:44:54.680228+00:00",
+      "updated_at": "2026-05-08T07:44:54.680229+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -2352,86 +2432,6 @@
       "notes": ""
     },
     {
-      "id": "3aada1db0f19fc46",
-      "cfp_id": "26a5235847da3d44",
-      "cfp_title": "Agentic Engineering Days Zurich",
-      "cfp_url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-07-23",
-      "event_date": "2026-11-20",
-      "event_location": "Zurich, Switzerland",
-      "is_online": false,
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-      "talk_tags": [
-        "ai",
-        "llm",
-        "data-governance",
-        "dbt",
-        "automation"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
-      "conference_themes": [
-        "ai",
-        "education",
-        "cloud",
-        "security",
-        "web",
-        "leadership"
-      ],
-      "conference_categories": [
-        "no q&a",
-        "1\u20133): 30 minutes + q&a",
-        "track 1 \u2014 let it build: using ai in the engineering loop",
-        "3\u20134): 8 minutes"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "ai",
-          "llm",
-          "data-governance",
-          "dbt",
-          "automation"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.394,
-        "tag_relevance": 0.506,
-        "talk_match_score": 0.089,
-        "urgency_score": 0.6,
-        "format_score": 0.5,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-05-08T07:44:54.680225+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 9.5)"
-        }
-      ],
-      "created_at": "2026-05-08T07:44:54.680228+00:00",
-      "updated_at": "2026-05-08T07:44:54.680229+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
       "id": "4e70256ccc26d492",
       "cfp_id": "18e3a682151239f6",
       "cfp_title": "Agent Conf",
@@ -2584,6 +2584,88 @@
       ],
       "created_at": "2026-04-18T07:12:25.442699+00:00",
       "updated_at": "2026-04-18T07:12:25.442702+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "a0c4f8271ff446ff",
+      "cfp_id": "0a75fc53d01cae41",
+      "cfp_title": "WeAreDevelopers Conference India",
+      "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-07-24",
+      "event_date": "2026-11-25",
+      "event_location": "Bengaluru, India",
+      "is_online": false,
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+      "talk_tags": [
+        "leadership",
+        "data-culture",
+        "analytics-engineering",
+        "strategy"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
+      "conference_themes": [
+        "cloud",
+        "devops",
+        "web",
+        "open-source",
+        "leadership",
+        "testing",
+        "ai",
+        "data",
+        "security",
+        "education",
+        "iot"
+      ],
+      "conference_categories": [
+        "and emerging technologies",
+        "architecture",
+        "leadership"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "leadership",
+          "data-culture",
+          "analytics-engineering",
+          "strategy"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.375,
+        "tag_relevance": 0.336,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.8,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.661150+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 9.0)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.661154+00:00",
+      "updated_at": "2026-04-08T12:28:22.661156+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -3322,88 +3404,6 @@
       ],
       "created_at": "2026-05-12T08:43:02.158628+00:00",
       "updated_at": "2026-05-29T09:57:03.086895+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "a0c4f8271ff446ff",
-      "cfp_id": "0a75fc53d01cae41",
-      "cfp_title": "WeAreDevelopers Conference India",
-      "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-07-24",
-      "event_date": "2026-11-25",
-      "event_location": "Bengaluru, India",
-      "is_online": false,
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-      "talk_tags": [
-        "leadership",
-        "data-culture",
-        "analytics-engineering",
-        "strategy"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
-      "conference_themes": [
-        "cloud",
-        "devops",
-        "web",
-        "open-source",
-        "leadership",
-        "testing",
-        "ai",
-        "data",
-        "security",
-        "education",
-        "iot"
-      ],
-      "conference_categories": [
-        "and emerging technologies",
-        "architecture",
-        "leadership"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "leadership",
-          "data-culture",
-          "analytics-engineering",
-          "strategy"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.345,
-        "tag_relevance": 0.336,
-        "talk_match_score": 0.059,
-        "urgency_score": 0.6,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.661150+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 9.0)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.661154+00:00",
-      "updated_at": "2026-04-08T12:28:22.661156+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -5023,16 +5023,21 @@
         "priority": "low",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-06-09T09:49:04.054754+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 4.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-07-10T09:37:44.820673+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-06-09T09:49:04.054763+00:00",
-      "updated_at": "2026-06-09T09:49:04.054766+00:00",
+      "updated_at": "2026-07-10T09:37:44.820682+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -5648,16 +5653,21 @@
         "priority": "low",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-07-02T09:15:13.758414+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 4.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-07-10T09:37:44.820730+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-07-02T09:15:13.758416+00:00",
-      "updated_at": "2026-07-02T09:15:13.758418+00:00",
+      "updated_at": "2026-07-10T09:37:44.820734+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
