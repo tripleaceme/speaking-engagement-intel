@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-10T09:37:42.449442+00:00",
-    "total_cfps": 92,
-    "open_cfps": 47,
+    "last_crawled": "2026-07-11T07:58:12.094610+00:00",
+    "total_cfps": 94,
+    "open_cfps": 46,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 2,
+    "new_this_run": 2,
+    "expired_this_run": 3,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-07-10T09:37:44.765193+00:00",
+    "last_scored": "2026-07-11T07:58:22.180960+00:00",
     "high_priority": 0,
     "medium_priority": 5,
-    "above_threshold": 37
+    "above_threshold": 36
   },
   "cfps": [
     {
@@ -4127,18 +4127,8 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-18T07:12:13.935851+00:00",
-      "status": "open",
-      "match_scores": {
-        "composite_score": 0.395,
-        "tag_relevance": 0.223,
-        "talk_match_score": 0.022,
-        "urgency_score": 1.0,
-        "format_score": 0.8,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "status": "expired",
+      "match_scores": null
     },
     {
       "id": "925345156dea5ecc",
@@ -4160,7 +4150,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-18T07:12:14.016907+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -4172,17 +4162,7 @@
         }
       ],
       "enriched_at": "2026-04-18T07:12:20.157358+00:00",
-      "match_scores": {
-        "composite_score": 0.377,
-        "tag_relevance": 0.172,
-        "talk_match_score": 0.022,
-        "urgency_score": 1.0,
-        "format_score": 0.8,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "af994e2077bdc748",
@@ -4423,18 +4403,8 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-18T07:12:14.276648+00:00",
-      "status": "open",
-      "match_scores": {
-        "composite_score": 0.31,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
-        "urgency_score": 1.0,
-        "format_score": 0.8,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "status": "expired",
+      "match_scores": null
     },
     {
       "id": "f05c47c6a5e87f79",
@@ -6464,6 +6434,183 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "partial"
+      }
+    },
+    {
+      "id": "850c50fff292a225",
+      "source": "callfordataspeakers",
+      "title": "SQL Saturday Toronto 2026",
+      "url": "https://sessionize.com/sql-saturday-toronto-2026",
+      "cfp_url": "https://sessionize.com/sql-saturday-toronto-2026",
+      "description": "Data conference \u2014 Microsoft Toronto HQ, 81 Bay St., Toronto, ON M5J 0E7",
+      "tags": [
+        "web",
+        "data",
+        "database",
+        "education",
+        "north america",
+        "ai",
+        "conference"
+      ],
+      "deadline": "",
+      "event_date": "2026-09-26",
+      "location": "Microsoft Toronto HQ, 81 Bay St., Toronto, ON M5J 0E7",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-07-11T07:58:11.732823+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "prerequisites should be expected of atte",
+        "any data platform",
+        "related technical subject or non",
+        "if any",
+        "what the audience will learn",
+        "and which",
+        "technical\u00a0 session length: 60 minutes (includes 5"
+      ],
+      "submission_fields": [
+        "abstract",
+        "description",
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-07-11T07:58:12.685373+00:00",
+      "match_scores": {
+        "composite_score": 0.341,
+        "tag_relevance": 0.55,
+        "talk_match_score": 0.044,
+        "urgency_score": 0.1,
+        "format_score": 0.6,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "699a153020787f6e",
+      "source": "callfordataspeakers",
+      "title": "4th International Conference on Machine Learning, Artificial Intelligence & Data Science ",
+      "url": "https://artificialintelligence2027.pagesconferences.org/speakers",
+      "cfp_url": "https://artificialintelligence2027.pagesconferences.org/speakers",
+      "description": "He serves as expert evaluator for the EC, several national science foundations, EU-funded project Open Calls, and as advisory board member of 11 European research projects, covering various roles in other 26. He has expertise in wireless systems, spectrum management, HW-optimization of AI/ML algorithms, standardization, innovation management, and business aspects. He is the author of 130+ peer-reviewed publications, TPC member of 280+ conferences and reviewer for 100+ journals.",
+      "tags": [
+        "web",
+        "iot",
+        "security",
+        "europe",
+        "data",
+        "open-source",
+        "cloud",
+        "leadership",
+        "education",
+        "devops",
+        "testing",
+        "ai",
+        "conference"
+      ],
+      "deadline": "",
+      "event_date": "2027-05-24",
+      "location": "Berlin, Germany",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-07-11T07:58:11.733047+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "education",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "iot",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "submit abstract",
+        "data science",
+        "based reasoning and pattern recognition",
+        "machine learning",
+        "and information systems",
+        "information security",
+        "include artificial intelligence",
+        "case",
+        "with special interests in temporal logic"
+      ],
+      "submission_fields": [
+        "abstract",
+        "bio",
+        "biography",
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-07-11T07:58:22.108852+00:00",
+      "match_scores": {
+        "composite_score": 0.336,
+        "tag_relevance": 0.49,
+        "talk_match_score": 0.098,
+        "urgency_score": 0.1,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
       }
     }
   ]

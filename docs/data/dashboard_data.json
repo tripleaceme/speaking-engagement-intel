@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-10T09:37:44.868755+00:00",
+  "generated_at": "2026-07-11T07:58:22.292785+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 92,
-    "open_cfps": 47,
-    "expired_cfps": 45,
-    "total_applications": 82,
-    "drafts": 37,
+    "total_cfps_discovered": 94,
+    "open_cfps": 46,
+    "expired_cfps": 48,
+    "total_applications": 84,
+    "drafts": 36,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 45,
+    "expired_apps": 48,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-10T09:37:42.449442+00:00",
+    "last_crawled": "2026-07-11T07:58:12.094610+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 42
+    "travel_unknown": 41
   },
   "timeline": [
     {
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 26
+      "draft": 24
     },
     {
       "month": "2026-05",
@@ -47,7 +47,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 4
+      "draft": 3
     },
     {
       "month": "2026-07",
@@ -55,13 +55,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 3
+      "draft": 5
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 41
+      "count": 43
     },
     {
       "source": "confs.tech",
@@ -83,52 +83,52 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 5,
-    "low": 42
+    "low": 41
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "web",
-      "count": 39
+      "count": 41
     },
     {
       "tag": "open-source",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "data",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "cloud",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "leadership",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "database",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "education",
-      "count": 22
+      "count": 24
     },
     {
       "tag": "security",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "devops",
-      "count": 17
+      "count": 18
     },
     {
       "tag": "conference",
-      "count": 16
+      "count": 18
     },
     {
       "tag": "call-for-papers",
@@ -140,6 +140,10 @@
     },
     {
       "tag": "usergroup",
+      "count": 8
+    },
+    {
+      "tag": "europe",
       "count": 8
     },
     {
@@ -155,32 +159,32 @@
       "count": 7
     },
     {
-      "tag": "europe",
-      "count": 7
-    },
-    {
-      "tag": "online",
-      "count": 6
-    },
-    {
       "tag": "blockchain",
       "count": 6
     },
     {
-      "tag": "python",
-      "count": 6
+      "tag": "iot",
+      "count": 5
     },
     {
       "tag": "events",
       "count": 5
     },
     {
-      "tag": "iot",
-      "count": 4
+      "tag": "python",
+      "count": 5
     },
     {
       "tag": "mobile",
       "count": 4
+    },
+    {
+      "tag": "north america",
+      "count": 4
+    },
+    {
+      "tag": "online",
+      "count": 3
     },
     {
       "tag": "call-for-paper",
@@ -195,15 +199,11 @@
       "count": 3
     },
     {
-      "tag": "north america",
-      "count": 3
-    },
-    {
-      "tag": "javascript",
-      "count": 3
-    },
-    {
       "tag": "tech-conference",
+      "count": 2
+    },
+    {
+      "tag": "talk-proposals",
       "count": 2
     }
   ],
@@ -334,52 +334,6 @@
       "event_type": "conference, precon"
     },
     {
-      "id": "179c401cecea9796",
-      "title": "XtremeAI Online Conference",
-      "source": "confs.tech",
-      "url": "https://tinyurl.com/xtreme2026",
-      "deadline": "2026-07-10",
-      "event_date": "2026-11-24",
-      "location": "TBD, TBD",
-      "is_online": true,
-      "tags": [
-        "data",
-        "online"
-      ],
-      "score": 0.395,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.223,
-      "talk_match": 0.022,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "925345156dea5ecc",
-      "title": "XtremePython Online Conference",
-      "source": "confs.tech",
-      "url": "http://www.zindell.com/documents/codeofconduct.pdf",
-      "deadline": "2026-07-10",
-      "event_date": "2026-11-17",
-      "location": "TBD, TBD",
-      "is_online": true,
-      "tags": [
-        "python",
-        "online",
-        "ai",
-        "testing"
-      ],
-      "score": 0.377,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.172,
-      "talk_match": 0.022,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "0a75fc53d01cae41",
       "title": "WeAreDevelopers Conference India",
       "source": "confs.tech",
@@ -401,6 +355,56 @@
       "tag_relevance": 0.336,
       "talk_match": 0.059,
       "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "850c50fff292a225",
+      "title": "SQL Saturday Toronto 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sql-saturday-toronto-2026",
+      "deadline": "",
+      "event_date": "2026-09-26",
+      "location": "Microsoft Toronto HQ, 81 Bay St., Toronto, ON M5J 0E7",
+      "is_online": false,
+      "tags": [
+        "web",
+        "data",
+        "database",
+        "education",
+        "north america"
+      ],
+      "score": 0.341,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.55,
+      "talk_match": 0.044,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "699a153020787f6e",
+      "title": "4th International Conference on Machine Learning, Artificial Intelligence & Data Science ",
+      "source": "callfordataspeakers",
+      "url": "https://artificialintelligence2027.pagesconferences.org/speakers",
+      "deadline": "",
+      "event_date": "2027-05-24",
+      "location": "Berlin, Germany",
+      "is_online": false,
+      "tags": [
+        "web",
+        "iot",
+        "security",
+        "europe",
+        "data"
+      ],
+      "score": 0.336,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.49,
+      "talk_match": 0.098,
+      "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -680,24 +684,27 @@
       "event_type": "usergroup"
     },
     {
-      "id": "043ad5dafbcf0a2f",
-      "title": "XtremeJS Online Conference",
+      "id": "2353c784b684765d",
+      "title": "Global Summit on Data Science and Cloud Computing",
       "source": "confs.tech",
-      "url": "https://tinyurl.com/xtreme2026",
-      "deadline": "2026-07-10",
-      "event_date": "2026-11-10",
-      "location": "TBD, TBD",
-      "is_online": true,
+      "url": "https://datascience.novelticsconferences.com/register",
+      "deadline": "2026-10-15",
+      "event_date": "2026-10-19",
+      "location": "Rome, Italy",
+      "is_online": false,
       "tags": [
-        "javascript",
-        "online"
+        "cloud",
+        "education",
+        "testing",
+        "ai",
+        "leadership"
       ],
-      "score": 0.31,
+      "score": 0.301,
       "priority": "low",
-      "suggested_talk": null,
-      "tag_relevance": 0.0,
-      "talk_match": 0.0,
-      "urgency": 1.0,
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.331,
+      "talk_match": 0.118,
+      "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     }
@@ -1251,7 +1258,7 @@
       "cfp_url": "https://tinyurl.com/xtreme2026",
       "deadline": "2026-07-10",
       "event_date": "2026-11-24",
-      "status": "draft",
+      "status": "expired",
       "score": 0.395,
       "priority": "low",
       "created_at": "2026-04-18T07:12:25.442632+00:00",
@@ -1291,7 +1298,7 @@
       "cfp_url": "http://www.zindell.com/documents/codeofconduct.pdf",
       "deadline": "2026-07-10",
       "event_date": "2026-11-17",
-      "status": "draft",
+      "status": "expired",
       "score": 0.377,
       "priority": "low",
       "created_at": "2026-04-18T07:12:25.442699+00:00",
@@ -1520,6 +1527,46 @@
       "notes": "",
       "travel_sponsorship": "unknown",
       "match_reason": "Conference themes align with 'devops' (score: 5.0)",
+      "is_online": false,
+      "event_location": "Berlin, Germany"
+    },
+    {
+      "id": "5bc163f444c33404",
+      "cfp_title": "SQL Saturday Toronto 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sql-saturday-toronto-2026",
+      "deadline": "",
+      "event_date": "2026-09-26",
+      "status": "draft",
+      "score": 0.341,
+      "priority": "low",
+      "created_at": "2026-07-11T07:58:22.235252+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 5.3)",
+      "is_online": false,
+      "event_location": "Microsoft Toronto HQ, 81 Bay St., Toronto, ON M5J 0E7"
+    },
+    {
+      "id": "4f6591892d5e0470",
+      "cfp_title": "4th International Conference on Machine Learning, Artificial Intelligence & Data Science ",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://artificialintelligence2027.pagesconferences.org/speakers",
+      "deadline": "",
+      "event_date": "2027-05-24",
+      "status": "draft",
+      "score": 0.336,
+      "priority": "low",
+      "created_at": "2026-07-11T07:58:22.235401+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 8.8)",
       "is_online": false,
       "event_location": "Berlin, Germany"
     },
@@ -1911,7 +1958,7 @@
       "cfp_url": "https://tinyurl.com/xtreme2026",
       "deadline": "2026-07-10",
       "event_date": "2026-11-10",
-      "status": "draft",
+      "status": "expired",
       "score": 0.31,
       "priority": "low",
       "created_at": "2026-06-10T10:04:24.888919+00:00",
@@ -2355,7 +2402,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 18,
+      "applications": 20,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2411,33 +2458,6 @@
     }
   ],
   "upcoming_deadlines": [
-    {
-      "title": "XtremeAI Online Conference",
-      "deadline": "2026-07-10",
-      "source": "confs.tech",
-      "score": 0.395,
-      "url": "https://tinyurl.com/xtreme2026",
-      "travel_sponsorship": "unknown",
-      "location": "TBD, TBD"
-    },
-    {
-      "title": "XtremePython Online Conference",
-      "deadline": "2026-07-10",
-      "source": "confs.tech",
-      "score": 0.377,
-      "url": "http://www.zindell.com/documents/codeofconduct.pdf",
-      "travel_sponsorship": "unknown",
-      "location": "TBD, TBD"
-    },
-    {
-      "title": "XtremeJS Online Conference",
-      "deadline": "2026-07-10",
-      "source": "confs.tech",
-      "score": 0.31,
-      "url": "https://tinyurl.com/xtreme2026",
-      "travel_sponsorship": "unknown",
-      "location": "TBD, TBD"
-    },
     {
       "title": "Data Day Edinburgh 2026",
       "deadline": "2026-07-12",
@@ -2500,6 +2520,33 @@
       "url": "https://sessionize.com/sqlday-lite-2026",
       "travel_sponsorship": "unknown",
       "location": "Gda\u0144sk, Poland"
+    },
+    {
+      "title": "React Day Berlin",
+      "deadline": "2026-08-12",
+      "source": "confs.tech",
+      "score": 0.2,
+      "url": "https://gitnation.com/events/react-day-berlin-2026/cfp",
+      "travel_sponsorship": "unknown",
+      "location": "Berlin, Germany"
+    },
+    {
+      "title": "Triangle SQL Server User Group 2026",
+      "deadline": "2026-08-30",
+      "source": "callfordataspeakers",
+      "score": 0.43,
+      "url": "https://sessionize.com/tripass-2026",
+      "travel_sponsorship": "unknown",
+      "location": "VIrtual"
+    },
+    {
+      "title": "Ticino Data Conference 2026",
+      "deadline": "2026-08-31",
+      "source": "callfordataspeakers",
+      "score": 0.256,
+      "url": "https://sessionize.com/ticino-data-conference-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Bioggio, Switzerland"
     }
   ]
 }
