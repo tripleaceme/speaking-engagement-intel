@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-11T07:58:12.094610+00:00",
-    "total_cfps": 94,
-    "open_cfps": 46,
+    "last_crawled": "2026-07-12T08:19:56.226760+00:00",
+    "total_cfps": 95,
+    "open_cfps": 47,
     "sources_checked": 9,
-    "new_this_run": 2,
-    "expired_this_run": 3,
+    "new_this_run": 1,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-07-11T07:58:22.180960+00:00",
+    "last_scored": "2026-07-12T08:19:56.388448+00:00",
     "high_priority": 0,
     "medium_priority": 5,
-    "above_threshold": 36
+    "above_threshold": 37
   },
   "cfps": [
     {
@@ -6609,6 +6609,38 @@
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "f6728ec3591d3856",
+      "source": "callfordataspeakers",
+      "title": "SQL Saturday Toronto 2026",
+      "url": "1.\thttps://sessionize.com/sql-saturday-toronto-2026",
+      "cfp_url": "1.\thttps://sessionize.com/sql-saturday-toronto-2026",
+      "description": "Data external \u2014 Microsoft Toronto HQ, 81 Bay St.,, Toronto, ON  M5J 0E7,",
+      "tags": [
+        "data",
+        "external",
+        "in-person"
+      ],
+      "deadline": "",
+      "event_date": "2026-09-26",
+      "location": "Microsoft Toronto HQ, 81 Bay St.,, Toronto, ON  M5J 0E7,",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "external",
+      "discovered_at": "2026-07-12T08:19:55.457585+00:00",
+      "status": "open",
+      "match_scores": {
+        "composite_score": 0.264,
+        "tag_relevance": 0.386,
+        "talk_match_score": 0.044,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }

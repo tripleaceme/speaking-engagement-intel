@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-11T07:58:22.292785+00:00",
+  "generated_at": "2026-07-12T08:19:56.506464+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 94,
-    "open_cfps": 46,
+    "total_cfps_discovered": 95,
+    "open_cfps": 47,
     "expired_cfps": 48,
-    "total_applications": 84,
-    "drafts": 36,
+    "total_applications": 85,
+    "drafts": 37,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 48,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-11T07:58:12.094610+00:00",
+    "last_crawled": "2026-07-12T08:19:56.226760+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 41
+    "travel_unknown": 42
   },
   "timeline": [
     {
@@ -55,13 +55,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 5
+      "draft": 6
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 43
+      "count": 44
     },
     {
       "source": "confs.tech",
@@ -83,7 +83,7 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 5,
-    "low": 41
+    "low": 42
   },
   "tag_cloud": [
     {
@@ -100,7 +100,7 @@
     },
     {
       "tag": "data",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "cloud",
@@ -135,6 +135,14 @@
       "count": 9
     },
     {
+      "tag": "in-person",
+      "count": 9
+    },
+    {
+      "tag": "external",
+      "count": 9
+    },
+    {
       "tag": "testing",
       "count": 8
     },
@@ -144,14 +152,6 @@
     },
     {
       "tag": "europe",
-      "count": 8
-    },
-    {
-      "tag": "in-person",
-      "count": 8
-    },
-    {
-      "tag": "external",
       "count": 8
     },
     {
@@ -2191,6 +2191,26 @@
       "event_location": "Reynolds Community College, 1651 E Parham Rd, Richmond, VA 23228,"
     },
     {
+      "id": "543adc293b313f97",
+      "cfp_title": "SQL Saturday Toronto 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "1.\thttps://sessionize.com/sql-saturday-toronto-2026",
+      "deadline": "",
+      "event_date": "2026-09-26",
+      "status": "draft",
+      "score": 0.264,
+      "priority": "low",
+      "created_at": "2026-07-12T08:19:56.447518+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 2.5)",
+      "is_online": false,
+      "event_location": "Microsoft Toronto HQ, 81 Bay St.,, Toronto, ON  M5J 0E7,"
+    },
+    {
       "id": "ab70c364fbf1374a",
       "cfp_title": "FrontKon",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2402,7 +2422,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 20,
+      "applications": 21,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
