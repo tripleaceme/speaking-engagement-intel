@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-12T08:19:56.226760+00:00",
-    "total_cfps": 95,
+    "last_crawled": "2026-07-13T09:30:09.715805+00:00",
+    "total_cfps": 96,
     "open_cfps": 47,
     "sources_checked": 9,
     "new_this_run": 1,
-    "expired_this_run": 0,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-07-12T08:19:56.388448+00:00",
+    "last_scored": "2026-07-13T09:30:10.714639+00:00",
     "high_priority": 0,
-    "medium_priority": 5,
+    "medium_priority": 4,
     "above_threshold": 37
   },
   "cfps": [
@@ -4501,10 +4501,10 @@
       ],
       "enriched_at": "2026-04-18T07:12:25.317427+00:00",
       "match_scores": {
-        "composite_score": 0.2,
+        "composite_score": 0.23,
         "tag_relevance": 0.0,
         "talk_match_score": 0.0,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.7,
         "suggested_talk": null,
         "suggested_talk_level": null,
@@ -5634,7 +5634,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-05-29T09:56:58.852170+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -5673,17 +5673,7 @@
         "twitter"
       ],
       "enriched_at": "2026-05-29T09:57:02.958261+00:00",
-      "match_scores": {
-        "composite_score": 0.453,
-        "tag_relevance": 0.51,
-        "talk_match_score": 0.082,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-        "suggested_talk_level": "intermediate",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "0d94c8eca7d2ef0a",
@@ -6641,6 +6631,81 @@
         "format_score": 0.5,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "b42ae61aee1c799b",
+      "source": "callfordataspeakers",
+      "title": "FABRIC WINTERFEST 2026",
+      "url": "https://sessionize.com/fabricwinterfest-2026",
+      "cfp_url": "https://sessionize.com/fabricwinterfest-2026",
+      "description": "FABRIC WINTERFEST 2026: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. be\r\n Let\u2019s connect, collaborate, and grow the Microsoft Fabric ecosystem together.",
+      "tags": [
+        "europe",
+        "open-source",
+        "conference",
+        "data",
+        "web",
+        "ai",
+        "education",
+        "leadership"
+      ],
+      "deadline": "2026-08-31",
+      "event_date": "2026-12-04",
+      "location": "Wilrijk, Belgium",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-07-13T09:30:08.919605+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "technical or customer use case (customer must co",
+        "intermediate or advanced session length:\u00a0 45 minutes",
+        "present) session level: introductory"
+      ],
+      "submission_fields": [
+        "title",
+        "abstract",
+        "session type",
+        "twitter"
+      ],
+      "enriched_at": "2026-07-13T09:30:10.635905+00:00",
+      "match_scores": {
+        "composite_score": 0.301,
+        "tag_relevance": 0.352,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.4,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }

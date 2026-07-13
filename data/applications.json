@@ -1,19 +1,19 @@
 {
   "metadata": {
-    "last_updated": "2026-07-12T08:19:56.451624+00:00",
-    "total_applications": 85,
+    "last_updated": "2026-07-13T09:30:10.782416+00:00",
+    "total_applications": 86,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
     "total_drafts": 37,
-    "total_expired": 48,
+    "total_expired": 49,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 48,
+      "expired": 49,
       "draft": 37
     },
-    "unique_talk_titles": 7
+    "unique_talk_titles": 8
   },
   "applications": [
     {
@@ -425,16 +425,21 @@
         "priority": "medium",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-05-29T09:57:03.084605+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 7.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-07-13T09:30:10.782217+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-05-29T09:57:03.084612+00:00",
-      "updated_at": "2026-05-29T09:57:03.084614+00:00",
+      "updated_at": "2026-07-13T09:30:10.782224+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -5367,6 +5372,85 @@
       ],
       "created_at": "2026-04-08T12:28:22.660903+00:00",
       "updated_at": "2026-04-08T12:28:22.660905+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "c0c1558fe3d0831e",
+      "cfp_id": "b42ae61aee1c799b",
+      "cfp_title": "FABRIC WINTERFEST 2026",
+      "cfp_url": "https://sessionize.com/fabricwinterfest-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-08-31",
+      "event_date": "2026-12-04",
+      "event_location": "Wilrijk, Belgium",
+      "is_online": false,
+      "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
+      "talk_abstract": "Your data team needs internal tools but doesn't have frontend engineers. I built three production Streamlit apps \u2014 a Data Modification Hub (70% accuracy improvement), a custom ingestion hub (replaced $3K SaaS), and an orchestration locking hub (prevents pipeline conflicts). This talk shows how to go from Python script to production app: database connections, authentication, state management, and deployment patterns that your team will actually adopt.",
+      "talk_tags": [
+        "streamlit",
+        "python",
+        "internal-tools",
+        "data-apps",
+        "snowflake"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'web' (score: 4.5)",
+      "conference_themes": [
+        "web",
+        "ai",
+        "data",
+        "open-source",
+        "leadership",
+        "education"
+      ],
+      "conference_categories": [
+        "technical or customer use case (customer must co",
+        "intermediate or advanced session length:\u00a0 45 minutes",
+        "present) session level: introductory"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
+        "abstract": "Your data team needs internal tools but doesn't have frontend engineers. I built three production Streamlit apps \u2014 a Data Modification Hub (70% accuracy improvement), a custom ingestion hub (replaced $3K SaaS), and an orchestration locking hub (prevents pipeline conflicts). This talk shows how to go from Python script to production app: database connections, authentication, state management, and deployment patterns that your team will actually adopt.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "streamlit",
+          "python",
+          "internal-tools",
+          "data-apps",
+          "snowflake"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.301,
+        "tag_relevance": 0.352,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.4,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-07-13T09:30:10.779811+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'web' (score: 4.5)"
+        }
+      ],
+      "created_at": "2026-07-13T09:30:10.779823+00:00",
+      "updated_at": "2026-07-13T09:30:10.779825+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
