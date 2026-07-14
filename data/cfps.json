@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-13T09:30:09.715805+00:00",
+    "last_crawled": "2026-07-14T08:08:05.587545+00:00",
     "total_cfps": 96,
-    "open_cfps": 47,
+    "open_cfps": 46,
     "sources_checked": 9,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "expired_this_run": 1,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-07-13T09:30:10.714639+00:00",
+    "last_scored": "2026-07-14T08:08:05.736245+00:00",
     "high_priority": 0,
     "medium_priority": 4,
-    "above_threshold": 37
+    "above_threshold": 36
   },
   "cfps": [
     {
@@ -2210,10 +2210,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:34.263768+00:00",
       "match_scores": {
-        "composite_score": 0.313,
+        "composite_score": 0.343,
         "tag_relevance": 0.34,
         "talk_match_score": 0.078,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.7,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -2798,10 +2798,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:42.384889+00:00",
       "match_scores": {
-        "composite_score": 0.311,
+        "composite_score": 0.341,
         "tag_relevance": 0.346,
         "talk_match_score": 0.067,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.7,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
@@ -4424,7 +4424,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-18T07:12:14.276662+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -4432,17 +4432,7 @@
         }
       ],
       "enriched_at": "2026-04-18T07:12:24.436657+00:00",
-      "match_scores": {
-        "composite_score": 0.25,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "d2ce48bff79192a5",

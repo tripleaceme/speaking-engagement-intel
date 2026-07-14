@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T09:30:10.837348+00:00",
+  "generated_at": "2026-07-14T08:08:05.840349+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 96,
-    "open_cfps": 47,
-    "expired_cfps": 49,
+    "open_cfps": 46,
+    "expired_cfps": 50,
     "total_applications": 86,
-    "drafts": 37,
+    "drafts": 36,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 49,
+    "expired_apps": 50,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-13T09:30:09.715805+00:00",
+    "last_crawled": "2026-07-14T08:08:05.587545+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 42
+    "travel_unknown": 41
   },
   "timeline": [
     {
@@ -55,7 +55,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 7
+      "draft": 6
     }
   ],
   "source_breakdown": [
@@ -83,12 +83,12 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 4,
-    "low": 43
+    "low": 42
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 46
+      "count": 45
     },
     {
       "tag": "web",
@@ -332,6 +332,56 @@
       "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
+    },
+    {
+      "id": "0486b7fd0e05c814",
+      "title": "Persian and Fabric Power BI User Group",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/persian-power-bi-user-group",
+      "deadline": "2026-09-12",
+      "event_date": "2025-09-25",
+      "location": "Online",
+      "is_online": true,
+      "tags": [
+        "education",
+        "ai",
+        "leadership",
+        "open-source",
+        "usergroup"
+      ],
+      "score": 0.343,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.34,
+      "talk_match": 0.078,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
+      "id": "c3c30f2797ec1bba",
+      "title": "SQL Server User Group Croatia 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
+      "deadline": "2026-09-12",
+      "event_date": "2026-04-08",
+      "location": "online",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "database",
+        "ai",
+        "open-source",
+        "usergroup"
+      ],
+      "score": 0.341,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.346,
+      "talk_match": 0.067,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     },
     {
       "id": "850c50fff292a225",
@@ -584,31 +634,6 @@
       "event_type": ""
     },
     {
-      "id": "0486b7fd0e05c814",
-      "title": "Persian and Fabric Power BI User Group",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/persian-power-bi-user-group",
-      "deadline": "2026-09-12",
-      "event_date": "2025-09-25",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "education",
-        "ai",
-        "leadership",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.313,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.34,
-      "talk_match": 0.078,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
-    },
-    {
       "id": "6bf84ef1128c1e5f",
       "title": "pretalx/pretalx",
       "source": "github",
@@ -632,31 +657,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
-    },
-    {
-      "id": "c3c30f2797ec1bba",
-      "title": "SQL Server User Group Croatia 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
-      "deadline": "2026-09-12",
-      "event_date": "2026-04-08",
-      "location": "online",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "database",
-        "ai",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.311,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.346,
-      "talk_match": 0.067,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     },
     {
       "id": "2353c784b684765d",
@@ -1511,6 +1511,26 @@
       "event_location": "New York City, New York, United States"
     },
     {
+      "id": "2fbe4cba6f0c1a5b",
+      "cfp_title": "Persian and Fabric Power BI User Group",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/persian-power-bi-user-group",
+      "deadline": "2026-09-12",
+      "event_date": "2025-09-25",
+      "status": "draft",
+      "score": 0.343,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.663534+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 19.0)",
+      "is_online": true,
+      "event_location": "Online"
+    },
+    {
       "id": "7e85ca613dd5b674",
       "cfp_title": "Software Architecture Gathering",
       "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
@@ -1549,6 +1569,26 @@
       "match_reason": "Conference themes align with 'data' (score: 5.3)",
       "is_online": false,
       "event_location": "Microsoft Toronto HQ, 81 Bay St., Toronto, ON M5J 0E7"
+    },
+    {
+      "id": "e908cd9b2c4ccf0f",
+      "cfp_title": "SQL Server User Group Croatia 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sql-server-user-group-croatia-26",
+      "deadline": "2026-09-12",
+      "event_date": "2026-04-08",
+      "status": "draft",
+      "score": 0.341,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.664375+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 8.8)",
+      "is_online": true,
+      "event_location": "online"
     },
     {
       "id": "4f6591892d5e0470",
@@ -1831,26 +1871,6 @@
       "event_location": ""
     },
     {
-      "id": "2fbe4cba6f0c1a5b",
-      "cfp_title": "Persian and Fabric Power BI User Group",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/persian-power-bi-user-group",
-      "deadline": "2026-09-12",
-      "event_date": "2025-09-25",
-      "status": "draft",
-      "score": 0.313,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.663534+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 19.0)",
-      "is_online": true,
-      "event_location": "Online"
-    },
-    {
       "id": "9f094061ee9949e3",
       "cfp_title": "pretalx/pretalx",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1869,26 +1889,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 10.5)",
       "is_online": true,
       "event_location": ""
-    },
-    {
-      "id": "e908cd9b2c4ccf0f",
-      "cfp_title": "SQL Server User Group Croatia 2026",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/sql-server-user-group-croatia-26",
-      "deadline": "2026-09-12",
-      "event_date": "2026-04-08",
-      "status": "draft",
-      "score": 0.311,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.664375+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 8.8)",
-      "is_online": true,
-      "event_location": "online"
     },
     {
       "id": "0178fbaa5b7d8e18",
@@ -2418,7 +2418,7 @@
       "cfp_url": "https://gitnation.com/events/jsnation-us-2026/cfp",
       "deadline": "2026-07-13",
       "event_date": "2026-11-16",
-      "status": "draft",
+      "status": "expired",
       "score": 0.25,
       "priority": "low",
       "created_at": "2026-07-06T10:26:02.805561+00:00",
@@ -2507,15 +2507,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "JSNation US",
-      "deadline": "2026-07-13",
-      "source": "confs.tech",
-      "score": 0.25,
-      "url": "https://gitnation.com/events/jsnation-us-2026/cfp",
-      "travel_sponsorship": "unknown",
-      "location": "New York, NY, U.S.A."
-    },
-    {
       "title": "Power Conference 2026",
       "deadline": "2026-07-14",
       "source": "callfordataspeakers",
@@ -2595,6 +2586,15 @@
       "url": "https://sessionize.com/fabricwinterfest-2026",
       "travel_sponsorship": "unknown",
       "location": "Wilrijk, Belgium"
+    },
+    {
+      "title": "Persian and Fabric Power BI User Group",
+      "deadline": "2026-09-12",
+      "source": "callfordataspeakers",
+      "score": 0.343,
+      "url": "https://sessionize.com/persian-power-bi-user-group",
+      "travel_sponsorship": "unknown",
+      "location": "Online"
     }
   ]
 }

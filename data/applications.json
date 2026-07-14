@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-07-13T09:30:10.782416+00:00",
+    "last_updated": "2026-07-14T08:08:05.791093+00:00",
     "total_applications": 86,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 37,
-    "total_expired": 49,
+    "total_drafts": 36,
+    "total_expired": 50,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 49,
-      "draft": 37
+      "expired": 50,
+      "draft": 36
     },
     "unique_talk_titles": 8
   },
@@ -3424,6 +3424,95 @@
       "notes": ""
     },
     {
+      "id": "2fbe4cba6f0c1a5b",
+      "cfp_id": "0486b7fd0e05c814",
+      "cfp_title": "Persian and Fabric Power BI User Group",
+      "cfp_url": "https://sessionize.com/persian-power-bi-user-group",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-09-12",
+      "event_date": "2025-09-25",
+      "event_location": "Online",
+      "is_online": true,
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+      "talk_tags": [
+        "dbt",
+        "data-quality",
+        "documentation",
+        "analytics-engineering",
+        "ai"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'data' (score: 19.0)",
+      "conference_themes": [
+        "data",
+        "web",
+        "open-source",
+        "education",
+        "ai",
+        "leadership"
+      ],
+      "conference_categories": [
+        "data governance",
+        "such as power bi",
+        "and industry case studies",
+        "visualisation) microsoft fabric (data engineering",
+        "warehousing",
+        "microsoft fabric",
+        "data modelling",
+        "data science",
+        "we\u2019re looking for: power bi (reports",
+        "real",
+        "modern data platforms",
+        "time analytics",
+        "data visualisation"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "dbt",
+          "data-quality",
+          "documentation",
+          "analytics-engineering",
+          "ai"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.343,
+        "tag_relevance": 0.34,
+        "talk_match_score": 0.078,
+        "urgency_score": 0.4,
+        "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.663531+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 19.0)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.663534+00:00",
+      "updated_at": "2026-04-08T12:28:22.663536+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "7e85ca613dd5b674",
       "cfp_id": "9291ed9d480d3a65",
       "cfp_title": "Software Architecture Gathering",
@@ -3591,6 +3680,85 @@
       ],
       "created_at": "2026-07-11T07:58:22.235252+00:00",
       "updated_at": "2026-07-11T07:58:22.235254+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "e908cd9b2c4ccf0f",
+      "cfp_id": "c3c30f2797ec1bba",
+      "cfp_title": "SQL Server User Group Croatia 2026",
+      "cfp_url": "https://sessionize.com/sql-server-user-group-croatia-26",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-09-12",
+      "event_date": "2026-04-08",
+      "event_location": "online",
+      "is_online": true,
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+      "talk_tags": [
+        "sql",
+        "dbt",
+        "migration",
+        "database",
+        "snowflake",
+        "bigquery"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'database' (score: 8.8)",
+      "conference_themes": [
+        "cloud",
+        "database",
+        "ai",
+        "data",
+        "web",
+        "open-source"
+      ],
+      "conference_categories": [
+        "speakers willing to join us this and next year"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "sql",
+          "dbt",
+          "migration",
+          "database",
+          "snowflake",
+          "bigquery"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.341,
+        "tag_relevance": 0.346,
+        "talk_match_score": 0.067,
+        "urgency_score": 0.4,
+        "format_score": 0.7,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.664373+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 8.8)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.664375+00:00",
+      "updated_at": "2026-04-08T12:28:22.664377+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -4750,95 +4918,6 @@
       "notes": ""
     },
     {
-      "id": "2fbe4cba6f0c1a5b",
-      "cfp_id": "0486b7fd0e05c814",
-      "cfp_title": "Persian and Fabric Power BI User Group",
-      "cfp_url": "https://sessionize.com/persian-power-bi-user-group",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-09-12",
-      "event_date": "2025-09-25",
-      "event_location": "Online",
-      "is_online": true,
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-      "talk_tags": [
-        "dbt",
-        "data-quality",
-        "documentation",
-        "analytics-engineering",
-        "ai"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'data' (score: 19.0)",
-      "conference_themes": [
-        "data",
-        "web",
-        "open-source",
-        "education",
-        "ai",
-        "leadership"
-      ],
-      "conference_categories": [
-        "data governance",
-        "such as power bi",
-        "and industry case studies",
-        "visualisation) microsoft fabric (data engineering",
-        "warehousing",
-        "microsoft fabric",
-        "data modelling",
-        "data science",
-        "we\u2019re looking for: power bi (reports",
-        "real",
-        "modern data platforms",
-        "time analytics",
-        "data visualisation"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "dbt",
-          "data-quality",
-          "documentation",
-          "analytics-engineering",
-          "ai"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.313,
-        "tag_relevance": 0.34,
-        "talk_match_score": 0.078,
-        "urgency_score": 0.2,
-        "format_score": 0.7,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.663531+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 19.0)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.663534+00:00",
-      "updated_at": "2026-04-08T12:28:22.663536+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
       "id": "9f094061ee9949e3",
       "cfp_id": "6bf84ef1128c1e5f",
       "cfp_title": "pretalx/pretalx",
@@ -4920,85 +4999,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.662837+00:00",
       "updated_at": "2026-04-08T12:28:22.662839+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "e908cd9b2c4ccf0f",
-      "cfp_id": "c3c30f2797ec1bba",
-      "cfp_title": "SQL Server User Group Croatia 2026",
-      "cfp_url": "https://sessionize.com/sql-server-user-group-croatia-26",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-09-12",
-      "event_date": "2026-04-08",
-      "event_location": "online",
-      "is_online": true,
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
-      "talk_tags": [
-        "sql",
-        "dbt",
-        "migration",
-        "database",
-        "snowflake",
-        "bigquery"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'database' (score: 8.8)",
-      "conference_themes": [
-        "cloud",
-        "database",
-        "ai",
-        "data",
-        "web",
-        "open-source"
-      ],
-      "conference_categories": [
-        "speakers willing to join us this and next year"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "sql",
-          "dbt",
-          "migration",
-          "database",
-          "snowflake",
-          "bigquery"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.311,
-        "tag_relevance": 0.346,
-        "talk_match_score": 0.067,
-        "urgency_score": 0.2,
-        "format_score": 0.7,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.664373+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 8.8)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.664375+00:00",
-      "updated_at": "2026-04-08T12:28:22.664377+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -7150,16 +7150,21 @@
         "priority": "low",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-07-06T10:26:02.805554+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 4.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-07-14T08:08:05.791058+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-07-06T10:26:02.805561+00:00",
-      "updated_at": "2026-07-06T10:26:02.805564+00:00",
+      "updated_at": "2026-07-14T08:08:05.791064+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
