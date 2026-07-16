@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:13:15.197438+00:00",
+  "generated_at": "2026-07-16T08:16:14.475046+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,20 +7,20 @@
   },
   "summary": {
     "total_cfps_discovered": 96,
-    "open_cfps": 45,
-    "expired_cfps": 51,
+    "open_cfps": 44,
+    "expired_cfps": 52,
     "total_applications": 86,
-    "drafts": 35,
+    "drafts": 34,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 51,
+    "expired_apps": 52,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-15T08:13:14.940417+00:00",
+    "last_crawled": "2026-07-16T08:16:14.188052+00:00",
     "sources_checked": 9,
-    "travel_yes": 1,
+    "travel_yes": 0,
     "travel_partial": 4,
     "travel_unknown": 40
   },
@@ -47,7 +47,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 3
+      "draft": 2
     },
     {
       "month": "2026-07",
@@ -82,37 +82,37 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 3,
+    "medium": 2,
     "low": 42
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 44
+      "count": 43
     },
     {
       "tag": "web",
-      "count": 41
+      "count": 40
     },
     {
       "tag": "open-source",
-      "count": 37
+      "count": 36
     },
     {
       "tag": "data",
-      "count": 34
-    },
-    {
-      "tag": "leadership",
-      "count": 28
+      "count": 33
     },
     {
       "tag": "database",
       "count": 28
     },
     {
-      "tag": "cloud",
+      "tag": "leadership",
       "count": 27
+    },
+    {
+      "tag": "cloud",
+      "count": 26
     },
     {
       "tag": "education",
@@ -120,7 +120,7 @@
     },
     {
       "tag": "security",
-      "count": 20
+      "count": 19
     },
     {
       "tag": "conference",
@@ -128,7 +128,7 @@
     },
     {
       "tag": "devops",
-      "count": 16
+      "count": 15
     },
     {
       "tag": "call-for-papers",
@@ -143,12 +143,12 @@
       "count": 9
     },
     {
-      "tag": "testing",
+      "tag": "usergroup",
       "count": 8
     },
     {
-      "tag": "usergroup",
-      "count": 8
+      "tag": "testing",
+      "count": 7
     },
     {
       "tag": "cfp",
@@ -159,10 +159,6 @@
       "count": 7
     },
     {
-      "tag": "blockchain",
-      "count": 5
-    },
-    {
       "tag": "events",
       "count": 5
     },
@@ -171,7 +167,7 @@
       "count": 5
     },
     {
-      "tag": "iot",
+      "tag": "blockchain",
       "count": 4
     },
     {
@@ -179,11 +175,11 @@
       "count": 4
     },
     {
-      "tag": "online",
+      "tag": "iot",
       "count": 3
     },
     {
-      "tag": "mobile",
+      "tag": "online",
       "count": 3
     },
     {
@@ -199,6 +195,10 @@
       "count": 3
     },
     {
+      "tag": "mobile",
+      "count": 2
+    },
+    {
       "tag": "tech-conference",
       "count": 2
     },
@@ -208,6 +208,31 @@
     }
   ],
   "top_matches": [
+    {
+      "id": "26a5235847da3d44",
+      "title": "Agentic Engineering Days Zurich",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
+      "deadline": "2026-07-23",
+      "event_date": "2026-11-20",
+      "location": "Zurich, Switzerland",
+      "is_online": false,
+      "tags": [
+        "leadership",
+        "security",
+        "cloud",
+        "ai",
+        "web"
+      ],
+      "score": 0.454,
+      "priority": "medium",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.506,
+      "talk_match": 0.089,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
     {
       "id": "807c8a3e1afc3084",
       "title": "Triangle SQL Server User Group 2026",
@@ -232,56 +257,6 @@
       "urgency": 0.4,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
-    },
-    {
-      "id": "26a5235847da3d44",
-      "title": "Agentic Engineering Days Zurich",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
-      "deadline": "2026-07-23",
-      "event_date": "2026-11-20",
-      "location": "Zurich, Switzerland",
-      "is_online": false,
-      "tags": [
-        "leadership",
-        "security",
-        "cloud",
-        "ai",
-        "web"
-      ],
-      "score": 0.424,
-      "priority": "medium",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.506,
-      "talk_match": 0.089,
-      "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "03a19de23ecd84b3",
-      "title": "Great International AI Native Summit (GAINS)",
-      "source": "confs.tech",
-      "url": "https://ainativesummit.com/cfp",
-      "deadline": "2026-07-15",
-      "event_date": "2026-12-09",
-      "location": "Bangalore, India",
-      "is_online": false,
-      "tags": [
-        "leadership",
-        "ai",
-        "mobile",
-        "web",
-        "open-source"
-      ],
-      "score": 0.412,
-      "priority": "medium",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.328,
-      "talk_match": 0.089,
-      "urgency": 1.0,
-      "travel_sponsorship": "yes",
-      "event_type": "conference"
     },
     {
       "id": "0a75fc53d01cae41",
@@ -707,6 +682,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
+    },
+    {
+      "id": "a7f1d6ce283fab35",
+      "title": "I Built a CFP Copilot with Amazon Quick - From Prompt to Published App in Under 1 Hour",
+      "source": "dev.to",
+      "url": "https://dev.to/_76130e67067eab4c8510/i-built-a-cfp-copilot-with-amazon-quick-from-prompt-to-published-app-in-under-1-hour-1jba",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "web",
+        "ai",
+        "database",
+        "leadership"
+      ],
+      "score": 0.299,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.344,
+      "talk_match": 0.078,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
     }
   ],
   "applications": [
@@ -789,6 +789,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 5.0)",
       "is_online": true,
       "event_location": "Melbourne, Australia"
+    },
+    {
+      "id": "3aada1db0f19fc46",
+      "cfp_title": "Agentic Engineering Days Zurich",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
+      "deadline": "2026-07-23",
+      "event_date": "2026-11-20",
+      "status": "draft",
+      "score": 0.454,
+      "priority": "medium",
+      "created_at": "2026-05-08T07:44:54.680228+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
+      "is_online": false,
+      "event_location": "Zurich, Switzerland"
     },
     {
       "id": "f85369ea586136c2",
@@ -931,26 +951,6 @@
       "event_location": "Online"
     },
     {
-      "id": "3aada1db0f19fc46",
-      "cfp_title": "Agentic Engineering Days Zurich",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
-      "deadline": "2026-07-23",
-      "event_date": "2026-11-20",
-      "status": "draft",
-      "score": 0.424,
-      "priority": "medium",
-      "created_at": "2026-05-08T07:44:54.680228+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
-      "is_online": false,
-      "event_location": "Zurich, Switzerland"
-    },
-    {
       "id": "f05c499a51109afe",
       "cfp_title": "Power BI Days DC 2026",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -1078,7 +1078,7 @@
       "cfp_url": "https://ainativesummit.com/cfp",
       "deadline": "2026-07-15",
       "event_date": "2026-12-09",
-      "status": "draft",
+      "status": "expired",
       "score": 0.412,
       "priority": "medium",
       "created_at": "2026-06-01T11:38:54.356137+00:00",
@@ -2507,19 +2507,10 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Great International AI Native Summit (GAINS)",
-      "deadline": "2026-07-15",
-      "source": "confs.tech",
-      "score": 0.412,
-      "url": "https://ainativesummit.com/cfp",
-      "travel_sponsorship": "yes",
-      "location": "Bangalore, India"
-    },
-    {
       "title": "Agentic Engineering Days Zurich",
       "deadline": "2026-07-23",
       "source": "confs.tech",
-      "score": 0.424,
+      "score": 0.454,
       "url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
       "travel_sponsorship": "unknown",
       "location": "Zurich, Switzerland"
@@ -2595,6 +2586,15 @@
       "url": "https://sessionize.com/sql-server-user-group-croatia-26",
       "travel_sponsorship": "unknown",
       "location": "online"
+    },
+    {
+      "title": "The AI Conf",
+      "deadline": "2026-09-30",
+      "source": "confs.tech",
+      "score": 0.274,
+      "url": "https://theconf.ai/call-for-papers",
+      "travel_sponsorship": "partial",
+      "location": "Barcelona, Spain"
     }
   ]
 }

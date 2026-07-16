@@ -1,19 +1,19 @@
 {
   "metadata": {
-    "last_updated": "2026-07-15T08:13:15.146802+00:00",
+    "last_updated": "2026-07-16T08:16:14.443662+00:00",
     "total_applications": 86,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 35,
-    "total_expired": 51,
+    "total_drafts": 34,
+    "total_expired": 52,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 51,
-      "draft": 35
+      "expired": 52,
+      "draft": 34
     },
-    "unique_talk_titles": 8
+    "unique_talk_titles": 7
   },
   "applications": [
     {
@@ -356,6 +356,86 @@
       ],
       "created_at": "2026-04-27T08:29:46.475874+00:00",
       "updated_at": "2026-05-12T08:43:02.160797+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "3aada1db0f19fc46",
+      "cfp_id": "26a5235847da3d44",
+      "cfp_title": "Agentic Engineering Days Zurich",
+      "cfp_url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-07-23",
+      "event_date": "2026-11-20",
+      "event_location": "Zurich, Switzerland",
+      "is_online": false,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
+      "conference_themes": [
+        "ai",
+        "education",
+        "cloud",
+        "security",
+        "web",
+        "leadership"
+      ],
+      "conference_categories": [
+        "no q&a",
+        "1\u20133): 30 minutes + q&a",
+        "track 1 \u2014 let it build: using ai in the engineering loop",
+        "3\u20134): 8 minutes"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.454,
+        "tag_relevance": 0.506,
+        "talk_match_score": 0.089,
+        "urgency_score": 1.0,
+        "format_score": 0.5,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-05-08T07:44:54.680225+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 9.5)"
+        }
+      ],
+      "created_at": "2026-05-08T07:44:54.680228+00:00",
+      "updated_at": "2026-05-08T07:44:54.680229+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -965,86 +1045,6 @@
       ],
       "created_at": "2026-04-08T12:28:22.663835+00:00",
       "updated_at": "2026-05-02T07:47:30.532395+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "3aada1db0f19fc46",
-      "cfp_id": "26a5235847da3d44",
-      "cfp_title": "Agentic Engineering Days Zurich",
-      "cfp_url": "https://sessionize.com/agentic-engineering-days-zurich-2026",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-07-23",
-      "event_date": "2026-11-20",
-      "event_location": "Zurich, Switzerland",
-      "is_online": false,
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-      "talk_tags": [
-        "ai",
-        "llm",
-        "data-governance",
-        "dbt",
-        "automation"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'ai' (score: 9.5)",
-      "conference_themes": [
-        "ai",
-        "education",
-        "cloud",
-        "security",
-        "web",
-        "leadership"
-      ],
-      "conference_categories": [
-        "no q&a",
-        "1\u20133): 30 minutes + q&a",
-        "track 1 \u2014 let it build: using ai in the engineering loop",
-        "3\u20134): 8 minutes"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "ai",
-          "llm",
-          "data-governance",
-          "dbt",
-          "automation"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.424,
-        "tag_relevance": 0.506,
-        "talk_match_score": 0.089,
-        "urgency_score": 0.8,
-        "format_score": 0.5,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-05-08T07:44:54.680225+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 9.5)"
-        }
-      ],
-      "created_at": "2026-05-08T07:44:54.680228+00:00",
-      "updated_at": "2026-05-08T07:44:54.680229+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -1664,16 +1664,21 @@
         "priority": "medium",
         "travel_sponsorship": "yes"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-06-01T11:38:54.356130+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'devops' (score: 6.5)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-07-16T08:16:14.443566+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-06-01T11:38:54.356137+00:00",
-      "updated_at": "2026-06-01T11:38:54.356140+00:00",
+      "updated_at": "2026-07-16T08:16:14.443571+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

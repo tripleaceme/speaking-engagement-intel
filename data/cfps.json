@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-15T08:13:14.940417+00:00",
+    "last_crawled": "2026-07-16T08:16:14.188052+00:00",
     "total_cfps": 96,
-    "open_cfps": 45,
+    "open_cfps": 44,
     "sources_checked": 9,
     "new_this_run": 0,
     "expired_this_run": 1,
-    "travel_sponsorship_yes": 1,
+    "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-07-15T08:13:15.090644+00:00",
+    "last_scored": "2026-07-16T08:16:14.407083+00:00",
     "high_priority": 0,
-    "medium_priority": 3,
-    "above_threshold": 35
+    "medium_priority": 2,
+    "above_threshold": 34
   },
   "cfps": [
     {
@@ -4681,10 +4681,10 @@
       ],
       "enriched_at": "2026-05-08T07:44:53.262743+00:00",
       "match_scores": {
-        "composite_score": 0.424,
+        "composite_score": 0.454,
         "tag_relevance": 0.506,
         "talk_match_score": 0.089,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.5,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
@@ -5744,7 +5744,7 @@
       "travel_sponsorship": "yes",
       "event_type": "conference",
       "discovered_at": "2026-06-01T11:38:45.380199+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "devops",
@@ -5822,17 +5822,7 @@
         "twitter"
       ],
       "enriched_at": "2026-06-01T11:38:54.226122+00:00",
-      "match_scores": {
-        "composite_score": 0.412,
-        "tag_relevance": 0.328,
-        "talk_match_score": 0.089,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "medium",
-        "travel_sponsorship": "yes"
-      }
+      "match_scores": null
     },
     {
       "id": "a12769d08cefcd0e",
