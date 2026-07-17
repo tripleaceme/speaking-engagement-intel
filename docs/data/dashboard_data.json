@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T08:16:14.475046+00:00",
+  "generated_at": "2026-07-17T08:11:34.388802+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 52,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-16T08:16:14.188052+00:00",
+    "last_crawled": "2026-07-17T08:11:34.158890+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
@@ -82,8 +82,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 2,
-    "low": 42
+    "medium": 3,
+    "low": 41
   },
   "tag_cloud": [
     {
@@ -274,14 +274,39 @@
         "security",
         "testing"
       ],
-      "score": 0.375,
-      "priority": "low",
+      "score": 0.405,
+      "priority": "medium",
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
       "tag_relevance": 0.336,
       "talk_match": 0.059,
-      "urgency": 0.8,
+      "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
+    },
+    {
+      "id": "a12769d08cefcd0e",
+      "title": "SQLDay Lite 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sqlday-lite-2026",
+      "deadline": "2026-07-31",
+      "event_date": "2026-09-24",
+      "location": "Gda\u0144sk, Poland",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "web",
+        "education",
+        "data",
+        "ai"
+      ],
+      "score": 0.36,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.348,
+      "talk_match": 0.059,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon"
     },
     {
       "id": "0486b7fd0e05c814",
@@ -407,31 +432,6 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
-    },
-    {
-      "id": "a12769d08cefcd0e",
-      "title": "SQLDay Lite 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sqlday-lite-2026",
-      "deadline": "2026-07-31",
-      "event_date": "2026-09-24",
-      "location": "Gda\u0144sk, Poland",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "web",
-        "education",
-        "data",
-        "ai"
-      ],
-      "score": 0.33,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.348,
-      "talk_match": 0.059,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference, precon"
     },
     {
       "id": "f6afba3518281dad",
@@ -1191,6 +1191,26 @@
       "event_location": "Porto, Portugal"
     },
     {
+      "id": "a0c4f8271ff446ff",
+      "cfp_title": "WeAreDevelopers Conference India",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
+      "deadline": "2026-07-24",
+      "event_date": "2026-11-25",
+      "status": "draft",
+      "score": 0.405,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.661154+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
+      "is_online": false,
+      "event_location": "Bengaluru, India"
+    },
+    {
       "id": "c1952d329f21d0e0",
       "cfp_title": "Power Conference 2026",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1311,26 +1331,6 @@
       "event_location": "TBD, TBD"
     },
     {
-      "id": "a0c4f8271ff446ff",
-      "cfp_title": "WeAreDevelopers Conference India",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
-      "deadline": "2026-07-24",
-      "event_date": "2026-11-25",
-      "status": "draft",
-      "score": 0.375,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.661154+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
-      "is_online": false,
-      "event_location": "Bengaluru, India"
-    },
-    {
       "id": "cdf1f660bb88de25",
       "cfp_title": "Data Platform Women in Technology Virtual Group 2026",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1429,6 +1429,26 @@
       "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
       "is_online": true,
       "event_location": "Warsaw, Poland"
+    },
+    {
+      "id": "b751f36df5b690c8",
+      "cfp_title": "SQLDay Lite 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sqlday-lite-2026",
+      "deadline": "2026-07-31",
+      "event_date": "2026-09-24",
+      "status": "draft",
+      "score": 0.36,
+      "priority": "low",
+      "created_at": "2026-06-02T10:27:25.675121+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 7.5)",
+      "is_online": false,
+      "event_location": "Gda\u0144sk, Poland"
     },
     {
       "id": "b6517bb572c459b1",
@@ -1689,26 +1709,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 7.5)",
       "is_online": false,
       "event_location": "Warsaw, Poland"
-    },
-    {
-      "id": "b751f36df5b690c8",
-      "cfp_title": "SQLDay Lite 2026",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/sqlday-lite-2026",
-      "deadline": "2026-07-31",
-      "event_date": "2026-09-24",
-      "status": "draft",
-      "score": 0.33,
-      "priority": "low",
-      "created_at": "2026-06-02T10:27:25.675121+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 7.5)",
-      "is_online": false,
-      "event_location": "Gda\u0144sk, Poland"
     },
     {
       "id": "82f06ff2742d8c25",
@@ -2519,7 +2519,7 @@
       "title": "WeAreDevelopers Conference India",
       "deadline": "2026-07-24",
       "source": "confs.tech",
-      "score": 0.375,
+      "score": 0.405,
       "url": "https://sessionize.com/wearedevelopers-conference-2026-india",
       "travel_sponsorship": "unknown",
       "location": "Bengaluru, India"
@@ -2528,7 +2528,7 @@
       "title": "SQLDay Lite 2026",
       "deadline": "2026-07-31",
       "source": "callfordataspeakers",
-      "score": 0.33,
+      "score": 0.36,
       "url": "https://sessionize.com/sqlday-lite-2026",
       "travel_sponsorship": "unknown",
       "location": "Gda\u0144sk, Poland"

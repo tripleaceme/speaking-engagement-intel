@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-07-16T08:16:14.443662+00:00",
+    "last_updated": "2026-07-17T08:11:34.339910+00:00",
     "total_applications": 86,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -2120,6 +2120,88 @@
       "notes": ""
     },
     {
+      "id": "a0c4f8271ff446ff",
+      "cfp_id": "0a75fc53d01cae41",
+      "cfp_title": "WeAreDevelopers Conference India",
+      "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-07-24",
+      "event_date": "2026-11-25",
+      "event_location": "Bengaluru, India",
+      "is_online": false,
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+      "talk_tags": [
+        "leadership",
+        "data-culture",
+        "analytics-engineering",
+        "strategy"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
+      "conference_themes": [
+        "cloud",
+        "devops",
+        "web",
+        "open-source",
+        "leadership",
+        "testing",
+        "ai",
+        "data",
+        "security",
+        "education",
+        "iot"
+      ],
+      "conference_categories": [
+        "and emerging technologies",
+        "architecture",
+        "leadership"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "leadership",
+          "data-culture",
+          "analytics-engineering",
+          "strategy"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.405,
+        "tag_relevance": 0.336,
+        "talk_match_score": 0.059,
+        "urgency_score": 1.0,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.661150+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 9.0)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.661154+00:00",
+      "updated_at": "2026-04-08T12:28:22.661156+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "c1952d329f21d0e0",
       "cfp_id": "d227b6f4bf58f201",
       "cfp_title": "Power Conference 2026",
@@ -2614,88 +2696,6 @@
       "notes": ""
     },
     {
-      "id": "a0c4f8271ff446ff",
-      "cfp_id": "0a75fc53d01cae41",
-      "cfp_title": "WeAreDevelopers Conference India",
-      "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-07-24",
-      "event_date": "2026-11-25",
-      "event_location": "Bengaluru, India",
-      "is_online": false,
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-      "talk_tags": [
-        "leadership",
-        "data-culture",
-        "analytics-engineering",
-        "strategy"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'leadership' (score: 9.0)",
-      "conference_themes": [
-        "cloud",
-        "devops",
-        "web",
-        "open-source",
-        "leadership",
-        "testing",
-        "ai",
-        "data",
-        "security",
-        "education",
-        "iot"
-      ],
-      "conference_categories": [
-        "and emerging technologies",
-        "architecture",
-        "leadership"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "leadership",
-          "data-culture",
-          "analytics-engineering",
-          "strategy"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.375,
-        "tag_relevance": 0.336,
-        "talk_match_score": 0.059,
-        "urgency_score": 0.8,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.661150+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 9.0)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.661154+00:00",
-      "updated_at": "2026-04-08T12:28:22.661156+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
       "id": "cdf1f660bb88de25",
       "cfp_id": "ee38724369f2d6c8",
       "cfp_title": "Data Platform Women in Technology Virtual Group 2026",
@@ -3099,6 +3099,86 @@
       ],
       "created_at": "2026-06-18T10:23:06.673739+00:00",
       "updated_at": "2026-07-01T09:50:53.917356+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "b751f36df5b690c8",
+      "cfp_id": "a12769d08cefcd0e",
+      "cfp_title": "SQLDay Lite 2026",
+      "cfp_url": "https://sessionize.com/sqlday-lite-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-07-31",
+      "event_date": "2026-09-24",
+      "event_location": "Gda\u0144sk, Poland",
+      "is_online": false,
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+      "talk_tags": [
+        "sql",
+        "dbt",
+        "migration",
+        "database",
+        "snowflake",
+        "bigquery"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'database' (score: 7.5)",
+      "conference_themes": [
+        "ai",
+        "open-source",
+        "data",
+        "cloud",
+        "database",
+        "leadership",
+        "education",
+        "security",
+        "web"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "sql",
+          "dbt",
+          "migration",
+          "database",
+          "snowflake",
+          "bigquery"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.36,
+        "tag_relevance": 0.348,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.8,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-06-02T10:27:25.675111+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 7.5)"
+        }
+      ],
+      "created_at": "2026-06-02T10:27:25.675121+00:00",
+      "updated_at": "2026-06-02T10:27:25.675123+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -4178,86 +4258,6 @@
       ],
       "created_at": "2026-05-23T08:22:02.788934+00:00",
       "updated_at": "2026-06-08T10:59:45.976205+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "b751f36df5b690c8",
-      "cfp_id": "a12769d08cefcd0e",
-      "cfp_title": "SQLDay Lite 2026",
-      "cfp_url": "https://sessionize.com/sqlday-lite-2026",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-07-31",
-      "event_date": "2026-09-24",
-      "event_location": "Gda\u0144sk, Poland",
-      "is_online": false,
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
-      "talk_tags": [
-        "sql",
-        "dbt",
-        "migration",
-        "database",
-        "snowflake",
-        "bigquery"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'database' (score: 7.5)",
-      "conference_themes": [
-        "ai",
-        "open-source",
-        "data",
-        "cloud",
-        "database",
-        "leadership",
-        "education",
-        "security",
-        "web"
-      ],
-      "conference_categories": [],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "sql",
-          "dbt",
-          "migration",
-          "database",
-          "snowflake",
-          "bigquery"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.33,
-        "tag_relevance": 0.348,
-        "talk_match_score": 0.059,
-        "urgency_score": 0.6,
-        "format_score": 0.5,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-06-02T10:27:25.675111+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 7.5)"
-        }
-      ],
-      "created_at": "2026-06-02T10:27:25.675121+00:00",
-      "updated_at": "2026-06-02T10:27:25.675123+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
