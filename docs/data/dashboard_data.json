@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-18T07:53:26.714324+00:00",
+  "generated_at": "2026-07-19T08:21:27.490281+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 96,
-    "open_cfps": 44,
+    "total_cfps_discovered": 97,
+    "open_cfps": 45,
     "expired_cfps": 52,
-    "total_applications": 86,
-    "drafts": 34,
+    "total_applications": 87,
+    "drafts": 35,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 52,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-18T07:53:26.428348+00:00",
+    "last_crawled": "2026-07-19T08:21:26.572026+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
-    "travel_unknown": 40
+    "travel_unknown": 41
   },
   "timeline": [
     {
@@ -55,13 +55,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 6
+      "draft": 7
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 45
+      "count": 46
     },
     {
       "source": "confs.tech",
@@ -83,40 +83,40 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 3,
-    "low": 41
+    "low": 42
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "web",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "open-source",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "data",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "database",
-      "count": 28
+      "count": 29
+    },
+    {
+      "tag": "cloud",
+      "count": 27
     },
     {
       "tag": "leadership",
       "count": 27
     },
     {
-      "tag": "cloud",
-      "count": 26
-    },
-    {
       "tag": "education",
-      "count": 23
+      "count": 24
     },
     {
       "tag": "security",
@@ -167,11 +167,11 @@
       "count": 5
     },
     {
-      "tag": "blockchain",
-      "count": 4
+      "tag": "north america",
+      "count": 5
     },
     {
-      "tag": "north america",
+      "tag": "blockchain",
       "count": 4
     },
     {
@@ -305,6 +305,31 @@
       "tag_relevance": 0.348,
       "talk_match": 0.059,
       "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon"
+    },
+    {
+      "id": "84e9f4977c2985fe",
+      "title": "Day of Data Orlando 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/day-of-data-orlando-2026",
+      "deadline": "2026-08-11",
+      "event_date": "2026-10-17",
+      "location": "Sanford, Florida, United States",
+      "is_online": false,
+      "tags": [
+        "database",
+        "web",
+        "open-source",
+        "data",
+        "cloud"
+      ],
+      "score": 0.354,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.361,
+      "talk_match": 0.059,
+      "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
     },
@@ -682,31 +707,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
-    },
-    {
-      "id": "a7f1d6ce283fab35",
-      "title": "I Built a CFP Copilot with Amazon Quick - From Prompt to Published App in Under 1 Hour",
-      "source": "dev.to",
-      "url": "https://dev.to/_76130e67067eab4c8510/i-built-a-cfp-copilot-with-amazon-quick-from-prompt-to-published-app-in-under-1-hour-1jba",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "web",
-        "ai",
-        "database",
-        "leadership"
-      ],
-      "score": 0.299,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.344,
-      "talk_match": 0.078,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
     }
   ],
   "applications": [
@@ -1449,6 +1449,26 @@
       "match_reason": "Conference themes align with 'database' (score: 7.5)",
       "is_online": false,
       "event_location": "Gda\u0144sk, Poland"
+    },
+    {
+      "id": "303bb3c2fc19aa9d",
+      "cfp_title": "Day of Data Orlando 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/day-of-data-orlando-2026",
+      "deadline": "2026-08-11",
+      "event_date": "2026-10-17",
+      "status": "draft",
+      "score": 0.354,
+      "priority": "low",
+      "created_at": "2026-07-19T08:21:27.426868+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 6.3)",
+      "is_online": false,
+      "event_location": "Sanford, Florida, United States"
     },
     {
       "id": "b6517bb572c459b1",
@@ -2450,7 +2470,7 @@
     },
     {
       "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "applications": 11,
+      "applications": 12,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2534,6 +2554,15 @@
       "location": "Gda\u0144sk, Poland"
     },
     {
+      "title": "Day of Data Orlando 2026",
+      "deadline": "2026-08-11",
+      "source": "callfordataspeakers",
+      "score": 0.354,
+      "url": "https://sessionize.com/day-of-data-orlando-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Sanford, Florida, United States"
+    },
+    {
       "title": "React Day Berlin",
       "deadline": "2026-08-12",
       "source": "confs.tech",
@@ -2586,15 +2615,6 @@
       "url": "https://sessionize.com/sql-server-user-group-croatia-26",
       "travel_sponsorship": "unknown",
       "location": "online"
-    },
-    {
-      "title": "The AI Conf",
-      "deadline": "2026-09-30",
-      "source": "confs.tech",
-      "score": 0.274,
-      "url": "https://theconf.ai/call-for-papers",
-      "travel_sponsorship": "partial",
-      "location": "Barcelona, Spain"
     }
   ]
 }
