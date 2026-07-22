@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-21T08:31:15.972570+00:00",
-    "total_cfps": 97,
-    "open_cfps": 45,
+    "last_crawled": "2026-07-22T08:31:01.764133+00:00",
+    "total_cfps": 98,
+    "open_cfps": 46,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-07-21T08:31:16.139381+00:00",
+    "last_scored": "2026-07-22T08:31:02.869326+00:00",
     "high_priority": 0,
     "medium_priority": 3,
-    "above_threshold": 35
+    "above_threshold": 36
   },
   "cfps": [
     {
@@ -6747,6 +6747,75 @@
         "urgency_score": 0.6,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "ae5b5f1d2ccaee0e",
+      "source": "callfordataspeakers",
+      "title": "Retro Data",
+      "url": "https://sessionize.com/retro-data-2",
+      "cfp_url": "https://sessionize.com/retro-data-2",
+      "description": "Retro Data: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. live/ \r\n                             \r\n                         \r\n                     \r\n                 \r\n                     \r\n                         \r\n                         Retro Data is brought to you by\u00a0 Andy Cutler  and  Justin Bird.",
+      "tags": [
+        "web",
+        "data",
+        "open-source",
+        "ai",
+        "education",
+        "conference"
+      ],
+      "deadline": "2026-08-12",
+      "event_date": "2026-09-26",
+      "location": "Online",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-07-22T08:31:01.072963+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "and battle",
+        "recommended practices",
+        "based around enduring principles",
+        "practical teaching",
+        "hardened techniques"
+      ],
+      "submission_fields": [
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-07-22T08:31:02.790035+00:00",
+      "match_scores": {
+        "composite_score": 0.374,
+        "tag_relevance": 0.361,
+        "talk_match_score": 0.06,
+        "urgency_score": 0.6,
+        "format_score": 0.7,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"

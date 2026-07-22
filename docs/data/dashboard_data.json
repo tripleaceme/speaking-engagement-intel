@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-21T08:31:16.264467+00:00",
+  "generated_at": "2026-07-22T08:31:02.996590+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 97,
-    "open_cfps": 45,
+    "total_cfps_discovered": 98,
+    "open_cfps": 46,
     "expired_cfps": 52,
-    "total_applications": 87,
-    "drafts": 35,
+    "total_applications": 88,
+    "drafts": 36,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 52,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-21T08:31:15.972570+00:00",
+    "last_crawled": "2026-07-22T08:31:01.764133+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
-    "travel_unknown": 41
+    "travel_unknown": 42
   },
   "timeline": [
     {
@@ -55,13 +55,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 7
+      "draft": 8
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 46
+      "count": 47
     },
     {
       "source": "confs.tech",
@@ -83,24 +83,24 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 3,
-    "low": 42
+    "low": 43
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 44
+      "count": 45
     },
     {
       "tag": "web",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "open-source",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "data",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "database",
@@ -116,7 +116,7 @@
     },
     {
       "tag": "education",
-      "count": 24
+      "count": 25
     },
     {
       "tag": "security",
@@ -124,7 +124,7 @@
     },
     {
       "tag": "conference",
-      "count": 18
+      "count": 19
     },
     {
       "tag": "devops",
@@ -280,6 +280,31 @@
       "tag_relevance": 0.336,
       "talk_match": 0.059,
       "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "ae5b5f1d2ccaee0e",
+      "title": "Retro Data",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/retro-data-2",
+      "deadline": "2026-08-12",
+      "event_date": "2026-09-26",
+      "location": "Online",
+      "is_online": true,
+      "tags": [
+        "web",
+        "data",
+        "open-source",
+        "ai",
+        "education"
+      ],
+      "score": 0.374,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.361,
+      "talk_match": 0.06,
+      "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -680,31 +705,6 @@
       "tag_relevance": 0.352,
       "talk_match": 0.059,
       "urgency": 0.4,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "d04355fb1fd02eeb",
-      "title": "KubeCon + CloudNativeCon Europe",
-      "source": "confs.tech",
-      "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp",
-      "deadline": "",
-      "event_date": "2026-03-23",
-      "location": "Amsterdam, Netherlands",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "database",
-        "education",
-        "security",
-        "testing"
-      ],
-      "score": 0.3,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.33,
-      "talk_match": 0.098,
-      "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     }
@@ -1329,6 +1329,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.5)",
       "is_online": true,
       "event_location": "TBD, TBD"
+    },
+    {
+      "id": "73d7d31510171311",
+      "cfp_title": "Retro Data",
+      "talk_title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/retro-data-2",
+      "deadline": "2026-08-12",
+      "event_date": "2026-09-26",
+      "status": "draft",
+      "score": 0.374,
+      "priority": "low",
+      "created_at": "2026-07-22T08:31:02.935778+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'open-source' (score: 4.5)",
+      "is_online": true,
+      "event_location": "Online"
     },
     {
       "id": "cdf1f660bb88de25",
@@ -2509,6 +2529,14 @@
       "acceptance_rate": 0
     },
     {
+      "title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
+      "applications": 1,
+      "accepted": 0,
+      "rejected": 0,
+      "pending": 0,
+      "acceptance_rate": 0
+    },
+    {
       "title": "The Analytics Engineer's Toolkit: dbt, AI Documentation, and Open Source in Production",
       "applications": 1,
       "accepted": 0,
@@ -2572,6 +2600,15 @@
       "location": "Berlin, Germany"
     },
     {
+      "title": "Retro Data",
+      "deadline": "2026-08-12",
+      "source": "callfordataspeakers",
+      "score": 0.374,
+      "url": "https://sessionize.com/retro-data-2",
+      "travel_sponsorship": "unknown",
+      "location": "Online"
+    },
+    {
       "title": "Triangle SQL Server User Group 2026",
       "deadline": "2026-08-30",
       "source": "callfordataspeakers",
@@ -2606,15 +2643,6 @@
       "url": "https://sessionize.com/persian-power-bi-user-group",
       "travel_sponsorship": "unknown",
       "location": "Online"
-    },
-    {
-      "title": "SQL Server User Group Croatia 2026",
-      "deadline": "2026-09-12",
-      "source": "callfordataspeakers",
-      "score": 0.341,
-      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
-      "travel_sponsorship": "unknown",
-      "location": "online"
     }
   ]
 }

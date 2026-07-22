@@ -1,19 +1,19 @@
 {
   "metadata": {
-    "last_updated": "2026-07-21T08:31:16.204021+00:00",
-    "total_applications": 87,
+    "last_updated": "2026-07-22T08:31:02.938392+00:00",
+    "total_applications": 88,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 35,
+    "total_drafts": 36,
     "total_expired": 52,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
       "expired": 52,
-      "draft": 35
+      "draft": 36
     },
-    "unique_talk_titles": 7
+    "unique_talk_titles": 8
   },
   "applications": [
     {
@@ -2691,6 +2691,86 @@
       ],
       "created_at": "2026-04-18T07:12:25.442699+00:00",
       "updated_at": "2026-07-11T07:58:22.237646+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "73d7d31510171311",
+      "cfp_id": "ae5b5f1d2ccaee0e",
+      "cfp_title": "Retro Data",
+      "cfp_url": "https://sessionize.com/retro-data-2",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-08-12",
+      "event_date": "2026-09-26",
+      "event_location": "Online",
+      "is_online": true,
+      "talk_title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
+      "talk_abstract": "I maintain 5 open-source packages on dbt Hub \u2014 doc-tracker, doc-inherit, anomaly-detector, flow-lineage, and tap-substack. This talk is about the messy reality of building open-source tools: choosing what to build, designing APIs people actually use, testing without a QA team, and sustaining maintenance alongside a full-time job. Whether you're thinking about your first package or your fifth, you'll get honest lessons from shipping to production.",
+      "talk_tags": [
+        "open-source",
+        "dbt",
+        "community",
+        "packages",
+        "developer-tools"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'open-source' (score: 4.5)",
+      "conference_themes": [
+        "web",
+        "open-source",
+        "ai",
+        "data",
+        "education"
+      ],
+      "conference_categories": [
+        "and battle",
+        "recommended practices",
+        "based around enduring principles",
+        "practical teaching",
+        "hardened techniques"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
+        "abstract": "I maintain 5 open-source packages on dbt Hub \u2014 doc-tracker, doc-inherit, anomaly-detector, flow-lineage, and tap-substack. This talk is about the messy reality of building open-source tools: choosing what to build, designing APIs people actually use, testing without a QA team, and sustaining maintenance alongside a full-time job. Whether you're thinking about your first package or your fifth, you'll get honest lessons from shipping to production.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "open-source",
+          "dbt",
+          "community",
+          "packages",
+          "developer-tools"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.374,
+        "tag_relevance": 0.361,
+        "talk_match_score": 0.06,
+        "urgency_score": 0.6,
+        "format_score": 0.7,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-07-22T08:31:02.935764+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'open-source' (score: 4.5)"
+        }
+      ],
+      "created_at": "2026-07-22T08:31:02.935778+00:00",
+      "updated_at": "2026-07-22T08:31:02.935780+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
