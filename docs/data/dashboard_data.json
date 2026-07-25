@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T08:29:17.715129+00:00",
+  "generated_at": "2026-07-25T08:07:56.384859+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 98,
-    "open_cfps": 45,
-    "expired_cfps": 53,
+    "open_cfps": 44,
+    "expired_cfps": 54,
     "total_applications": 88,
-    "drafts": 35,
+    "drafts": 34,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 53,
+    "expired_apps": 54,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-24T08:29:17.473029+00:00",
+    "last_crawled": "2026-07-25T08:07:56.159186+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
-    "travel_unknown": 41
+    "travel_unknown": 40
   },
   "timeline": [
     {
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 23
+      "draft": 22
     },
     {
       "month": "2026-05",
@@ -82,25 +82,25 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 2,
+    "medium": 1,
     "low": 43
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 44
+      "count": 43
     },
     {
       "tag": "web",
-      "count": 41
+      "count": 40
     },
     {
       "tag": "open-source",
-      "count": 38
+      "count": 37
     },
     {
       "tag": "data",
-      "count": 34
+      "count": 33
     },
     {
       "tag": "database",
@@ -108,15 +108,15 @@
     },
     {
       "tag": "cloud",
-      "count": 26
+      "count": 25
     },
     {
       "tag": "leadership",
-      "count": 26
+      "count": 25
     },
     {
       "tag": "education",
-      "count": 24
+      "count": 23
     },
     {
       "tag": "conference",
@@ -124,11 +124,11 @@
     },
     {
       "tag": "security",
-      "count": 18
+      "count": 17
     },
     {
       "tag": "devops",
-      "count": 15
+      "count": 14
     },
     {
       "tag": "call-for-papers",
@@ -147,16 +147,16 @@
       "count": 8
     },
     {
-      "tag": "testing",
-      "count": 7
-    },
-    {
       "tag": "cfp",
       "count": 7
     },
     {
       "tag": "europe",
       "count": 7
+    },
+    {
+      "tag": "testing",
+      "count": 6
     },
     {
       "tag": "events",
@@ -173,10 +173,6 @@
     {
       "tag": "blockchain",
       "count": 4
-    },
-    {
-      "tag": "iot",
-      "count": 3
     },
     {
       "tag": "online",
@@ -205,6 +201,10 @@
     {
       "tag": "talk-proposals",
       "count": 2
+    },
+    {
+      "tag": "hacktoberfest",
+      "count": 2
     }
   ],
   "top_matches": [
@@ -232,31 +232,6 @@
       "urgency": 0.4,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
-    },
-    {
-      "id": "0a75fc53d01cae41",
-      "title": "WeAreDevelopers Conference India",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/wearedevelopers-conference-2026-india",
-      "deadline": "2026-07-24",
-      "event_date": "2026-11-25",
-      "location": "Bengaluru, India",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "iot",
-        "education",
-        "security",
-        "testing"
-      ],
-      "score": 0.405,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.336,
-      "talk_match": 0.059,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     },
     {
       "id": "a12769d08cefcd0e",
@@ -707,6 +682,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
+    },
+    {
+      "id": "a7f1d6ce283fab35",
+      "title": "I Built a CFP Copilot with Amazon Quick - From Prompt to Published App in Under 1 Hour",
+      "source": "dev.to",
+      "url": "https://dev.to/_76130e67067eab4c8510/i-built-a-cfp-copilot-with-amazon-quick-from-prompt-to-published-app-in-under-1-hour-1jba",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "web",
+        "ai",
+        "database",
+        "leadership"
+      ],
+      "score": 0.299,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.344,
+      "talk_match": 0.078,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
     }
   ],
   "applications": [
@@ -1198,7 +1198,7 @@
       "cfp_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
       "deadline": "2026-07-24",
       "event_date": "2026-11-25",
-      "status": "draft",
+      "status": "expired",
       "score": 0.405,
       "priority": "medium",
       "created_at": "2026-04-08T12:28:22.661154+00:00",
@@ -2555,15 +2555,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "WeAreDevelopers Conference India",
-      "deadline": "2026-07-24",
-      "source": "confs.tech",
-      "score": 0.405,
-      "url": "https://sessionize.com/wearedevelopers-conference-2026-india",
-      "travel_sponsorship": "unknown",
-      "location": "Bengaluru, India"
-    },
-    {
       "title": "SQLDay Lite 2026",
       "deadline": "2026-07-31",
       "source": "callfordataspeakers",
@@ -2643,6 +2634,15 @@
       "url": "https://sessionize.com/sql-server-user-group-croatia-26",
       "travel_sponsorship": "unknown",
       "location": "online"
+    },
+    {
+      "title": "The AI Conf",
+      "deadline": "2026-09-30",
+      "source": "confs.tech",
+      "score": 0.274,
+      "url": "https://theconf.ai/call-for-papers",
+      "travel_sponsorship": "partial",
+      "location": "Barcelona, Spain"
     }
   ]
 }
