@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-25T08:07:56.384859+00:00",
+  "generated_at": "2026-07-26T08:27:44.888082+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 98,
-    "open_cfps": 44,
+    "total_cfps_discovered": 100,
+    "open_cfps": 46,
     "expired_cfps": 54,
-    "total_applications": 88,
-    "drafts": 34,
+    "total_applications": 89,
+    "drafts": 35,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 54,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-25T08:07:56.159186+00:00",
+    "last_crawled": "2026-07-26T08:27:43.123019+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
-    "travel_unknown": 40
+    "travel_unknown": 42
   },
   "timeline": [
     {
@@ -55,13 +55,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 8
+      "draft": 9
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 47
+      "count": 49
     },
     {
       "source": "confs.tech",
@@ -83,28 +83,28 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 1,
-    "low": 43
+    "low": 45
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 43
+      "count": 45
     },
     {
       "tag": "web",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "open-source",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "data",
-      "count": 33
+      "count": 35
     },
     {
       "tag": "database",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "cloud",
@@ -116,7 +116,7 @@
     },
     {
       "tag": "education",
-      "count": 23
+      "count": 24
     },
     {
       "tag": "conference",
@@ -131,15 +131,15 @@
       "count": 14
     },
     {
-      "tag": "call-for-papers",
-      "count": 9
-    },
-    {
       "tag": "in-person",
-      "count": 9
+      "count": 11
     },
     {
       "tag": "external",
+      "count": 11
+    },
+    {
+      "tag": "call-for-papers",
       "count": 9
     },
     {
@@ -2291,6 +2291,26 @@
       "event_location": "Prague, Czech Republic"
     },
     {
+      "id": "733930af10c1de68",
+      "cfp_title": "Seattle Day of Data 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/seattle-day-of-data-2026",
+      "deadline": "",
+      "event_date": "2026-11-12",
+      "status": "draft",
+      "score": 0.261,
+      "priority": "low",
+      "created_at": "2026-07-26T08:27:44.828336+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 5.7)",
+      "is_online": false,
+      "event_location": "Hyatt Regency Seattle, 808 Howell St, Seattle, WA 98101,"
+    },
+    {
       "id": "e320b5689ff3ded6",
       "cfp_title": "ZhongkuiMa/CFPMonitor",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2490,7 +2510,7 @@
     },
     {
       "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "applications": 12,
+      "applications": 13,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,

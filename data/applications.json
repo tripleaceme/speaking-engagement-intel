@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-07-25T08:07:56.342028+00:00",
-    "total_applications": 88,
+    "last_updated": "2026-07-26T08:27:44.830855+00:00",
+    "total_applications": 89,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 34,
+    "total_drafts": 35,
     "total_expired": 54,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
       "expired": 54,
-      "draft": 34
+      "draft": 35
     },
     "unique_talk_titles": 8
   },
@@ -6593,6 +6593,82 @@
       ],
       "created_at": "2026-04-23T07:58:19.546954+00:00",
       "updated_at": "2026-05-01T08:14:13.862851+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "733930af10c1de68",
+      "cfp_id": "cde4e480b12e7db4",
+      "cfp_title": "Seattle Day of Data 2026",
+      "cfp_url": "https://sessionize.com/seattle-day-of-data-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "",
+      "event_date": "2026-11-12",
+      "event_location": "Hyatt Regency Seattle, 808 Howell St, Seattle, WA 98101,",
+      "is_online": false,
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+      "talk_tags": [
+        "sql",
+        "dbt",
+        "migration",
+        "database",
+        "snowflake",
+        "bigquery"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'database' (score: 5.7)",
+      "conference_themes": [
+        "database",
+        "ai",
+        "web",
+        "open-source",
+        "education"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "sql",
+          "dbt",
+          "migration",
+          "database",
+          "snowflake",
+          "bigquery"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.261,
+        "tag_relevance": 0.367,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-07-26T08:27:44.828326+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 5.7)"
+        }
+      ],
+      "created_at": "2026-07-26T08:27:44.828336+00:00",
+      "updated_at": "2026-07-26T08:27:44.828339+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
