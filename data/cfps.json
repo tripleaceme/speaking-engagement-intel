@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-26T08:27:43.123019+00:00",
-    "total_cfps": 100,
-    "open_cfps": 46,
+    "last_crawled": "2026-07-27T09:54:25.234489+00:00",
+    "total_cfps": 103,
+    "open_cfps": 49,
     "sources_checked": 9,
-    "new_this_run": 2,
+    "new_this_run": 3,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-07-26T08:27:44.762716+00:00",
+    "last_scored": "2026-07-27T09:54:27.006802+00:00",
     "high_priority": 0,
     "medium_priority": 1,
     "above_threshold": 35
@@ -6903,6 +6903,128 @@
         "urgency_score": 0.1,
         "format_score": 0.5,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "fb825c65cbf61dd9",
+      "source": "confs.tech",
+      "title": "NSW AI Bonanza",
+      "url": "https://nswaibonanza.com",
+      "cfp_url": "https://forms.gle/NGUgSFjBCPyZzz769",
+      "description": "NSW AI Bonanza 2026 - In Person & Remote speaker application NSW AI Bonanza 2026 - In Person & Remote speaker application We're are looking for fantastic Technical AI and Creative AI speakers from a wide variety of fields to present on either\u00a0 23rd, 24th or 25th September. The hours will vary but most daytime events will be 10:30am -> 5pm with some after hours opportunities. There is a possibility we will add additional dates which is why we've added 22nd September to the date selection.",
+      "tags": [
+        "open-source",
+        "ai",
+        "general"
+      ],
+      "deadline": "2026-08-23",
+      "event_date": "2026-09-23",
+      "location": "Sydney, Australia",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-07-27T09:54:21.695215+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "category"
+      ],
+      "enriched_at": "2026-07-27T09:54:25.872860+00:00",
+      "match_scores": {
+        "composite_score": 0.202,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.041,
+        "urgency_score": 0.6,
+        "format_score": 0.5,
+        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "d9d0168d955985a1",
+      "source": "confs.tech",
+      "title": "TechLead Conference London",
+      "url": "https://techleadconf.com",
+      "cfp_url": "https://gitnation.com/events/techlead-conf-london-2026-adopting-ai-in-orgs-edition/cfp",
+      "description": "Log In GitNation FAQ Support/Feedback Nation`s stats Log in 0 Sign in to your account Sign in with X Sign in with GitHub Sign in with LinkedIn Or continue with Email Sign up.",
+      "tags": [
+        "javascript",
+        "ai"
+      ],
+      "deadline": "2026-08-22",
+      "event_date": "2026-10-23",
+      "location": "London, U.K.",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-07-27T09:54:21.725211+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-07-27T09:54:26.430912+00:00",
+      "match_scores": {
+        "composite_score": 0.217,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "11aff493dca8a56a",
+      "source": "confs.tech",
+      "title": "AI Coding Summit Berlin Edition",
+      "url": "https://aicodingsummit.com/berlin",
+      "cfp_url": "https://gitnation.com/events/ai-coding-summit-berlin/cfp",
+      "description": "Log In GitNation FAQ Support/Feedback Nation`s stats Log in 0 Sign in to your account Sign in with X Sign in with GitHub Sign in with LinkedIn Or continue with Email Sign up.",
+      "tags": [
+        "javascript",
+        "ai"
+      ],
+      "deadline": "2026-08-12",
+      "event_date": "2026-12-04",
+      "location": "Berlin, Germany",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-07-27T09:54:21.725266+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-07-27T09:54:26.925953+00:00",
+      "match_scores": {
+        "composite_score": 0.217,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"

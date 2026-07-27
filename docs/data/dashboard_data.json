@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-26T08:27:44.888082+00:00",
+  "generated_at": "2026-07-27T09:54:27.131878+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 100,
-    "open_cfps": 46,
+    "total_cfps_discovered": 103,
+    "open_cfps": 49,
     "expired_cfps": 54,
     "total_applications": 89,
     "drafts": 35,
@@ -18,11 +18,11 @@
     "expired_apps": 54,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-26T08:27:43.123019+00:00",
+    "last_crawled": "2026-07-27T09:54:25.234489+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
-    "travel_unknown": 42
+    "travel_unknown": 45
   },
   "timeline": [
     {
@@ -65,7 +65,7 @@
     },
     {
       "source": "confs.tech",
-      "count": 40
+      "count": 43
     },
     {
       "source": "github",
@@ -83,12 +83,12 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 1,
-    "low": 45
+    "low": 48
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 45
+      "count": 48
     },
     {
       "tag": "web",
@@ -96,7 +96,7 @@
     },
     {
       "tag": "open-source",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "data",
@@ -191,19 +191,19 @@
       "count": 3
     },
     {
+      "tag": "javascript",
+      "count": 3
+    },
+    {
+      "tag": "general",
+      "count": 2
+    },
+    {
       "tag": "mobile",
       "count": 2
     },
     {
       "tag": "tech-conference",
-      "count": 2
-    },
-    {
-      "tag": "talk-proposals",
-      "count": 2
-    },
-    {
-      "tag": "hacktoberfest",
       "count": 2
     }
   ],
@@ -2611,6 +2611,33 @@
       "location": "Online"
     },
     {
+      "title": "AI Coding Summit Berlin Edition",
+      "deadline": "2026-08-12",
+      "source": "confs.tech",
+      "score": 0.217,
+      "url": "https://gitnation.com/events/ai-coding-summit-berlin/cfp",
+      "travel_sponsorship": "unknown",
+      "location": "Berlin, Germany"
+    },
+    {
+      "title": "TechLead Conference London",
+      "deadline": "2026-08-22",
+      "source": "confs.tech",
+      "score": 0.217,
+      "url": "https://gitnation.com/events/techlead-conf-london-2026-adopting-ai-in-orgs-edition/cfp",
+      "travel_sponsorship": "unknown",
+      "location": "London, U.K."
+    },
+    {
+      "title": "NSW AI Bonanza",
+      "deadline": "2026-08-23",
+      "source": "confs.tech",
+      "score": 0.202,
+      "url": "https://forms.gle/NGUgSFjBCPyZzz769",
+      "travel_sponsorship": "unknown",
+      "location": "Sydney, Australia"
+    },
+    {
       "title": "Triangle SQL Server User Group 2026",
       "deadline": "2026-08-30",
       "source": "callfordataspeakers",
@@ -2636,33 +2663,6 @@
       "url": "https://sessionize.com/fabricwinterfest-2026",
       "travel_sponsorship": "unknown",
       "location": "Wilrijk, Belgium"
-    },
-    {
-      "title": "Persian and Fabric Power BI User Group",
-      "deadline": "2026-09-12",
-      "source": "callfordataspeakers",
-      "score": 0.343,
-      "url": "https://sessionize.com/persian-power-bi-user-group",
-      "travel_sponsorship": "unknown",
-      "location": "Online"
-    },
-    {
-      "title": "SQL Server User Group Croatia 2026",
-      "deadline": "2026-09-12",
-      "source": "callfordataspeakers",
-      "score": 0.341,
-      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
-      "travel_sponsorship": "unknown",
-      "location": "online"
-    },
-    {
-      "title": "The AI Conf",
-      "deadline": "2026-09-30",
-      "source": "confs.tech",
-      "score": 0.274,
-      "url": "https://theconf.ai/call-for-papers",
-      "travel_sponsorship": "partial",
-      "location": "Barcelona, Spain"
     }
   ]
 }
