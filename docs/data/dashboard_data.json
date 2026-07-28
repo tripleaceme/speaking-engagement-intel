@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:54:27.131878+00:00",
+  "generated_at": "2026-07-28T08:35:44.758622+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 54,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-27T09:54:25.234489+00:00",
+    "last_crawled": "2026-07-28T08:35:44.456778+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
@@ -259,6 +259,31 @@
       "event_type": "conference, precon"
     },
     {
+      "id": "84e9f4977c2985fe",
+      "title": "Day of Data Orlando 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/day-of-data-orlando-2026",
+      "deadline": "2026-08-11",
+      "event_date": "2026-10-17",
+      "location": "Sanford, Florida, United States",
+      "is_online": false,
+      "tags": [
+        "database",
+        "web",
+        "open-source",
+        "data",
+        "cloud"
+      ],
+      "score": 0.384,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.361,
+      "talk_match": 0.059,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon"
+    },
+    {
       "id": "ae5b5f1d2ccaee0e",
       "title": "Retro Data",
       "source": "callfordataspeakers",
@@ -282,31 +307,6 @@
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
-    },
-    {
-      "id": "84e9f4977c2985fe",
-      "title": "Day of Data Orlando 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/day-of-data-orlando-2026",
-      "deadline": "2026-08-11",
-      "event_date": "2026-10-17",
-      "location": "Sanford, Florida, United States",
-      "is_online": false,
-      "tags": [
-        "database",
-        "web",
-        "open-source",
-        "data",
-        "cloud"
-      ],
-      "score": 0.354,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.361,
-      "talk_match": 0.059,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference, precon"
     },
     {
       "id": "0486b7fd0e05c814",
@@ -1311,6 +1311,26 @@
       "event_location": "Gda\u0144sk, Poland"
     },
     {
+      "id": "303bb3c2fc19aa9d",
+      "cfp_title": "Day of Data Orlando 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/day-of-data-orlando-2026",
+      "deadline": "2026-08-11",
+      "event_date": "2026-10-17",
+      "status": "draft",
+      "score": 0.384,
+      "priority": "low",
+      "created_at": "2026-07-19T08:21:27.426868+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 6.3)",
+      "is_online": false,
+      "event_location": "Sanford, Florida, United States"
+    },
+    {
       "id": "4e70256ccc26d492",
       "cfp_title": "Agent Conf",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1469,26 +1489,6 @@
       "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
       "is_online": true,
       "event_location": "Warsaw, Poland"
-    },
-    {
-      "id": "303bb3c2fc19aa9d",
-      "cfp_title": "Day of Data Orlando 2026",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/day-of-data-orlando-2026",
-      "deadline": "2026-08-11",
-      "event_date": "2026-10-17",
-      "status": "draft",
-      "score": 0.354,
-      "priority": "low",
-      "created_at": "2026-07-19T08:21:27.426868+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 6.3)",
-      "is_online": false,
-      "event_location": "Sanford, Florida, United States"
     },
     {
       "id": "b6517bb572c459b1",
@@ -2587,7 +2587,7 @@
       "title": "Day of Data Orlando 2026",
       "deadline": "2026-08-11",
       "source": "callfordataspeakers",
-      "score": 0.354,
+      "score": 0.384,
       "url": "https://sessionize.com/day-of-data-orlando-2026",
       "travel_sponsorship": "unknown",
       "location": "Sanford, Florida, United States"
