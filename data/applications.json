@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-07-28T08:35:44.703914+00:00",
-    "total_applications": 89,
+    "last_updated": "2026-07-29T08:42:41.528822+00:00",
+    "total_applications": 90,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 35,
+    "total_drafts": 36,
     "total_expired": 54,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
       "expired": 54,
-      "draft": 35
+      "draft": 36
     },
     "unique_talk_titles": 8
   },
@@ -2307,6 +2307,86 @@
       "notes": ""
     },
     {
+      "id": "73d7d31510171311",
+      "cfp_id": "ae5b5f1d2ccaee0e",
+      "cfp_title": "Retro Data",
+      "cfp_url": "https://sessionize.com/retro-data-2",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-08-12",
+      "event_date": "2026-09-26",
+      "event_location": "Online",
+      "is_online": true,
+      "talk_title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
+      "talk_abstract": "I maintain 5 open-source packages on dbt Hub \u2014 doc-tracker, doc-inherit, anomaly-detector, flow-lineage, and tap-substack. This talk is about the messy reality of building open-source tools: choosing what to build, designing APIs people actually use, testing without a QA team, and sustaining maintenance alongside a full-time job. Whether you're thinking about your first package or your fifth, you'll get honest lessons from shipping to production.",
+      "talk_tags": [
+        "open-source",
+        "dbt",
+        "community",
+        "packages",
+        "developer-tools"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'open-source' (score: 4.5)",
+      "conference_themes": [
+        "web",
+        "open-source",
+        "ai",
+        "data",
+        "education"
+      ],
+      "conference_categories": [
+        "and battle",
+        "recommended practices",
+        "based around enduring principles",
+        "practical teaching",
+        "hardened techniques"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
+        "abstract": "I maintain 5 open-source packages on dbt Hub \u2014 doc-tracker, doc-inherit, anomaly-detector, flow-lineage, and tap-substack. This talk is about the messy reality of building open-source tools: choosing what to build, designing APIs people actually use, testing without a QA team, and sustaining maintenance alongside a full-time job. Whether you're thinking about your first package or your fifth, you'll get honest lessons from shipping to production.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "open-source",
+          "dbt",
+          "community",
+          "packages",
+          "developer-tools"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.404,
+        "tag_relevance": 0.361,
+        "talk_match_score": 0.06,
+        "urgency_score": 0.8,
+        "format_score": 0.7,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-07-22T08:31:02.935764+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'open-source' (score: 4.5)"
+        }
+      ],
+      "created_at": "2026-07-22T08:31:02.935778+00:00",
+      "updated_at": "2026-07-22T08:31:02.935780+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "ff7950850daa5cb0",
       "cfp_id": "1dc1809e06936eb6",
       "cfp_title": "Data Saturday Gothenburg",
@@ -2859,86 +2939,6 @@
       ],
       "created_at": "2026-04-18T07:12:25.442699+00:00",
       "updated_at": "2026-07-11T07:58:22.237646+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "73d7d31510171311",
-      "cfp_id": "ae5b5f1d2ccaee0e",
-      "cfp_title": "Retro Data",
-      "cfp_url": "https://sessionize.com/retro-data-2",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-08-12",
-      "event_date": "2026-09-26",
-      "event_location": "Online",
-      "is_online": true,
-      "talk_title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
-      "talk_abstract": "I maintain 5 open-source packages on dbt Hub \u2014 doc-tracker, doc-inherit, anomaly-detector, flow-lineage, and tap-substack. This talk is about the messy reality of building open-source tools: choosing what to build, designing APIs people actually use, testing without a QA team, and sustaining maintenance alongside a full-time job. Whether you're thinking about your first package or your fifth, you'll get honest lessons from shipping to production.",
-      "talk_tags": [
-        "open-source",
-        "dbt",
-        "community",
-        "packages",
-        "developer-tools"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'open-source' (score: 4.5)",
-      "conference_themes": [
-        "web",
-        "open-source",
-        "ai",
-        "data",
-        "education"
-      ],
-      "conference_categories": [
-        "and battle",
-        "recommended practices",
-        "based around enduring principles",
-        "practical teaching",
-        "hardened techniques"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
-        "abstract": "I maintain 5 open-source packages on dbt Hub \u2014 doc-tracker, doc-inherit, anomaly-detector, flow-lineage, and tap-substack. This talk is about the messy reality of building open-source tools: choosing what to build, designing APIs people actually use, testing without a QA team, and sustaining maintenance alongside a full-time job. Whether you're thinking about your first package or your fifth, you'll get honest lessons from shipping to production.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "open-source",
-          "dbt",
-          "community",
-          "packages",
-          "developer-tools"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.374,
-        "tag_relevance": 0.361,
-        "talk_match_score": 0.06,
-        "urgency_score": 0.6,
-        "format_score": 0.7,
-        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-07-22T08:31:02.935764+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'open-source' (score: 4.5)"
-        }
-      ],
-      "created_at": "2026-07-22T08:31:02.935778+00:00",
-      "updated_at": "2026-07-22T08:31:02.935780+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -6669,6 +6669,76 @@
       ],
       "created_at": "2026-07-26T08:27:44.828336+00:00",
       "updated_at": "2026-07-26T08:27:44.828339+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "f8ed7448e38d59fd",
+      "cfp_id": "5c4ea69343e29864",
+      "cfp_title": "React Day Berlin",
+      "cfp_url": "https://gitnation.com/events/react-day-berlin-2026/cfp",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-08-12",
+      "event_date": "2026-12-04",
+      "event_location": "Berlin, Germany",
+      "is_online": true,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "conference_themes": [
+        "ai"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.26,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.0,
+        "urgency_score": 0.8,
+        "format_score": 0.7,
+        "suggested_talk": null,
+        "suggested_talk_level": null,
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-07-29T08:42:41.525345+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 4.0)"
+        }
+      ],
+      "created_at": "2026-07-29T08:42:41.525352+00:00",
+      "updated_at": "2026-07-29T08:42:41.525355+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

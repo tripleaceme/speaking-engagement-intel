@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T08:35:44.758622+00:00",
+  "generated_at": "2026-07-29T08:42:41.582612+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -9,8 +9,8 @@
     "total_cfps_discovered": 103,
     "open_cfps": 49,
     "expired_cfps": 54,
-    "total_applications": 89,
-    "drafts": 35,
+    "total_applications": 90,
+    "drafts": 36,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,7 +18,7 @@
     "expired_apps": 54,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-07-28T08:35:44.456778+00:00",
+    "last_crawled": "2026-07-29T08:42:41.283906+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
@@ -55,7 +55,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 9
+      "draft": 10
     }
   ],
   "source_breakdown": [
@@ -82,8 +82,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 1,
-    "low": 48
+    "medium": 2,
+    "low": 47
   },
   "tag_cloud": [
     {
@@ -234,6 +234,31 @@
       "event_type": "usergroup"
     },
     {
+      "id": "ae5b5f1d2ccaee0e",
+      "title": "Retro Data",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/retro-data-2",
+      "deadline": "2026-08-12",
+      "event_date": "2026-09-26",
+      "location": "Online",
+      "is_online": true,
+      "tags": [
+        "web",
+        "data",
+        "open-source",
+        "ai",
+        "education"
+      ],
+      "score": 0.404,
+      "priority": "medium",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.361,
+      "talk_match": 0.06,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "a12769d08cefcd0e",
       "title": "SQLDay Lite 2026",
       "source": "callfordataspeakers",
@@ -282,31 +307,6 @@
       "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "ae5b5f1d2ccaee0e",
-      "title": "Retro Data",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/retro-data-2",
-      "deadline": "2026-08-12",
-      "event_date": "2026-09-26",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "web",
-        "data",
-        "open-source",
-        "ai",
-        "education"
-      ],
-      "score": 0.374,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.361,
-      "talk_match": 0.06,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     },
     {
       "id": "0486b7fd0e05c814",
@@ -1231,6 +1231,26 @@
       "event_location": "Prague, Czechia"
     },
     {
+      "id": "73d7d31510171311",
+      "cfp_title": "Retro Data",
+      "talk_title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/retro-data-2",
+      "deadline": "2026-08-12",
+      "event_date": "2026-09-26",
+      "status": "draft",
+      "score": 0.404,
+      "priority": "medium",
+      "created_at": "2026-07-22T08:31:02.935778+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'open-source' (score: 4.5)",
+      "is_online": true,
+      "event_location": "Online"
+    },
+    {
       "id": "ff7950850daa5cb0",
       "cfp_title": "Data Saturday Gothenburg",
       "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
@@ -1369,26 +1389,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.5)",
       "is_online": true,
       "event_location": "TBD, TBD"
-    },
-    {
-      "id": "73d7d31510171311",
-      "cfp_title": "Retro Data",
-      "talk_title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/retro-data-2",
-      "deadline": "2026-08-12",
-      "event_date": "2026-09-26",
-      "status": "draft",
-      "score": 0.374,
-      "priority": "low",
-      "created_at": "2026-07-22T08:31:02.935778+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'open-source' (score: 4.5)",
-      "is_online": true,
-      "event_location": "Online"
     },
     {
       "id": "cdf1f660bb88de25",
@@ -2311,6 +2311,26 @@
       "event_location": "Hyatt Regency Seattle, 808 Howell St, Seattle, WA 98101,"
     },
     {
+      "id": "f8ed7448e38d59fd",
+      "cfp_title": "React Day Berlin",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://gitnation.com/events/react-day-berlin-2026/cfp",
+      "deadline": "2026-08-12",
+      "event_date": "2026-12-04",
+      "status": "draft",
+      "score": 0.26,
+      "priority": "low",
+      "created_at": "2026-07-29T08:42:41.525352+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": true,
+      "event_location": "Berlin, Germany"
+    },
+    {
       "id": "e320b5689ff3ded6",
       "cfp_title": "ZhongkuiMa/CFPMonitor",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2494,7 +2514,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 28,
+      "applications": 29,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2596,7 +2616,7 @@
       "title": "React Day Berlin",
       "deadline": "2026-08-12",
       "source": "confs.tech",
-      "score": 0.23,
+      "score": 0.26,
       "url": "https://gitnation.com/events/react-day-berlin-2026/cfp",
       "travel_sponsorship": "unknown",
       "location": "Berlin, Germany"
@@ -2605,7 +2625,7 @@
       "title": "Retro Data",
       "deadline": "2026-08-12",
       "source": "callfordataspeakers",
-      "score": 0.374,
+      "score": 0.404,
       "url": "https://sessionize.com/retro-data-2",
       "travel_sponsorship": "unknown",
       "location": "Online"
@@ -2614,7 +2634,7 @@
       "title": "AI Coding Summit Berlin Edition",
       "deadline": "2026-08-12",
       "source": "confs.tech",
-      "score": 0.217,
+      "score": 0.247,
       "url": "https://gitnation.com/events/ai-coding-summit-berlin/cfp",
       "travel_sponsorship": "unknown",
       "location": "Berlin, Germany"
