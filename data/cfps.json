@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-07-31T08:51:11.243516+00:00",
+    "last_crawled": "2026-08-01T08:22:32.498718+00:00",
     "total_cfps": 103,
-    "open_cfps": 49,
+    "open_cfps": 48,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 0,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-07-31T08:51:11.731332+00:00",
+    "last_scored": "2026-08-01T08:22:32.661095+00:00",
     "high_priority": 0,
     "medium_priority": 2,
-    "above_threshold": 36
+    "above_threshold": 35
   },
   "cfps": [
     {
@@ -316,10 +316,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:19.833410+00:00",
       "match_scores": {
-        "composite_score": 0.274,
+        "composite_score": 0.304,
         "tag_relevance": 0.335,
         "talk_match_score": 0.089,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.5,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
@@ -2264,10 +2264,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:35.156641+00:00",
       "match_scores": {
-        "composite_score": 0.324,
+        "composite_score": 0.354,
         "tag_relevance": 0.517,
         "talk_match_score": 0.044,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.5,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
@@ -5831,7 +5831,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon",
       "discovered_at": "2026-06-02T10:27:20.607935+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -5876,17 +5876,7 @@
         "twitter"
       ],
       "enriched_at": "2026-06-02T10:27:25.542877+00:00",
-      "match_scores": {
-        "composite_score": 0.39,
-        "tag_relevance": 0.348,
-        "talk_match_score": 0.059,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "c2dc22cd65a058f3",
@@ -6008,10 +5998,10 @@
       ],
       "enriched_at": "2026-06-12T10:16:40.822157+00:00",
       "match_scores": {
-        "composite_score": 0.256,
+        "composite_score": 0.286,
         "tag_relevance": 0.183,
         "talk_match_score": 0.04,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.6,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
@@ -6649,10 +6639,10 @@
       ],
       "enriched_at": "2026-07-13T09:30:10.635905+00:00",
       "match_scores": {
-        "composite_score": 0.301,
+        "composite_score": 0.331,
         "tag_relevance": 0.352,
         "talk_match_score": 0.059,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
