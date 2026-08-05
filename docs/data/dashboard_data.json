@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-04T08:38:23.894782+00:00",
+  "generated_at": "2026-08-05T08:37:30.497273+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 103,
-    "open_cfps": 48,
+    "total_cfps_discovered": 104,
+    "open_cfps": 49,
     "expired_cfps": 55,
-    "total_applications": 90,
-    "drafts": 35,
+    "total_applications": 93,
+    "drafts": 38,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 55,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-04T08:38:23.147268+00:00",
+    "last_crawled": "2026-08-05T08:37:29.717423+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
-    "travel_unknown": 44
+    "travel_unknown": 45
   },
   "timeline": [
     {
@@ -56,6 +56,14 @@
       "rejected": 0,
       "pending": 0,
       "draft": 10
+    },
+    {
+      "month": "2026-08",
+      "applied": 0,
+      "accepted": 0,
+      "rejected": 0,
+      "pending": 0,
+      "draft": 3
     }
   ],
   "source_breakdown": [
@@ -69,7 +77,7 @@
     },
     {
       "source": "github",
-      "count": 8
+      "count": 9
     },
     {
       "source": "dev.to",
@@ -83,20 +91,20 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 3,
-    "low": 45
+    "low": 46
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "web",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "open-source",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "data",
@@ -108,27 +116,27 @@
     },
     {
       "tag": "cloud",
-      "count": 24
+      "count": 25
     },
     {
       "tag": "leadership",
-      "count": 24
+      "count": 25
     },
     {
       "tag": "education",
-      "count": 23
+      "count": 24
     },
     {
       "tag": "conference",
-      "count": 19
+      "count": 20
     },
     {
       "tag": "security",
-      "count": 16
+      "count": 17
     },
     {
       "tag": "devops",
-      "count": 14
+      "count": 15
     },
     {
       "tag": "in-person",
@@ -140,7 +148,7 @@
     },
     {
       "tag": "call-for-papers",
-      "count": 9
+      "count": 10
     },
     {
       "tag": "usergroup",
@@ -155,24 +163,24 @@
       "count": 6
     },
     {
+      "tag": "python",
+      "count": 6
+    },
+    {
       "tag": "europe",
       "count": 6
+    },
+    {
+      "tag": "blockchain",
+      "count": 5
     },
     {
       "tag": "events",
       "count": 5
     },
     {
-      "tag": "python",
-      "count": 5
-    },
-    {
       "tag": "north america",
       "count": 5
-    },
-    {
-      "tag": "blockchain",
-      "count": 4
     },
     {
       "tag": "online",
@@ -234,6 +242,31 @@
       "event_type": "usergroup"
     },
     {
+      "id": "ae5b5f1d2ccaee0e",
+      "title": "Retro Data",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/retro-data-2",
+      "deadline": "2026-08-12",
+      "event_date": "2026-09-26",
+      "location": "Online",
+      "is_online": true,
+      "tags": [
+        "web",
+        "data",
+        "open-source",
+        "ai",
+        "education"
+      ],
+      "score": 0.434,
+      "priority": "medium",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.361,
+      "talk_match": 0.06,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "84e9f4977c2985fe",
       "title": "Day of Data Orlando 2026",
       "source": "callfordataspeakers",
@@ -257,31 +290,6 @@
       "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "ae5b5f1d2ccaee0e",
-      "title": "Retro Data",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/retro-data-2",
-      "deadline": "2026-08-12",
-      "event_date": "2026-09-26",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "web",
-        "data",
-        "open-source",
-        "ai",
-        "education"
-      ],
-      "score": 0.404,
-      "priority": "medium",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.361,
-      "talk_match": 0.06,
-      "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     },
     {
       "id": "f6afba3518281dad",
@@ -484,6 +492,31 @@
       "event_type": "usergroup"
     },
     {
+      "id": "a679ad1fe516f16c",
+      "title": "SQL Konferenz 2027",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sql-konferenz-2027",
+      "deadline": "2026-10-04",
+      "event_date": "2027-02-22",
+      "location": "Hanau am Main, Germany",
+      "is_online": false,
+      "tags": [
+        "conference",
+        "database",
+        "ai",
+        "open-source",
+        "web"
+      ],
+      "score": 0.319,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.358,
+      "talk_match": 0.044,
+      "urgency": 0.4,
+      "travel_sponsorship": "partial",
+      "event_type": "conference"
+    },
+    {
       "id": "817753aaf9b0bac3",
       "title": "Microsoft Fabric Cafe 2026",
       "source": "callfordataspeakers",
@@ -609,6 +642,31 @@
       "event_type": ""
     },
     {
+      "id": "e2bec5eb414374f6",
+      "title": "sundou82/conference-partner-mcp",
+      "source": "github",
+      "url": "https://github.com/sundou82/conference-partner-mcp",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "mcp",
+        "python",
+        "rest-api",
+        "ccf",
+        "deadlines"
+      ],
+      "score": 0.31,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.335,
+      "talk_match": 0.059,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
+    },
+    {
       "id": "179b76777b995df7",
       "title": "The AI Conf",
       "source": "confs.tech",
@@ -657,56 +715,6 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
-    },
-    {
-      "id": "d04355fb1fd02eeb",
-      "title": "KubeCon + CloudNativeCon Europe",
-      "source": "confs.tech",
-      "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/cfp",
-      "deadline": "",
-      "event_date": "2026-03-23",
-      "location": "Amsterdam, Netherlands",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "database",
-        "education",
-        "security",
-        "testing"
-      ],
-      "score": 0.3,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.33,
-      "talk_match": 0.098,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "a7f1d6ce283fab35",
-      "title": "I Built a CFP Copilot with Amazon Quick - From Prompt to Published App in Under 1 Hour",
-      "source": "dev.to",
-      "url": "https://dev.to/_76130e67067eab4c8510/i-built-a-cfp-copilot-with-amazon-quick-from-prompt-to-published-app-in-under-1-hour-1jba",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "web",
-        "ai",
-        "database",
-        "leadership"
-      ],
-      "score": 0.299,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.344,
-      "talk_match": 0.078,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
     }
   ],
   "applications": [
@@ -909,6 +917,26 @@
       "match_reason": "Conference themes align with 'data' (score: 8.7)",
       "is_online": false,
       "event_location": "Austin, Texas, United States"
+    },
+    {
+      "id": "73d7d31510171311",
+      "cfp_title": "Retro Data",
+      "talk_title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/retro-data-2",
+      "deadline": "2026-08-12",
+      "event_date": "2026-09-26",
+      "status": "draft",
+      "score": 0.434,
+      "priority": "medium",
+      "created_at": "2026-07-22T08:31:02.935778+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'open-source' (score: 4.5)",
+      "is_online": true,
+      "event_location": "Online"
     },
     {
       "id": "c8f2597c6e5db7c4",
@@ -1249,26 +1277,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 8.5)",
       "is_online": false,
       "event_location": "Prague, Czechia"
-    },
-    {
-      "id": "73d7d31510171311",
-      "cfp_title": "Retro Data",
-      "talk_title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/retro-data-2",
-      "deadline": "2026-08-12",
-      "event_date": "2026-09-26",
-      "status": "draft",
-      "score": 0.404,
-      "priority": "medium",
-      "created_at": "2026-07-22T08:31:02.935778+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'open-source' (score: 4.5)",
-      "is_online": true,
-      "event_location": "Online"
     },
     {
       "id": "ff7950850daa5cb0",
@@ -1851,6 +1859,26 @@
       "event_location": "Gdynia, Poland"
     },
     {
+      "id": "bbc3cdf1c2419f2e",
+      "cfp_title": "SQL Konferenz 2027",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sql-konferenz-2027",
+      "deadline": "2026-10-04",
+      "event_date": "2027-02-22",
+      "status": "draft",
+      "score": 0.319,
+      "priority": "low",
+      "created_at": "2026-05-21T09:44:48.566831+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'database' (score: 4.8)",
+      "is_online": false,
+      "event_location": "Hanau am Main, Germany"
+    },
+    {
       "id": "14f24ec0a257b5c7",
       "cfp_title": "Microsoft Fabric Cafe 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -2031,6 +2059,26 @@
       "event_location": "TBD, TBD"
     },
     {
+      "id": "f4291c4ce05d31cb",
+      "cfp_title": "sundou82/conference-partner-mcp",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "github",
+      "cfp_url": "https://github.com/sundou82/conference-partner-mcp",
+      "deadline": "",
+      "event_date": "",
+      "status": "draft",
+      "score": 0.31,
+      "priority": "low",
+      "created_at": "2026-08-05T08:37:30.440344+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 14.5)",
+      "is_online": true,
+      "event_location": ""
+    },
+    {
       "id": "8ef1aa5b4718f454",
       "cfp_title": "The AI Conf",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2131,24 +2179,24 @@
       "event_location": "London, U.K."
     },
     {
-      "id": "bbc3cdf1c2419f2e",
-      "cfp_title": "SQL Konferenz 2027",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/sql-konferenz-2027",
-      "deadline": "2026-10-04",
-      "event_date": "2027-02-22",
+      "id": "f8ed7448e38d59fd",
+      "cfp_title": "React Day Berlin",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://gitnation.com/events/react-day-berlin-2026/cfp",
+      "deadline": "2026-08-12",
+      "event_date": "2026-12-04",
       "status": "draft",
-      "score": 0.289,
+      "score": 0.29,
       "priority": "low",
-      "created_at": "2026-05-21T09:44:48.566831+00:00",
+      "created_at": "2026-07-29T08:42:41.525352+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'database' (score: 4.8)",
-      "is_online": false,
-      "event_location": "Hanau am Main, Germany"
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": true,
+      "event_location": "Berlin, Germany"
     },
     {
       "id": "0f442c5b441fc24a",
@@ -2209,6 +2257,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": false,
       "event_location": "New York, NY, U.S.A."
+    },
+    {
+      "id": "b01cda94dc723296",
+      "cfp_title": "AI Coding Summit Berlin Edition",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://gitnation.com/events/ai-coding-summit-berlin/cfp",
+      "deadline": "2026-08-12",
+      "event_date": "2026-12-04",
+      "status": "draft",
+      "score": 0.277,
+      "priority": "low",
+      "created_at": "2026-08-05T08:37:30.440139+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": false,
+      "event_location": "Berlin, Germany"
     },
     {
       "id": "bc7d3eeb13b31ac2",
@@ -2329,26 +2397,6 @@
       "match_reason": "Conference themes align with 'database' (score: 5.7)",
       "is_online": false,
       "event_location": "Hyatt Regency Seattle, 808 Howell St, Seattle, WA 98101,"
-    },
-    {
-      "id": "f8ed7448e38d59fd",
-      "cfp_title": "React Day Berlin",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://gitnation.com/events/react-day-berlin-2026/cfp",
-      "deadline": "2026-08-12",
-      "event_date": "2026-12-04",
-      "status": "draft",
-      "score": 0.26,
-      "priority": "low",
-      "created_at": "2026-07-29T08:42:41.525352+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
-      "is_online": true,
-      "event_location": "Berlin, Germany"
     },
     {
       "id": "e320b5689ff3ded6",
@@ -2509,12 +2557,32 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": false,
       "event_location": "New York, NY, U.S.A."
+    },
+    {
+      "id": "0c784435d99eb272",
+      "cfp_title": "Data Community Day Austria 2027",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-community-day-austria-2027",
+      "deadline": "2026-10-04",
+      "event_date": "2027-01-18",
+      "status": "draft",
+      "score": 0.25,
+      "priority": "low",
+      "created_at": "2026-08-05T08:37:30.439267+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 4.3)",
+      "is_online": false,
+      "event_location": "Vienna, Austria"
     }
   ],
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 29,
+      "applications": 31,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2530,7 +2598,7 @@
     },
     {
       "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "applications": 13,
+      "applications": 14,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2607,7 +2675,7 @@
       "title": "React Day Berlin",
       "deadline": "2026-08-12",
       "source": "confs.tech",
-      "score": 0.26,
+      "score": 0.29,
       "url": "https://gitnation.com/events/react-day-berlin-2026/cfp",
       "travel_sponsorship": "unknown",
       "location": "Berlin, Germany"
@@ -2616,7 +2684,7 @@
       "title": "Retro Data",
       "deadline": "2026-08-12",
       "source": "callfordataspeakers",
-      "score": 0.404,
+      "score": 0.434,
       "url": "https://sessionize.com/retro-data-2",
       "travel_sponsorship": "unknown",
       "location": "Online"
@@ -2625,7 +2693,7 @@
       "title": "AI Coding Summit Berlin Edition",
       "deadline": "2026-08-12",
       "source": "confs.tech",
-      "score": 0.247,
+      "score": 0.277,
       "url": "https://gitnation.com/events/ai-coding-summit-berlin/cfp",
       "travel_sponsorship": "unknown",
       "location": "Berlin, Germany"

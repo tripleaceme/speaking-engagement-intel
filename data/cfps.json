@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-08-04T08:38:23.147268+00:00",
-    "total_cfps": 103,
-    "open_cfps": 48,
+    "last_crawled": "2026-08-05T08:37:29.717423+00:00",
+    "total_cfps": 104,
+    "open_cfps": 49,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-08-04T08:38:23.782811+00:00",
+    "last_scored": "2026-08-05T08:37:30.380576+00:00",
     "high_priority": 0,
     "medium_priority": 3,
-    "above_threshold": 35
+    "above_threshold": 38
   },
   "cfps": [
     {
@@ -4471,10 +4471,10 @@
       ],
       "enriched_at": "2026-04-18T07:12:25.317427+00:00",
       "match_scores": {
-        "composite_score": 0.26,
+        "composite_score": 0.29,
         "tag_relevance": 0.0,
         "talk_match_score": 0.0,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.7,
         "suggested_talk": null,
         "suggested_talk_level": null,
@@ -5226,10 +5226,10 @@
       ],
       "enriched_at": "2026-05-21T09:44:48.432606+00:00",
       "match_scores": {
-        "composite_score": 0.289,
+        "composite_score": 0.319,
         "tag_relevance": 0.358,
         "talk_match_score": 0.044,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.6,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
@@ -5685,10 +5685,10 @@
       ],
       "enriched_at": "2026-05-30T08:29:56.994611+00:00",
       "match_scores": {
-        "composite_score": 0.22,
+        "composite_score": 0.25,
         "tag_relevance": 0.173,
         "talk_match_score": 0.098,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -6780,10 +6780,10 @@
       ],
       "enriched_at": "2026-07-22T08:31:02.790035+00:00",
       "match_scores": {
-        "composite_score": 0.404,
+        "composite_score": 0.434,
         "tag_relevance": 0.361,
         "talk_match_score": 0.06,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.7,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
@@ -7009,13 +7009,130 @@
       ],
       "enriched_at": "2026-07-27T09:54:26.925953+00:00",
       "match_scores": {
-        "composite_score": 0.247,
+        "composite_score": 0.277,
         "tag_relevance": 0.0,
         "talk_match_score": 0.022,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.6,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "e2bec5eb414374f6",
+      "source": "github",
+      "title": "sundou82/conference-partner-mcp",
+      "url": "https://github.com/sundou82/conference-partner-mcp",
+      "cfp_url": "https://github.com/sundou82/conference-partner-mcp",
+      "description": "MCP server and REST API for academic conference & journal deadlines: CCF/CORE/QUALIS rankings, CFP dates, acceptance rates. Anonymous access, no install.",
+      "tags": [
+        "mcp",
+        "python",
+        "rest-api",
+        "ccf",
+        "deadlines",
+        "mcp-server",
+        "ai",
+        "devops",
+        "academic",
+        "journals",
+        "education",
+        "leadership",
+        "call-for-papers",
+        "conference",
+        "security",
+        "openapi",
+        "web",
+        "research",
+        "claude",
+        "model-context-protocol",
+        "ai-agents",
+        "blockchain",
+        "cloud",
+        "paper-deadlines",
+        "open-source"
+      ],
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "",
+      "discovered_at": "2026-08-05T08:37:28.674316+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "python",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "7 support pricing type",
+        "papers ccf claude conference deadlines journals mcp mcp",
+        "academic ai",
+        "ons github advanced security enterprise",
+        "context",
+        "grade security features copilot for business enterprise",
+        "deadlines research rest",
+        "agents call",
+        "powered developer platform available add",
+        "to sea",
+        "server model",
+        "grade 24",
+        "protocol openapi paper",
+        "grade ai features premium support enterprise"
+      ],
+      "submission_fields": [
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-08-05T08:37:30.303841+00:00",
+      "match_scores": {
+        "composite_score": 0.31,
+        "tag_relevance": 0.335,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.1,
+        "format_score": 0.8,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
