@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-08-06T08:37:33.283721+00:00",
-    "total_cfps": 104,
-    "open_cfps": 49,
+    "last_crawled": "2026-08-07T07:17:33.555130+00:00",
+    "total_cfps": 108,
+    "open_cfps": 53,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 4,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-08-06T08:37:33.453817+00:00",
+    "last_scored": "2026-08-07T07:17:36.284231+00:00",
     "high_priority": 0,
     "medium_priority": 3,
-    "above_threshold": 38
+    "above_threshold": 42
   },
   "cfps": [
     {
@@ -7133,6 +7133,265 @@
         "format_score": 0.8,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "5db72494993e6bc8",
+      "source": "confs.tech",
+      "title": "Big Data Europe",
+      "url": "https://bigdataconference.eu",
+      "cfp_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "description": "Airtable Your browser version is not supported. Try our  desktop apps ! Alternatively, use the latest version of  Chrome ,  Firefox , Safari, or Edge instead. Bring your Airtable data into Claude.",
+      "tags": [
+        "open-source",
+        "web",
+        "online",
+        "testing",
+        "data",
+        "ai",
+        "database",
+        "mobile",
+        "education",
+        "security",
+        "leadership"
+      ],
+      "deadline": "2026-11-23",
+      "event_date": "2026-11-24",
+      "location": "Vilnius, Lithuania",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-08-07T07:17:27.448979+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "track",
+        "social media",
+        "twitter"
+      ],
+      "enriched_at": "2026-08-07T07:17:34.060759+00:00",
+      "match_scores": {
+        "composite_score": 0.315,
+        "tag_relevance": 0.338,
+        "talk_match_score": 0.089,
+        "urgency_score": 0.2,
+        "format_score": 0.7,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "00f9db4d6ca9e319",
+      "source": "confs.tech",
+      "title": "X-Ops Conference Dubai",
+      "url": "https://xopsconference.com",
+      "cfp_url": "https://sessionize.com/x-ops-conference-2026",
+      "description": "X-Ops Conference 2026: Call for Papers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. Its main objective is to encourage the exchange of knowledge, experiences and best practices in a collaborative and innovative environment.",
+      "tags": [
+        "web",
+        "ai",
+        "devops",
+        "education",
+        "security"
+      ],
+      "deadline": "2026-08-31",
+      "event_date": "2026-10-15",
+      "location": "Dubai, United Arab Emirates",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-08-07T07:17:27.951682+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "twitter"
+      ],
+      "enriched_at": "2026-08-07T07:17:34.865337+00:00",
+      "match_scores": {
+        "composite_score": 0.277,
+        "tag_relevance": 0.173,
+        "talk_match_score": 0.02,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "b582643860f9c214",
+      "source": "confs.tech",
+      "title": "X-Ops Conference Madrid",
+      "url": "https://xopsconference.com",
+      "cfp_url": "https://sessionize.com/x-ops-conference-2026",
+      "description": "X-Ops Conference 2026: Call for Papers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. Its main objective is to encourage the exchange of knowledge, experiences and best practices in a collaborative and innovative environment.",
+      "tags": [
+        "web",
+        "ai",
+        "devops",
+        "education",
+        "security"
+      ],
+      "deadline": "2026-08-31",
+      "event_date": "2026-11-19",
+      "location": "Madrid, Spain",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-08-07T07:17:27.951717+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "twitter"
+      ],
+      "enriched_at": "2026-08-07T07:17:35.737569+00:00",
+      "match_scores": {
+        "composite_score": 0.277,
+        "tag_relevance": 0.173,
+        "talk_match_score": 0.02,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "ac8b227c01c90c7d",
+      "source": "confs.tech",
+      "title": "Moldova DevCon",
+      "url": "https://mdc.md",
+      "cfp_url": "https://forms.gle/fioMNEFN7XZPQsbv9",
+      "description": "be/xC7mSYVvaUk \u00a0 Sign in to Google  to save your progress. ) Your answer Presentation title  * Please mention if it's a workshop Your answer Presentation description  * Your answer Please confirm you can present in English (you should be able to present fluently). * Yes No Required Where did you hear about Moldova DevCon 2026? LinkedIn Facebook Telegram dev.",
+      "tags": [
+        "general",
+        "ai",
+        "leadership",
+        "education"
+      ],
+      "deadline": "2026-08-31",
+      "event_date": "2026-11-06",
+      "location": "Chi\u0219in\u0103u, Moldova",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-08-07T07:17:28.221420+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "title",
+        "description",
+        "topic",
+        "social media",
+        "twitter"
+      ],
+      "enriched_at": "2026-08-07T07:17:36.205598+00:00",
+      "match_scores": {
+        "composite_score": 0.275,
+        "tag_relevance": 0.167,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }

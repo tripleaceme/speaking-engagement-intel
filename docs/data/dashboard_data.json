@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-06T08:37:33.578463+00:00",
+  "generated_at": "2026-08-07T07:17:36.401824+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 104,
-    "open_cfps": 49,
+    "total_cfps_discovered": 108,
+    "open_cfps": 53,
     "expired_cfps": 55,
-    "total_applications": 93,
-    "drafts": 38,
+    "total_applications": 97,
+    "drafts": 42,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 55,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-06T08:37:33.283721+00:00",
+    "last_crawled": "2026-08-07T07:17:33.555130+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
-    "travel_unknown": 45
+    "travel_unknown": 49
   },
   "timeline": [
     {
@@ -63,7 +63,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 3
+      "draft": 7
     }
   ],
   "source_breakdown": [
@@ -73,7 +73,7 @@
     },
     {
       "source": "confs.tech",
-      "count": 43
+      "count": 47
     },
     {
       "source": "github",
@@ -91,52 +91,52 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 3,
-    "low": 46
+    "low": 50
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 48
+      "count": 52
     },
     {
       "tag": "web",
-      "count": 41
+      "count": 44
     },
     {
       "tag": "open-source",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "data",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "database",
-      "count": 29
+      "count": 30
+    },
+    {
+      "tag": "education",
+      "count": 28
+    },
+    {
+      "tag": "leadership",
+      "count": 27
     },
     {
       "tag": "cloud",
       "count": 25
     },
     {
-      "tag": "leadership",
-      "count": 25
-    },
-    {
-      "tag": "education",
-      "count": 24
+      "tag": "security",
+      "count": 20
     },
     {
       "tag": "conference",
       "count": 20
     },
     {
-      "tag": "security",
-      "count": 17
-    },
-    {
       "tag": "devops",
-      "count": 15
+      "count": 17
     },
     {
       "tag": "in-person",
@@ -155,12 +155,12 @@
       "count": 8
     },
     {
-      "tag": "cfp",
+      "tag": "testing",
       "count": 7
     },
     {
-      "tag": "testing",
-      "count": 6
+      "tag": "cfp",
+      "count": 7
     },
     {
       "tag": "python",
@@ -184,6 +184,14 @@
     },
     {
       "tag": "online",
+      "count": 4
+    },
+    {
+      "tag": "general",
+      "count": 3
+    },
+    {
+      "tag": "mobile",
       "count": 3
     },
     {
@@ -201,14 +209,6 @@
     {
       "tag": "javascript",
       "count": 3
-    },
-    {
-      "tag": "general",
-      "count": 2
-    },
-    {
-      "tag": "mobile",
-      "count": 2
     },
     {
       "tag": "tech-conference",
@@ -617,6 +617,31 @@
       "event_type": ""
     },
     {
+      "id": "5db72494993e6bc8",
+      "title": "Big Data Europe",
+      "source": "confs.tech",
+      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "deadline": "2026-11-23",
+      "event_date": "2026-11-24",
+      "location": "Vilnius, Lithuania",
+      "is_online": true,
+      "tags": [
+        "open-source",
+        "web",
+        "online",
+        "testing",
+        "data"
+      ],
+      "score": 0.315,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.338,
+      "talk_match": 0.089,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "6bf84ef1128c1e5f",
       "title": "pretalx/pretalx",
       "source": "github",
@@ -689,31 +714,6 @@
       "talk_match": 0.089,
       "urgency": 0.4,
       "travel_sponsorship": "partial",
-      "event_type": "conference"
-    },
-    {
-      "id": "2353c784b684765d",
-      "title": "Global Summit on Data Science and Cloud Computing",
-      "source": "confs.tech",
-      "url": "https://datascience.novelticsconferences.com/register",
-      "deadline": "2026-10-15",
-      "event_date": "2026-10-19",
-      "location": "Rome, Italy",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "education",
-        "testing",
-        "ai",
-        "leadership"
-      ],
-      "score": 0.301,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.331,
-      "talk_match": 0.118,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
       "event_type": "conference"
     }
   ],
@@ -1959,6 +1959,26 @@
       "event_location": ""
     },
     {
+      "id": "85e7993e5763732f",
+      "cfp_title": "Big Data Europe",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "deadline": "2026-11-23",
+      "event_date": "2026-11-24",
+      "status": "draft",
+      "score": 0.315,
+      "priority": "low",
+      "created_at": "2026-08-07T07:17:36.345470+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 6.0)",
+      "is_online": true,
+      "event_location": "Vilnius, Lithuania"
+    },
+    {
       "id": "9f094061ee9949e3",
       "cfp_title": "pretalx/pretalx",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2279,6 +2299,66 @@
       "event_location": "Berlin, Germany"
     },
     {
+      "id": "ce2659d19e18d705",
+      "cfp_title": "X-Ops Conference Dubai",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/x-ops-conference-2026",
+      "deadline": "2026-08-31",
+      "event_date": "2026-10-15",
+      "status": "draft",
+      "score": 0.277,
+      "priority": "low",
+      "created_at": "2026-08-07T07:17:36.345540+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 5.0)",
+      "is_online": false,
+      "event_location": "Dubai, United Arab Emirates"
+    },
+    {
+      "id": "1754dc31cb333830",
+      "cfp_title": "X-Ops Conference Madrid",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/x-ops-conference-2026",
+      "deadline": "2026-08-31",
+      "event_date": "2026-11-19",
+      "status": "draft",
+      "score": 0.277,
+      "priority": "low",
+      "created_at": "2026-08-07T07:17:36.345597+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 5.0)",
+      "is_online": false,
+      "event_location": "Madrid, Spain"
+    },
+    {
+      "id": "c3dfda2422b24b71",
+      "cfp_title": "Moldova DevCon",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://forms.gle/fioMNEFN7XZPQsbv9",
+      "deadline": "2026-08-31",
+      "event_date": "2026-11-06",
+      "status": "draft",
+      "score": 0.275,
+      "priority": "low",
+      "created_at": "2026-08-07T07:17:36.345658+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 3.5)",
+      "is_online": false,
+      "event_location": "Chi\u0219in\u0103u, Moldova"
+    },
+    {
       "id": "bc7d3eeb13b31ac2",
       "cfp_title": "NextGen Intelligence Conference: Data, Cloud & AI",
       "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
@@ -2582,7 +2662,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 31,
+      "applications": 34,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2613,15 +2693,15 @@
       "acceptance_rate": 0
     },
     {
-      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "applications": 6,
+      "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "applications": 7,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
       "acceptance_rate": 0
     },
     {
-      "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
       "applications": 6,
       "accepted": 0,
       "rejected": 0,
@@ -2744,13 +2824,13 @@
       "location": "Wilrijk, Belgium"
     },
     {
-      "title": "Persian and Fabric Power BI User Group",
-      "deadline": "2026-09-12",
-      "source": "callfordataspeakers",
-      "score": 0.343,
-      "url": "https://sessionize.com/persian-power-bi-user-group",
+      "title": "X-Ops Conference Dubai",
+      "deadline": "2026-08-31",
+      "source": "confs.tech",
+      "score": 0.277,
+      "url": "https://sessionize.com/x-ops-conference-2026",
       "travel_sponsorship": "unknown",
-      "location": "Online"
+      "location": "Dubai, United Arab Emirates"
     }
   ]
 }
