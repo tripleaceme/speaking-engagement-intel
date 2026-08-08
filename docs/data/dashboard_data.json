@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:17:36.401824+00:00",
+  "generated_at": "2026-08-08T06:55:06.399866+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 55,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-07T07:17:33.555130+00:00",
+    "last_crawled": "2026-08-08T06:55:06.156001+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
@@ -2782,7 +2782,7 @@
       "title": "TechLead Conference London",
       "deadline": "2026-08-22",
       "source": "confs.tech",
-      "score": 0.217,
+      "score": 0.247,
       "url": "https://gitnation.com/events/techlead-conf-london-2026-adopting-ai-in-orgs-edition/cfp",
       "travel_sponsorship": "unknown",
       "location": "London, U.K."
