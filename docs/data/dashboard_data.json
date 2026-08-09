@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T06:55:06.399866+00:00",
+  "generated_at": "2026-08-09T06:58:03.561576+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 55,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-08T06:55:06.156001+00:00",
+    "last_crawled": "2026-08-09T06:58:03.244660+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
@@ -2791,7 +2791,7 @@
       "title": "NSW AI Bonanza",
       "deadline": "2026-08-23",
       "source": "confs.tech",
-      "score": 0.202,
+      "score": 0.232,
       "url": "https://forms.gle/NGUgSFjBCPyZzz769",
       "travel_sponsorship": "unknown",
       "location": "Sydney, Australia"
