@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-10T07:43:37.619132+00:00",
+  "generated_at": "2026-08-11T07:09:15.721081+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 108,
-    "open_cfps": 53,
+    "total_cfps_discovered": 109,
+    "open_cfps": 54,
     "expired_cfps": 55,
     "total_applications": 97,
     "drafts": 42,
@@ -18,11 +18,11 @@
     "expired_apps": 55,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-10T07:43:37.333358+00:00",
+    "last_crawled": "2026-08-11T07:09:14.328299+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
-    "travel_unknown": 49
+    "travel_unknown": 50
   },
   "timeline": [
     {
@@ -77,7 +77,7 @@
     },
     {
       "source": "github",
-      "count": 9
+      "count": 10
     },
     {
       "source": "dev.to",
@@ -91,20 +91,20 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 3,
-    "low": 50
+    "low": 51
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 52
+      "count": 53
     },
     {
       "tag": "web",
-      "count": 44
+      "count": 45
     },
     {
       "tag": "open-source",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "data",
@@ -112,31 +112,35 @@
     },
     {
       "tag": "database",
-      "count": 30
+      "count": 31
     },
     {
       "tag": "education",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "leadership",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "cloud",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "security",
-      "count": 20
+      "count": 21
     },
     {
       "tag": "conference",
-      "count": 20
+      "count": 21
     },
     {
       "tag": "devops",
-      "count": 17
+      "count": 18
+    },
+    {
+      "tag": "call-for-papers",
+      "count": 11
     },
     {
       "tag": "in-person",
@@ -147,20 +151,16 @@
       "count": 11
     },
     {
-      "tag": "call-for-papers",
-      "count": 10
+      "tag": "testing",
+      "count": 8
+    },
+    {
+      "tag": "cfp",
+      "count": 8
     },
     {
       "tag": "usergroup",
       "count": 8
-    },
-    {
-      "tag": "testing",
-      "count": 7
-    },
-    {
-      "tag": "cfp",
-      "count": 7
     },
     {
       "tag": "python",
@@ -187,11 +187,11 @@
       "count": 4
     },
     {
-      "tag": "general",
-      "count": 3
+      "tag": "mobile",
+      "count": 4
     },
     {
-      "tag": "mobile",
+      "tag": "general",
       "count": 3
     },
     {

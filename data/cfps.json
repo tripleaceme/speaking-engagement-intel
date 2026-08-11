@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-08-10T07:43:37.333358+00:00",
-    "total_cfps": 108,
-    "open_cfps": 53,
+    "last_crawled": "2026-08-11T07:09:14.328299+00:00",
+    "total_cfps": 109,
+    "open_cfps": 54,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-08-10T07:43:37.497761+00:00",
+    "last_scored": "2026-08-11T07:09:15.611455+00:00",
     "high_priority": 0,
     "medium_priority": 3,
     "above_threshold": 42
@@ -7392,6 +7392,123 @@
         "format_score": 0.6,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "a135054308217965",
+      "source": "github",
+      "title": "SteveMLC/speakerops",
+      "url": "https://github.com/SteveMLC/speakerops",
+      "cfp_url": "https://github.com/SteveMLC/speakerops",
+      "description": "Open-source speaker, CFP, and agenda operations platform for the Kill My SaaS hackathon",
+      "tags": [
+        "cloudflare-d1",
+        "cloud",
+        "web",
+        "leadership",
+        "mobile",
+        "devops",
+        "open-source-alternative",
+        "cloudflare-workers",
+        "ai",
+        "call-for-papers",
+        "speaker-management",
+        "cfp",
+        "testing",
+        "conference",
+        "hono",
+        "event-management",
+        "education",
+        "open-source",
+        "security",
+        "database"
+      ],
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "",
+      "discovered_at": "2026-08-11T07:09:12.093984+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "7 support pricing type",
+        "call",
+        "papers cfp cloudflare",
+        "ons github advanced security enterprise",
+        "d1 cloudflare",
+        "workers conference event",
+        "powered developer platform available add",
+        "source",
+        "grade ai features premium support enterprise",
+        "grade security features copilot for business enterprise",
+        "alternative speaker",
+        "management hono open",
+        "to sea",
+        "grade 24"
+      ],
+      "submission_fields": [
+        "topic",
+        "track",
+        "headshot"
+      ],
+      "enriched_at": "2026-08-11T07:09:15.542065+00:00",
+      "match_scores": {
+        "composite_score": 0.227,
+        "tag_relevance": 0.172,
+        "talk_match_score": 0.039,
+        "urgency_score": 0.1,
+        "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
