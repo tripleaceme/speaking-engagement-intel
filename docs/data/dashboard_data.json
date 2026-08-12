@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:09:15.721081+00:00",
+  "generated_at": "2026-08-12T07:26:06.599506+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 109,
-    "open_cfps": 54,
-    "expired_cfps": 55,
+    "open_cfps": 53,
+    "expired_cfps": 56,
     "total_applications": 97,
-    "drafts": 42,
+    "drafts": 41,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 55,
+    "expired_apps": 56,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-11T07:09:14.328299+00:00",
+    "last_crawled": "2026-08-12T07:26:05.022889+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
-    "travel_unknown": 50
+    "travel_unknown": 49
   },
   "timeline": [
     {
@@ -55,7 +55,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 10
+      "draft": 9
     },
     {
       "month": "2026-08",
@@ -90,33 +90,33 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 3,
+    "medium": 2,
     "low": 51
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 53
+      "count": 52
     },
     {
       "tag": "web",
-      "count": 45
+      "count": 44
     },
     {
       "tag": "open-source",
-      "count": 41
+      "count": 40
     },
     {
       "tag": "data",
-      "count": 35
+      "count": 34
     },
     {
       "tag": "database",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "education",
-      "count": 29
+      "count": 28
     },
     {
       "tag": "leadership",
@@ -124,7 +124,7 @@
     },
     {
       "tag": "cloud",
-      "count": 26
+      "count": 25
     },
     {
       "tag": "security",
@@ -179,15 +179,15 @@
       "count": 5
     },
     {
-      "tag": "north america",
-      "count": 5
-    },
-    {
       "tag": "online",
       "count": 4
     },
     {
       "tag": "mobile",
+      "count": 4
+    },
+    {
+      "tag": "north america",
       "count": 4
     },
     {
@@ -265,31 +265,6 @@
       "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
-    },
-    {
-      "id": "84e9f4977c2985fe",
-      "title": "Day of Data Orlando 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/day-of-data-orlando-2026",
-      "deadline": "2026-08-11",
-      "event_date": "2026-10-17",
-      "location": "Sanford, Florida, United States",
-      "is_online": false,
-      "tags": [
-        "database",
-        "web",
-        "open-source",
-        "data",
-        "cloud"
-      ],
-      "score": 0.414,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.361,
-      "talk_match": 0.059,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference, precon"
     },
     {
       "id": "f6afba3518281dad",
@@ -715,6 +690,31 @@
       "urgency": 0.4,
       "travel_sponsorship": "partial",
       "event_type": "conference"
+    },
+    {
+      "id": "a6d3b93c921d5c72",
+      "title": "NextGen Intelligence Conference: Data, Cloud & AI",
+      "source": "confs.tech",
+      "url": "https://techaiconf.com/register-interest",
+      "deadline": "2026-10-09",
+      "event_date": "2026-11-16",
+      "location": "London, U.K.",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "general",
+        "testing",
+        "leadership",
+        "ai"
+      ],
+      "score": 0.303,
+      "priority": "low",
+      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+      "tag_relevance": 0.167,
+      "talk_match": 0.082,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     }
   ],
   "applications": [
@@ -1086,7 +1086,7 @@
       "cfp_url": "https://sessionize.com/day-of-data-orlando-2026",
       "deadline": "2026-08-11",
       "event_date": "2026-10-17",
-      "status": "draft",
+      "status": "expired",
       "score": 0.414,
       "priority": "medium",
       "created_at": "2026-07-19T08:21:27.426868+00:00",
@@ -2743,15 +2743,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Day of Data Orlando 2026",
-      "deadline": "2026-08-11",
-      "source": "callfordataspeakers",
-      "score": 0.414,
-      "url": "https://sessionize.com/day-of-data-orlando-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Sanford, Florida, United States"
-    },
-    {
       "title": "React Day Berlin",
       "deadline": "2026-08-12",
       "source": "confs.tech",
@@ -2831,6 +2822,15 @@
       "url": "https://sessionize.com/x-ops-conference-2026",
       "travel_sponsorship": "unknown",
       "location": "Dubai, United Arab Emirates"
+    },
+    {
+      "title": "X-Ops Conference Madrid",
+      "deadline": "2026-08-31",
+      "source": "confs.tech",
+      "score": 0.277,
+      "url": "https://sessionize.com/x-ops-conference-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Madrid, Spain"
     }
   ]
 }
