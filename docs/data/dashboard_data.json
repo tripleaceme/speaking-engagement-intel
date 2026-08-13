@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-12T07:26:06.599506+00:00",
+  "generated_at": "2026-08-13T07:35:48.738657+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 109,
-    "open_cfps": 53,
-    "expired_cfps": 56,
-    "total_applications": 97,
-    "drafts": 41,
+    "total_cfps_discovered": 114,
+    "open_cfps": 55,
+    "expired_cfps": 59,
+    "total_applications": 99,
+    "drafts": 40,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 56,
+    "expired_apps": 59,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-12T07:26:05.022889+00:00",
+    "last_crawled": "2026-08-13T07:35:44.627820+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
-    "travel_unknown": 49
+    "travel_unknown": 51
   },
   "timeline": [
     {
@@ -55,7 +55,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 9
+      "draft": 7
     },
     {
       "month": "2026-08",
@@ -63,7 +63,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 7
+      "draft": 8
     }
   ],
   "source_breakdown": [
@@ -77,7 +77,7 @@
     },
     {
       "source": "github",
-      "count": 10
+      "count": 14
     },
     {
       "source": "dev.to",
@@ -85,33 +85,41 @@
     },
     {
       "source": "opensource",
-      "count": 1
+      "count": 2
     }
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 2,
-    "low": 51
+    "medium": 1,
+    "low": 54
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 52
+      "count": 54
     },
     {
       "tag": "web",
-      "count": 44
+      "count": 48
     },
     {
       "tag": "open-source",
-      "count": 40
+      "count": 44
+    },
+    {
+      "tag": "database",
+      "count": 35
     },
     {
       "tag": "data",
       "count": 34
     },
     {
-      "tag": "database",
+      "tag": "leadership",
+      "count": 33
+    },
+    {
+      "tag": "cloud",
       "count": 30
     },
     {
@@ -119,28 +127,24 @@
       "count": 28
     },
     {
-      "tag": "leadership",
-      "count": 28
-    },
-    {
-      "tag": "cloud",
-      "count": 25
-    },
-    {
       "tag": "security",
-      "count": 21
+      "count": 26
     },
     {
       "tag": "conference",
-      "count": 21
+      "count": 25
     },
     {
       "tag": "devops",
-      "count": 18
+      "count": 23
     },
     {
       "tag": "call-for-papers",
-      "count": 11
+      "count": 15
+    },
+    {
+      "tag": "cfp",
+      "count": 12
     },
     {
       "tag": "in-person",
@@ -152,15 +156,23 @@
     },
     {
       "tag": "testing",
-      "count": 8
-    },
-    {
-      "tag": "cfp",
-      "count": 8
+      "count": 10
     },
     {
       "tag": "usergroup",
       "count": 8
+    },
+    {
+      "tag": "blockchain",
+      "count": 7
+    },
+    {
+      "tag": "event-management",
+      "count": 7
+    },
+    {
+      "tag": "mobile",
+      "count": 6
     },
     {
       "tag": "python",
@@ -171,24 +183,28 @@
       "count": 6
     },
     {
-      "tag": "blockchain",
-      "count": 5
+      "tag": "cloudflare-workers",
+      "count": 6
+    },
+    {
+      "tag": "speaker-management",
+      "count": 6
     },
     {
       "tag": "events",
       "count": 5
     },
     {
-      "tag": "online",
-      "count": 4
-    },
-    {
-      "tag": "mobile",
-      "count": 4
-    },
-    {
       "tag": "north america",
       "count": 4
+    },
+    {
+      "tag": "open-source-alternative",
+      "count": 4
+    },
+    {
+      "tag": "online",
+      "count": 3
     },
     {
       "tag": "general",
@@ -197,22 +213,6 @@
     {
       "tag": "call-for-paper",
       "count": 3
-    },
-    {
-      "tag": "conferences",
-      "count": 3
-    },
-    {
-      "tag": "technology",
-      "count": 3
-    },
-    {
-      "tag": "javascript",
-      "count": 3
-    },
-    {
-      "tag": "tech-conference",
-      "count": 2
     }
   ],
   "top_matches": [
@@ -242,29 +242,54 @@
       "event_type": "usergroup"
     },
     {
-      "id": "ae5b5f1d2ccaee0e",
-      "title": "Retro Data",
+      "id": "0486b7fd0e05c814",
+      "title": "Persian and Fabric Power BI User Group",
       "source": "callfordataspeakers",
-      "url": "https://sessionize.com/retro-data-2",
-      "deadline": "2026-08-12",
-      "event_date": "2026-09-26",
+      "url": "https://sessionize.com/persian-power-bi-user-group",
+      "deadline": "2026-09-12",
+      "event_date": "2025-09-25",
       "location": "Online",
       "is_online": true,
       "tags": [
-        "web",
-        "data",
-        "open-source",
+        "education",
         "ai",
-        "education"
+        "leadership",
+        "open-source",
+        "usergroup"
       ],
-      "score": 0.434,
-      "priority": "medium",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.361,
-      "talk_match": 0.06,
-      "urgency": 1.0,
+      "score": 0.373,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.34,
+      "talk_match": 0.078,
+      "urgency": 0.6,
       "travel_sponsorship": "unknown",
-      "event_type": "conference"
+      "event_type": "usergroup"
+    },
+    {
+      "id": "c3c30f2797ec1bba",
+      "title": "SQL Server User Group Croatia 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
+      "deadline": "2026-09-12",
+      "event_date": "2026-04-08",
+      "location": "online",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "database",
+        "ai",
+        "open-source",
+        "usergroup"
+      ],
+      "score": 0.371,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.346,
+      "talk_match": 0.067,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     },
     {
       "id": "f6afba3518281dad",
@@ -287,56 +312,6 @@
       "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
       "tag_relevance": 0.517,
       "talk_match": 0.044,
-      "urgency": 0.4,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
-    },
-    {
-      "id": "0486b7fd0e05c814",
-      "title": "Persian and Fabric Power BI User Group",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/persian-power-bi-user-group",
-      "deadline": "2026-09-12",
-      "event_date": "2025-09-25",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "education",
-        "ai",
-        "leadership",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.343,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.34,
-      "talk_match": 0.078,
-      "urgency": 0.4,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
-    },
-    {
-      "id": "c3c30f2797ec1bba",
-      "title": "SQL Server User Group Croatia 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
-      "deadline": "2026-09-12",
-      "event_date": "2026-04-08",
-      "location": "online",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "database",
-        "ai",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.341,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.346,
-      "talk_match": 0.067,
       "urgency": 0.4,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
@@ -667,6 +642,56 @@
       "event_type": ""
     },
     {
+      "id": "549cf74dc3ffa909",
+      "title": "sameersegal/Podium",
+      "source": "github",
+      "url": "https://github.com/sameersegal/Podium",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "open-source",
+        "event-management",
+        "ai",
+        "self-hosted",
+        "cfp"
+      ],
+      "score": 0.308,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.329,
+      "talk_match": 0.06,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
+    },
+    {
+      "id": "94b2da80e45d1968",
+      "title": "SteveMLC/lectern",
+      "source": "github",
+      "url": "https://github.com/SteveMLC/lectern",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "open-source",
+        "event-management",
+        "hono",
+        "ai",
+        "education"
+      ],
+      "score": 0.306,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.341,
+      "talk_match": 0.04,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
+    },
+    {
       "id": "179b76777b995df7",
       "title": "The AI Conf",
       "source": "confs.tech",
@@ -689,31 +714,6 @@
       "talk_match": 0.089,
       "urgency": 0.4,
       "travel_sponsorship": "partial",
-      "event_type": "conference"
-    },
-    {
-      "id": "a6d3b93c921d5c72",
-      "title": "NextGen Intelligence Conference: Data, Cloud & AI",
-      "source": "confs.tech",
-      "url": "https://techaiconf.com/register-interest",
-      "deadline": "2026-10-09",
-      "event_date": "2026-11-16",
-      "location": "London, U.K.",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "general",
-        "testing",
-        "leadership",
-        "ai"
-      ],
-      "score": 0.303,
-      "priority": "low",
-      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-      "tag_relevance": 0.167,
-      "talk_match": 0.082,
-      "urgency": 0.4,
-      "travel_sponsorship": "unknown",
       "event_type": "conference"
     }
   ],
@@ -926,7 +926,7 @@
       "cfp_url": "https://sessionize.com/retro-data-2",
       "deadline": "2026-08-12",
       "event_date": "2026-09-26",
-      "status": "draft",
+      "status": "expired",
       "score": 0.434,
       "priority": "medium",
       "created_at": "2026-07-22T08:31:02.935778+00:00",
@@ -1399,6 +1399,46 @@
       "event_location": "TBD, TBD"
     },
     {
+      "id": "2fbe4cba6f0c1a5b",
+      "cfp_title": "Persian and Fabric Power BI User Group",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/persian-power-bi-user-group",
+      "deadline": "2026-09-12",
+      "event_date": "2025-09-25",
+      "status": "draft",
+      "score": 0.373,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.663534+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 19.0)",
+      "is_online": true,
+      "event_location": "Online"
+    },
+    {
+      "id": "e908cd9b2c4ccf0f",
+      "cfp_title": "SQL Server User Group Croatia 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sql-server-user-group-croatia-26",
+      "deadline": "2026-09-12",
+      "event_date": "2026-04-08",
+      "status": "draft",
+      "score": 0.371,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.664375+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 8.8)",
+      "is_online": true,
+      "event_location": "online"
+    },
+    {
       "id": "cdf1f660bb88de25",
       "cfp_title": "Data Platform Women in Technology Virtual Group 2026",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1599,26 +1639,6 @@
       "event_location": "New York City, New York, United States"
     },
     {
-      "id": "2fbe4cba6f0c1a5b",
-      "cfp_title": "Persian and Fabric Power BI User Group",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/persian-power-bi-user-group",
-      "deadline": "2026-09-12",
-      "event_date": "2025-09-25",
-      "status": "draft",
-      "score": 0.343,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.663534+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 19.0)",
-      "is_online": true,
-      "event_location": "Online"
-    },
-    {
       "id": "7e85ca613dd5b674",
       "cfp_title": "Software Architecture Gathering",
       "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
@@ -1657,26 +1677,6 @@
       "match_reason": "Conference themes align with 'data' (score: 5.3)",
       "is_online": false,
       "event_location": "Microsoft Toronto HQ, 81 Bay St., Toronto, ON M5J 0E7"
-    },
-    {
-      "id": "e908cd9b2c4ccf0f",
-      "cfp_title": "SQL Server User Group Croatia 2026",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/sql-server-user-group-croatia-26",
-      "deadline": "2026-09-12",
-      "event_date": "2026-04-08",
-      "status": "draft",
-      "score": 0.341,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.664375+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 8.8)",
-      "is_online": true,
-      "event_location": "online"
     },
     {
       "id": "4f6591892d5e0470",
@@ -2099,6 +2099,46 @@
       "event_location": ""
     },
     {
+      "id": "559bc43be15a3639",
+      "cfp_title": "sameersegal/Podium",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "github",
+      "cfp_url": "https://github.com/sameersegal/Podium",
+      "deadline": "",
+      "event_date": "",
+      "status": "draft",
+      "score": 0.308,
+      "priority": "low",
+      "created_at": "2026-08-13T07:35:48.672532+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 13.0)",
+      "is_online": true,
+      "event_location": ""
+    },
+    {
+      "id": "05d64895bced9a2a",
+      "cfp_title": "SteveMLC/lectern",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "github",
+      "cfp_url": "https://github.com/SteveMLC/lectern",
+      "deadline": "",
+      "event_date": "",
+      "status": "draft",
+      "score": 0.306,
+      "priority": "low",
+      "created_at": "2026-08-13T07:35:48.672721+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 11.5)",
+      "is_online": true,
+      "event_location": ""
+    },
+    {
       "id": "8ef1aa5b4718f454",
       "cfp_title": "The AI Conf",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2226,7 +2266,7 @@
       "cfp_url": "https://gitnation.com/events/react-day-berlin-2026/cfp",
       "deadline": "2026-08-12",
       "event_date": "2026-12-04",
-      "status": "draft",
+      "status": "expired",
       "score": 0.29,
       "priority": "low",
       "created_at": "2026-07-29T08:42:41.525352+00:00",
@@ -2306,7 +2346,7 @@
       "cfp_url": "https://gitnation.com/events/ai-coding-summit-berlin/cfp",
       "deadline": "2026-08-12",
       "event_date": "2026-12-04",
-      "status": "draft",
+      "status": "expired",
       "score": 0.277,
       "priority": "low",
       "created_at": "2026-08-05T08:37:30.440139+00:00",
@@ -2662,7 +2702,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 34,
+      "applications": 36,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2743,33 +2783,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "React Day Berlin",
-      "deadline": "2026-08-12",
-      "source": "confs.tech",
-      "score": 0.29,
-      "url": "https://gitnation.com/events/react-day-berlin-2026/cfp",
-      "travel_sponsorship": "unknown",
-      "location": "Berlin, Germany"
-    },
-    {
-      "title": "Retro Data",
-      "deadline": "2026-08-12",
-      "source": "callfordataspeakers",
-      "score": 0.434,
-      "url": "https://sessionize.com/retro-data-2",
-      "travel_sponsorship": "unknown",
-      "location": "Online"
-    },
-    {
-      "title": "AI Coding Summit Berlin Edition",
-      "deadline": "2026-08-12",
-      "source": "confs.tech",
-      "score": 0.277,
-      "url": "https://gitnation.com/events/ai-coding-summit-berlin/cfp",
-      "travel_sponsorship": "unknown",
-      "location": "Berlin, Germany"
-    },
-    {
       "title": "TechLead Conference London",
       "deadline": "2026-08-22",
       "source": "confs.tech",
@@ -2831,6 +2844,33 @@
       "url": "https://sessionize.com/x-ops-conference-2026",
       "travel_sponsorship": "unknown",
       "location": "Madrid, Spain"
+    },
+    {
+      "title": "Moldova DevCon",
+      "deadline": "2026-08-31",
+      "source": "confs.tech",
+      "score": 0.275,
+      "url": "https://forms.gle/fioMNEFN7XZPQsbv9",
+      "travel_sponsorship": "unknown",
+      "location": "Chi\u0219in\u0103u, Moldova"
+    },
+    {
+      "title": "Persian and Fabric Power BI User Group",
+      "deadline": "2026-09-12",
+      "source": "callfordataspeakers",
+      "score": 0.373,
+      "url": "https://sessionize.com/persian-power-bi-user-group",
+      "travel_sponsorship": "unknown",
+      "location": "Online"
+    },
+    {
+      "title": "SQL Server User Group Croatia 2026",
+      "deadline": "2026-09-12",
+      "source": "callfordataspeakers",
+      "score": 0.371,
+      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
+      "travel_sponsorship": "unknown",
+      "location": "online"
     }
   ]
 }

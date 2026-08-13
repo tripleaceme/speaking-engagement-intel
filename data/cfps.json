@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-08-12T07:26:05.022889+00:00",
-    "total_cfps": 109,
-    "open_cfps": 53,
+    "last_crawled": "2026-08-13T07:35:44.627820+00:00",
+    "total_cfps": 114,
+    "open_cfps": 55,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 1,
+    "new_this_run": 5,
+    "expired_this_run": 3,
     "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-08-12T07:26:05.895088+00:00",
+    "last_scored": "2026-08-13T07:35:48.605852+00:00",
     "high_priority": 0,
-    "medium_priority": 2,
-    "above_threshold": 41
+    "medium_priority": 1,
+    "above_threshold": 40
   },
   "cfps": [
     {
@@ -2200,10 +2200,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:34.263768+00:00",
       "match_scores": {
-        "composite_score": 0.343,
+        "composite_score": 0.373,
         "tag_relevance": 0.34,
         "talk_match_score": 0.078,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.7,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -2788,10 +2788,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:42.384889+00:00",
       "match_scores": {
-        "composite_score": 0.341,
+        "composite_score": 0.371,
         "tag_relevance": 0.346,
         "talk_match_score": 0.067,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.7,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
@@ -4462,7 +4462,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-18T07:12:14.276690+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -4470,17 +4470,7 @@
         }
       ],
       "enriched_at": "2026-04-18T07:12:25.317427+00:00",
-      "match_scores": {
-        "composite_score": 0.29,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.0,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": null,
-        "suggested_talk_level": null,
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "54914a3c37e33054",
@@ -6734,7 +6724,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-07-22T08:31:01.072963+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "web",
@@ -6769,17 +6759,7 @@
         "twitter"
       ],
       "enriched_at": "2026-07-22T08:31:02.790035+00:00",
-      "match_scores": {
-        "composite_score": 0.434,
-        "tag_relevance": 0.361,
-        "talk_match_score": 0.06,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "cde4e480b12e7db4",
@@ -6990,7 +6970,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-07-27T09:54:21.725266+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -6998,17 +6978,7 @@
         }
       ],
       "enriched_at": "2026-07-27T09:54:26.925953+00:00",
-      "match_scores": {
-        "composite_score": 0.277,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.022,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "e2bec5eb414374f6",
@@ -7498,6 +7468,571 @@
         "urgency_score": 0.1,
         "format_score": 0.7,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "e2875693f458981e",
+      "source": "github",
+      "title": "conorbronsdon/callboard-app",
+      "url": "https://github.com/conorbronsdon/callboard-app",
+      "cfp_url": "https://github.com/conorbronsdon/callboard-app",
+      "description": "Open-source speaker and CFP management: call for proposals, weighted review, acceptances, speaker onboarding, a conflict-aware agenda, and the published schedule. One Cloudflare Worker.",
+      "tags": [
+        "mobile",
+        "open-source",
+        "cloudflare-workers",
+        "web",
+        "conference",
+        "event-management",
+        "ai",
+        "leadership",
+        "blockchain",
+        "cfp",
+        "call-for-papers",
+        "devops",
+        "security",
+        "react-router",
+        "database",
+        "speaker-management",
+        "open-source-alternative",
+        "cloud"
+      ],
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "",
+      "discovered_at": "2026-08-13T07:35:43.619618+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "alternative react",
+        "grade security features copilot for business enterprise",
+        "management open",
+        "7 support pricing type",
+        "source",
+        "grade 24",
+        "powered developer platform available add",
+        "workers conference event",
+        "papers cfp cloudflare",
+        "to sea",
+        "grade ai features premium support enterprise",
+        "read:metadata",
+        "call",
+        "ons github advanced security enterprise",
+        "router speaker"
+      ],
+      "submission_fields": [
+        "title",
+        "abstract",
+        "topic",
+        "category",
+        "track",
+        "headshot"
+      ],
+      "enriched_at": "2026-08-13T07:35:45.807639+00:00",
+      "match_scores": {
+        "composite_score": 0.166,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.037,
+        "urgency_score": 0.1,
+        "format_score": 0.7,
+        "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "c280ead74f387864",
+      "source": "github",
+      "title": "EllAchE/sessionboard-oss",
+      "url": "https://github.com/EllAchE/sessionboard-oss",
+      "cfp_url": "https://github.com/EllAchE/sessionboard-oss",
+      "description": "Cicero \u2014 an open-source replacement for Sessionboard: call-for-speakers forms, review and scoring, speaker portal, drag-and-drop agenda with conflict detection, templated comms with real calendar invites, and embeddable public schedules.",
+      "tags": [
+        "open-source",
+        "cloudflare-workers",
+        "web",
+        "conference",
+        "event-management",
+        "ai",
+        "self-hosted",
+        "leadership",
+        "testing",
+        "call-for-papers",
+        "devops",
+        "security",
+        "postgres",
+        "nextjs",
+        "database",
+        "speaker-management",
+        "cloud"
+      ],
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "",
+      "discovered_at": "2026-08-13T07:35:43.619666+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "grade security features copilot for business enterprise",
+        "papers cloudflare",
+        "7 support pricing type",
+        "hosted speaker",
+        "grade 24",
+        "powered developer platform available add",
+        "workers conference event",
+        "to sea",
+        "grade ai features premium support enterprise",
+        "call",
+        "management nextjs postgres self",
+        "ons github advanced security enterprise"
+      ],
+      "submission_fields": [
+        "title",
+        "description",
+        "bio",
+        "topic",
+        "track",
+        "headshot"
+      ],
+      "enriched_at": "2026-08-13T07:35:46.493170+00:00",
+      "match_scores": {
+        "composite_score": 0.177,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.074,
+        "urgency_score": 0.1,
+        "format_score": 0.7,
+        "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "549cf74dc3ffa909",
+      "source": "github",
+      "title": "sameersegal/Podium",
+      "url": "https://github.com/sameersegal/Podium",
+      "cfp_url": "https://github.com/sameersegal/Podium",
+      "description": "Open-source SessionBoard alternative for AI Engineer-style conferences: CFP submissions, review rounds with rubrics and conflicts, speaker onboarding, sponsor sessions, and an embeddable public schedule. Runs on Cloudflare Workers. The domain model is the spec, so agents can build against it.",
+      "tags": [
+        "open-source",
+        "event-management",
+        "ai",
+        "self-hosted",
+        "cfp",
+        "sessionize-alternative",
+        "cloud",
+        "cloudflare-workers",
+        "web",
+        "blockchain",
+        "leadership",
+        "devops",
+        "security",
+        "claude-code",
+        "sessionboard-alternative",
+        "speaker-management",
+        "open-source-alternative",
+        "ai-agents",
+        "typescript",
+        "conference",
+        "call-for-papers",
+        "domain-driven-design",
+        "database",
+        "cloudflare-d1",
+        "data",
+        "conference-management",
+        "serverless"
+      ],
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "",
+      "discovered_at": "2026-08-13T07:35:43.619701+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "code cloudflare",
+        "source",
+        "alternative self",
+        "management typescript resources readme mit license",
+        "ons github advanced security enterprise",
+        "alternative speaker",
+        "grade security features copilot for business enterprise",
+        "driven",
+        "to sea",
+        "grade ai features premium support enterprise",
+        "alternative sessionize",
+        "grade 24",
+        "workers conference conference",
+        "powered developer platform available add",
+        "papers cfp claude"
+      ],
+      "submission_fields": [
+        "title",
+        "abstract",
+        "topic",
+        "track",
+        "photo",
+        "headshot"
+      ],
+      "enriched_at": "2026-08-13T07:35:47.043540+00:00",
+      "match_scores": {
+        "composite_score": 0.308,
+        "tag_relevance": 0.329,
+        "talk_match_score": 0.06,
+        "urgency_score": 0.1,
+        "format_score": 0.8,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "94b2da80e45d1968",
+      "source": "github",
+      "title": "SteveMLC/lectern",
+      "url": "https://github.com/SteveMLC/lectern",
+      "cfp_url": "https://github.com/SteveMLC/lectern",
+      "description": "Lectern \u2014 open-source CFP, speaker, and agenda operations for conferences. Kill My SaaS hackathon build.",
+      "tags": [
+        "open-source",
+        "event-management",
+        "hono",
+        "ai",
+        "education",
+        "cfp",
+        "testing",
+        "cloud",
+        "cloudflare-workers",
+        "web",
+        "leadership",
+        "devops",
+        "security",
+        "speaker-management",
+        "open-source-alternative",
+        "conference",
+        "call-for-papers",
+        "database",
+        "mobile",
+        "cloudflare-d1"
+      ],
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "",
+      "discovered_at": "2026-08-13T07:35:43.619716+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "grade security features copilot for business enterprise",
+        "7 support pricing type",
+        "management hono open",
+        "source",
+        "grade 24",
+        "powered developer platform available add",
+        "workers conference event",
+        "papers cfp cloudflare",
+        "to sea",
+        "grade ai features premium support enterprise",
+        "call",
+        "d1 cloudflare",
+        "ons github advanced security enterprise",
+        "alternative speaker"
+      ],
+      "submission_fields": [
+        "title",
+        "topic",
+        "track",
+        "headshot"
+      ],
+      "enriched_at": "2026-08-13T07:35:47.710927+00:00",
+      "match_scores": {
+        "composite_score": 0.306,
+        "tag_relevance": 0.341,
+        "talk_match_score": 0.04,
+        "urgency_score": 0.1,
+        "format_score": 0.8,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "e73f16bd2b370aea",
+      "source": "opensource",
+      "title": "markokraemer/trackstage",
+      "url": "https://github.com/markokraemer/trackstage",
+      "cfp_url": "https://github.com/markokraemer/trackstage",
+      "description": "Call for papers, agenda and speaker management \u2014 open-source Sessionboard alternative",
+      "tags": [
+        "speaker-management",
+        "open-source",
+        "cloudflare-workers",
+        "typescript",
+        "web",
+        "conference",
+        "event-management",
+        "ai",
+        "leadership",
+        "cfp",
+        "devops",
+        "mcp",
+        "security",
+        "database",
+        "convex",
+        "tanstack",
+        "cloud"
+      ],
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "",
+      "discovered_at": "2026-08-13T07:35:44.627500+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "grade security features copilot for business enterprise",
+        "workers conference convex event",
+        "cfp cloudflare",
+        "7 support pricing type",
+        "source speaker",
+        "grade 24",
+        "management mcp open",
+        "powered developer platform available add",
+        "to sea",
+        "grade ai features premium support enterprise",
+        "ons github advanced security enterprise"
+      ],
+      "submission_fields": [
+        "abstract",
+        "bio",
+        "topic",
+        "track",
+        "headshot"
+      ],
+      "enriched_at": "2026-08-13T07:35:48.524247+00:00",
+      "match_scores": {
+        "composite_score": 0.161,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.02,
+        "urgency_score": 0.1,
+        "format_score": 0.7,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
