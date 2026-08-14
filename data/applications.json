@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-08-13T07:35:48.675462+00:00",
-    "total_applications": 99,
+    "last_updated": "2026-08-14T07:25:44.117150+00:00",
+    "total_applications": 100,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 40,
+    "total_drafts": 41,
     "total_expired": 59,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
       "expired": 59,
-      "draft": 40
+      "draft": 41
     },
     "unique_talk_titles": 7
   },
@@ -3530,6 +3530,84 @@
       ],
       "created_at": "2026-06-18T10:23:06.673739+00:00",
       "updated_at": "2026-07-01T09:50:53.917356+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "d0c5b17b6549aee0",
+      "cfp_id": "4b5b66096d50fb98",
+      "cfp_title": "DataConf",
+      "cfp_url": "https://www.dataconf.co.za/callforspeakers.html",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "",
+      "event_date": "2026-10-01",
+      "event_location": "MTN corporate office, Randburg, Johannesburg",
+      "is_online": false,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 11.5)",
+      "conference_themes": [
+        "ai",
+        "data",
+        "open-source",
+        "security",
+        "leadership",
+        "education"
+      ],
+      "conference_categories": [
+        "ai (incl genai)",
+        "across the  entire data & ai ecosystem"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.357,
+        "tag_relevance": 0.534,
+        "talk_match_score": 0.118,
+        "urgency_score": 0.1,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-08-14T07:25:44.114656+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 11.5)"
+        }
+      ],
+      "created_at": "2026-08-14T07:25:44.114665+00:00",
+      "updated_at": "2026-08-14T07:25:44.114667+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

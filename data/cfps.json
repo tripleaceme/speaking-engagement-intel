@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-08-13T07:35:44.627820+00:00",
-    "total_cfps": 114,
-    "open_cfps": 55,
+    "last_crawled": "2026-08-14T07:25:43.266482+00:00",
+    "total_cfps": 115,
+    "open_cfps": 56,
     "sources_checked": 9,
-    "new_this_run": 5,
-    "expired_this_run": 3,
+    "new_this_run": 1,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-08-13T07:35:48.605852+00:00",
+    "last_scored": "2026-08-14T07:25:44.032420+00:00",
     "high_priority": 0,
     "medium_priority": 1,
-    "above_threshold": 40
+    "above_threshold": 41
   },
   "cfps": [
     {
@@ -8033,6 +8033,77 @@
         "urgency_score": 0.1,
         "format_score": 0.7,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "4b5b66096d50fb98",
+      "source": "callfordataspeakers",
+      "title": "DataConf",
+      "url": "https://www.dataconf.co.za/callforspeakers.html",
+      "cfp_url": "https://www.dataconf.co.za/callforspeakers.html",
+      "description": "Community driven conference for data & AI professionals aiming bring together the data community to share their experience and knowledge in the field",
+      "tags": [
+        "security",
+        "leadership",
+        "education",
+        "data",
+        "ai",
+        "africa",
+        "conference",
+        "open-source"
+      ],
+      "deadline": "",
+      "event_date": "2026-10-01",
+      "location": "MTN corporate office, Randburg, Johannesburg",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-08-14T07:25:42.227189+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "ai (incl genai)",
+        "across the  entire data & ai ecosystem"
+      ],
+      "submission_fields": [
+        "topic"
+      ],
+      "enriched_at": "2026-08-14T07:25:43.947544+00:00",
+      "match_scores": {
+        "composite_score": 0.357,
+        "tag_relevance": 0.534,
+        "talk_match_score": 0.118,
+        "urgency_score": 0.1,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"

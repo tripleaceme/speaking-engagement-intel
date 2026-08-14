@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-13T07:35:48.738657+00:00",
+  "generated_at": "2026-08-14T07:25:44.172390+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 114,
-    "open_cfps": 55,
+    "total_cfps_discovered": 115,
+    "open_cfps": 56,
     "expired_cfps": 59,
-    "total_applications": 99,
-    "drafts": 40,
+    "total_applications": 100,
+    "drafts": 41,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 59,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-13T07:35:44.627820+00:00",
+    "last_crawled": "2026-08-14T07:25:43.266482+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
-    "travel_unknown": 51
+    "travel_unknown": 52
   },
   "timeline": [
     {
@@ -63,13 +63,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 8
+      "draft": 9
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 49
+      "count": 50
     },
     {
       "source": "confs.tech",
@@ -91,12 +91,12 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 1,
-    "low": 54
+    "low": 55
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 54
+      "count": 55
     },
     {
       "tag": "web",
@@ -104,19 +104,19 @@
     },
     {
       "tag": "open-source",
-      "count": 44
+      "count": 45
+    },
+    {
+      "tag": "data",
+      "count": 35
     },
     {
       "tag": "database",
       "count": 35
     },
     {
-      "tag": "data",
-      "count": 34
-    },
-    {
       "tag": "leadership",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "cloud",
@@ -124,15 +124,15 @@
     },
     {
       "tag": "education",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "security",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "conference",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "devops",
@@ -290,6 +290,31 @@
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "4b5b66096d50fb98",
+      "title": "DataConf",
+      "source": "callfordataspeakers",
+      "url": "https://www.dataconf.co.za/callforspeakers.html",
+      "deadline": "",
+      "event_date": "2026-10-01",
+      "location": "MTN corporate office, Randburg, Johannesburg",
+      "is_online": false,
+      "tags": [
+        "security",
+        "leadership",
+        "education",
+        "data",
+        "ai"
+      ],
+      "score": 0.357,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.534,
+      "talk_match": 0.118,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     },
     {
       "id": "f6afba3518281dad",
@@ -690,31 +715,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
-    },
-    {
-      "id": "179b76777b995df7",
-      "title": "The AI Conf",
-      "source": "confs.tech",
-      "url": "https://theconf.ai/call-for-papers",
-      "deadline": "2026-09-30",
-      "event_date": "2026-11-03",
-      "location": "Barcelona, Spain",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "database",
-        "education",
-        "ai",
-        "leadership"
-      ],
-      "score": 0.304,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.335,
-      "talk_match": 0.089,
-      "urgency": 0.4,
-      "travel_sponsorship": "partial",
-      "event_type": "conference"
     }
   ],
   "applications": [
@@ -1537,6 +1537,26 @@
       "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
       "is_online": true,
       "event_location": "Warsaw, Poland"
+    },
+    {
+      "id": "d0c5b17b6549aee0",
+      "cfp_title": "DataConf",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://www.dataconf.co.za/callforspeakers.html",
+      "deadline": "",
+      "event_date": "2026-10-01",
+      "status": "draft",
+      "score": 0.357,
+      "priority": "low",
+      "created_at": "2026-08-14T07:25:44.114665+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 11.5)",
+      "is_online": false,
+      "event_location": "MTN corporate office, Randburg, Johannesburg"
     },
     {
       "id": "df89b10514e7fe7b",
@@ -2702,7 +2722,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 36,
+      "applications": 37,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
