@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-08-14T07:25:43.266482+00:00",
-    "total_cfps": 115,
-    "open_cfps": 56,
+    "last_crawled": "2026-08-15T06:39:35.872441+00:00",
+    "total_cfps": 117,
+    "open_cfps": 58,
     "sources_checked": 9,
-    "new_this_run": 1,
+    "new_this_run": 2,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-08-14T07:25:44.032420+00:00",
+    "last_scored": "2026-08-15T06:39:37.036211+00:00",
     "high_priority": 0,
     "medium_priority": 1,
-    "above_threshold": 41
+    "above_threshold": 44
   },
   "cfps": [
     {
@@ -6941,10 +6941,10 @@
       ],
       "enriched_at": "2026-07-27T09:54:26.430912+00:00",
       "match_scores": {
-        "composite_score": 0.247,
+        "composite_score": 0.277,
         "tag_relevance": 0.0,
         "talk_match_score": 0.022,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.6,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
@@ -8105,6 +8105,260 @@
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "b19e8ee266d6850c",
+      "source": "github",
+      "title": "RRaphaell/vibeboard",
+      "url": "https://github.com/RRaphaell/vibeboard",
+      "cfp_url": "https://github.com/RRaphaell/vibeboard",
+      "description": "Open-source conference platform: call for papers, blind review, conflict-aware scheduling, speaker portal, and a public programme \u2014 with a REST API and an MCP server over all of it.",
+      "tags": [
+        "conference",
+        "data",
+        "ai",
+        "call-for-papers",
+        "react-router",
+        "mcp",
+        "drizzle-orm",
+        "mcp-server",
+        "mobile",
+        "blockchain",
+        "testing",
+        "cloudflare-workers",
+        "cloud",
+        "web",
+        "event-management",
+        "typescript",
+        "open-source",
+        "cfp",
+        "leadership",
+        "database",
+        "scheduling",
+        "devops",
+        "speakers",
+        "security"
+      ],
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "",
+      "discovered_at": "2026-08-15T06:39:33.963667+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "database",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "orm event",
+        "source react",
+        "grade 24",
+        "grade ai features premium support enterprise",
+        "ons github advanced security enterprise",
+        "7 support pricing search",
+        "workers conference drizzle",
+        "sign i",
+        "server open",
+        "management mcp mcp",
+        "grade security features copilot for business enterprise",
+        "powered developer platform available add",
+        "papers cfp cloudflare",
+        "call"
+      ],
+      "submission_fields": [
+        "abstract",
+        "bio",
+        "topic",
+        "track",
+        "headshot"
+      ],
+      "enriched_at": "2026-08-15T06:39:36.744986+00:00",
+      "match_scores": {
+        "composite_score": 0.253,
+        "tag_relevance": 0.167,
+        "talk_match_score": 0.067,
+        "urgency_score": 0.1,
+        "format_score": 0.8,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "44dc7a6a96ca394e",
+      "source": "opensource",
+      "title": "RRaphaell/vibeboard",
+      "url": "https://github.com/RRaphaell/vibeboard",
+      "cfp_url": "https://github.com/RRaphaell/vibeboard",
+      "description": "Open-source conference platform: call for papers, blind review, conflict-aware scheduling, speaker portal, and a public programme \u2014 with a REST API and an MCP server over all of it.",
+      "tags": [
+        "conference",
+        "data",
+        "ai",
+        "call-for-papers",
+        "react-router",
+        "mcp",
+        "drizzle-orm",
+        "mcp-server",
+        "mobile",
+        "blockchain",
+        "testing",
+        "cloudflare-workers",
+        "cloud",
+        "web",
+        "event-management",
+        "typescript",
+        "open-source",
+        "cfp",
+        "leadership",
+        "database",
+        "scheduling",
+        "devops",
+        "speakers",
+        "security"
+      ],
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "",
+      "discovered_at": "2026-08-15T06:39:35.872105+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "database",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "security",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "orm event",
+        "source react",
+        "grade 24",
+        "grade ai features premium support enterprise",
+        "ons github advanced security enterprise",
+        "7 support pricing search",
+        "workers conference drizzle",
+        "sign i",
+        "server open",
+        "management mcp mcp",
+        "grade security features copilot for business enterprise",
+        "powered developer platform available add",
+        "papers cfp cloudflare",
+        "call"
+      ],
+      "submission_fields": [
+        "abstract",
+        "bio",
+        "topic",
+        "track",
+        "headshot"
+      ],
+      "enriched_at": "2026-08-15T06:39:36.955781+00:00",
+      "match_scores": {
+        "composite_score": 0.253,
+        "tag_relevance": 0.167,
+        "talk_match_score": 0.067,
+        "urgency_score": 0.1,
+        "format_score": 0.8,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
