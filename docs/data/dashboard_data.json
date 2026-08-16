@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:39:37.154115+00:00",
+  "generated_at": "2026-08-16T06:40:52.099449+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -9,8 +9,8 @@
     "total_cfps_discovered": 117,
     "open_cfps": 58,
     "expired_cfps": 59,
-    "total_applications": 103,
-    "drafts": 44,
+    "total_applications": 104,
+    "drafts": 45,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,7 +18,7 @@
     "expired_apps": 59,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-15T06:39:35.872441+00:00",
+    "last_crawled": "2026-08-16T06:40:51.807046+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
@@ -63,7 +63,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 12
+      "draft": 13
     }
   ],
   "source_breakdown": [
@@ -232,12 +232,12 @@
         "ai",
         "open-source"
       ],
-      "score": 0.46,
+      "score": 0.49,
       "priority": "medium",
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
       "tag_relevance": 0.591,
       "talk_match": 0.078,
-      "urgency": 0.6,
+      "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
     },
@@ -388,6 +388,31 @@
       "tag_relevance": 0.49,
       "talk_match": 0.098,
       "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "2353c784b684765d",
+      "title": "Global Summit on Data Science and Cloud Computing",
+      "source": "confs.tech",
+      "url": "https://datascience.novelticsconferences.com/register",
+      "deadline": "2026-10-15",
+      "event_date": "2026-10-19",
+      "location": "Rome, Italy",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "education",
+        "testing",
+        "ai",
+        "leadership"
+      ],
+      "score": 0.331,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.331,
+      "talk_match": 0.118,
+      "urgency": 0.4,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -690,31 +715,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
-    },
-    {
-      "id": "94b2da80e45d1968",
-      "title": "SteveMLC/lectern",
-      "source": "github",
-      "url": "https://github.com/SteveMLC/lectern",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "open-source",
-        "event-management",
-        "hono",
-        "ai",
-        "education"
-      ],
-      "score": 0.306,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.341,
-      "talk_match": 0.04,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
     }
   ],
   "applications": [
@@ -739,6 +739,26 @@
       "event_location": "TBD, TBD"
     },
     {
+      "id": "fb6f89b6ee144699",
+      "cfp_title": "Triangle SQL Server User Group 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/tripass-2026",
+      "deadline": "2026-08-30",
+      "event_date": "2026-01-13",
+      "status": "draft",
+      "score": 0.49,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.663958+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 8.3)",
+      "is_online": true,
+      "event_location": "VIrtual"
+    },
+    {
       "id": "cb123dd36e9b1c93",
       "cfp_title": "European Microsoft Fabric + SQL Community Conference 2026 - Sessions",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -757,26 +777,6 @@
       "match_reason": "Conference themes align with 'education' (score: 6.5)",
       "is_online": false,
       "event_location": "Barcelona, Spain"
-    },
-    {
-      "id": "fb6f89b6ee144699",
-      "cfp_title": "Triangle SQL Server User Group 2026",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/tripass-2026",
-      "deadline": "2026-08-30",
-      "event_date": "2026-01-13",
-      "status": "draft",
-      "score": 0.46,
-      "priority": "medium",
-      "created_at": "2026-04-08T12:28:22.663958+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 8.3)",
-      "is_online": true,
-      "event_location": "VIrtual"
     },
     {
       "id": "d3220eaa0057c36f",
@@ -1819,6 +1819,26 @@
       "event_location": "Wilrijk, Belgium"
     },
     {
+      "id": "ff9a70eb4d6e1d74",
+      "cfp_title": "Global Summit on Data Science and Cloud Computing",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://datascience.novelticsconferences.com/register",
+      "deadline": "2026-10-15",
+      "event_date": "2026-10-19",
+      "status": "draft",
+      "score": 0.331,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.660903+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 6.0)",
+      "is_online": false,
+      "event_location": "Rome, Italy"
+    },
+    {
       "id": "82f06ff2742d8c25",
       "cfp_title": "SpiceWorld",
       "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
@@ -2199,26 +2219,6 @@
       "event_location": "London, U.K."
     },
     {
-      "id": "ff9a70eb4d6e1d74",
-      "cfp_title": "Global Summit on Data Science and Cloud Computing",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://datascience.novelticsconferences.com/register",
-      "deadline": "2026-10-15",
-      "event_date": "2026-10-19",
-      "status": "draft",
-      "score": 0.301,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.660903+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 6.0)",
-      "is_online": false,
-      "event_location": "Rome, Italy"
-    },
-    {
       "id": "1e23b12ac004e96a",
       "cfp_title": "KubeCon + CloudNativeCon Europe",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2539,6 +2539,26 @@
       "event_location": "Prague, Czech Republic"
     },
     {
+      "id": "6961c1aabd91a709",
+      "cfp_title": "NSW AI Bonanza",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://forms.gle/NGUgSFjBCPyZzz769",
+      "deadline": "2026-08-23",
+      "event_date": "2026-09-23",
+      "status": "draft",
+      "score": 0.262,
+      "priority": "low",
+      "created_at": "2026-08-16T06:40:52.041299+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": false,
+      "event_location": "Sydney, Australia"
+    },
+    {
       "id": "733930af10c1de68",
       "cfp_title": "Seattle Day of Data 2026",
       "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
@@ -2782,7 +2802,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 40,
+      "applications": 41,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2875,7 +2895,7 @@
       "title": "NSW AI Bonanza",
       "deadline": "2026-08-23",
       "source": "confs.tech",
-      "score": 0.232,
+      "score": 0.262,
       "url": "https://forms.gle/NGUgSFjBCPyZzz769",
       "travel_sponsorship": "unknown",
       "location": "Sydney, Australia"
@@ -2884,7 +2904,7 @@
       "title": "Triangle SQL Server User Group 2026",
       "deadline": "2026-08-30",
       "source": "callfordataspeakers",
-      "score": 0.46,
+      "score": 0.49,
       "url": "https://sessionize.com/tripass-2026",
       "travel_sponsorship": "unknown",
       "location": "VIrtual"
