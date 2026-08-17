@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-08-16T06:40:51.807046+00:00",
-    "total_cfps": 117,
-    "open_cfps": 58,
+    "last_crawled": "2026-08-17T06:57:09.750330+00:00",
+    "total_cfps": 118,
+    "open_cfps": 59,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-08-16T06:40:51.983931+00:00",
+    "last_scored": "2026-08-17T06:57:10.511111+00:00",
     "high_priority": 0,
     "medium_priority": 1,
-    "above_threshold": 45
+    "above_threshold": 46
   },
   "cfps": [
     {
@@ -5988,10 +5988,10 @@
       ],
       "enriched_at": "2026-06-12T10:16:40.822157+00:00",
       "match_scores": {
-        "composite_score": 0.286,
+        "composite_score": 0.316,
         "tag_relevance": 0.183,
         "talk_match_score": 0.04,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
@@ -6629,10 +6629,10 @@
       ],
       "enriched_at": "2026-07-13T09:30:10.635905+00:00",
       "match_scores": {
-        "composite_score": 0.331,
+        "composite_score": 0.361,
         "tag_relevance": 0.352,
         "talk_match_score": 0.059,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -7230,10 +7230,10 @@
       ],
       "enriched_at": "2026-08-07T07:17:34.865337+00:00",
       "match_scores": {
-        "composite_score": 0.277,
+        "composite_score": 0.307,
         "tag_relevance": 0.173,
         "talk_match_score": 0.02,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -7290,10 +7290,10 @@
       ],
       "enriched_at": "2026-08-07T07:17:35.737569+00:00",
       "match_scores": {
-        "composite_score": 0.277,
+        "composite_score": 0.307,
         "tag_relevance": 0.173,
         "talk_match_score": 0.02,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -7345,10 +7345,10 @@
       ],
       "enriched_at": "2026-08-07T07:17:36.205598+00:00",
       "match_scores": {
-        "composite_score": 0.275,
+        "composite_score": 0.305,
         "tag_relevance": 0.167,
         "talk_match_score": 0.022,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
@@ -8359,6 +8359,79 @@
         "format_score": 0.8,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "611ca13e35eaea72",
+      "source": "callfordataspeakers",
+      "title": "SQLSaturday Pittsburgh 2026",
+      "url": "https://sessionize.com/sqlsaturday-pittsburgh-2026",
+      "cfp_url": "https://sessionize.com/sqlsaturday-pittsburgh-2026",
+      "description": "Data conference \u2014 Pittsburgh, Pennsylvania, United States",
+      "tags": [
+        "education",
+        "north america",
+        "leadership",
+        "data",
+        "ai",
+        "web",
+        "conference",
+        "database"
+      ],
+      "deadline": "",
+      "event_date": "2026-10-10",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-08-17T06:57:09.287637+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "as well as career growth and development topics",
+        "and other data related areas? admittance is free",
+        "furthering your skill set in business intelligence",
+        "however if you would like a lunch provided",
+        "the fee is $15",
+        "sql server",
+        "analytics"
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-08-17T06:57:10.427994+00:00",
+      "match_scores": {
+        "composite_score": 0.277,
+        "tag_relevance": 0.371,
+        "talk_match_score": 0.039,
+        "urgency_score": 0.1,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }

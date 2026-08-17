@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-16T06:40:52.099449+00:00",
+  "generated_at": "2026-08-17T06:57:10.637486+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 117,
-    "open_cfps": 58,
+    "total_cfps_discovered": 118,
+    "open_cfps": 59,
     "expired_cfps": 59,
-    "total_applications": 104,
-    "drafts": 45,
+    "total_applications": 105,
+    "drafts": 46,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 59,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-16T06:40:51.807046+00:00",
+    "last_crawled": "2026-08-17T06:57:09.750330+00:00",
     "sources_checked": 9,
     "travel_yes": 0,
     "travel_partial": 4,
-    "travel_unknown": 54
+    "travel_unknown": 55
   },
   "timeline": [
     {
@@ -63,13 +63,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 13
+      "draft": 14
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 50
+      "count": 51
     },
     {
       "source": "confs.tech",
@@ -91,16 +91,16 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 1,
-    "low": 57
+    "low": 58
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 57
+      "count": 58
     },
     {
       "tag": "web",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "open-source",
@@ -108,15 +108,15 @@
     },
     {
       "tag": "data",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "database",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "leadership",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "cloud",
@@ -124,7 +124,7 @@
     },
     {
       "tag": "education",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "security",
@@ -132,7 +132,7 @@
     },
     {
       "tag": "conference",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "devops",
@@ -196,7 +196,7 @@
     },
     {
       "tag": "north america",
-      "count": 4
+      "count": 5
     },
     {
       "tag": "mcp",
@@ -290,6 +290,31 @@
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "b42ae61aee1c799b",
+      "title": "FABRIC WINTERFEST 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/fabricwinterfest-2026",
+      "deadline": "2026-08-31",
+      "event_date": "2026-12-04",
+      "location": "Wilrijk, Belgium",
+      "is_online": false,
+      "tags": [
+        "europe",
+        "open-source",
+        "conference",
+        "data",
+        "web"
+      ],
+      "score": 0.361,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.352,
+      "talk_match": 0.059,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     },
     {
       "id": "4b5b66096d50fb98",
@@ -442,31 +467,6 @@
       "event_type": "usergroup"
     },
     {
-      "id": "b42ae61aee1c799b",
-      "title": "FABRIC WINTERFEST 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/fabricwinterfest-2026",
-      "deadline": "2026-08-31",
-      "event_date": "2026-12-04",
-      "location": "Wilrijk, Belgium",
-      "is_online": false,
-      "tags": [
-        "europe",
-        "open-source",
-        "conference",
-        "data",
-        "web"
-      ],
-      "score": 0.331,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.352,
-      "talk_match": 0.059,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "572d7d738708e54c",
       "title": "Data Engineers in Toronto",
       "source": "callfordataspeakers",
@@ -592,6 +592,31 @@
       "event_type": "external"
     },
     {
+      "id": "4eda1cff311c7101",
+      "title": "Ticino Data Conference 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/ticino-data-conference-2026",
+      "deadline": "2026-08-31",
+      "event_date": "2026-10-30",
+      "location": "Bioggio, Switzerland",
+      "is_online": false,
+      "tags": [
+        "open-source",
+        "data",
+        "conference",
+        "ai",
+        "europe"
+      ],
+      "score": 0.316,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.183,
+      "talk_match": 0.04,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "cf61797b20c3dd06",
       "title": "yegor256/awesome-cfp",
       "source": "github",
@@ -687,31 +712,6 @@
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
       "tag_relevance": 0.335,
       "talk_match": 0.059,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
-    },
-    {
-      "id": "549cf74dc3ffa909",
-      "title": "sameersegal/Podium",
-      "source": "github",
-      "url": "https://github.com/sameersegal/Podium",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "open-source",
-        "event-management",
-        "ai",
-        "self-hosted",
-        "cfp"
-      ],
-      "score": 0.308,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.329,
-      "talk_match": 0.06,
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
@@ -1539,6 +1539,26 @@
       "event_location": "Warsaw, Poland"
     },
     {
+      "id": "c0c1558fe3d0831e",
+      "cfp_title": "FABRIC WINTERFEST 2026",
+      "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/fabricwinterfest-2026",
+      "deadline": "2026-08-31",
+      "event_date": "2026-12-04",
+      "status": "draft",
+      "score": 0.361,
+      "priority": "low",
+      "created_at": "2026-07-13T09:30:10.779823+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'web' (score: 4.5)",
+      "is_online": false,
+      "event_location": "Wilrijk, Belgium"
+    },
+    {
       "id": "d0c5b17b6549aee0",
       "cfp_title": "DataConf",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1799,26 +1819,6 @@
       "event_location": "Warsaw, Poland"
     },
     {
-      "id": "c0c1558fe3d0831e",
-      "cfp_title": "FABRIC WINTERFEST 2026",
-      "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/fabricwinterfest-2026",
-      "deadline": "2026-08-31",
-      "event_date": "2026-12-04",
-      "status": "draft",
-      "score": 0.331,
-      "priority": "low",
-      "created_at": "2026-07-13T09:30:10.779823+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'web' (score: 4.5)",
-      "is_online": false,
-      "event_location": "Wilrijk, Belgium"
-    },
-    {
       "id": "ff9a70eb4d6e1d74",
       "cfp_title": "Global Summit on Data Science and Cloud Computing",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1977,6 +1977,26 @@
       "match_reason": "Conference themes align with 'education' (score: 9.0)",
       "is_online": false,
       "event_location": "University of Manitoba,, Engineering and Information Technology Complex, 75 Chancellors Circle, Winnipeg MB,"
+    },
+    {
+      "id": "0f442c5b441fc24a",
+      "cfp_title": "Ticino Data Conference 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/ticino-data-conference-2026",
+      "deadline": "2026-08-31",
+      "event_date": "2026-10-30",
+      "status": "draft",
+      "score": 0.316,
+      "priority": "low",
+      "created_at": "2026-07-02T09:15:13.758367+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 8.7)",
+      "is_online": false,
+      "event_location": "Bioggio, Switzerland"
     },
     {
       "id": "f149cccfc6c966ed",
@@ -2159,6 +2179,46 @@
       "event_location": ""
     },
     {
+      "id": "ce2659d19e18d705",
+      "cfp_title": "X-Ops Conference Dubai",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/x-ops-conference-2026",
+      "deadline": "2026-08-31",
+      "event_date": "2026-10-15",
+      "status": "draft",
+      "score": 0.307,
+      "priority": "low",
+      "created_at": "2026-08-07T07:17:36.345540+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 5.0)",
+      "is_online": false,
+      "event_location": "Dubai, United Arab Emirates"
+    },
+    {
+      "id": "1754dc31cb333830",
+      "cfp_title": "X-Ops Conference Madrid",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/x-ops-conference-2026",
+      "deadline": "2026-08-31",
+      "event_date": "2026-11-19",
+      "status": "draft",
+      "score": 0.307,
+      "priority": "low",
+      "created_at": "2026-08-07T07:17:36.345597+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 5.0)",
+      "is_online": false,
+      "event_location": "Madrid, Spain"
+    },
+    {
       "id": "05d64895bced9a2a",
       "cfp_title": "SteveMLC/lectern",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2177,6 +2237,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 11.5)",
       "is_online": true,
       "event_location": ""
+    },
+    {
+      "id": "c3dfda2422b24b71",
+      "cfp_title": "Moldova DevCon",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://forms.gle/fioMNEFN7XZPQsbv9",
+      "deadline": "2026-08-31",
+      "event_date": "2026-11-06",
+      "status": "draft",
+      "score": 0.305,
+      "priority": "low",
+      "created_at": "2026-08-07T07:17:36.345658+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 3.5)",
+      "is_online": false,
+      "event_location": "Chi\u0219in\u0103u, Moldova"
     },
     {
       "id": "8ef1aa5b4718f454",
@@ -2299,26 +2379,6 @@
       "event_location": "Berlin, Germany"
     },
     {
-      "id": "0f442c5b441fc24a",
-      "cfp_title": "Ticino Data Conference 2026",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/ticino-data-conference-2026",
-      "deadline": "2026-08-31",
-      "event_date": "2026-10-30",
-      "status": "draft",
-      "score": 0.286,
-      "priority": "low",
-      "created_at": "2026-07-02T09:15:13.758367+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 8.7)",
-      "is_online": false,
-      "event_location": "Bioggio, Switzerland"
-    },
-    {
       "id": "2be9e1bafde142b6",
       "cfp_title": "Boston Data and AI Saturday 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -2379,46 +2439,6 @@
       "event_location": "Berlin, Germany"
     },
     {
-      "id": "ce2659d19e18d705",
-      "cfp_title": "X-Ops Conference Dubai",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/x-ops-conference-2026",
-      "deadline": "2026-08-31",
-      "event_date": "2026-10-15",
-      "status": "draft",
-      "score": 0.277,
-      "priority": "low",
-      "created_at": "2026-08-07T07:17:36.345540+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 5.0)",
-      "is_online": false,
-      "event_location": "Dubai, United Arab Emirates"
-    },
-    {
-      "id": "1754dc31cb333830",
-      "cfp_title": "X-Ops Conference Madrid",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/x-ops-conference-2026",
-      "deadline": "2026-08-31",
-      "event_date": "2026-11-19",
-      "status": "draft",
-      "score": 0.277,
-      "priority": "low",
-      "created_at": "2026-08-07T07:17:36.345597+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 5.0)",
-      "is_online": false,
-      "event_location": "Madrid, Spain"
-    },
-    {
       "id": "27ae1292709d9135",
       "cfp_title": "TechLead Conference London",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2439,24 +2459,24 @@
       "event_location": "London, U.K."
     },
     {
-      "id": "c3dfda2422b24b71",
-      "cfp_title": "Moldova DevCon",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://forms.gle/fioMNEFN7XZPQsbv9",
-      "deadline": "2026-08-31",
-      "event_date": "2026-11-06",
+      "id": "6e37921db25d0c23",
+      "cfp_title": "SQLSaturday Pittsburgh 2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sqlsaturday-pittsburgh-2026",
+      "deadline": "",
+      "event_date": "2026-10-10",
       "status": "draft",
-      "score": 0.275,
+      "score": 0.277,
       "priority": "low",
-      "created_at": "2026-08-07T07:17:36.345658+00:00",
+      "created_at": "2026-08-17T06:57:10.575009+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": "",
       "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 3.5)",
+      "match_reason": "Conference themes align with 'database' (score: 5.8)",
       "is_online": false,
-      "event_location": "Chi\u0219in\u0103u, Moldova"
+      "event_location": "Pittsburgh, Pennsylvania, United States"
     },
     {
       "id": "42a12b7a32832a65",
@@ -2818,7 +2838,7 @@
     },
     {
       "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "applications": 14,
+      "applications": 15,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2913,7 +2933,7 @@
       "title": "Ticino Data Conference 2026",
       "deadline": "2026-08-31",
       "source": "callfordataspeakers",
-      "score": 0.286,
+      "score": 0.316,
       "url": "https://sessionize.com/ticino-data-conference-2026",
       "travel_sponsorship": "unknown",
       "location": "Bioggio, Switzerland"
@@ -2922,7 +2942,7 @@
       "title": "FABRIC WINTERFEST 2026",
       "deadline": "2026-08-31",
       "source": "callfordataspeakers",
-      "score": 0.331,
+      "score": 0.361,
       "url": "https://sessionize.com/fabricwinterfest-2026",
       "travel_sponsorship": "unknown",
       "location": "Wilrijk, Belgium"
@@ -2931,7 +2951,7 @@
       "title": "X-Ops Conference Dubai",
       "deadline": "2026-08-31",
       "source": "confs.tech",
-      "score": 0.277,
+      "score": 0.307,
       "url": "https://sessionize.com/x-ops-conference-2026",
       "travel_sponsorship": "unknown",
       "location": "Dubai, United Arab Emirates"
@@ -2940,7 +2960,7 @@
       "title": "X-Ops Conference Madrid",
       "deadline": "2026-08-31",
       "source": "confs.tech",
-      "score": 0.277,
+      "score": 0.307,
       "url": "https://sessionize.com/x-ops-conference-2026",
       "travel_sponsorship": "unknown",
       "location": "Madrid, Spain"
@@ -2949,7 +2969,7 @@
       "title": "Moldova DevCon",
       "deadline": "2026-08-31",
       "source": "confs.tech",
-      "score": 0.275,
+      "score": 0.305,
       "url": "https://forms.gle/fioMNEFN7XZPQsbv9",
       "travel_sponsorship": "unknown",
       "location": "Chi\u0219in\u0103u, Moldova"
