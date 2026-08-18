@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-17T06:57:10.637486+00:00",
+  "generated_at": "2026-08-18T06:44:07.162716+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 118,
-    "open_cfps": 59,
+    "total_cfps_discovered": 121,
+    "open_cfps": 62,
     "expired_cfps": 59,
-    "total_applications": 105,
-    "drafts": 46,
+    "total_applications": 108,
+    "drafts": 49,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 59,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-17T06:57:09.750330+00:00",
+    "last_crawled": "2026-08-18T06:44:04.307090+00:00",
     "sources_checked": 9,
-    "travel_yes": 0,
+    "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 55
+    "travel_unknown": 57
   },
   "timeline": [
     {
@@ -63,13 +63,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 14
+      "draft": 17
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 51
+      "count": 54
     },
     {
       "source": "confs.tech",
@@ -91,47 +91,47 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 1,
-    "low": 58
+    "low": 61
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 58
+      "count": 61
     },
     {
       "tag": "web",
-      "count": 51
+      "count": 54
     },
     {
       "tag": "open-source",
-      "count": 47
+      "count": 50
     },
     {
       "tag": "data",
-      "count": 38
+      "count": 41
     },
     {
       "tag": "database",
-      "count": 38
+      "count": 40
     },
     {
       "tag": "leadership",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "cloud",
-      "count": 32
+      "count": 35
     },
     {
       "tag": "education",
+      "count": 33
+    },
+    {
+      "tag": "conference",
       "count": 30
     },
     {
       "tag": "security",
-      "count": 29
-    },
-    {
-      "tag": "conference",
       "count": 29
     },
     {
@@ -160,30 +160,34 @@
     },
     {
       "tag": "blockchain",
-      "count": 9
+      "count": 10
+    },
+    {
+      "tag": "mobile",
+      "count": 10
     },
     {
       "tag": "event-management",
       "count": 9
     },
     {
-      "tag": "mobile",
-      "count": 8
-    },
-    {
       "tag": "usergroup",
-      "count": 8
+      "count": 9
     },
     {
       "tag": "cloudflare-workers",
       "count": 8
     },
     {
-      "tag": "python",
-      "count": 6
+      "tag": "europe",
+      "count": 7
     },
     {
-      "tag": "europe",
+      "tag": "north america",
+      "count": 7
+    },
+    {
+      "tag": "python",
       "count": 6
     },
     {
@@ -192,10 +196,6 @@
     },
     {
       "tag": "events",
-      "count": 5
-    },
-    {
-      "tag": "north america",
       "count": 5
     },
     {
@@ -240,6 +240,31 @@
       "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "15c695e6afe692d2",
+      "title": "FABCON, SQLCON 2027: Workshops",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/fabcon-2027-sqlcon-2027-workshops",
+      "deadline": "",
+      "event_date": "2027-03-08",
+      "location": "Atlanta, Georgia, United States",
+      "is_online": false,
+      "tags": [
+        "ai",
+        "open-source",
+        "education",
+        "database",
+        "mobile"
+      ],
+      "score": 0.38,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.633,
+      "talk_match": 0.08,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": "precon"
     },
     {
       "id": "0486b7fd0e05c814",
@@ -367,6 +392,31 @@
       "event_type": "usergroup"
     },
     {
+      "id": "526c3aa7248097e4",
+      "title": "FABCON, SQLCON 2027: Sessions ",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/fabcon-2027-sqlcon-2027-sessions",
+      "deadline": "",
+      "event_date": "2027-03-08",
+      "location": "Atlanta, Georgia, United States",
+      "is_online": false,
+      "tags": [
+        "ai",
+        "open-source",
+        "leadership",
+        "conference",
+        "education"
+      ],
+      "score": 0.352,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.569,
+      "talk_match": 0.06,
+      "urgency": 0.1,
+      "travel_sponsorship": "yes",
+      "event_type": "conference"
+    },
+    {
       "id": "850c50fff292a225",
       "title": "SQL Saturday Toronto 2026",
       "source": "callfordataspeakers",
@@ -463,6 +513,31 @@
       "tag_relevance": 0.523,
       "talk_match": 0.059,
       "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
+      "id": "0fe3d15f3fc2db8f",
+      "title": "Sheffield (UK) Data Analytics User Group 2026-27",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sheffield-uk-data-analytics-user-group-26",
+      "deadline": "",
+      "event_date": "2026-10-07",
+      "location": "Sheffield, United Kingdom",
+      "is_online": false,
+      "tags": [
+        "ai",
+        "open-source",
+        "education",
+        "data",
+        "cloud"
+      ],
+      "score": 0.321,
+      "priority": "low",
+      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+      "tag_relevance": 0.518,
+      "talk_match": 0.082,
+      "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
     },
@@ -637,81 +712,6 @@
       "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
       "tag_relevance": 0.348,
       "talk_match": 0.06,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
-    },
-    {
-      "id": "5db72494993e6bc8",
-      "title": "Big Data Europe",
-      "source": "confs.tech",
-      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
-      "deadline": "2026-11-23",
-      "event_date": "2026-11-24",
-      "location": "Vilnius, Lithuania",
-      "is_online": true,
-      "tags": [
-        "open-source",
-        "web",
-        "online",
-        "testing",
-        "data"
-      ],
-      "score": 0.315,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.338,
-      "talk_match": 0.089,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "6bf84ef1128c1e5f",
-      "title": "pretalx/pretalx",
-      "source": "github",
-      "url": "https://github.com/pretalx/pretalx",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "conference-management",
-        "django",
-        "pretalx",
-        "security",
-        "call-for-papers"
-      ],
-      "score": 0.312,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.354,
-      "talk_match": 0.044,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
-    },
-    {
-      "id": "e2bec5eb414374f6",
-      "title": "sundou82/conference-partner-mcp",
-      "source": "github",
-      "url": "https://github.com/sundou82/conference-partner-mcp",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "mcp",
-        "python",
-        "rest-api",
-        "ccf",
-        "deadlines"
-      ],
-      "score": 0.31,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.335,
-      "talk_match": 0.059,
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
@@ -1379,6 +1379,26 @@
       "event_location": "Warsaw, Poland"
     },
     {
+      "id": "c4ed74b25258c05b",
+      "cfp_title": "FABCON, SQLCON 2027: Workshops",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/fabcon-2027-sqlcon-2027-workshops",
+      "deadline": "",
+      "event_date": "2027-03-08",
+      "status": "draft",
+      "score": 0.38,
+      "priority": "low",
+      "created_at": "2026-08-18T06:44:07.104013+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 7.3)",
+      "is_online": false,
+      "event_location": "Atlanta, Georgia, United States"
+    },
+    {
       "id": "ca1b621fe07c376e",
       "cfp_title": "XtremePython Online Conference",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1659,6 +1679,26 @@
       "event_location": "Athens, Greece"
     },
     {
+      "id": "f46a18cb49f041af",
+      "cfp_title": "FABCON, SQLCON 2027: Sessions ",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/fabcon-2027-sqlcon-2027-sessions",
+      "deadline": "",
+      "event_date": "2027-03-08",
+      "status": "draft",
+      "score": 0.352,
+      "priority": "low",
+      "created_at": "2026-08-18T06:44:07.103928+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'database' (score: 6.5)",
+      "is_online": false,
+      "event_location": "Atlanta, Georgia, United States"
+    },
+    {
       "id": "e3fc02514c928a0c",
       "cfp_title": "Global Fabric Day 2026 - NYC Edition",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1857,6 +1897,26 @@
       "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
       "is_online": false,
       "event_location": "Austin, TX, U.S.A."
+    },
+    {
+      "id": "5e515247f3a16afe",
+      "cfp_title": "Sheffield (UK) Data Analytics User Group 2026-27",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sheffield-uk-data-analytics-user-group-26",
+      "deadline": "",
+      "event_date": "2026-10-07",
+      "status": "draft",
+      "score": 0.321,
+      "priority": "low",
+      "created_at": "2026-08-18T06:44:07.103811+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 12.0)",
+      "is_online": false,
+      "event_location": "Sheffield, United Kingdom"
     },
     {
       "id": "072a243546db9f10",
@@ -2830,7 +2890,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 21,
+      "applications": 22,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2838,7 +2898,7 @@
     },
     {
       "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "applications": 15,
+      "applications": 17,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,

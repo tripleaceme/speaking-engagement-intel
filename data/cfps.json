@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-08-17T06:57:09.750330+00:00",
-    "total_cfps": 118,
-    "open_cfps": 59,
+    "last_crawled": "2026-08-18T06:44:04.307090+00:00",
+    "total_cfps": 121,
+    "open_cfps": 62,
     "sources_checked": 9,
-    "new_this_run": 1,
+    "new_this_run": 3,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 0,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-08-17T06:57:10.511111+00:00",
+    "last_scored": "2026-08-18T06:44:07.042129+00:00",
     "high_priority": 0,
     "medium_priority": 1,
-    "above_threshold": 46
+    "above_threshold": 49
   },
   "cfps": [
     {
@@ -8431,6 +8431,262 @@
         "urgency_score": 0.1,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "0fe3d15f3fc2db8f",
+      "source": "callfordataspeakers",
+      "title": "Sheffield (UK) Data Analytics User Group 2026-27",
+      "url": "https://sessionize.com/sheffield-uk-data-analytics-user-group-26",
+      "cfp_url": "https://sessionize.com/sheffield-uk-data-analytics-user-group-26",
+      "description": "We're a user group that meets in person, every other month in Sheffield in the UK covering all things related to data and analytics in the Microsoft world.",
+      "tags": [
+        "ai",
+        "open-source",
+        "education",
+        "data",
+        "cloud",
+        "usergroup",
+        "europe",
+        "web"
+      ],
+      "deadline": "",
+      "event_date": "2026-10-07",
+      "location": "Sheffield, United Kingdom",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup",
+      "discovered_at": "2026-08-18T06:44:03.325444+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "visualisation",
+        "microsoft azure tools and services and",
+        "databricks",
+        "power bi",
+        "related to data analysis and engineering",
+        "and data science using ms fabric",
+        "more"
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-08-18T06:44:05.286503+00:00",
+      "match_scores": {
+        "composite_score": 0.321,
+        "tag_relevance": 0.518,
+        "talk_match_score": 0.082,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "526c3aa7248097e4",
+      "source": "callfordataspeakers",
+      "title": "FABCON, SQLCON 2027: Sessions ",
+      "url": "https://sessionize.com/fabcon-2027-sqlcon-2027-sessions",
+      "cfp_url": "https://sessionize.com/fabcon-2027-sqlcon-2027-sessions",
+      "description": "FABCON 2027  & SQLCON 2027  - SESSIONS : Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. FABCON \u00a0is the largest conference dedicated to Microsoft Fabric, bringing together tech enthusiasts, innovators, and industry leaders to explore the future of data, analytics, business intelligence, governance, and AI integration.",
+      "tags": [
+        "ai",
+        "open-source",
+        "leadership",
+        "conference",
+        "education",
+        "database",
+        "blockchain",
+        "mobile",
+        "data",
+        "cloud",
+        "north america",
+        "web"
+      ],
+      "deadline": "",
+      "event_date": "2027-03-08",
+      "location": "Atlanta, Georgia, United States",
+      "is_online": false,
+      "travel_sponsorship": "yes",
+      "event_type": "conference",
+      "discovered_at": "2026-08-18T06:44:03.325675+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "speaker_perks": {
+        "travel": true,
+        "hotel": true,
+        "honorarium": true
+      },
+      "submission_fields": [
+        "title",
+        "abstract",
+        "target audience",
+        "outline",
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-08-18T06:44:06.089792+00:00",
+      "match_scores": {
+        "composite_score": 0.352,
+        "tag_relevance": 0.569,
+        "talk_match_score": 0.06,
+        "urgency_score": 0.1,
+        "format_score": 0.6,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "yes"
+      }
+    },
+    {
+      "id": "15c695e6afe692d2",
+      "source": "callfordataspeakers",
+      "title": "FABCON, SQLCON 2027: Workshops",
+      "url": "https://sessionize.com/fabcon-2027-sqlcon-2027-workshops",
+      "cfp_url": "https://sessionize.com/fabcon-2027-sqlcon-2027-workshops",
+      "description": "FABCON SQLCCON 2027 - WORKSHOPS: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. Explore everything from data engineering, integration, warehousing, and real-time intelligence to AI-driven applications, advanced analytics, governance, and modern database development.",
+      "tags": [
+        "ai",
+        "open-source",
+        "education",
+        "database",
+        "mobile",
+        "data",
+        "cloud",
+        "north america",
+        "precon",
+        "web"
+      ],
+      "deadline": "",
+      "event_date": "2027-03-08",
+      "location": "Atlanta, Georgia, United States",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "precon",
+      "discovered_at": "2026-08-18T06:44:03.325697+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "speaker_perks": {
+        "honorarium": true
+      },
+      "submission_fields": [
+        "title",
+        "abstract",
+        "target audience",
+        "outline",
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-08-18T06:44:06.958489+00:00",
+      "match_scores": {
+        "composite_score": 0.38,
+        "tag_relevance": 0.633,
+        "talk_match_score": 0.08,
+        "urgency_score": 0.1,
+        "format_score": 0.6,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
