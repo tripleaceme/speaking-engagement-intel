@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-08-22T06:41:07.934976+00:00",
-    "total_cfps": 121,
+    "last_crawled": "2026-08-23T06:41:53.944886+00:00",
+    "total_cfps": 122,
     "open_cfps": 62,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 0,
+    "new_this_run": 1,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-08-22T06:41:08.079368+00:00",
+    "last_scored": "2026-08-23T06:41:54.836154+00:00",
     "high_priority": 0,
     "medium_priority": 1,
-    "above_threshold": 49
+    "above_threshold": 48
   },
   "cfps": [
     {
@@ -2486,10 +2486,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:37.958876+00:00",
       "match_scores": {
-        "composite_score": 0.49,
+        "composite_score": 0.52,
         "tag_relevance": 0.591,
         "talk_match_score": 0.078,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.7,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -6932,7 +6932,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-07-27T09:54:21.725211+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -6940,17 +6940,7 @@
         }
       ],
       "enriched_at": "2026-07-27T09:54:26.430912+00:00",
-      "match_scores": {
-        "composite_score": 0.277,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.022,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "11aff493dca8a56a",
@@ -8686,6 +8676,59 @@
         "talk_match_score": 0.08,
         "urgency_score": 0.1,
         "format_score": 0.6,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "f69427dd651fa1a2",
+      "source": "callfordataspeakers",
+      "title": "Day of Data Detroit 2026",
+      "url": "https://sessionize.com/day-of-data-detroit-2026",
+      "cfp_url": "https://sessionize.com/day-of-data-detroit-2026",
+      "description": "Data external \u2014 Northville District Library, 212 W Cady St, Northville, MI 48167, USA,",
+      "tags": [
+        "in-person",
+        "ai",
+        "open-source",
+        "external",
+        "web",
+        "data"
+      ],
+      "deadline": "",
+      "event_date": "2026-09-12",
+      "location": "Northville District Library, 212 W Cady St, Northville, MI 48167, USA,",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "external",
+      "discovered_at": "2026-08-23T06:41:53.163585+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "twitter"
+      ],
+      "enriched_at": "2026-08-23T06:41:54.775167+00:00",
+      "match_scores": {
+        "composite_score": 0.191,
+        "tag_relevance": 0.183,
+        "talk_match_score": 0.04,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
         "priority": "low",

@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-22T06:41:08.177782+00:00",
+  "generated_at": "2026-08-23T06:41:54.922483+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 121,
+    "total_cfps_discovered": 122,
     "open_cfps": 62,
-    "expired_cfps": 59,
+    "expired_cfps": 60,
     "total_applications": 108,
-    "drafts": 49,
+    "drafts": 48,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 59,
+    "expired_apps": 60,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-22T06:41:07.934976+00:00",
+    "last_crawled": "2026-08-23T06:41:53.944886+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
@@ -63,13 +63,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 17
+      "draft": 16
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 54
+      "count": 55
     },
     {
       "source": "confs.tech",
@@ -100,15 +100,15 @@
     },
     {
       "tag": "web",
-      "count": 54
+      "count": 55
     },
     {
       "tag": "open-source",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "data",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "database",
@@ -152,11 +152,11 @@
     },
     {
       "tag": "in-person",
-      "count": 11
+      "count": 12
     },
     {
       "tag": "external",
-      "count": 11
+      "count": 12
     },
     {
       "tag": "blockchain",
@@ -232,12 +232,12 @@
         "ai",
         "open-source"
       ],
-      "score": 0.49,
+      "score": 0.52,
       "priority": "medium",
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
       "tag_relevance": 0.591,
       "talk_match": 0.078,
-      "urgency": 0.8,
+      "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
     },
@@ -719,6 +719,26 @@
   ],
   "applications": [
     {
+      "id": "fb6f89b6ee144699",
+      "cfp_title": "Triangle SQL Server User Group 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/tripass-2026",
+      "deadline": "2026-08-30",
+      "event_date": "2026-01-13",
+      "status": "draft",
+      "score": 0.52,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.663958+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 8.3)",
+      "is_online": true,
+      "event_location": "VIrtual"
+    },
+    {
       "id": "4773a1d619aabaed",
       "cfp_title": "AI for Developers",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -737,26 +757,6 @@
       "match_reason": "Conference themes align with 'education' (score: 6.0)",
       "is_online": true,
       "event_location": "TBD, TBD"
-    },
-    {
-      "id": "fb6f89b6ee144699",
-      "cfp_title": "Triangle SQL Server User Group 2026",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/tripass-2026",
-      "deadline": "2026-08-30",
-      "event_date": "2026-01-13",
-      "status": "draft",
-      "score": 0.49,
-      "priority": "medium",
-      "created_at": "2026-04-08T12:28:22.663958+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 8.3)",
-      "is_online": true,
-      "event_location": "VIrtual"
     },
     {
       "id": "cb123dd36e9b1c93",
@@ -2506,7 +2506,7 @@
       "cfp_url": "https://gitnation.com/events/techlead-conf-london-2026-adopting-ai-in-orgs-edition/cfp",
       "deadline": "2026-08-22",
       "event_date": "2026-10-23",
-      "status": "draft",
+      "status": "expired",
       "score": 0.277,
       "priority": "low",
       "created_at": "2026-08-15T06:39:37.095528+00:00",
@@ -2963,15 +2963,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "TechLead Conference London",
-      "deadline": "2026-08-22",
-      "source": "confs.tech",
-      "score": 0.277,
-      "url": "https://gitnation.com/events/techlead-conf-london-2026-adopting-ai-in-orgs-edition/cfp",
-      "travel_sponsorship": "unknown",
-      "location": "London, U.K."
-    },
-    {
       "title": "NSW AI Bonanza",
       "deadline": "2026-08-23",
       "source": "confs.tech",
@@ -2984,7 +2975,7 @@
       "title": "Triangle SQL Server User Group 2026",
       "deadline": "2026-08-30",
       "source": "callfordataspeakers",
-      "score": 0.49,
+      "score": 0.52,
       "url": "https://sessionize.com/tripass-2026",
       "travel_sponsorship": "unknown",
       "location": "VIrtual"
@@ -3051,6 +3042,15 @@
       "url": "https://sessionize.com/sql-server-user-group-croatia-26",
       "travel_sponsorship": "unknown",
       "location": "online"
+    },
+    {
+      "title": "The AI Conf",
+      "deadline": "2026-09-30",
+      "source": "confs.tech",
+      "score": 0.304,
+      "url": "https://theconf.ai/call-for-papers",
+      "travel_sponsorship": "partial",
+      "location": "Barcelona, Spain"
     }
   ]
 }
