@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-08-26T06:51:32.045787+00:00",
-    "total_cfps": 122,
-    "open_cfps": 61,
+    "last_crawled": "2026-08-27T17:25:01.733773+00:00",
+    "total_cfps": 123,
+    "open_cfps": 62,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-08-26T06:51:32.218602+00:00",
+    "last_scored": "2026-08-27T17:25:02.778854+00:00",
     "high_priority": 0,
     "medium_priority": 1,
-    "above_threshold": 47
+    "above_threshold": 48
   },
   "cfps": [
     {
@@ -8721,6 +8721,98 @@
         "format_score": 0.5,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "6d786d3dd1c2fac9",
+      "source": "callfordataspeakers",
+      "title": "Fabric February 2027",
+      "url": "https://sessionize.com/fabric-february-2027",
+      "cfp_url": "https://sessionize.com/fabric-february-2027",
+      "description": "Fabric February 2027: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. From technical deep dives to business-oriented and non-technical topics, we aim to providing a comprehensive arena for sharing ideas, knowledge, and real-world experiences.",
+      "tags": [
+        "web",
+        "data",
+        "leadership",
+        "europe",
+        "ai",
+        "education",
+        "security",
+        "conference, precon",
+        "devops"
+      ],
+      "deadline": "",
+      "event_date": "2027-02-02",
+      "location": "Oslo, Norway",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon",
+      "discovered_at": "2026-08-27T17:25:00.856379+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "and data agents ontology",
+        "from introductory",
+        "semantic models",
+        "and metadata",
+        "copilot",
+        "warehouse",
+        "level overviews to deep technical dives",
+        "and data science real",
+        "within the microsoft fabric ecosystem",
+        "driven architectures lakehouse",
+        "business",
+        "including but not limited to: data analytics",
+        "time intelligence (rti) & event",
+        "engineering",
+        "driven architectures generative ai"
+      ],
+      "submission_fields": [
+        "abstract",
+        "experience level",
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-08-27T17:25:02.694176+00:00",
+      "match_scores": {
+        "composite_score": 0.251,
+        "tag_relevance": 0.339,
+        "talk_match_score": 0.057,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "Data Quality as Code: Building Scalable Validation Pipelines with dbt and Great Expectations",
+        "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }

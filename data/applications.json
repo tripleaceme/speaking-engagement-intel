@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_updated": "2026-08-26T06:51:32.287747+00:00",
-    "total_applications": 108,
+    "last_updated": "2026-08-27T17:25:02.844602+00:00",
+    "total_applications": 109,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 47,
+    "total_drafts": 48,
     "total_expired": 61,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "draft": 47,
+      "draft": 48,
       "expired": 61
     },
     "unique_talk_titles": 7
@@ -8763,6 +8763,98 @@
       ],
       "created_at": "2026-04-08T12:28:22.666101+00:00",
       "updated_at": "2026-04-08T12:28:22.666103+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "c3b564470c2c68b5",
+      "cfp_id": "6d786d3dd1c2fac9",
+      "cfp_title": "Fabric February 2027",
+      "cfp_url": "https://sessionize.com/fabric-february-2027",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "",
+      "event_date": "2027-02-02",
+      "event_location": "Oslo, Norway",
+      "is_online": false,
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+      "talk_tags": [
+        "dbt",
+        "data-quality",
+        "documentation",
+        "analytics-engineering",
+        "ai"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'data' (score: 15.2)",
+      "conference_themes": [
+        "ai",
+        "data",
+        "devops",
+        "leadership",
+        "education",
+        "security",
+        "web"
+      ],
+      "conference_categories": [
+        "and data agents ontology",
+        "from introductory",
+        "semantic models",
+        "and metadata",
+        "copilot",
+        "warehouse",
+        "level overviews to deep technical dives",
+        "and data science real",
+        "within the microsoft fabric ecosystem",
+        "driven architectures lakehouse",
+        "business",
+        "including but not limited to: data analytics",
+        "time intelligence (rti) & event",
+        "engineering",
+        "driven architectures generative ai"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "dbt",
+          "data-quality",
+          "documentation",
+          "analytics-engineering",
+          "ai"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.251,
+        "tag_relevance": 0.339,
+        "talk_match_score": 0.057,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "Data Quality as Code: Building Scalable Validation Pipelines with dbt and Great Expectations",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-08-27T17:25:02.841916+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 15.2)"
+        }
+      ],
+      "created_at": "2026-08-27T17:25:02.841926+00:00",
+      "updated_at": "2026-08-27T17:25:02.841929+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
