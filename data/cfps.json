@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-08-30T11:27:35.757532+00:00",
+    "last_crawled": "2026-08-31T12:58:20.483406+00:00",
     "total_cfps": 123,
-    "open_cfps": 62,
+    "open_cfps": 61,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 0,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-08-30T11:27:35.922055+00:00",
+    "last_scored": "2026-08-31T12:58:20.677119+00:00",
     "high_priority": 0,
-    "medium_priority": 3,
-    "above_threshold": 48
+    "medium_priority": 2,
+    "above_threshold": 47
   },
   "cfps": [
     {
@@ -316,10 +316,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:19.833410+00:00",
       "match_scores": {
-        "composite_score": 0.304,
+        "composite_score": 0.334,
         "tag_relevance": 0.335,
         "talk_match_score": 0.089,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.5,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
@@ -2264,10 +2264,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:35.156641+00:00",
       "match_scores": {
-        "composite_score": 0.354,
+        "composite_score": 0.384,
         "tag_relevance": 0.517,
         "talk_match_score": 0.044,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.5,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
@@ -2438,7 +2438,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
       "discovered_at": "2026-04-08T12:25:56.585879+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -2485,17 +2485,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:37.958876+00:00",
-      "match_scores": {
-        "composite_score": 0.52,
-        "tag_relevance": 0.591,
-        "talk_match_score": 0.078,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "ee38724369f2d6c8",
