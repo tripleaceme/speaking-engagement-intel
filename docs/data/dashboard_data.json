@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:58:20.794400+00:00",
+  "generated_at": "2026-09-01T11:15:45.895607+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 123,
-    "open_cfps": 61,
-    "expired_cfps": 62,
+    "open_cfps": 56,
+    "expired_cfps": 67,
     "total_applications": 109,
-    "drafts": 47,
+    "drafts": 42,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 62,
+    "expired_apps": 67,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-08-31T12:58:20.483406+00:00",
+    "last_crawled": "2026-09-01T11:15:45.596435+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 56
+    "travel_unknown": 51
   },
   "timeline": [
     {
@@ -55,7 +55,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 7
+      "draft": 5
     },
     {
       "month": "2026-08",
@@ -63,7 +63,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 16
+      "draft": 13
     }
   ],
   "source_breakdown": [
@@ -91,32 +91,32 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 2,
-    "low": 59
+    "low": 54
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 60
-    },
-    {
-      "tag": "web",
       "count": 55
     },
     {
+      "tag": "web",
+      "count": 51
+    },
+    {
       "tag": "open-source",
-      "count": 49
+      "count": 47
     },
     {
       "tag": "data",
-      "count": 42
-    },
-    {
-      "tag": "leadership",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "database",
-      "count": 39
+      "count": 38
+    },
+    {
+      "tag": "leadership",
+      "count": 37
     },
     {
       "tag": "cloud",
@@ -124,19 +124,19 @@
     },
     {
       "tag": "education",
-      "count": 33
+      "count": 29
     },
     {
       "tag": "security",
-      "count": 30
+      "count": 28
     },
     {
       "tag": "conference",
-      "count": 30
+      "count": 28
     },
     {
       "tag": "devops",
-      "count": 26
+      "count": 24
     },
     {
       "tag": "call-for-papers",
@@ -175,16 +175,16 @@
       "count": 8
     },
     {
-      "tag": "europe",
-      "count": 8
-    },
-    {
       "tag": "cloudflare-workers",
       "count": 8
     },
     {
       "tag": "north america",
       "count": 7
+    },
+    {
+      "tag": "europe",
+      "count": 6
     },
     {
       "tag": "speaker-management",
@@ -265,31 +265,6 @@
       "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
-    },
-    {
-      "id": "b42ae61aee1c799b",
-      "title": "FABRIC WINTERFEST 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/fabricwinterfest-2026",
-      "deadline": "2026-08-31",
-      "event_date": "2026-12-04",
-      "location": "Wilrijk, Belgium",
-      "is_online": false,
-      "tags": [
-        "europe",
-        "open-source",
-        "conference",
-        "data",
-        "web"
-      ],
-      "score": 0.391,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.352,
-      "talk_match": 0.059,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     },
     {
       "id": "f6afba3518281dad",
@@ -392,31 +367,6 @@
       "event_type": "conference"
     },
     {
-      "id": "4eda1cff311c7101",
-      "title": "Ticino Data Conference 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/ticino-data-conference-2026",
-      "deadline": "2026-08-31",
-      "event_date": "2026-10-30",
-      "location": "Bioggio, Switzerland",
-      "is_online": false,
-      "tags": [
-        "open-source",
-        "data",
-        "conference",
-        "ai",
-        "europe"
-      ],
-      "score": 0.346,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.183,
-      "talk_match": 0.04,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "850c50fff292a225",
       "title": "SQL Saturday Toronto 2026",
       "source": "callfordataspeakers",
@@ -442,56 +392,6 @@
       "event_type": "conference"
     },
     {
-      "id": "00f9db4d6ca9e319",
-      "title": "X-Ops Conference Dubai",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/x-ops-conference-2026",
-      "deadline": "2026-08-31",
-      "event_date": "2026-10-15",
-      "location": "Dubai, United Arab Emirates",
-      "is_online": false,
-      "tags": [
-        "web",
-        "ai",
-        "devops",
-        "education",
-        "security"
-      ],
-      "score": 0.337,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.173,
-      "talk_match": 0.02,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "b582643860f9c214",
-      "title": "X-Ops Conference Madrid",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/x-ops-conference-2026",
-      "deadline": "2026-08-31",
-      "event_date": "2026-11-19",
-      "location": "Madrid, Spain",
-      "is_online": false,
-      "tags": [
-        "web",
-        "ai",
-        "devops",
-        "education",
-        "security"
-      ],
-      "score": 0.337,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.173,
-      "talk_match": 0.02,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "699a153020787f6e",
       "title": "4th International Conference on Machine Learning, Artificial Intelligence & Data Science ",
       "source": "callfordataspeakers",
@@ -513,30 +413,6 @@
       "tag_relevance": 0.49,
       "talk_match": 0.098,
       "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "ac8b227c01c90c7d",
-      "title": "Moldova DevCon",
-      "source": "confs.tech",
-      "url": "https://forms.gle/fioMNEFN7XZPQsbv9",
-      "deadline": "2026-08-31",
-      "event_date": "2026-11-06",
-      "location": "Chi\u0219in\u0103u, Moldova",
-      "is_online": false,
-      "tags": [
-        "general",
-        "ai",
-        "leadership",
-        "education"
-      ],
-      "score": 0.335,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.167,
-      "talk_match": 0.022,
-      "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -714,6 +590,131 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "78de4fe463d4aa28",
+      "title": "SQL Saturday Wellington 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sql-saturday-wellington-2026",
+      "deadline": "",
+      "event_date": "2026-05-30",
+      "location": "3 Wi Neera Dr,, Elsdon, Porirua 5022, New Zealand,",
+      "is_online": false,
+      "tags": [
+        "database",
+        "cloud",
+        "education",
+        "security",
+        "in-person"
+      ],
+      "score": 0.318,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.53,
+      "talk_match": 0.059,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": "external"
+    },
+    {
+      "id": "bdd596c3571bc69d",
+      "title": "Data of Day Winnipeg 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/day-of-data-winnipeg-2026",
+      "deadline": "",
+      "event_date": "2026-09-19",
+      "location": "University of Manitoba,, Engineering and Information Technology Complex, 75 Chancellors Circle, Winnipeg MB,",
+      "is_online": false,
+      "tags": [
+        "in-person",
+        "cloud",
+        "external",
+        "education",
+        "security"
+      ],
+      "score": 0.317,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.528,
+      "talk_match": 0.059,
+      "urgency": 0.1,
+      "travel_sponsorship": "partial",
+      "event_type": "external"
+    },
+    {
+      "id": "cf61797b20c3dd06",
+      "title": "yegor256/awesome-cfp",
+      "source": "github",
+      "url": "https://github.com/yegor256/awesome-cfp",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "conferences",
+        "python",
+        "security",
+        "call-for-papers",
+        "cfp"
+      ],
+      "score": 0.315,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.348,
+      "talk_match": 0.06,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
+    },
+    {
+      "id": "5db72494993e6bc8",
+      "title": "Big Data Europe",
+      "source": "confs.tech",
+      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "deadline": "2026-11-23",
+      "event_date": "2026-11-24",
+      "location": "Vilnius, Lithuania",
+      "is_online": true,
+      "tags": [
+        "open-source",
+        "web",
+        "online",
+        "testing",
+        "data"
+      ],
+      "score": 0.315,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.338,
+      "talk_match": 0.089,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "6bf84ef1128c1e5f",
+      "title": "pretalx/pretalx",
+      "source": "github",
+      "url": "https://github.com/pretalx/pretalx",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "conference-management",
+        "django",
+        "pretalx",
+        "security",
+        "call-for-papers"
+      ],
+      "score": 0.312,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.354,
+      "talk_match": 0.044,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
     }
   ],
   "applications": [
@@ -1385,7 +1386,7 @@
       "cfp_url": "https://sessionize.com/fabricwinterfest-2026",
       "deadline": "2026-08-31",
       "event_date": "2026-12-04",
-      "status": "draft",
+      "status": "expired",
       "score": 0.391,
       "priority": "low",
       "created_at": "2026-07-13T09:30:10.779823+00:00",
@@ -1705,7 +1706,7 @@
       "cfp_url": "https://sessionize.com/ticino-data-conference-2026",
       "deadline": "2026-08-31",
       "event_date": "2026-10-30",
-      "status": "draft",
+      "status": "expired",
       "score": 0.346,
       "priority": "low",
       "created_at": "2026-07-02T09:15:13.758367+00:00",
@@ -1785,7 +1786,7 @@
       "cfp_url": "https://sessionize.com/x-ops-conference-2026",
       "deadline": "2026-08-31",
       "event_date": "2026-10-15",
-      "status": "draft",
+      "status": "expired",
       "score": 0.337,
       "priority": "low",
       "created_at": "2026-08-07T07:17:36.345540+00:00",
@@ -1805,7 +1806,7 @@
       "cfp_url": "https://sessionize.com/x-ops-conference-2026",
       "deadline": "2026-08-31",
       "event_date": "2026-11-19",
-      "status": "draft",
+      "status": "expired",
       "score": 0.337,
       "priority": "low",
       "created_at": "2026-08-07T07:17:36.345597+00:00",
@@ -1845,7 +1846,7 @@
       "cfp_url": "https://forms.gle/fioMNEFN7XZPQsbv9",
       "deadline": "2026-08-31",
       "event_date": "2026-11-06",
-      "status": "draft",
+      "status": "expired",
       "score": 0.335,
       "priority": "low",
       "created_at": "2026-08-07T07:17:36.345658+00:00",
@@ -2982,51 +2983,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Ticino Data Conference 2026",
-      "deadline": "2026-08-31",
-      "source": "callfordataspeakers",
-      "score": 0.346,
-      "url": "https://sessionize.com/ticino-data-conference-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Bioggio, Switzerland"
-    },
-    {
-      "title": "FABRIC WINTERFEST 2026",
-      "deadline": "2026-08-31",
-      "source": "callfordataspeakers",
-      "score": 0.391,
-      "url": "https://sessionize.com/fabricwinterfest-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Wilrijk, Belgium"
-    },
-    {
-      "title": "X-Ops Conference Dubai",
-      "deadline": "2026-08-31",
-      "source": "confs.tech",
-      "score": 0.337,
-      "url": "https://sessionize.com/x-ops-conference-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Dubai, United Arab Emirates"
-    },
-    {
-      "title": "X-Ops Conference Madrid",
-      "deadline": "2026-08-31",
-      "source": "confs.tech",
-      "score": 0.337,
-      "url": "https://sessionize.com/x-ops-conference-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Madrid, Spain"
-    },
-    {
-      "title": "Moldova DevCon",
-      "deadline": "2026-08-31",
-      "source": "confs.tech",
-      "score": 0.335,
-      "url": "https://forms.gle/fioMNEFN7XZPQsbv9",
-      "travel_sponsorship": "unknown",
-      "location": "Chi\u0219in\u0103u, Moldova"
-    },
-    {
       "title": "Persian and Fabric Power BI User Group",
       "deadline": "2026-09-12",
       "source": "callfordataspeakers",
@@ -3070,6 +3026,51 @@
       "url": "https://sessionize.com/sql-konferenz-2027",
       "travel_sponsorship": "partial",
       "location": "Hanau am Main, Germany"
+    },
+    {
+      "title": "Data Community Day Austria 2027",
+      "deadline": "2026-10-04",
+      "source": "callfordataspeakers",
+      "score": 0.25,
+      "url": "https://sessionize.com/data-community-day-austria-2027",
+      "travel_sponsorship": "unknown",
+      "location": "Vienna, Austria"
+    },
+    {
+      "title": "NextGen Intelligence Conference: Data, Cloud & AI",
+      "deadline": "2026-10-09",
+      "source": "confs.tech",
+      "score": 0.303,
+      "url": "https://techaiconf.com/register-interest",
+      "travel_sponsorship": "unknown",
+      "location": "London, U.K."
+    },
+    {
+      "title": "Global Summit on Data Science and Cloud Computing",
+      "deadline": "2026-10-15",
+      "source": "confs.tech",
+      "score": 0.331,
+      "url": "https://datascience.novelticsconferences.com/register",
+      "travel_sponsorship": "unknown",
+      "location": "Rome, Italy"
+    },
+    {
+      "title": "Microsoft Fabric Cafe 2026",
+      "deadline": "2026-11-01",
+      "source": "callfordataspeakers",
+      "score": 0.318,
+      "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Virtual - InPerson"
+    },
+    {
+      "title": "Fabric & Power BI Wales User Group",
+      "deadline": "2026-11-14",
+      "source": "callfordataspeakers",
+      "score": 0.25,
+      "url": "https://sessionize.com/fabricpowerbiwales",
+      "travel_sponsorship": "unknown",
+      "location": "Online"
     }
   ]
 }
