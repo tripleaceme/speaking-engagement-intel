@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-01T11:15:45.895607+00:00",
+  "generated_at": "2026-09-02T10:49:49.428468+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 123,
-    "open_cfps": 56,
+    "total_cfps_discovered": 124,
+    "open_cfps": 57,
     "expired_cfps": 67,
     "total_applications": 109,
     "drafts": 42,
@@ -18,11 +18,11 @@
     "expired_apps": 67,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-09-01T11:15:45.596435+00:00",
+    "last_crawled": "2026-09-02T10:49:48.546436+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 51
+    "travel_unknown": 52
   },
   "timeline": [
     {
@@ -69,7 +69,7 @@
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 56
+      "count": 57
     },
     {
       "source": "confs.tech",
@@ -91,16 +91,16 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 2,
-    "low": 54
+    "low": 55
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 55
+      "count": 56
     },
     {
       "tag": "web",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "open-source",
@@ -108,7 +108,7 @@
     },
     {
       "tag": "data",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "database",
@@ -120,18 +120,18 @@
     },
     {
       "tag": "cloud",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "education",
       "count": 29
     },
     {
-      "tag": "security",
-      "count": 28
+      "tag": "conference",
+      "count": 29
     },
     {
-      "tag": "conference",
+      "tag": "security",
       "count": 28
     },
     {
@@ -179,12 +179,12 @@
       "count": 8
     },
     {
-      "tag": "north america",
+      "tag": "europe",
       "count": 7
     },
     {
-      "tag": "europe",
-      "count": 6
+      "tag": "north america",
+      "count": 7
     },
     {
       "tag": "speaker-management",
@@ -365,6 +365,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "yes",
       "event_type": "conference"
+    },
+    {
+      "id": "817753aaf9b0bac3",
+      "title": "Microsoft Fabric Cafe 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
+      "deadline": "2026-11-01",
+      "event_date": "2026-01-02",
+      "location": "Virtual - InPerson",
+      "is_online": true,
+      "tags": [
+        "education",
+        "ai",
+        "open-source",
+        "usergroup",
+        "web"
+      ],
+      "score": 0.348,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.371,
+      "talk_match": 0.06,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     },
     {
       "id": "850c50fff292a225",
@@ -565,31 +590,6 @@
       "urgency": 0.4,
       "travel_sponsorship": "partial",
       "event_type": "conference"
-    },
-    {
-      "id": "817753aaf9b0bac3",
-      "title": "Microsoft Fabric Cafe 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
-      "deadline": "2026-11-01",
-      "event_date": "2026-01-02",
-      "location": "Virtual - InPerson",
-      "is_online": true,
-      "tags": [
-        "education",
-        "ai",
-        "open-source",
-        "usergroup",
-        "web"
-      ],
-      "score": 0.318,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.371,
-      "talk_match": 0.06,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     },
     {
       "id": "78de4fe463d4aa28",
@@ -1699,6 +1699,26 @@
       "event_location": "Atlanta, Georgia, United States"
     },
     {
+      "id": "14f24ec0a257b5c7",
+      "cfp_title": "Microsoft Fabric Cafe 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/microsoft-fabric-cafe-2026",
+      "deadline": "2026-11-01",
+      "event_date": "2026-01-02",
+      "status": "draft",
+      "score": 0.348,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.663727+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 13.7)",
+      "is_online": true,
+      "event_location": "Virtual - InPerson"
+    },
+    {
       "id": "0f442c5b441fc24a",
       "cfp_title": "Ticino Data Conference 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -2077,26 +2097,6 @@
       "match_reason": "Conference themes align with 'database' (score: 4.8)",
       "is_online": false,
       "event_location": "Hanau am Main, Germany"
-    },
-    {
-      "id": "14f24ec0a257b5c7",
-      "cfp_title": "Microsoft Fabric Cafe 2026",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/microsoft-fabric-cafe-2026",
-      "deadline": "2026-11-01",
-      "event_date": "2026-01-02",
-      "status": "draft",
-      "score": 0.318,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.663727+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 13.7)",
-      "is_online": true,
-      "event_location": "Virtual - InPerson"
     },
     {
       "id": "de1a7663b8567eff",
@@ -3058,7 +3058,7 @@
       "title": "Microsoft Fabric Cafe 2026",
       "deadline": "2026-11-01",
       "source": "callfordataspeakers",
-      "score": 0.318,
+      "score": 0.348,
       "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
       "travel_sponsorship": "unknown",
       "location": "Virtual - InPerson"

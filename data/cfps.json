@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-09-01T11:15:45.596435+00:00",
-    "total_cfps": 123,
-    "open_cfps": 56,
+    "last_crawled": "2026-09-02T10:49:48.546436+00:00",
+    "total_cfps": 124,
+    "open_cfps": 57,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 5,
+    "new_this_run": 1,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-09-01T11:15:45.769349+00:00",
+    "last_scored": "2026-09-02T10:49:49.303768+00:00",
     "high_priority": 0,
     "medium_priority": 2,
     "above_threshold": 42
@@ -2337,10 +2337,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:36.049126+00:00",
       "match_scores": {
-        "composite_score": 0.318,
+        "composite_score": 0.348,
         "tag_relevance": 0.371,
         "talk_match_score": 0.06,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.7,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
@@ -8753,6 +8753,64 @@
         "format_score": 0.5,
         "suggested_talk": "Data Quality as Code: Building Scalable Validation Pipelines with dbt and Great Expectations",
         "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "ab9a480866ff59bf",
+      "source": "callfordataspeakers",
+      "title": "DataGrillen 2027",
+      "url": "https://sessionize.com/datagrillen-2027",
+      "cfp_url": "https://sessionize.com/datagrillen-2027",
+      "description": "DataGrillen 2027: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \n\n         \n\n     \n     \n     \n     \n     \n\n     \n\n     \n\n\n \n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. com \n                             \n                         \n                     \n                 \n                     \n                         \n                         DataGrillen is a\u00a0 free to attend\u00a0 Microsoft Data Platform event in Germany.",
+      "tags": [
+        "europe",
+        "ai",
+        "conference",
+        "data",
+        "cloud",
+        "web"
+      ],
+      "deadline": "",
+      "event_date": "2027-05-13",
+      "location": "Lingen, Germany",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-09-02T10:49:47.997593+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "around the microsoft data platform"
+      ],
+      "submission_fields": [
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-09-02T10:49:49.218941+00:00",
+      "match_scores": {
+        "composite_score": 0.19,
+        "tag_relevance": 0.18,
+        "talk_match_score": 0.04,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
