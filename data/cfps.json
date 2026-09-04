@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-09-03T10:49:54.868248+00:00",
-    "total_cfps": 124,
-    "open_cfps": 57,
+    "last_crawled": "2026-09-04T10:48:50.916689+00:00",
+    "total_cfps": 125,
+    "open_cfps": 58,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-09-03T10:49:55.015997+00:00",
+    "last_scored": "2026-09-04T10:48:51.797520+00:00",
     "high_priority": 0,
     "medium_priority": 2,
-    "above_threshold": 42
+    "above_threshold": 43
   },
   "cfps": [
     {
@@ -5206,10 +5206,10 @@
       ],
       "enriched_at": "2026-05-21T09:44:48.432606+00:00",
       "match_scores": {
-        "composite_score": 0.319,
+        "composite_score": 0.349,
         "tag_relevance": 0.358,
         "talk_match_score": 0.044,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.6,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
@@ -5665,10 +5665,10 @@
       ],
       "enriched_at": "2026-05-30T08:29:56.994611+00:00",
       "match_scores": {
-        "composite_score": 0.25,
+        "composite_score": 0.28,
         "tag_relevance": 0.173,
         "talk_match_score": 0.098,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -8810,6 +8810,95 @@
         "urgency_score": 0.1,
         "format_score": 0.5,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "717887f80c78abd5",
+      "source": "callfordataspeakers",
+      "title": "SeaQL 2027",
+      "url": "https://sessionize.com/seaql-2027",
+      "cfp_url": "https://sessionize.com/seaql-2027",
+      "description": "Data conference, precon \u2014 Ouddorp, The Netherlands",
+      "tags": [
+        "conference, precon",
+        "europe",
+        "security",
+        "leadership",
+        "database",
+        "web",
+        "devops",
+        "testing",
+        "ai",
+        "education",
+        "data",
+        "open-source"
+      ],
+      "deadline": "",
+      "event_date": "2027-04-15",
+      "location": "Ouddorp, The Netherlands",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon",
+      "discovered_at": "2026-09-04T10:48:50.342289+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "education",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "that too often get sidelined",
+        "but are absolutely critical to modern data platforms"
+      ],
+      "submission_fields": [
+        "takeaway",
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-09-04T10:48:51.715385+00:00",
+      "match_scores": {
+        "composite_score": 0.28,
+        "tag_relevance": 0.364,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.1,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
