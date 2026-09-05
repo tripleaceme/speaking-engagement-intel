@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-09-04T10:48:50.916689+00:00",
+    "last_crawled": "2026-09-05T10:06:52.008901+00:00",
     "total_cfps": 125,
     "open_cfps": 58,
     "sources_checked": 9,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-09-04T10:48:51.797520+00:00",
+    "last_scored": "2026-09-05T10:06:52.168352+00:00",
     "high_priority": 0,
     "medium_priority": 2,
     "above_threshold": 43
@@ -2200,10 +2200,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:34.263768+00:00",
       "match_scores": {
-        "composite_score": 0.403,
+        "composite_score": 0.433,
         "tag_relevance": 0.34,
         "talk_match_score": 0.078,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.7,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -2778,10 +2778,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:42.384889+00:00",
       "match_scores": {
-        "composite_score": 0.401,
+        "composite_score": 0.431,
         "tag_relevance": 0.346,
         "talk_match_score": 0.067,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.7,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
