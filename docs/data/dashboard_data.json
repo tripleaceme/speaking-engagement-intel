@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:15:36.300286+00:00",
+  "generated_at": "2026-09-13T11:16:03.013194+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 125,
-    "open_cfps": 58,
-    "expired_cfps": 67,
+    "open_cfps": 56,
+    "expired_cfps": 69,
     "total_applications": 110,
-    "drafts": 43,
+    "drafts": 41,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 67,
+    "expired_apps": 69,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-09-12T10:15:36.017030+00:00",
+    "last_crawled": "2026-09-13T11:16:02.776117+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 53
+    "travel_unknown": 51
   },
   "timeline": [
     {
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 21
+      "draft": 19
     },
     {
       "month": "2026-05",
@@ -98,41 +98,41 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 2,
+    "medium": 0,
     "low": 56
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 57
+      "count": 55
     },
     {
       "tag": "web",
-      "count": 53
+      "count": 51
     },
     {
       "tag": "open-source",
-      "count": 48
+      "count": 46
     },
     {
       "tag": "data",
-      "count": 42
+      "count": 40
     },
     {
       "tag": "database",
-      "count": 39
-    },
-    {
-      "tag": "leadership",
       "count": 38
     },
     {
+      "tag": "leadership",
+      "count": 37
+    },
+    {
       "tag": "cloud",
-      "count": 35
+      "count": 34
     },
     {
       "tag": "education",
-      "count": 30
+      "count": 29
     },
     {
       "tag": "security",
@@ -179,10 +179,6 @@
       "count": 9
     },
     {
-      "tag": "usergroup",
-      "count": 8
-    },
-    {
       "tag": "europe",
       "count": 8
     },
@@ -193,6 +189,10 @@
     {
       "tag": "north america",
       "count": 7
+    },
+    {
+      "tag": "usergroup",
+      "count": 6
     },
     {
       "tag": "speaker-management",
@@ -224,56 +224,6 @@
     }
   ],
   "top_matches": [
-    {
-      "id": "0486b7fd0e05c814",
-      "title": "Persian and Fabric Power BI User Group",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/persian-power-bi-user-group",
-      "deadline": "2026-09-12",
-      "event_date": "2025-09-25",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "education",
-        "ai",
-        "leadership",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.433,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.34,
-      "talk_match": 0.078,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
-    },
-    {
-      "id": "c3c30f2797ec1bba",
-      "title": "SQL Server User Group Croatia 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
-      "deadline": "2026-09-12",
-      "event_date": "2026-04-08",
-      "location": "online",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "database",
-        "ai",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.431,
-      "priority": "medium",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.346,
-      "talk_match": 0.067,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
-    },
     {
       "id": "f6afba3518281dad",
       "title": "Stockholm SQL 2025-2026",
@@ -723,6 +673,56 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
+    },
+    {
+      "id": "6bf84ef1128c1e5f",
+      "title": "pretalx/pretalx",
+      "source": "github",
+      "url": "https://github.com/pretalx/pretalx",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "conference-management",
+        "django",
+        "pretalx",
+        "security",
+        "call-for-papers"
+      ],
+      "score": 0.312,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.354,
+      "talk_match": 0.044,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
+    },
+    {
+      "id": "e2bec5eb414374f6",
+      "title": "sundou82/conference-partner-mcp",
+      "source": "github",
+      "url": "https://github.com/sundou82/conference-partner-mcp",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "mcp",
+        "python",
+        "rest-api",
+        "ccf",
+        "deadlines"
+      ],
+      "score": 0.31,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.335,
+      "talk_match": 0.059,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
     }
   ],
   "applications": [
@@ -954,7 +954,7 @@
       "cfp_url": "https://sessionize.com/persian-power-bi-user-group",
       "deadline": "2026-09-12",
       "event_date": "2025-09-25",
-      "status": "draft",
+      "status": "expired",
       "score": 0.433,
       "priority": "medium",
       "created_at": "2026-04-08T12:28:22.663534+00:00",
@@ -994,7 +994,7 @@
       "cfp_url": "https://sessionize.com/sql-server-user-group-croatia-26",
       "deadline": "2026-09-12",
       "event_date": "2026-04-08",
-      "status": "draft",
+      "status": "expired",
       "score": 0.431,
       "priority": "medium",
       "created_at": "2026-04-08T12:28:22.664375+00:00",
@@ -3011,24 +3011,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Persian and Fabric Power BI User Group",
-      "deadline": "2026-09-12",
-      "source": "callfordataspeakers",
-      "score": 0.433,
-      "url": "https://sessionize.com/persian-power-bi-user-group",
-      "travel_sponsorship": "unknown",
-      "location": "Online"
-    },
-    {
-      "title": "SQL Server User Group Croatia 2026",
-      "deadline": "2026-09-12",
-      "source": "callfordataspeakers",
-      "score": 0.431,
-      "url": "https://sessionize.com/sql-server-user-group-croatia-26",
-      "travel_sponsorship": "unknown",
-      "location": "online"
-    },
-    {
       "title": "The AI Conf",
       "deadline": "2026-09-30",
       "source": "confs.tech",
@@ -3099,6 +3081,24 @@
       "url": "https://sessionize.com/fabricpowerbiwales",
       "travel_sponsorship": "unknown",
       "location": "Online"
+    },
+    {
+      "title": "San Diego SQL Server User Group",
+      "deadline": "2026-11-20",
+      "source": "callfordataspeakers",
+      "score": 0.331,
+      "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
+      "travel_sponsorship": "unknown",
+      "location": "Virtual"
+    },
+    {
+      "title": "Big Data Europe",
+      "deadline": "2026-11-23",
+      "source": "confs.tech",
+      "score": 0.315,
+      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "travel_sponsorship": "unknown",
+      "location": "Vilnius, Lithuania"
     }
   ]
 }

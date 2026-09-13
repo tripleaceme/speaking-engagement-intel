@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-09-12T10:15:36.245142+00:00",
+    "last_updated": "2026-09-13T11:16:02.965615+00:00",
     "total_applications": 110,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 43,
-    "total_expired": 67,
+    "total_drafts": 41,
+    "total_expired": 69,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 67,
-      "draft": 43
+      "expired": 69,
+      "draft": 41
     },
     "unique_talk_titles": 7
   },
@@ -1038,16 +1038,21 @@
         "priority": "medium",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.663531+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 19.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-09-13T11:16:02.965470+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.663534+00:00",
-      "updated_at": "2026-04-08T12:28:22.663536+00:00",
+      "updated_at": "2026-09-13T11:16:02.965476+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -1213,16 +1218,21 @@
         "priority": "medium",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.664373+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 8.8)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-09-13T11:16:02.965517+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.664375+00:00",
-      "updated_at": "2026-04-08T12:28:22.664377+00:00",
+      "updated_at": "2026-09-13T11:16:02.965519+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
