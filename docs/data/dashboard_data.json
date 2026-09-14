@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-13T11:16:03.013194+00:00",
+  "generated_at": "2026-09-14T12:04:59.638529+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 125,
-    "open_cfps": 56,
+    "total_cfps_discovered": 126,
+    "open_cfps": 57,
     "expired_cfps": 69,
-    "total_applications": 110,
-    "drafts": 41,
+    "total_applications": 111,
+    "drafts": 42,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 69,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-09-13T11:16:02.776117+00:00",
+    "last_crawled": "2026-09-14T12:04:58.792642+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 51
+    "travel_unknown": 52
   },
   "timeline": [
     {
@@ -71,13 +71,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 1
+      "draft": 2
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 58
+      "count": 59
     },
     {
       "source": "confs.tech",
@@ -99,12 +99,12 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 0,
-    "low": 56
+    "low": 57
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 55
+      "count": 56
     },
     {
       "tag": "web",
@@ -112,39 +112,39 @@
     },
     {
       "tag": "open-source",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "data",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "database",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "leadership",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "cloud",
-      "count": 34
+      "count": 35
     },
     {
       "tag": "education",
-      "count": 29
+      "count": 30
+    },
+    {
+      "tag": "conference",
+      "count": 30
     },
     {
       "tag": "security",
       "count": 29
     },
     {
-      "tag": "conference",
-      "count": 29
-    },
-    {
       "tag": "devops",
-      "count": 25
+      "count": 26
     },
     {
       "tag": "call-for-papers",
@@ -475,6 +475,31 @@
       "event_type": "conference"
     },
     {
+      "id": "a3f5bb0642a8175a",
+      "title": "Data Saturday #93 - Brisbane 2027",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/data-saturday-93-brisbane-2027",
+      "deadline": "2027-01-31",
+      "event_date": "2027-04-03",
+      "location": "Brisbane, Australia",
+      "is_online": false,
+      "tags": [
+        "database",
+        "cloud",
+        "leadership",
+        "education",
+        "devops"
+      ],
+      "score": 0.333,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.512,
+      "talk_match": 0.078,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "2353c784b684765d",
       "title": "Global Summit on Data Science and Cloud Computing",
       "source": "confs.tech",
@@ -695,31 +720,6 @@
       "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
       "tag_relevance": 0.354,
       "talk_match": 0.044,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
-    },
-    {
-      "id": "e2bec5eb414374f6",
-      "title": "sundou82/conference-partner-mcp",
-      "source": "github",
-      "url": "https://github.com/sundou82/conference-partner-mcp",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "mcp",
-        "python",
-        "rest-api",
-        "ccf",
-        "deadlines"
-      ],
-      "score": 0.31,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.335,
-      "talk_match": 0.059,
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
@@ -1947,6 +1947,26 @@
       "event_location": "London, U.K."
     },
     {
+      "id": "6c09e9e9c2e9683f",
+      "cfp_title": "Data Saturday #93 - Brisbane 2027",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-saturday-93-brisbane-2027",
+      "deadline": "2027-01-31",
+      "event_date": "2027-04-03",
+      "status": "draft",
+      "score": 0.333,
+      "priority": "low",
+      "created_at": "2026-09-14T12:04:59.588597+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 5.0)",
+      "is_online": false,
+      "event_location": "Brisbane, Australia"
+    },
+    {
       "id": "9cbedab72f22fb65",
       "cfp_title": "FabFest 2026",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2930,7 +2950,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 41,
+      "applications": 42,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
