@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:04:59.638529+00:00",
+  "generated_at": "2026-09-15T11:17:48.067950+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 69,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-09-14T12:04:58.792642+00:00",
+    "last_crawled": "2026-09-15T11:17:47.782620+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
@@ -275,6 +275,31 @@
       "event_type": "precon"
     },
     {
+      "id": "2353c784b684765d",
+      "title": "Global Summit on Data Science and Cloud Computing",
+      "source": "confs.tech",
+      "url": "https://datascience.novelticsconferences.com/register",
+      "deadline": "2026-10-15",
+      "event_date": "2026-10-19",
+      "location": "Rome, Italy",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "education",
+        "testing",
+        "ai",
+        "leadership"
+      ],
+      "score": 0.361,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.331,
+      "talk_match": 0.118,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "4b5b66096d50fb98",
       "title": "DataConf",
       "source": "callfordataspeakers",
@@ -496,31 +521,6 @@
       "tag_relevance": 0.512,
       "talk_match": 0.078,
       "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "2353c784b684765d",
-      "title": "Global Summit on Data Science and Cloud Computing",
-      "source": "confs.tech",
-      "url": "https://datascience.novelticsconferences.com/register",
-      "deadline": "2026-10-15",
-      "event_date": "2026-10-19",
-      "location": "Rome, Italy",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "education",
-        "testing",
-        "ai",
-        "leadership"
-      ],
-      "score": 0.331,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.331,
-      "talk_match": 0.118,
-      "urgency": 0.4,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -1607,6 +1607,26 @@
       "event_location": "Warsaw, Poland"
     },
     {
+      "id": "ff9a70eb4d6e1d74",
+      "cfp_title": "Global Summit on Data Science and Cloud Computing",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://datascience.novelticsconferences.com/register",
+      "deadline": "2026-10-15",
+      "event_date": "2026-10-19",
+      "status": "draft",
+      "score": 0.361,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.660903+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 6.0)",
+      "is_online": false,
+      "event_location": "Rome, Italy"
+    },
+    {
       "id": "d0c5b17b6549aee0",
       "cfp_title": "DataConf",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2045,26 +2065,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 7.5)",
       "is_online": false,
       "event_location": "Warsaw, Poland"
-    },
-    {
-      "id": "ff9a70eb4d6e1d74",
-      "cfp_title": "Global Summit on Data Science and Cloud Computing",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://datascience.novelticsconferences.com/register",
-      "deadline": "2026-10-15",
-      "event_date": "2026-10-19",
-      "status": "draft",
-      "score": 0.331,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.660903+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 6.0)",
-      "is_online": false,
-      "event_location": "Rome, Italy"
     },
     {
       "id": "82f06ff2742d8c25",
@@ -2507,6 +2507,26 @@
       "event_location": "Ouddorp, The Netherlands"
     },
     {
+      "id": "658a28d224292c62",
+      "cfp_title": "Fabric & Power BI Wales User Group",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/fabricpowerbiwales",
+      "deadline": "2026-11-14",
+      "event_date": "2026-01-15",
+      "status": "draft",
+      "score": 0.28,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.664141+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
+      "is_online": true,
+      "event_location": "Online"
+    },
+    {
       "id": "2be9e1bafde142b6",
       "cfp_title": "Boston Data and AI Saturday 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -2907,26 +2927,6 @@
       "event_location": "Oslo, Norway"
     },
     {
-      "id": "658a28d224292c62",
-      "cfp_title": "Fabric & Power BI Wales User Group",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/fabricpowerbiwales",
-      "deadline": "2026-11-14",
-      "event_date": "2026-01-15",
-      "status": "draft",
-      "score": 0.25,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.664141+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
-      "is_online": true,
-      "event_location": "Online"
-    },
-    {
       "id": "5119d1456182bbf5",
       "cfp_title": "JSNation US",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -3079,7 +3079,7 @@
       "title": "Global Summit on Data Science and Cloud Computing",
       "deadline": "2026-10-15",
       "source": "confs.tech",
-      "score": 0.331,
+      "score": 0.361,
       "url": "https://datascience.novelticsconferences.com/register",
       "travel_sponsorship": "unknown",
       "location": "Rome, Italy"
@@ -3097,7 +3097,7 @@
       "title": "Fabric & Power BI Wales User Group",
       "deadline": "2026-11-14",
       "source": "callfordataspeakers",
-      "score": 0.25,
+      "score": 0.28,
       "url": "https://sessionize.com/fabricpowerbiwales",
       "travel_sponsorship": "unknown",
       "location": "Online"
