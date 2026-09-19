@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-09-18T10:44:19.802048+00:00",
-    "total_cfps": 126,
-    "open_cfps": 57,
+    "last_crawled": "2026-09-19T10:28:51.598835+00:00",
+    "total_cfps": 130,
+    "open_cfps": 61,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 4,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-09-18T10:44:19.902222+00:00",
+    "last_scored": "2026-09-19T10:28:54.005218+00:00",
     "high_priority": 0,
     "medium_priority": 1,
-    "above_threshold": 42
+    "above_threshold": 46
   },
   "cfps": [
     {
@@ -8953,6 +8953,260 @@
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "fe30703d4115d237",
+      "source": "confs.tech",
+      "title": "All Day AI",
+      "url": "https://www.alldayai.com",
+      "cfp_url": "https://www.alldayai.com/#speak",
+      "description": "All Day AI is a free, live, virtual conference on October 22, 2026 for teams and practitioners applying AI across development, leadership, security, and business functions. Four tracks share practical 30-minute implementation lessons, with no vendor pitches. Four tracks\u2014BUILD, LEAD, SECURE, and SHIP\u2014share 30-minute sessions about what practitioners shipped, what failed, and what teams can reuse.",
+      "tags": [
+        "ai",
+        "cloud",
+        "leadership",
+        "data",
+        "web",
+        "security",
+        "open-source",
+        "online"
+      ],
+      "deadline": "2026-10-10",
+      "event_date": "2026-10-22",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-09-19T10:28:47.447938+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "security",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        }
+      ],
+      "categories": [
+        "minute implementation lessons",
+        "with no vendor pitches",
+        "and 30",
+        "minute practitioner sessions",
+        "share practical 30",
+        "120 sessions",
+        "build",
+        "speakers"
+      ],
+      "submission_fields": [
+        "title",
+        "topic",
+        "track"
+      ],
+      "enriched_at": "2026-09-19T10:28:51.840805+00:00",
+      "match_scores": {
+        "composite_score": 0.396,
+        "tag_relevance": 0.333,
+        "talk_match_score": 0.098,
+        "urgency_score": 0.6,
+        "format_score": 0.8,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "c696a723bfe50bae",
+      "source": "confs.tech",
+      "title": "AI DevCon NYC",
+      "url": "https://tessl.io/devcon",
+      "cfp_url": "https://sessionize.com/ai-native-devcon-nyc-2026",
+      "description": "AI Native DevCon New York 2026 : Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. io/ \r\n                             \r\n                         \r\n                     \r\n                 \r\n                     \r\n                         \r\n                         Rolling CFP:  submit early to boost your chances of being accepted.",
+      "tags": [
+        "ai",
+        "leadership",
+        "data",
+        "web",
+        "education",
+        "devops",
+        "open-source",
+        "online"
+      ],
+      "deadline": "2026-10-01",
+      "event_date": "2026-11-02",
+      "location": "Brooklyn, NY, U.S.A.",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-09-19T10:28:47.448005+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "context engineering:  specs",
+        "model portability",
+        "harness and loop engineering",
+        "multi",
+        "and skills",
+        "testable context",
+        "knowledge and memory",
+        "that help with that",
+        "rules",
+        "reusable"
+      ],
+      "submission_fields": [
+        "title",
+        "abstract",
+        "takeaway",
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-09-19T10:28:52.424398+00:00",
+      "match_scores": {
+        "composite_score": 0.398,
+        "tag_relevance": 0.344,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.8,
+        "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "1fa1514088c24453",
+      "source": "confs.tech",
+      "title": "Build It Summit",
+      "url": "https://builditsummit.com",
+      "cfp_url": "https://builditsummit.com/call-for-speakers",
+      "description": "Come with a hands-on method, a hard-won lesson, or a wider perspective that shifts how the room\n        thinks. We program for substance, not seniority: a first-time voice with something real to say is as\n        welcome as a returning name. Applications are open.",
+      "tags": [
+        "ai",
+        "leadership",
+        "data",
+        "web",
+        "open-source"
+      ],
+      "deadline": "2026-10-31",
+      "event_date": "2026-12-01",
+      "location": "Paris, France",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-09-19T10:28:47.448198+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "topic"
+      ],
+      "enriched_at": "2026-09-19T10:28:53.635159+00:00",
+      "match_scores": {
+        "composite_score": 0.393,
+        "tag_relevance": 0.507,
+        "talk_match_score": 0.118,
+        "urgency_score": 0.4,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "03597b485919d6e7",
+      "source": "confs.tech",
+      "title": "Vector in Databases",
+      "url": "https://buildevcon.com/events/vector-in-databases",
+      "cfp_url": "https://buildevcon.com/SpeakersApply",
+      "description": "Speakers Apply | BuildDevCon\n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n   \n  \n  \n   \n    \n     \n      \n       \n       Speakers Apply | BuildDevCon\n       \n       \n       Speakers Apply on BuildDevCon. BuildDevCon is a premium virtual event series focused on deep technical topics i. Pages\n       \n       \n        \n         \n         Home\n         \n        \n        \n         \n         About\n         \n        \u2014 About on BuildDevCon.",
+      "tags": [
+        "general",
+        "online"
+      ],
+      "deadline": "2026-09-28",
+      "event_date": "2026-10-24",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-09-19T10:28:47.676781+00:00",
+      "status": "open",
+      "submission_fields": [
+        "topic"
+      ],
+      "enriched_at": "2026-09-19T10:28:53.922691+00:00",
+      "match_scores": {
+        "composite_score": 0.266,
+        "tag_relevance": 0.0,
+        "talk_match_score": 0.019,
+        "urgency_score": 0.8,
+        "format_score": 0.7,
+        "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
+        "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }

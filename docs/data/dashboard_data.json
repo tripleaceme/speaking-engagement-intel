@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-18T10:44:19.972903+00:00",
+  "generated_at": "2026-09-19T10:28:54.147086+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 126,
-    "open_cfps": 57,
+    "total_cfps_discovered": 130,
+    "open_cfps": 61,
     "expired_cfps": 69,
-    "total_applications": 111,
-    "drafts": 42,
+    "total_applications": 115,
+    "drafts": 46,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 69,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-09-18T10:44:19.802048+00:00",
+    "last_crawled": "2026-09-19T10:28:51.598835+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 52
+    "travel_unknown": 56
   },
   "timeline": [
     {
@@ -71,7 +71,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 2
+      "draft": 6
     }
   ],
   "source_breakdown": [
@@ -81,7 +81,7 @@
     },
     {
       "source": "confs.tech",
-      "count": 47
+      "count": 51
     },
     {
       "source": "github",
@@ -99,23 +99,27 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 1,
-    "low": 56
+    "low": 60
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 56
+      "count": 59
     },
     {
       "tag": "web",
-      "count": 51
+      "count": 54
     },
     {
       "tag": "open-source",
-      "count": 47
+      "count": 50
     },
     {
       "tag": "data",
+      "count": 44
+    },
+    {
+      "tag": "leadership",
       "count": 41
     },
     {
@@ -123,15 +127,15 @@
       "count": 39
     },
     {
-      "tag": "leadership",
-      "count": 38
-    },
-    {
       "tag": "cloud",
-      "count": 35
+      "count": 36
     },
     {
       "tag": "education",
+      "count": 31
+    },
+    {
+      "tag": "security",
       "count": 30
     },
     {
@@ -139,12 +143,8 @@
       "count": 30
     },
     {
-      "tag": "security",
-      "count": 29
-    },
-    {
       "tag": "devops",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "call-for-papers",
@@ -191,6 +191,10 @@
       "count": 7
     },
     {
+      "tag": "online",
+      "count": 6
+    },
+    {
       "tag": "usergroup",
       "count": 6
     },
@@ -217,10 +221,6 @@
     {
       "tag": "typescript",
       "count": 4
-    },
-    {
-      "tag": "online",
-      "count": 3
     }
   ],
   "top_matches": [
@@ -248,6 +248,81 @@
       "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "c696a723bfe50bae",
+      "title": "AI DevCon NYC",
+      "source": "confs.tech",
+      "url": "https://sessionize.com/ai-native-devcon-nyc-2026",
+      "deadline": "2026-10-01",
+      "event_date": "2026-11-02",
+      "location": "Brooklyn, NY, U.S.A.",
+      "is_online": true,
+      "tags": [
+        "ai",
+        "leadership",
+        "data",
+        "web",
+        "education"
+      ],
+      "score": 0.398,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.344,
+      "talk_match": 0.059,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "fe30703d4115d237",
+      "title": "All Day AI",
+      "source": "confs.tech",
+      "url": "https://www.alldayai.com/#speak",
+      "deadline": "2026-10-10",
+      "event_date": "2026-10-22",
+      "location": "TBD, TBD",
+      "is_online": true,
+      "tags": [
+        "ai",
+        "cloud",
+        "leadership",
+        "data",
+        "web"
+      ],
+      "score": 0.396,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.333,
+      "talk_match": 0.098,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "1fa1514088c24453",
+      "title": "Build It Summit",
+      "source": "confs.tech",
+      "url": "https://builditsummit.com/call-for-speakers",
+      "deadline": "2026-10-31",
+      "event_date": "2026-12-01",
+      "location": "Paris, France",
+      "is_online": false,
+      "tags": [
+        "ai",
+        "leadership",
+        "data",
+        "web",
+        "open-source"
+      ],
+      "score": 0.393,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.507,
+      "talk_match": 0.118,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     },
     {
       "id": "15c695e6afe692d2",
@@ -648,81 +723,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "partial",
       "event_type": "external"
-    },
-    {
-      "id": "cf61797b20c3dd06",
-      "title": "yegor256/awesome-cfp",
-      "source": "github",
-      "url": "https://github.com/yegor256/awesome-cfp",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "conferences",
-        "python",
-        "security",
-        "call-for-papers",
-        "cfp"
-      ],
-      "score": 0.315,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.348,
-      "talk_match": 0.06,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
-    },
-    {
-      "id": "5db72494993e6bc8",
-      "title": "Big Data Europe",
-      "source": "confs.tech",
-      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
-      "deadline": "2026-11-23",
-      "event_date": "2026-11-24",
-      "location": "Vilnius, Lithuania",
-      "is_online": true,
-      "tags": [
-        "open-source",
-        "web",
-        "online",
-        "testing",
-        "data"
-      ],
-      "score": 0.315,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.338,
-      "talk_match": 0.089,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "6bf84ef1128c1e5f",
-      "title": "pretalx/pretalx",
-      "source": "github",
-      "url": "https://github.com/pretalx/pretalx",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "conference-management",
-        "django",
-        "pretalx",
-        "security",
-        "call-for-papers"
-      ],
-      "score": 0.312,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.354,
-      "talk_match": 0.044,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
     }
   ],
   "applications": [
@@ -1347,6 +1347,46 @@
       "event_location": "Prague, Czechia"
     },
     {
+      "id": "1f106a22c50b5d9c",
+      "cfp_title": "AI DevCon NYC",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/ai-native-devcon-nyc-2026",
+      "deadline": "2026-10-01",
+      "event_date": "2026-11-02",
+      "status": "draft",
+      "score": 0.398,
+      "priority": "low",
+      "created_at": "2026-09-19T10:28:54.077490+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 6.0)",
+      "is_online": true,
+      "event_location": "Brooklyn, NY, U.S.A."
+    },
+    {
+      "id": "78b88f4944c3dbc8",
+      "cfp_title": "All Day AI",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://www.alldayai.com/#speak",
+      "deadline": "2026-10-10",
+      "event_date": "2026-10-22",
+      "status": "draft",
+      "score": 0.396,
+      "priority": "low",
+      "created_at": "2026-09-19T10:28:54.077291+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
+    },
+    {
       "id": "ff7950850daa5cb0",
       "cfp_title": "Data Saturday Gothenburg",
       "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
@@ -1405,6 +1445,26 @@
       "match_reason": "Conference themes align with 'data' (score: 3.0)",
       "is_online": true,
       "event_location": "TBD, TBD"
+    },
+    {
+      "id": "db970c8213dd487c",
+      "cfp_title": "Build It Summit",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://builditsummit.com/call-for-speakers",
+      "deadline": "2026-10-31",
+      "event_date": "2026-12-01",
+      "status": "draft",
+      "score": 0.393,
+      "priority": "low",
+      "created_at": "2026-09-19T10:28:54.077590+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": false,
+      "event_location": "Paris, France"
     },
     {
       "id": "c0c1558fe3d0831e",
@@ -2647,6 +2707,26 @@
       "event_location": "St Julian's, Malta"
     },
     {
+      "id": "942628ecd41a1cda",
+      "cfp_title": "Vector in Databases",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://buildevcon.com/SpeakersApply",
+      "deadline": "2026-09-28",
+      "event_date": "2026-10-24",
+      "status": "draft",
+      "score": 0.266,
+      "priority": "low",
+      "created_at": "2026-09-19T10:28:54.077680+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 0.5)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
+    },
+    {
       "id": "95e3424a8bd6f19a",
       "cfp_title": "Day of Data Richmond 2026",
       "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
@@ -2950,7 +3030,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 42,
+      "applications": 43,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2966,7 +3046,7 @@
     },
     {
       "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "applications": 17,
+      "applications": 18,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2982,7 +3062,7 @@
     },
     {
       "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "applications": 7,
+      "applications": 8,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -2990,7 +3070,7 @@
     },
     {
       "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "applications": 6,
+      "applications": 7,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -3031,6 +3111,15 @@
   ],
   "upcoming_deadlines": [
     {
+      "title": "Vector in Databases",
+      "deadline": "2026-09-28",
+      "source": "confs.tech",
+      "score": 0.266,
+      "url": "https://buildevcon.com/SpeakersApply",
+      "travel_sponsorship": "unknown",
+      "location": "TBD, TBD"
+    },
+    {
       "title": "The AI Conf",
       "deadline": "2026-09-30",
       "source": "confs.tech",
@@ -3047,6 +3136,15 @@
       "url": "https://sessionize.com/stockholm-sql-2025-2026",
       "travel_sponsorship": "unknown",
       "location": "Stockholm, Sweden"
+    },
+    {
+      "title": "AI DevCon NYC",
+      "deadline": "2026-10-01",
+      "source": "confs.tech",
+      "score": 0.398,
+      "url": "https://sessionize.com/ai-native-devcon-nyc-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Brooklyn, NY, U.S.A."
     },
     {
       "title": "SQL Konferenz 2027",
@@ -3076,6 +3174,15 @@
       "location": "London, U.K."
     },
     {
+      "title": "All Day AI",
+      "deadline": "2026-10-10",
+      "source": "confs.tech",
+      "score": 0.396,
+      "url": "https://www.alldayai.com/#speak",
+      "travel_sponsorship": "unknown",
+      "location": "TBD, TBD"
+    },
+    {
       "title": "Global Summit on Data Science and Cloud Computing",
       "deadline": "2026-10-15",
       "source": "confs.tech",
@@ -3085,40 +3192,13 @@
       "location": "Rome, Italy"
     },
     {
-      "title": "Microsoft Fabric Cafe 2026",
-      "deadline": "2026-11-01",
-      "source": "callfordataspeakers",
-      "score": 0.348,
-      "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Virtual - InPerson"
-    },
-    {
-      "title": "Fabric & Power BI Wales User Group",
-      "deadline": "2026-11-14",
-      "source": "callfordataspeakers",
-      "score": 0.28,
-      "url": "https://sessionize.com/fabricpowerbiwales",
-      "travel_sponsorship": "unknown",
-      "location": "Online"
-    },
-    {
-      "title": "San Diego SQL Server User Group",
-      "deadline": "2026-11-20",
-      "source": "callfordataspeakers",
-      "score": 0.331,
-      "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
-      "travel_sponsorship": "unknown",
-      "location": "Virtual"
-    },
-    {
-      "title": "Big Data Europe",
-      "deadline": "2026-11-23",
+      "title": "Build It Summit",
+      "deadline": "2026-10-31",
       "source": "confs.tech",
-      "score": 0.315,
-      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "score": 0.393,
+      "url": "https://builditsummit.com/call-for-speakers",
       "travel_sponsorship": "unknown",
-      "location": "Vilnius, Lithuania"
+      "location": "Paris, France"
     }
   ]
 }
