@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:28:54.147086+00:00",
+  "generated_at": "2026-09-20T10:50:08.627819+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 69,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-09-19T10:28:51.598835+00:00",
+    "last_crawled": "2026-09-20T10:50:08.221171+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
@@ -350,6 +350,31 @@
       "event_type": "precon"
     },
     {
+      "id": "a679ad1fe516f16c",
+      "title": "SQL Konferenz 2027",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sql-konferenz-2027",
+      "deadline": "2026-10-04",
+      "event_date": "2027-02-22",
+      "location": "Hanau am Main, Germany",
+      "is_online": false,
+      "tags": [
+        "conference",
+        "database",
+        "ai",
+        "open-source",
+        "web"
+      ],
+      "score": 0.379,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.358,
+      "talk_match": 0.044,
+      "urgency": 0.8,
+      "travel_sponsorship": "partial",
+      "event_type": "conference"
+    },
+    {
       "id": "179b76777b995df7",
       "title": "The AI Conf",
       "source": "confs.tech",
@@ -447,31 +472,6 @@
       "talk_match": 0.06,
       "urgency": 0.1,
       "travel_sponsorship": "yes",
-      "event_type": "conference"
-    },
-    {
-      "id": "a679ad1fe516f16c",
-      "title": "SQL Konferenz 2027",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sql-konferenz-2027",
-      "deadline": "2026-10-04",
-      "event_date": "2027-02-22",
-      "location": "Hanau am Main, Germany",
-      "is_online": false,
-      "tags": [
-        "conference",
-        "database",
-        "ai",
-        "open-source",
-        "web"
-      ],
-      "score": 0.349,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.358,
-      "talk_match": 0.044,
-      "urgency": 0.6,
-      "travel_sponsorship": "partial",
       "event_type": "conference"
     },
     {
@@ -1547,6 +1547,26 @@
       "event_location": "Atlanta, Georgia, United States"
     },
     {
+      "id": "bbc3cdf1c2419f2e",
+      "cfp_title": "SQL Konferenz 2027",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sql-konferenz-2027",
+      "deadline": "2026-10-04",
+      "event_date": "2027-02-22",
+      "status": "draft",
+      "score": 0.379,
+      "priority": "low",
+      "created_at": "2026-05-21T09:44:48.566831+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'database' (score: 4.8)",
+      "is_online": false,
+      "event_location": "Hanau am Main, Germany"
+    },
+    {
       "id": "ca1b621fe07c376e",
       "cfp_title": "XtremePython Online Conference",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1805,26 +1825,6 @@
       "match_reason": "Conference themes align with 'database' (score: 6.5)",
       "is_online": false,
       "event_location": "Atlanta, Georgia, United States"
-    },
-    {
-      "id": "bbc3cdf1c2419f2e",
-      "cfp_title": "SQL Konferenz 2027",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/sql-konferenz-2027",
-      "deadline": "2026-10-04",
-      "event_date": "2027-02-22",
-      "status": "draft",
-      "score": 0.349,
-      "priority": "low",
-      "created_at": "2026-05-21T09:44:48.566831+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'database' (score: 4.8)",
-      "is_online": false,
-      "event_location": "Hanau am Main, Germany"
     },
     {
       "id": "14f24ec0a257b5c7",
@@ -2407,6 +2407,26 @@
       "event_location": ""
     },
     {
+      "id": "0c784435d99eb272",
+      "cfp_title": "Data Community Day Austria 2027",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-community-day-austria-2027",
+      "deadline": "2026-10-04",
+      "event_date": "2027-01-18",
+      "status": "draft",
+      "score": 0.31,
+      "priority": "low",
+      "created_at": "2026-08-05T08:37:30.439267+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 4.3)",
+      "is_online": false,
+      "event_location": "Vienna, Austria"
+    },
+    {
       "id": "559bc43be15a3639",
       "cfp_title": "sameersegal/Podium",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2525,26 +2545,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": true,
       "event_location": "Berlin, Germany"
-    },
-    {
-      "id": "0c784435d99eb272",
-      "cfp_title": "Data Community Day Austria 2027",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/data-community-day-austria-2027",
-      "deadline": "2026-10-04",
-      "event_date": "2027-01-18",
-      "status": "draft",
-      "score": 0.28,
-      "priority": "low",
-      "created_at": "2026-08-05T08:37:30.439267+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 4.3)",
-      "is_online": false,
-      "event_location": "Vienna, Austria"
     },
     {
       "id": "8b8c86d1f91e3abb",
@@ -3150,7 +3150,7 @@
       "title": "SQL Konferenz 2027",
       "deadline": "2026-10-04",
       "source": "callfordataspeakers",
-      "score": 0.349,
+      "score": 0.379,
       "url": "https://sessionize.com/sql-konferenz-2027",
       "travel_sponsorship": "partial",
       "location": "Hanau am Main, Germany"
@@ -3159,7 +3159,7 @@
       "title": "Data Community Day Austria 2027",
       "deadline": "2026-10-04",
       "source": "callfordataspeakers",
-      "score": 0.28,
+      "score": 0.31,
       "url": "https://sessionize.com/data-community-day-austria-2027",
       "travel_sponsorship": "unknown",
       "location": "Vienna, Austria"

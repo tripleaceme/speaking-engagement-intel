@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-19T10:28:54.081359+00:00",
+    "last_updated": "2026-09-20T10:50:08.540385+00:00",
     "total_applications": 115,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -3550,6 +3550,83 @@
       "notes": ""
     },
     {
+      "id": "bbc3cdf1c2419f2e",
+      "cfp_id": "a679ad1fe516f16c",
+      "cfp_title": "SQL Konferenz 2027",
+      "cfp_url": "https://sessionize.com/sql-konferenz-2027",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-10-04",
+      "event_date": "2027-02-22",
+      "event_location": "Hanau am Main, Germany",
+      "is_online": false,
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+      "talk_tags": [
+        "sql",
+        "dbt",
+        "migration",
+        "database",
+        "snowflake",
+        "bigquery"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'database' (score: 4.8)",
+      "conference_themes": [
+        "ai",
+        "web",
+        "database",
+        "open-source"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "partial",
+      "speaker_perks": {
+        "ticket": true
+      },
+      "proposal": {
+        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "sql",
+          "dbt",
+          "migration",
+          "database",
+          "snowflake",
+          "bigquery"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.379,
+        "tag_relevance": 0.358,
+        "talk_match_score": 0.044,
+        "urgency_score": 0.8,
+        "format_score": 0.6,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "partial"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-05-21T09:44:48.566829+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 4.8)"
+        }
+      ],
+      "created_at": "2026-05-21T09:44:48.566831+00:00",
+      "updated_at": "2026-05-21T09:44:48.566833+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "ca1b621fe07c376e",
       "cfp_id": "925345156dea5ecc",
       "cfp_title": "XtremePython Online Conference",
@@ -4605,83 +4682,6 @@
       ],
       "created_at": "2026-08-18T06:44:07.103928+00:00",
       "updated_at": "2026-08-18T06:44:07.103929+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "bbc3cdf1c2419f2e",
-      "cfp_id": "a679ad1fe516f16c",
-      "cfp_title": "SQL Konferenz 2027",
-      "cfp_url": "https://sessionize.com/sql-konferenz-2027",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-10-04",
-      "event_date": "2027-02-22",
-      "event_location": "Hanau am Main, Germany",
-      "is_online": false,
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
-      "talk_tags": [
-        "sql",
-        "dbt",
-        "migration",
-        "database",
-        "snowflake",
-        "bigquery"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'database' (score: 4.8)",
-      "conference_themes": [
-        "ai",
-        "web",
-        "database",
-        "open-source"
-      ],
-      "conference_categories": [],
-      "travel_sponsorship": "partial",
-      "speaker_perks": {
-        "ticket": true
-      },
-      "proposal": {
-        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "sql",
-          "dbt",
-          "migration",
-          "database",
-          "snowflake",
-          "bigquery"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.349,
-        "tag_relevance": 0.358,
-        "talk_match_score": 0.044,
-        "urgency_score": 0.6,
-        "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "partial"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-05-21T09:44:48.566829+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 4.8)"
-        }
-      ],
-      "created_at": "2026-05-21T09:44:48.566831+00:00",
-      "updated_at": "2026-05-21T09:44:48.566833+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -7046,6 +7046,83 @@
       "notes": ""
     },
     {
+      "id": "0c784435d99eb272",
+      "cfp_id": "0d94c8eca7d2ef0a",
+      "cfp_title": "Data Community Day Austria 2027",
+      "cfp_url": "https://sessionize.com/data-community-day-austria-2027",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-10-04",
+      "event_date": "2027-01-18",
+      "event_location": "Vienna, Austria",
+      "is_online": false,
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+      "talk_tags": [
+        "sql",
+        "dbt",
+        "migration",
+        "database",
+        "snowflake",
+        "bigquery"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'database' (score: 4.3)",
+      "conference_themes": [
+        "ai",
+        "web",
+        "database",
+        "open-source"
+      ],
+      "conference_categories": [
+        "technical sessions"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "sql",
+          "dbt",
+          "migration",
+          "database",
+          "snowflake",
+          "bigquery"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.31,
+        "tag_relevance": 0.173,
+        "talk_match_score": 0.098,
+        "urgency_score": 0.8,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-08-05T08:37:30.439260+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 4.3)"
+        }
+      ],
+      "created_at": "2026-08-05T08:37:30.439267+00:00",
+      "updated_at": "2026-08-05T08:37:30.439269+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "559bc43be15a3639",
       "cfp_id": "549cf74dc3ffa909",
       "cfp_title": "sameersegal/Podium",
@@ -7560,83 +7637,6 @@
       ],
       "created_at": "2026-07-29T08:42:41.525352+00:00",
       "updated_at": "2026-08-13T07:35:48.675390+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "0c784435d99eb272",
-      "cfp_id": "0d94c8eca7d2ef0a",
-      "cfp_title": "Data Community Day Austria 2027",
-      "cfp_url": "https://sessionize.com/data-community-day-austria-2027",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-10-04",
-      "event_date": "2027-01-18",
-      "event_location": "Vienna, Austria",
-      "is_online": false,
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "talk_abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
-      "talk_tags": [
-        "sql",
-        "dbt",
-        "migration",
-        "database",
-        "snowflake",
-        "bigquery"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'database' (score: 4.3)",
-      "conference_themes": [
-        "ai",
-        "web",
-        "database",
-        "open-source"
-      ],
-      "conference_categories": [
-        "technical sessions"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-        "abstract": "Your warehouse is full of stored procedures nobody wants to touch. I migrated legacy SQL workflows to modular dbt models, cutting maintenance time by 45% while keeping production running. This talk covers the migration playbook: auditing existing logic, designing the dbt model layer, testing strategies for parity, and deploying with confidence. Includes patterns for Snowflake, BigQuery, and PostgreSQL \u2014 and how to bring skeptical DBAs on board.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "sql",
-          "dbt",
-          "migration",
-          "database",
-          "snowflake",
-          "bigquery"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.28,
-        "tag_relevance": 0.173,
-        "talk_match_score": 0.098,
-        "urgency_score": 0.6,
-        "format_score": 0.5,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-08-05T08:37:30.439260+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 4.3)"
-        }
-      ],
-      "created_at": "2026-08-05T08:37:30.439267+00:00",
-      "updated_at": "2026-08-05T08:37:30.439269+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
