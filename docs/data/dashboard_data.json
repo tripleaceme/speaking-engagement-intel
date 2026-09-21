@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:50:08.627819+00:00",
+  "generated_at": "2026-09-21T12:14:39.129913+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 69,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-09-20T10:50:08.221171+00:00",
+    "last_crawled": "2026-09-21T12:14:38.915816+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
@@ -425,6 +425,31 @@
       "event_type": "conference"
     },
     {
+      "id": "f5236e3008d6c44b",
+      "title": "San Diego SQL Server User Group",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
+      "deadline": "2026-11-20",
+      "event_date": "2026-01-15",
+      "location": "Virtual",
+      "is_online": false,
+      "tags": [
+        "database",
+        "north america",
+        "education",
+        "ai",
+        "open-source"
+      ],
+      "score": 0.361,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.523,
+      "talk_match": 0.059,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
       "id": "4b5b66096d50fb98",
       "title": "DataConf",
       "source": "callfordataspeakers",
@@ -598,31 +623,6 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
-    },
-    {
-      "id": "f5236e3008d6c44b",
-      "title": "San Diego SQL Server User Group",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
-      "deadline": "2026-11-20",
-      "event_date": "2026-01-15",
-      "location": "Virtual",
-      "is_online": false,
-      "tags": [
-        "database",
-        "north america",
-        "education",
-        "ai",
-        "open-source"
-      ],
-      "score": 0.331,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.523,
-      "talk_match": 0.059,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     },
     {
       "id": "0fe3d15f3fc2db8f",
@@ -1727,6 +1727,26 @@
       "event_location": "Rome, Italy"
     },
     {
+      "id": "5e1414e189fef8fd",
+      "cfp_title": "San Diego SQL Server User Group",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/san-diego-sql-server-user-group8844",
+      "deadline": "2026-11-20",
+      "event_date": "2026-01-15",
+      "status": "draft",
+      "score": 0.361,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.664221+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 4.8)",
+      "is_online": false,
+      "event_location": "Virtual"
+    },
+    {
       "id": "d0c5b17b6549aee0",
       "cfp_title": "DataConf",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2065,26 +2085,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": false,
       "event_location": "Birmingham, United Kingdom"
-    },
-    {
-      "id": "5e1414e189fef8fd",
-      "cfp_title": "San Diego SQL Server User Group",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/san-diego-sql-server-user-group8844",
-      "deadline": "2026-11-20",
-      "event_date": "2026-01-15",
-      "status": "draft",
-      "score": 0.331,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.664221+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 4.8)",
-      "is_online": false,
-      "event_location": "Virtual"
     },
     {
       "id": "1a4aa2556263af1e",
@@ -2507,6 +2507,26 @@
       "event_location": ""
     },
     {
+      "id": "942628ecd41a1cda",
+      "cfp_title": "Vector in Databases",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://buildevcon.com/SpeakersApply",
+      "deadline": "2026-09-28",
+      "event_date": "2026-10-24",
+      "status": "draft",
+      "score": 0.296,
+      "priority": "low",
+      "created_at": "2026-09-19T10:28:54.077680+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 0.5)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
+    },
+    {
       "id": "9c40017725216ae5",
       "cfp_title": "React Advanced",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2705,26 +2725,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": false,
       "event_location": "St Julian's, Malta"
-    },
-    {
-      "id": "942628ecd41a1cda",
-      "cfp_title": "Vector in Databases",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://buildevcon.com/SpeakersApply",
-      "deadline": "2026-09-28",
-      "event_date": "2026-10-24",
-      "status": "draft",
-      "score": 0.266,
-      "priority": "low",
-      "created_at": "2026-09-19T10:28:54.077680+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 0.5)",
-      "is_online": true,
-      "event_location": "TBD, TBD"
     },
     {
       "id": "95e3424a8bd6f19a",
@@ -3114,7 +3114,7 @@
       "title": "Vector in Databases",
       "deadline": "2026-09-28",
       "source": "confs.tech",
-      "score": 0.266,
+      "score": 0.296,
       "url": "https://buildevcon.com/SpeakersApply",
       "travel_sponsorship": "unknown",
       "location": "TBD, TBD"

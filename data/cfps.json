@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_crawled": "2026-09-20T10:50:08.221171+00:00",
+    "last_crawled": "2026-09-21T12:14:38.915816+00:00",
     "total_cfps": 130,
     "open_cfps": 61,
     "sources_checked": 9,
@@ -8,7 +8,7 @@
     "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-09-20T10:50:08.478934+00:00",
+    "last_scored": "2026-09-21T12:14:39.044905+00:00",
     "high_priority": 0,
     "medium_priority": 1,
     "above_threshold": 46
@@ -2641,10 +2641,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:40.545796+00:00",
       "match_scores": {
-        "composite_score": 0.331,
+        "composite_score": 0.361,
         "tag_relevance": 0.523,
         "talk_match_score": 0.059,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -9200,10 +9200,10 @@
       ],
       "enriched_at": "2026-09-19T10:28:53.922691+00:00",
       "match_scores": {
-        "composite_score": 0.266,
+        "composite_score": 0.296,
         "tag_relevance": 0.0,
         "talk_match_score": 0.019,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.7,
         "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
         "suggested_talk_level": "intermediate",
