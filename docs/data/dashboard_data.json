@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-22T11:07:54.597980+00:00",
+  "generated_at": "2026-09-23T10:58:05.141183+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 130,
-    "open_cfps": 61,
+    "total_cfps_discovered": 131,
+    "open_cfps": 62,
     "expired_cfps": 69,
-    "total_applications": 115,
-    "drafts": 46,
+    "total_applications": 116,
+    "drafts": 47,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 69,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-09-22T11:07:54.374436+00:00",
+    "last_crawled": "2026-09-23T10:58:04.168034+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 56
+    "travel_unknown": 57
   },
   "timeline": [
     {
@@ -71,13 +71,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 6
+      "draft": 7
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 59
+      "count": 60
     },
     {
       "source": "confs.tech",
@@ -99,28 +99,28 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 1,
-    "low": 60
+    "low": 61
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 59
+      "count": 60
     },
     {
       "tag": "web",
-      "count": 54
+      "count": 55
     },
     {
       "tag": "open-source",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "data",
-      "count": 44
+      "count": 45
     },
     {
       "tag": "leadership",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "database",
@@ -135,11 +135,11 @@
       "count": 31
     },
     {
-      "tag": "security",
-      "count": 30
+      "tag": "conference",
+      "count": 31
     },
     {
-      "tag": "conference",
+      "tag": "security",
       "count": 30
     },
     {
@@ -180,7 +180,7 @@
     },
     {
       "tag": "europe",
-      "count": 8
+      "count": 9
     },
     {
       "tag": "cloudflare-workers",
@@ -240,12 +240,12 @@
         "education",
         "ai"
       ],
-      "score": 0.414,
+      "score": 0.444,
       "priority": "medium",
       "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
       "tag_relevance": 0.517,
       "talk_match": 0.044,
-      "urgency": 0.8,
+      "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
     },
@@ -297,6 +297,31 @@
       "talk_match": 0.098,
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
+      "id": "179b76777b995df7",
+      "title": "The AI Conf",
+      "source": "confs.tech",
+      "url": "https://theconf.ai/call-for-papers",
+      "deadline": "2026-09-30",
+      "event_date": "2026-11-03",
+      "location": "Barcelona, Spain",
+      "is_online": false,
+      "tags": [
+        "cloud",
+        "database",
+        "education",
+        "ai",
+        "leadership"
+      ],
+      "score": 0.394,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.335,
+      "talk_match": 0.089,
+      "urgency": 1.0,
+      "travel_sponsorship": "partial",
       "event_type": "conference"
     },
     {
@@ -370,31 +395,6 @@
       "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
       "tag_relevance": 0.358,
       "talk_match": 0.044,
-      "urgency": 0.8,
-      "travel_sponsorship": "partial",
-      "event_type": "conference"
-    },
-    {
-      "id": "179b76777b995df7",
-      "title": "The AI Conf",
-      "source": "confs.tech",
-      "url": "https://theconf.ai/call-for-papers",
-      "deadline": "2026-09-30",
-      "event_date": "2026-11-03",
-      "location": "Barcelona, Spain",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "database",
-        "education",
-        "ai",
-        "leadership"
-      ],
-      "score": 0.364,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.335,
-      "talk_match": 0.089,
       "urgency": 0.8,
       "travel_sponsorship": "partial",
       "event_type": "conference"
@@ -927,6 +927,26 @@
       "event_location": "Austin, Texas, United States"
     },
     {
+      "id": "df89b10514e7fe7b",
+      "cfp_title": "Stockholm SQL 2025-2026",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/stockholm-sql-2025-2026",
+      "deadline": "2026-09-30",
+      "event_date": "2025-12-09",
+      "status": "draft",
+      "score": 0.444,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.663615+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 6.5)",
+      "is_online": false,
+      "event_location": "Stockholm, Sweden"
+    },
+    {
       "id": "73d7d31510171311",
       "cfp_title": "Retro Data",
       "talk_title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
@@ -1145,26 +1165,6 @@
       "match_reason": "Conference themes align with 'database' (score: 6.3)",
       "is_online": false,
       "event_location": "Sanford, Florida, United States"
-    },
-    {
-      "id": "df89b10514e7fe7b",
-      "cfp_title": "Stockholm SQL 2025-2026",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/stockholm-sql-2025-2026",
-      "deadline": "2026-09-30",
-      "event_date": "2025-12-09",
-      "status": "draft",
-      "score": 0.414,
-      "priority": "medium",
-      "created_at": "2026-04-08T12:28:22.663615+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 6.5)",
-      "is_online": false,
-      "event_location": "Stockholm, Sweden"
     },
     {
       "id": "8577e06db0081c5c",
@@ -1447,6 +1447,26 @@
       "event_location": "TBD, TBD"
     },
     {
+      "id": "8ef1aa5b4718f454",
+      "cfp_title": "The AI Conf",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://theconf.ai/call-for-papers",
+      "deadline": "2026-09-30",
+      "event_date": "2026-11-03",
+      "status": "draft",
+      "score": 0.394,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.661017+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
+      "is_online": false,
+      "event_location": "Barcelona, Spain"
+    },
+    {
       "id": "db970c8213dd487c",
       "cfp_title": "Build It Summit",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1645,26 +1665,6 @@
       "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
       "is_online": true,
       "event_location": "Online"
-    },
-    {
-      "id": "8ef1aa5b4718f454",
-      "cfp_title": "The AI Conf",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://theconf.ai/call-for-papers",
-      "deadline": "2026-09-30",
-      "event_date": "2026-11-03",
-      "status": "draft",
-      "score": 0.364,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.661017+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'ai' (score: 7.5)",
-      "is_online": false,
-      "event_location": "Barcelona, Spain"
     },
     {
       "id": "922be52c18c6e9a0",
@@ -2887,6 +2887,26 @@
       "event_location": "Washington State University Vancouver, 14204 NE Salmon Creek Avenue, Vancouver, WA, USA 98686-9600, Campus map,"
     },
     {
+      "id": "fe2ec725d498b6d2",
+      "cfp_title": "Data Pulse 2026",
+      "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-pulse-2026",
+      "deadline": "2026-11-06",
+      "event_date": "2026-11-26",
+      "status": "draft",
+      "score": 0.254,
+      "priority": "low",
+      "created_at": "2026-09-23T10:58:05.090766+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'web' (score: 5.5)",
+      "is_online": false,
+      "event_location": "Reading, United Kingdom"
+    },
+    {
       "id": "97b4ca9456e00801",
       "cfp_title": "RRaphaell/vibeboard",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -3085,15 +3105,15 @@
       "acceptance_rate": 0
     },
     {
-      "title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
-      "applications": 1,
+      "title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
+      "applications": 2,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
       "acceptance_rate": 0
     },
     {
-      "title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
+      "title": "From Side Project to dbt Hub: Building Open-Source Packages That Ship",
       "applications": 1,
       "accepted": 0,
       "rejected": 0,
@@ -3123,7 +3143,7 @@
       "title": "The AI Conf",
       "deadline": "2026-09-30",
       "source": "confs.tech",
-      "score": 0.364,
+      "score": 0.394,
       "url": "https://theconf.ai/call-for-papers",
       "travel_sponsorship": "partial",
       "location": "Barcelona, Spain"
@@ -3132,7 +3152,7 @@
       "title": "Stockholm SQL 2025-2026",
       "deadline": "2026-09-30",
       "source": "callfordataspeakers",
-      "score": 0.414,
+      "score": 0.444,
       "url": "https://sessionize.com/stockholm-sql-2025-2026",
       "travel_sponsorship": "unknown",
       "location": "Stockholm, Sweden"

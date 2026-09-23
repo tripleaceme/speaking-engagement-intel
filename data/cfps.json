@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-09-22T11:07:54.374436+00:00",
-    "total_cfps": 130,
-    "open_cfps": 61,
+    "last_crawled": "2026-09-23T10:58:04.168034+00:00",
+    "total_cfps": 131,
+    "open_cfps": 62,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-09-22T11:07:54.518234+00:00",
+    "last_scored": "2026-09-23T10:58:05.036745+00:00",
     "high_priority": 0,
     "medium_priority": 1,
-    "above_threshold": 46
+    "above_threshold": 47
   },
   "cfps": [
     {
@@ -316,10 +316,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:19.833410+00:00",
       "match_scores": {
-        "composite_score": 0.364,
+        "composite_score": 0.394,
         "tag_relevance": 0.335,
         "talk_match_score": 0.089,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.5,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
@@ -2254,10 +2254,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:35.156641+00:00",
       "match_scores": {
-        "composite_score": 0.414,
+        "composite_score": 0.444,
         "tag_relevance": 0.517,
         "talk_match_score": 0.044,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.5,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
@@ -9207,6 +9207,65 @@
         "format_score": 0.7,
         "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
         "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "8c53be53b11f31fc",
+      "source": "callfordataspeakers",
+      "title": "Data Pulse 2026",
+      "url": "https://sessionize.com/data-pulse-2026",
+      "cfp_url": "https://sessionize.com/data-pulse-2026",
+      "description": "Data Pulse 2026: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. com \r\n                             \r\n                         \r\n                     \r\n                 \r\n                     \r\n                         \r\n                         Data Pulse is a new community-led data conference bringing people, ideas and possibilities together.",
+      "tags": [
+        "europe",
+        "conference",
+        "leadership",
+        "web",
+        "data",
+        "open-source",
+        "ai"
+      ],
+      "deadline": "2026-11-06",
+      "event_date": "2026-11-26",
+      "location": "Reading, United Kingdom",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-09-23T10:58:03.267717+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-09-23T10:58:04.963717+00:00",
+      "match_scores": {
+        "composite_score": 0.254,
+        "tag_relevance": 0.178,
+        "talk_match_score": 0.04,
+        "urgency_score": 0.4,
+        "format_score": 0.6,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }
