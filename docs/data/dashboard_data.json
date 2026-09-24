@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:58:05.141183+00:00",
+  "generated_at": "2026-09-24T11:17:07.962280+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 69,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-09-23T10:58:04.168034+00:00",
+    "last_crawled": "2026-09-24T11:17:07.659182+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
@@ -98,8 +98,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 1,
-    "low": 61
+    "medium": 2,
+    "low": 60
   },
   "tag_cloud": [
     {
@@ -265,12 +265,12 @@
         "web",
         "education"
       ],
-      "score": 0.398,
-      "priority": "low",
+      "score": 0.428,
+      "priority": "medium",
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
       "tag_relevance": 0.344,
       "talk_match": 0.059,
-      "urgency": 0.8,
+      "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -525,6 +525,31 @@
       "event_type": "usergroup"
     },
     {
+      "id": "5db72494993e6bc8",
+      "title": "Big Data Europe",
+      "source": "confs.tech",
+      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "deadline": "2026-11-23",
+      "event_date": "2026-11-24",
+      "location": "Vilnius, Lithuania",
+      "is_online": true,
+      "tags": [
+        "open-source",
+        "web",
+        "online",
+        "testing",
+        "data"
+      ],
+      "score": 0.345,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.338,
+      "talk_match": 0.089,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "850c50fff292a225",
       "title": "SQL Saturday Toronto 2026",
       "source": "callfordataspeakers",
@@ -697,31 +722,6 @@
       "talk_match": 0.059,
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
-      "event_type": "external"
-    },
-    {
-      "id": "bdd596c3571bc69d",
-      "title": "Data of Day Winnipeg 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/day-of-data-winnipeg-2026",
-      "deadline": "",
-      "event_date": "2026-09-19",
-      "location": "University of Manitoba,, Engineering and Information Technology Complex, 75 Chancellors Circle, Winnipeg MB,",
-      "is_online": false,
-      "tags": [
-        "in-person",
-        "cloud",
-        "external",
-        "education",
-        "security"
-      ],
-      "score": 0.317,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.528,
-      "talk_match": 0.059,
-      "urgency": 0.1,
-      "travel_sponsorship": "partial",
       "event_type": "external"
     }
   ],
@@ -1047,6 +1047,26 @@
       "event_location": "Online"
     },
     {
+      "id": "1f106a22c50b5d9c",
+      "cfp_title": "AI DevCon NYC",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://sessionize.com/ai-native-devcon-nyc-2026",
+      "deadline": "2026-10-01",
+      "event_date": "2026-11-02",
+      "status": "draft",
+      "score": 0.428,
+      "priority": "medium",
+      "created_at": "2026-09-19T10:28:54.077490+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 6.0)",
+      "is_online": true,
+      "event_location": "Brooklyn, NY, U.S.A."
+    },
+    {
       "id": "f05c499a51109afe",
       "cfp_title": "Power BI Days DC 2026",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -1345,26 +1365,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 8.5)",
       "is_online": false,
       "event_location": "Prague, Czechia"
-    },
-    {
-      "id": "1f106a22c50b5d9c",
-      "cfp_title": "AI DevCon NYC",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://sessionize.com/ai-native-devcon-nyc-2026",
-      "deadline": "2026-10-01",
-      "event_date": "2026-11-02",
-      "status": "draft",
-      "score": 0.398,
-      "priority": "low",
-      "created_at": "2026-09-19T10:28:54.077490+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 6.0)",
-      "is_online": true,
-      "event_location": "Brooklyn, NY, U.S.A."
     },
     {
       "id": "78b88f4944c3dbc8",
@@ -1907,6 +1907,26 @@
       "event_location": "New York City, New York, United States"
     },
     {
+      "id": "85e7993e5763732f",
+      "cfp_title": "Big Data Europe",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "deadline": "2026-11-23",
+      "event_date": "2026-11-24",
+      "status": "draft",
+      "score": 0.345,
+      "priority": "low",
+      "created_at": "2026-08-07T07:17:36.345470+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 6.0)",
+      "is_online": true,
+      "event_location": "Vilnius, Lithuania"
+    },
+    {
       "id": "7e85ca613dd5b674",
       "cfp_title": "Software Architecture Gathering",
       "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
@@ -2265,26 +2285,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 10.5)",
       "is_online": true,
       "event_location": ""
-    },
-    {
-      "id": "85e7993e5763732f",
-      "cfp_title": "Big Data Europe",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
-      "deadline": "2026-11-23",
-      "event_date": "2026-11-24",
-      "status": "draft",
-      "score": 0.315,
-      "priority": "low",
-      "created_at": "2026-08-07T07:17:36.345470+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 6.0)",
-      "is_online": true,
-      "event_location": "Vilnius, Lithuania"
     },
     {
       "id": "9f094061ee9949e3",
@@ -3161,7 +3161,7 @@
       "title": "AI DevCon NYC",
       "deadline": "2026-10-01",
       "source": "confs.tech",
-      "score": 0.398,
+      "score": 0.428,
       "url": "https://sessionize.com/ai-native-devcon-nyc-2026",
       "travel_sponsorship": "unknown",
       "location": "Brooklyn, NY, U.S.A."
