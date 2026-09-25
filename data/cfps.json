@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_crawled": "2026-09-24T11:17:07.659182+00:00",
+    "last_crawled": "2026-09-25T11:22:19.236812+00:00",
     "total_cfps": 131,
     "open_cfps": 62,
     "sources_checked": 9,
@@ -8,7 +8,7 @@
     "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-09-24T11:17:07.834353+00:00",
+    "last_scored": "2026-09-25T11:22:19.381037+00:00",
     "high_priority": 0,
     "medium_priority": 2,
     "above_threshold": 47
@@ -1263,10 +1263,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:51.916563+00:00",
       "match_scores": {
-        "composite_score": 0.333,
+        "composite_score": 0.363,
         "tag_relevance": 0.167,
         "talk_match_score": 0.082,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.8,
         "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
         "suggested_talk_level": "intermediate",
