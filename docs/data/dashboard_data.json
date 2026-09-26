@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:22:19.491815+00:00",
+  "generated_at": "2026-09-26T10:58:32.328073+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 69,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-09-25T11:22:19.236812+00:00",
+    "last_crawled": "2026-09-26T10:58:32.036000+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
@@ -98,8 +98,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 2,
-    "low": 60
+    "medium": 3,
+    "low": 59
   },
   "tag_cloud": [
     {
@@ -290,12 +290,12 @@
         "data",
         "web"
       ],
-      "score": 0.396,
-      "priority": "low",
+      "score": 0.426,
+      "priority": "medium",
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
       "tag_relevance": 0.333,
       "talk_match": 0.098,
-      "urgency": 0.6,
+      "urgency": 0.8,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -1067,6 +1067,26 @@
       "event_location": "Brooklyn, NY, U.S.A."
     },
     {
+      "id": "78b88f4944c3dbc8",
+      "cfp_title": "All Day AI",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://www.alldayai.com/#speak",
+      "deadline": "2026-10-10",
+      "event_date": "2026-10-22",
+      "status": "draft",
+      "score": 0.426,
+      "priority": "medium",
+      "created_at": "2026-09-19T10:28:54.077291+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
+      "is_online": true,
+      "event_location": "TBD, TBD"
+    },
+    {
       "id": "f05c499a51109afe",
       "cfp_title": "Power BI Days DC 2026",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -1365,26 +1385,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 8.5)",
       "is_online": false,
       "event_location": "Prague, Czechia"
-    },
-    {
-      "id": "78b88f4944c3dbc8",
-      "cfp_title": "All Day AI",
-      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://www.alldayai.com/#speak",
-      "deadline": "2026-10-10",
-      "event_date": "2026-10-22",
-      "status": "draft",
-      "score": 0.396,
-      "priority": "low",
-      "created_at": "2026-09-19T10:28:54.077291+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
-      "is_online": true,
-      "event_location": "TBD, TBD"
     },
     {
       "id": "ff7950850daa5cb0",
@@ -3197,7 +3197,7 @@
       "title": "All Day AI",
       "deadline": "2026-10-10",
       "source": "confs.tech",
-      "score": 0.396,
+      "score": 0.426,
       "url": "https://www.alldayai.com/#speak",
       "travel_sponsorship": "unknown",
       "location": "TBD, TBD"
