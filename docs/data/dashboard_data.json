@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-27T11:36:38.589686+00:00",
+  "generated_at": "2026-09-28T13:11:06.543919+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 131,
-    "open_cfps": 62,
+    "total_cfps_discovered": 132,
+    "open_cfps": 63,
     "expired_cfps": 69,
-    "total_applications": 116,
-    "drafts": 47,
+    "total_applications": 117,
+    "drafts": 48,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 69,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-09-27T11:36:38.249101+00:00",
+    "last_crawled": "2026-09-28T13:11:05.369776+00:00",
     "sources_checked": 9,
     "travel_yes": 1,
     "travel_partial": 4,
-    "travel_unknown": 57
+    "travel_unknown": 58
   },
   "timeline": [
     {
@@ -71,13 +71,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 7
+      "draft": 8
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 60
+      "count": 61
     },
     {
       "source": "confs.tech",
@@ -99,39 +99,43 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 4,
-    "low": 58
+    "low": 59
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 60
+      "count": 61
     },
     {
       "tag": "web",
-      "count": 55
+      "count": 56
     },
     {
       "tag": "open-source",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "data",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "leadership",
-      "count": 42
+      "count": 43
     },
     {
       "tag": "database",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "cloud",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "education",
+      "count": 32
+    },
+    {
+      "tag": "security",
       "count": 31
     },
     {
@@ -139,24 +143,20 @@
       "count": 31
     },
     {
-      "tag": "security",
-      "count": 30
-    },
-    {
       "tag": "devops",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "call-for-papers",
       "count": 17
     },
     {
-      "tag": "cfp",
+      "tag": "testing",
       "count": 14
     },
     {
-      "tag": "testing",
-      "count": 13
+      "tag": "cfp",
+      "count": 14
     },
     {
       "tag": "in-person",
@@ -175,11 +175,11 @@
       "count": 10
     },
     {
-      "tag": "event-management",
-      "count": 9
+      "tag": "europe",
+      "count": 10
     },
     {
-      "tag": "europe",
+      "tag": "event-management",
       "count": 9
     },
     {
@@ -650,6 +650,31 @@
       "event_type": "conference"
     },
     {
+      "id": "819351f5da220253",
+      "title": "SQLDay 2027",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sqlday-2027",
+      "deadline": "2026-12-31",
+      "event_date": "2027-05-10",
+      "location": "Wroc\u0142aw, Poland",
+      "is_online": false,
+      "tags": [
+        "conference,precon",
+        "security",
+        "ai",
+        "education",
+        "europe"
+      ],
+      "score": 0.336,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.504,
+      "talk_match": 0.098,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference,precon"
+    },
+    {
       "id": "a3f5bb0642a8175a",
       "title": "Data Saturday #93 - Brisbane 2027",
       "source": "callfordataspeakers",
@@ -696,31 +721,6 @@
       "tag_relevance": 0.518,
       "talk_match": 0.082,
       "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
-    },
-    {
-      "id": "572d7d738708e54c",
-      "title": "Data Engineers in Toronto",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/data-engineers-in-toronto",
-      "deadline": "2027-01-19",
-      "event_date": "2026-03-09",
-      "location": "Virtual / Online",
-      "is_online": true,
-      "tags": [
-        "education",
-        "ai",
-        "open-source",
-        "usergroup",
-        "web"
-      ],
-      "score": 0.32,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.361,
-      "talk_match": 0.078,
-      "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
     }
@@ -2067,6 +2067,26 @@
       "event_location": "Berlin, Germany"
     },
     {
+      "id": "a32b39d5fee7e4d9",
+      "cfp_title": "SQLDay 2027",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sqlday-2027",
+      "deadline": "2026-12-31",
+      "event_date": "2027-05-10",
+      "status": "draft",
+      "score": 0.336,
+      "priority": "low",
+      "created_at": "2026-09-28T13:11:06.477770+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 12.0)",
+      "is_online": false,
+      "event_location": "Wroc\u0142aw, Poland"
+    },
+    {
       "id": "c3dfda2422b24b71",
       "cfp_title": "Moldova DevCon",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -3058,7 +3078,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 23,
+      "applications": 24,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,

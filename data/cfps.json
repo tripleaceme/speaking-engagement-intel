@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-09-27T11:36:38.249101+00:00",
-    "total_cfps": 131,
-    "open_cfps": 62,
+    "last_crawled": "2026-09-28T13:11:05.369776+00:00",
+    "total_cfps": 132,
+    "open_cfps": 63,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-09-27T11:36:38.445726+00:00",
+    "last_scored": "2026-09-28T13:11:06.407353+00:00",
     "high_priority": 0,
     "medium_priority": 4,
-    "above_threshold": 47
+    "above_threshold": 48
   },
   "cfps": [
     {
@@ -9265,6 +9265,106 @@
         "urgency_score": 0.4,
         "format_score": 0.6,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "819351f5da220253",
+      "source": "callfordataspeakers",
+      "title": "SQLDay 2027",
+      "url": "https://sessionize.com/sqlday-2027",
+      "cfp_url": "https://sessionize.com/sqlday-2027",
+      "description": "SQLDay 2027: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. Since 2009, SQLDay has been a place for the data community to exchange practical knowledge, share real-world experience, and discuss the technologies and challenges shaping modern data platforms.",
+      "tags": [
+        "conference,precon",
+        "security",
+        "ai",
+        "education",
+        "europe",
+        "database",
+        "devops",
+        "open-source",
+        "web",
+        "leadership",
+        "testing",
+        "data",
+        "cloud"
+      ],
+      "deadline": "2026-12-31",
+      "event_date": "2027-05-10",
+      "location": "Wroc\u0142aw, Poland",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference,precon",
+      "discovered_at": "2026-09-28T13:11:04.607527+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "indexing strategies",
+        "and data modeling",
+        "performance tuning",
+        "query optimization",
+        "database internals"
+      ],
+      "submission_fields": [
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-09-28T13:11:06.313470+00:00",
+      "match_scores": {
+        "composite_score": 0.336,
+        "tag_relevance": 0.504,
+        "talk_match_score": 0.098,
+        "urgency_score": 0.2,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
