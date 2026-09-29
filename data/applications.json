@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_updated": "2026-09-28T13:11:06.480187+00:00",
-    "total_applications": 117,
+    "last_updated": "2026-09-29T12:19:18.131385+00:00",
+    "total_applications": 118,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
     "total_drafts": 48,
-    "total_expired": 69,
+    "total_expired": 70,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 69,
+      "expired": 70,
       "draft": 48
     },
     "unique_talk_titles": 8
@@ -5825,6 +5825,91 @@
       "notes": ""
     },
     {
+      "id": "7f81f01cf27da03c",
+      "cfp_id": "e94ef3ffb380788e",
+      "cfp_title": "Power BI Gebruikersdagen 2027",
+      "cfp_url": "https://sessionize.com/PBIG2027",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-10-17",
+      "event_date": "2027-03-04",
+      "event_location": "Utrecht, The Netherlands",
+      "is_online": false,
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+      "talk_tags": [
+        "education",
+        "data-literacy",
+        "community",
+        "diversity",
+        "edtech"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'education' (score: 7.0)",
+      "conference_themes": [
+        "education",
+        "web",
+        "open-source",
+        "leadership",
+        "ai",
+        "data"
+      ],
+      "conference_categories": [
+        "are welcome",
+        "across the entire power bi development spectrum",
+        "that resonate with the community's needs and interests",
+        "as long as there\u2019s a power bi component involved"
+      ],
+      "travel_sponsorship": "yes",
+      "speaker_perks": {
+        "travel": true,
+        "hotel": true,
+        "ticket": true,
+        "honorarium": true
+      },
+      "proposal": {
+        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "education",
+          "data-literacy",
+          "community",
+          "diversity",
+          "edtech"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.335,
+        "tag_relevance": 0.364,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.6,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "yes"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-09-29T12:19:18.129838+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 7.0)"
+        }
+      ],
+      "created_at": "2026-09-29T12:19:18.129843+00:00",
+      "updated_at": "2026-09-29T12:19:18.129844+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "6c09e9e9c2e9683f",
       "cfp_id": "a3f5bb0642a8175a",
       "cfp_title": "Data Saturday #93 - Brisbane 2027",
@@ -7633,16 +7718,21 @@
         "priority": "low",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-09-19T10:28:54.077675+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 0.5)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-09-29T12:19:18.131351+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-09-19T10:28:54.077680+00:00",
-      "updated_at": "2026-09-19T10:28:54.077682+00:00",
+      "updated_at": "2026-09-29T12:19:18.131355+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

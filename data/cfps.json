@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-09-28T13:11:05.369776+00:00",
-    "total_cfps": 132,
+    "last_crawled": "2026-09-29T12:19:17.236584+00:00",
+    "total_cfps": 133,
     "open_cfps": 63,
     "sources_checked": 9,
     "new_this_run": 1,
-    "expired_this_run": 0,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 1,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-09-28T13:11:06.407353+00:00",
+    "last_scored": "2026-09-29T12:19:18.087653+00:00",
     "high_priority": 0,
     "medium_priority": 4,
     "above_threshold": 48
@@ -9194,22 +9194,12 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-09-19T10:28:47.676781+00:00",
-      "status": "open",
+      "status": "expired",
       "submission_fields": [
         "topic"
       ],
       "enriched_at": "2026-09-19T10:28:53.922691+00:00",
-      "match_scores": {
-        "composite_score": 0.296,
-        "tag_relevance": 0.0,
-        "talk_match_score": 0.019,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": "Building dbt Packages That Solve Real Problems: From doc-tracker to anomaly-detector",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "8c53be53b11f31fc",
@@ -9368,6 +9358,90 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "e94ef3ffb380788e",
+      "source": "callfordataspeakers",
+      "title": "Power BI Gebruikersdagen 2027",
+      "url": "https://sessionize.com/PBIG2027",
+      "cfp_url": "https://sessionize.com/PBIG2027",
+      "description": "Call for speakers closes at 17th of October 2026! ",
+      "tags": [
+        "education",
+        "europe",
+        "open-source",
+        "web",
+        "conference",
+        "leadership",
+        "ai",
+        "data"
+      ],
+      "deadline": "2026-10-17",
+      "event_date": "2027-03-04",
+      "location": "Utrecht, The Netherlands",
+      "is_online": false,
+      "travel_sponsorship": "yes",
+      "event_type": "conference",
+      "discovered_at": "2026-09-29T12:19:16.419555+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "education",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "are welcome",
+        "across the entire power bi development spectrum",
+        "that resonate with the community's needs and interests",
+        "as long as there\u2019s a power bi component involved"
+      ],
+      "speaker_perks": {
+        "travel": true,
+        "hotel": true,
+        "ticket": true,
+        "honorarium": true
+      },
+      "submission_fields": [
+        "title",
+        "description",
+        "takeaway",
+        "key takeaways",
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-09-29T12:19:18.031253+00:00",
+      "match_scores": {
+        "composite_score": 0.335,
+        "tag_relevance": 0.364,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.6,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "yes"
       }
     }
   ]

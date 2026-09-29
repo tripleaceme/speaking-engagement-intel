@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-28T13:11:06.543919+00:00",
+  "generated_at": "2026-09-29T12:19:18.168839+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 132,
+    "total_cfps_discovered": 133,
     "open_cfps": 63,
-    "expired_cfps": 69,
-    "total_applications": 117,
+    "expired_cfps": 70,
+    "total_applications": 118,
     "drafts": 48,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 69,
+    "expired_apps": 70,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-09-28T13:11:05.369776+00:00",
+    "last_crawled": "2026-09-29T12:19:17.236584+00:00",
     "sources_checked": 9,
-    "travel_yes": 1,
+    "travel_yes": 2,
     "travel_partial": 4,
-    "travel_unknown": 58
+    "travel_unknown": 57
   },
   "timeline": [
     {
@@ -77,7 +77,7 @@
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 61
+      "count": 62
     },
     {
       "source": "confs.tech",
@@ -104,23 +104,23 @@
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 61
+      "count": 62
     },
     {
       "tag": "web",
-      "count": 56
+      "count": 57
     },
     {
       "tag": "open-source",
-      "count": 52
+      "count": 53
     },
     {
       "tag": "data",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "leadership",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "database",
@@ -132,14 +132,14 @@
     },
     {
       "tag": "education",
+      "count": 33
+    },
+    {
+      "tag": "conference",
       "count": 32
     },
     {
       "tag": "security",
-      "count": 31
-    },
-    {
-      "tag": "conference",
       "count": 31
     },
     {
@@ -167,15 +167,15 @@
       "count": 12
     },
     {
+      "tag": "europe",
+      "count": 11
+    },
+    {
       "tag": "blockchain",
       "count": 10
     },
     {
       "tag": "mobile",
-      "count": 10
-    },
-    {
-      "tag": "europe",
       "count": 10
     },
     {
@@ -191,16 +191,16 @@
       "count": 7
     },
     {
-      "tag": "online",
-      "count": 6
-    },
-    {
       "tag": "usergroup",
       "count": 6
     },
     {
       "tag": "speaker-management",
       "count": 6
+    },
+    {
+      "tag": "online",
+      "count": 5
     },
     {
       "tag": "events",
@@ -675,6 +675,31 @@
       "event_type": "conference,precon"
     },
     {
+      "id": "e94ef3ffb380788e",
+      "title": "Power BI Gebruikersdagen 2027",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/PBIG2027",
+      "deadline": "2026-10-17",
+      "event_date": "2027-03-04",
+      "location": "Utrecht, The Netherlands",
+      "is_online": false,
+      "tags": [
+        "education",
+        "europe",
+        "open-source",
+        "web",
+        "conference"
+      ],
+      "score": 0.335,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.364,
+      "talk_match": 0.059,
+      "urgency": 0.6,
+      "travel_sponsorship": "yes",
+      "event_type": "conference"
+    },
+    {
       "id": "a3f5bb0642a8175a",
       "title": "Data Saturday #93 - Brisbane 2027",
       "source": "callfordataspeakers",
@@ -698,31 +723,6 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
-    },
-    {
-      "id": "0fe3d15f3fc2db8f",
-      "title": "Sheffield (UK) Data Analytics User Group 2026-27",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sheffield-uk-data-analytics-user-group-26",
-      "deadline": "",
-      "event_date": "2026-10-07",
-      "location": "Sheffield, United Kingdom",
-      "is_online": false,
-      "tags": [
-        "ai",
-        "open-source",
-        "education",
-        "data",
-        "cloud"
-      ],
-      "score": 0.321,
-      "priority": "low",
-      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-      "tag_relevance": 0.518,
-      "talk_match": 0.082,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -2107,6 +2107,26 @@
       "event_location": "Chi\u0219in\u0103u, Moldova"
     },
     {
+      "id": "7f81f01cf27da03c",
+      "cfp_title": "Power BI Gebruikersdagen 2027",
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/PBIG2027",
+      "deadline": "2026-10-17",
+      "event_date": "2027-03-04",
+      "status": "draft",
+      "score": 0.335,
+      "priority": "low",
+      "created_at": "2026-09-29T12:19:18.129843+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'education' (score: 7.0)",
+      "is_online": false,
+      "event_location": "Utrecht, The Netherlands"
+    },
+    {
       "id": "6c09e9e9c2e9683f",
       "cfp_title": "Data Saturday #93 - Brisbane 2027",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2534,7 +2554,7 @@
       "cfp_url": "https://buildevcon.com/SpeakersApply",
       "deadline": "2026-09-28",
       "event_date": "2026-10-24",
-      "status": "draft",
+      "status": "expired",
       "score": 0.296,
       "priority": "low",
       "created_at": "2026-09-19T10:28:54.077680+00:00",
@@ -3094,7 +3114,7 @@
     },
     {
       "title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "applications": 8,
+      "applications": 9,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -3150,15 +3170,6 @@
     }
   ],
   "upcoming_deadlines": [
-    {
-      "title": "Vector in Databases",
-      "deadline": "2026-09-28",
-      "source": "confs.tech",
-      "score": 0.296,
-      "url": "https://buildevcon.com/SpeakersApply",
-      "travel_sponsorship": "unknown",
-      "location": "TBD, TBD"
-    },
     {
       "title": "The AI Conf",
       "deadline": "2026-09-30",
@@ -3230,6 +3241,15 @@
       "url": "https://datascience.novelticsconferences.com/register",
       "travel_sponsorship": "unknown",
       "location": "Rome, Italy"
+    },
+    {
+      "title": "Power BI Gebruikersdagen 2027",
+      "deadline": "2026-10-17",
+      "source": "callfordataspeakers",
+      "score": 0.335,
+      "url": "https://sessionize.com/PBIG2027",
+      "travel_sponsorship": "yes",
+      "location": "Utrecht, The Netherlands"
     },
     {
       "title": "Build It Summit",
