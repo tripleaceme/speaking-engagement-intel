@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-09-30T12:04:50.683843+00:00",
-    "total_cfps": 133,
-    "open_cfps": 63,
+    "last_crawled": "2026-10-01T12:38:20.057752+00:00",
+    "total_cfps": 134,
+    "open_cfps": 62,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 0,
+    "new_this_run": 1,
+    "expired_this_run": 2,
     "travel_sponsorship_yes": 2,
-    "travel_sponsorship_partial": 4,
-    "last_scored": "2026-09-30T12:04:50.797629+00:00",
+    "travel_sponsorship_partial": 3,
+    "last_scored": "2026-10-01T12:38:20.822953+00:00",
     "high_priority": 0,
     "medium_priority": 4,
-    "above_threshold": 48
+    "above_threshold": 47
   },
   "cfps": [
     {
@@ -229,10 +229,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:18.691680+00:00",
       "match_scores": {
-        "composite_score": 0.361,
+        "composite_score": 0.391,
         "tag_relevance": 0.331,
         "talk_match_score": 0.118,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -265,7 +265,7 @@
       "travel_sponsorship": "partial",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:45.455423+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -315,17 +315,7 @@
         "topic"
       ],
       "enriched_at": "2026-04-08T12:26:19.833410+00:00",
-      "match_scores": {
-        "composite_score": 0.394,
-        "tag_relevance": 0.335,
-        "talk_match_score": 0.089,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "partial"
-      }
+      "match_scores": null
     },
     {
       "id": "0a75fc53d01cae41",
@@ -2225,7 +2215,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
       "discovered_at": "2026-04-08T12:25:56.585731+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "web",
@@ -2253,17 +2243,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:35.156641+00:00",
-      "match_scores": {
-        "composite_score": 0.444,
-        "tag_relevance": 0.517,
-        "talk_match_score": 0.044,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "817753aaf9b0bac3",
@@ -9165,14 +9145,14 @@
       ],
       "enriched_at": "2026-09-19T10:28:53.635159+00:00",
       "match_scores": {
-        "composite_score": 0.393,
+        "composite_score": 0.423,
         "tag_relevance": 0.507,
         "talk_match_score": 0.118,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
-        "priority": "low",
+        "priority": "medium",
         "travel_sponsorship": "unknown"
       }
     },
@@ -9442,6 +9422,77 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "yes"
+      }
+    },
+    {
+      "id": "c07978bdc4863ac2",
+      "source": "callfordataspeakers",
+      "title": "Data Saturday Croatia 2027",
+      "url": "https://sessionize.com/data-saturday-croatia-2027",
+      "cfp_url": "https://sessionize.com/data-saturday-croatia-2027",
+      "description": "Data Saturday Croatia 2027: Call for Speakers @ Sessionize. com \r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n \r\n \r\n \r\n \r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    \r\n\r\n         \r\n\r\n     \r\n     \r\n     \r\n     \r\n     \r\n\r\n     \r\n\r\n     \r\n\r\n\r\n \r\n\r\n\r\n\r\n\r\n \r\n \r\n\r\n     \r\n\r\n    \r\n\r\n\r\n\r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     Sessionize. Organizers This event is organized by  Damir Mate\u0161i\u0107, MVP , Tomislav Hlupi\u0107 &  Dean Savovi\u0107  with the help of volunteers from the SQL Server User Group Croatia.",
+      "tags": [
+        "ai",
+        "conference, precon",
+        "data",
+        "database",
+        "europe",
+        "web"
+      ],
+      "deadline": "",
+      "event_date": "2027-06-12",
+      "location": "Zagreb, Croatia",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon",
+      "discovered_at": "2026-10-01T12:38:19.458240+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "related technical or non",
+        "bi & analytics",
+        "if any",
+        "performance tuning",
+        "any microsoft data platform",
+        "other sessions not",
+        "this session will cover",
+        "database development",
+        "what the audience will learn",
+        "technical subject with emphasis on ms sql server",
+        "and which"
+      ],
+      "submission_fields": [
+        "abstract",
+        "description",
+        "difficulty",
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-10-01T12:38:20.731851+00:00",
+      "match_scores": {
+        "composite_score": 0.254,
+        "tag_relevance": 0.34,
+        "talk_match_score": 0.067,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
       }
     }
   ]
