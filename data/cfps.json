@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-01T12:38:20.057752+00:00",
-    "total_cfps": 134,
+    "last_crawled": "2026-10-02T12:02:20.988125+00:00",
+    "total_cfps": 135,
     "open_cfps": 62,
     "sources_checked": 9,
     "new_this_run": 1,
-    "expired_this_run": 2,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-10-01T12:38:20.822953+00:00",
+    "last_scored": "2026-10-02T12:02:21.985524+00:00",
     "high_priority": 0,
-    "medium_priority": 4,
+    "medium_priority": 3,
     "above_threshold": 47
   },
   "cfps": [
@@ -1253,10 +1253,10 @@
       ],
       "enriched_at": "2026-04-08T12:26:51.916563+00:00",
       "match_scores": {
-        "composite_score": 0.363,
+        "composite_score": 0.393,
         "tag_relevance": 0.167,
         "talk_match_score": 0.082,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.8,
         "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
         "suggested_talk_level": "intermediate",
@@ -2307,10 +2307,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:36.049126+00:00",
       "match_scores": {
-        "composite_score": 0.348,
+        "composite_score": 0.378,
         "tag_relevance": 0.371,
         "talk_match_score": 0.06,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.7,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
@@ -9040,7 +9040,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-09-19T10:28:47.448005+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "leadership",
@@ -9088,17 +9088,7 @@
         "twitter"
       ],
       "enriched_at": "2026-09-19T10:28:52.424398+00:00",
-      "match_scores": {
-        "composite_score": 0.428,
-        "tag_relevance": 0.344,
-        "talk_match_score": 0.059,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "1fa1514088c24453",
@@ -9493,6 +9483,87 @@
         "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "d0cc2324e95fcdb3",
+      "source": "callfordataspeakers",
+      "title": "DataTune 2027",
+      "url": "https://sessionize.com/datatune-2027",
+      "cfp_url": "https://sessionize.com/datatune-2027",
+      "description": "DataTune is Tennessee's largest community-driven Data & AI conference, bringing together practitioners, leaders, builders, and learners from across the region and beyond. Friday full day, hands-on workshops, and Saturday community day with over 60 hour-long sessions.",
+      "tags": [
+        "ai",
+        "education",
+        "data",
+        "north america",
+        "web",
+        "conference, precon",
+        "open-source",
+        "blockchain",
+        "leadership"
+      ],
+      "deadline": "2026-11-16",
+      "event_date": "2027-03-12",
+      "location": "Nashville, Tennessee, United States",
+      "is_online": false,
+      "travel_sponsorship": "partial",
+      "event_type": "conference, precon",
+      "discovered_at": "2026-10-02T12:02:20.197139+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "strong ideas",
+        "not forcing everything into a predefined box"
+      ],
+      "speaker_perks": {
+        "ticket": true
+      },
+      "submission_fields": [
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-10-02T12:02:21.905681+00:00",
+      "match_scores": {
+        "composite_score": 0.333,
+        "tag_relevance": 0.337,
+        "talk_match_score": 0.118,
+        "urgency_score": 0.4,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "partial"
       }
     }
   ]

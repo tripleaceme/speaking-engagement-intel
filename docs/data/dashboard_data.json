@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-01T12:38:20.966491+00:00",
+  "generated_at": "2026-10-02T12:02:22.080051+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 134,
+    "total_cfps_discovered": 135,
     "open_cfps": 62,
-    "expired_cfps": 72,
-    "total_applications": 119,
+    "expired_cfps": 73,
+    "total_applications": 120,
     "drafts": 47,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 72,
+    "expired_apps": 73,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-01T12:38:20.057752+00:00",
+    "last_crawled": "2026-10-02T12:02:20.988125+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
-    "travel_partial": 3,
-    "travel_unknown": 57
+    "travel_partial": 4,
+    "travel_unknown": 56
   },
   "timeline": [
     {
@@ -71,7 +71,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 8
+      "draft": 7
     },
     {
       "month": "2026-10",
@@ -79,13 +79,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 1
+      "draft": 2
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 63
+      "count": 64
     },
     {
       "source": "confs.tech",
@@ -106,8 +106,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 4,
-    "low": 58
+    "medium": 3,
+    "low": 59
   },
   "tag_cloud": [
     {
@@ -152,7 +152,7 @@
     },
     {
       "tag": "devops",
-      "count": 27
+      "count": 26
     },
     {
       "tag": "call-for-papers",
@@ -175,12 +175,12 @@
       "count": 12
     },
     {
-      "tag": "europe",
+      "tag": "blockchain",
       "count": 11
     },
     {
-      "tag": "blockchain",
-      "count": 10
+      "tag": "europe",
+      "count": 11
     },
     {
       "tag": "mobile",
@@ -191,20 +191,16 @@
       "count": 9
     },
     {
+      "tag": "north america",
+      "count": 8
+    },
+    {
       "tag": "cloudflare-workers",
       "count": 8
     },
     {
-      "tag": "north america",
-      "count": 7
-    },
-    {
       "tag": "speaker-management",
       "count": 6
-    },
-    {
-      "tag": "online",
-      "count": 5
     },
     {
       "tag": "events",
@@ -217,6 +213,10 @@
     {
       "tag": "usergroup",
       "count": 5
+    },
+    {
+      "tag": "online",
+      "count": 4
     },
     {
       "tag": "mcp",
@@ -232,31 +232,6 @@
     }
   ],
   "top_matches": [
-    {
-      "id": "c696a723bfe50bae",
-      "title": "AI DevCon NYC",
-      "source": "confs.tech",
-      "url": "https://sessionize.com/ai-native-devcon-nyc-2026",
-      "deadline": "2026-10-01",
-      "event_date": "2026-11-02",
-      "location": "Brooklyn, NY, U.S.A.",
-      "is_online": true,
-      "tags": [
-        "ai",
-        "leadership",
-        "data",
-        "web",
-        "education"
-      ],
-      "score": 0.428,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.344,
-      "talk_match": 0.059,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
     {
       "id": "fe30703d4115d237",
       "title": "All Day AI",
@@ -333,6 +308,31 @@
       "event_type": "conference"
     },
     {
+      "id": "a6d3b93c921d5c72",
+      "title": "NextGen Intelligence Conference: Data, Cloud & AI",
+      "source": "confs.tech",
+      "url": "https://techaiconf.com/register-interest",
+      "deadline": "2026-10-09",
+      "event_date": "2026-11-16",
+      "location": "London, U.K.",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "general",
+        "testing",
+        "leadership",
+        "ai"
+      ],
+      "score": 0.393,
+      "priority": "low",
+      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+      "tag_relevance": 0.167,
+      "talk_match": 0.082,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "2353c784b684765d",
       "title": "Global Summit on Data Science and Cloud Computing",
       "source": "confs.tech",
@@ -383,29 +383,29 @@
       "event_type": "precon"
     },
     {
-      "id": "a6d3b93c921d5c72",
-      "title": "NextGen Intelligence Conference: Data, Cloud & AI",
-      "source": "confs.tech",
-      "url": "https://techaiconf.com/register-interest",
-      "deadline": "2026-10-09",
-      "event_date": "2026-11-16",
-      "location": "London, U.K.",
+      "id": "817753aaf9b0bac3",
+      "title": "Microsoft Fabric Cafe 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
+      "deadline": "2026-11-01",
+      "event_date": "2026-01-02",
+      "location": "Virtual - InPerson",
       "is_online": true,
       "tags": [
-        "cloud",
-        "general",
-        "testing",
-        "leadership",
-        "ai"
+        "education",
+        "ai",
+        "open-source",
+        "usergroup",
+        "web"
       ],
-      "score": 0.363,
+      "score": 0.378,
       "priority": "low",
-      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-      "tag_relevance": 0.167,
-      "talk_match": 0.082,
-      "urgency": 0.8,
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.371,
+      "talk_match": 0.06,
+      "urgency": 0.6,
       "travel_sponsorship": "unknown",
-      "event_type": "conference"
+      "event_type": "usergroup"
     },
     {
       "id": "f5236e3008d6c44b",
@@ -481,31 +481,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "yes",
       "event_type": "conference"
-    },
-    {
-      "id": "817753aaf9b0bac3",
-      "title": "Microsoft Fabric Cafe 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
-      "deadline": "2026-11-01",
-      "event_date": "2026-01-02",
-      "location": "Virtual - InPerson",
-      "is_online": true,
-      "tags": [
-        "education",
-        "ai",
-        "open-source",
-        "usergroup",
-        "web"
-      ],
-      "score": 0.348,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.371,
-      "talk_match": 0.06,
-      "urgency": 0.4,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     },
     {
       "id": "5db72494993e6bc8",
@@ -681,6 +656,31 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
+    },
+    {
+      "id": "d0cc2324e95fcdb3",
+      "title": "DataTune 2027",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/datatune-2027",
+      "deadline": "2026-11-16",
+      "event_date": "2027-03-12",
+      "location": "Nashville, Tennessee, United States",
+      "is_online": false,
+      "tags": [
+        "ai",
+        "education",
+        "data",
+        "north america",
+        "web"
+      ],
+      "score": 0.333,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.337,
+      "talk_match": 0.118,
+      "urgency": 0.4,
+      "travel_sponsorship": "partial",
+      "event_type": "conference, precon"
     },
     {
       "id": "0fe3d15f3fc2db8f",
@@ -1062,7 +1062,7 @@
       "cfp_url": "https://sessionize.com/ai-native-devcon-nyc-2026",
       "deadline": "2026-10-01",
       "event_date": "2026-11-02",
-      "status": "draft",
+      "status": "expired",
       "score": 0.428,
       "priority": "medium",
       "created_at": "2026-09-19T10:28:54.077490+00:00",
@@ -1515,6 +1515,26 @@
       "event_location": "Barcelona, Spain"
     },
     {
+      "id": "bc7d3eeb13b31ac2",
+      "cfp_title": "NextGen Intelligence Conference: Data, Cloud & AI",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://techaiconf.com/register-interest",
+      "deadline": "2026-10-09",
+      "event_date": "2026-11-16",
+      "status": "draft",
+      "score": 0.393,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.662662+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'cloud' (score: 4.5)",
+      "is_online": true,
+      "event_location": "London, U.K."
+    },
+    {
       "id": "c0c1558fe3d0831e",
       "cfp_title": "FABRIC WINTERFEST 2026",
       "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
@@ -1615,6 +1635,26 @@
       "event_location": "Atlanta, Georgia, United States"
     },
     {
+      "id": "14f24ec0a257b5c7",
+      "cfp_title": "Microsoft Fabric Cafe 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/microsoft-fabric-cafe-2026",
+      "deadline": "2026-11-01",
+      "event_date": "2026-01-02",
+      "status": "draft",
+      "score": 0.378,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.663727+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 13.7)",
+      "is_online": true,
+      "event_location": "Virtual - InPerson"
+    },
+    {
       "id": "ca1b621fe07c376e",
       "cfp_title": "XtremePython Online Conference",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1713,26 +1753,6 @@
       "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
       "is_online": false,
       "event_location": "Amsterdam, Netherlands"
-    },
-    {
-      "id": "bc7d3eeb13b31ac2",
-      "cfp_title": "NextGen Intelligence Conference: Data, Cloud & AI",
-      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://techaiconf.com/register-interest",
-      "deadline": "2026-10-09",
-      "event_date": "2026-11-16",
-      "status": "draft",
-      "score": 0.363,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.662662+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'cloud' (score: 4.5)",
-      "is_online": true,
-      "event_location": "London, U.K."
     },
     {
       "id": "ff2bca83f7780b86",
@@ -1873,26 +1893,6 @@
       "match_reason": "Conference themes align with 'database' (score: 6.5)",
       "is_online": false,
       "event_location": "Atlanta, Georgia, United States"
-    },
-    {
-      "id": "14f24ec0a257b5c7",
-      "cfp_title": "Microsoft Fabric Cafe 2026",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/microsoft-fabric-cafe-2026",
-      "deadline": "2026-11-01",
-      "event_date": "2026-01-02",
-      "status": "draft",
-      "score": 0.348,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.663727+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 13.7)",
-      "is_online": true,
-      "event_location": "Virtual - InPerson"
     },
     {
       "id": "0f442c5b441fc24a",
@@ -2153,6 +2153,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 5.0)",
       "is_online": false,
       "event_location": "Brisbane, Australia"
+    },
+    {
+      "id": "61fca5fd04659881",
+      "cfp_title": "DataTune 2027",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/datatune-2027",
+      "deadline": "2026-11-16",
+      "event_date": "2027-03-12",
+      "status": "draft",
+      "score": 0.333,
+      "priority": "low",
+      "created_at": "2026-10-02T12:02:22.034931+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'data' (score: 6.7)",
+      "is_online": false,
+      "event_location": "Nashville, Tennessee, United States"
     },
     {
       "id": "9cbedab72f22fb65",
@@ -3126,7 +3146,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 24,
+      "applications": 25,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -3199,15 +3219,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "AI DevCon NYC",
-      "deadline": "2026-10-01",
-      "source": "confs.tech",
-      "score": 0.428,
-      "url": "https://sessionize.com/ai-native-devcon-nyc-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Brooklyn, NY, U.S.A."
-    },
-    {
       "title": "SQL Konferenz 2027",
       "deadline": "2026-10-04",
       "source": "callfordataspeakers",
@@ -3229,7 +3240,7 @@
       "title": "NextGen Intelligence Conference: Data, Cloud & AI",
       "deadline": "2026-10-09",
       "source": "confs.tech",
-      "score": 0.363,
+      "score": 0.393,
       "url": "https://techaiconf.com/register-interest",
       "travel_sponsorship": "unknown",
       "location": "London, U.K."
@@ -3274,7 +3285,7 @@
       "title": "Microsoft Fabric Cafe 2026",
       "deadline": "2026-11-01",
       "source": "callfordataspeakers",
-      "score": 0.348,
+      "score": 0.378,
       "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
       "travel_sponsorship": "unknown",
       "location": "Virtual - InPerson"
@@ -3287,6 +3298,15 @@
       "url": "https://sessionize.com/data-pulse-2026",
       "travel_sponsorship": "unknown",
       "location": "Reading, United Kingdom"
+    },
+    {
+      "title": "Fabric & Power BI Wales User Group",
+      "deadline": "2026-11-14",
+      "source": "callfordataspeakers",
+      "score": 0.28,
+      "url": "https://sessionize.com/fabricpowerbiwales",
+      "travel_sponsorship": "unknown",
+      "location": "Online"
     }
   ]
 }
