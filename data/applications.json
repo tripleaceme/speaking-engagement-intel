@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-02T12:02:22.036924+00:00",
+    "last_updated": "2026-10-03T11:14:58.484150+00:00",
     "total_applications": 120,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -366,6 +366,92 @@
       ],
       "created_at": "2026-04-08T12:28:22.661281+00:00",
       "updated_at": "2026-05-01T08:14:13.862611+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "78b88f4944c3dbc8",
+      "cfp_id": "fe30703d4115d237",
+      "cfp_title": "All Day AI",
+      "cfp_url": "https://www.alldayai.com/#speak",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-10-10",
+      "event_date": "2026-10-22",
+      "event_location": "TBD, TBD",
+      "is_online": true,
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "talk_abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
+      "talk_tags": [
+        "cloud",
+        "snowflake",
+        "bigquery",
+        "dbt",
+        "airflow",
+        "cost-optimization"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
+      "conference_themes": [
+        "cloud",
+        "security",
+        "ai",
+        "web",
+        "open-source",
+        "leadership"
+      ],
+      "conference_categories": [
+        "minute implementation lessons",
+        "with no vendor pitches",
+        "and 30",
+        "minute practitioner sessions",
+        "share practical 30",
+        "120 sessions",
+        "build",
+        "speakers"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+        "abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "cloud",
+          "snowflake",
+          "bigquery",
+          "dbt",
+          "airflow",
+          "cost-optimization"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.456,
+        "tag_relevance": 0.333,
+        "talk_match_score": 0.098,
+        "urgency_score": 1.0,
+        "format_score": 0.8,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-09-19T10:28:54.077281+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'cloud' (score: 6.0)"
+        }
+      ],
+      "created_at": "2026-09-19T10:28:54.077291+00:00",
+      "updated_at": "2026-09-19T10:28:54.077296+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -1488,92 +1574,6 @@
       ],
       "created_at": "2026-09-19T10:28:54.077490+00:00",
       "updated_at": "2026-10-02T12:02:22.036785+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "78b88f4944c3dbc8",
-      "cfp_id": "fe30703d4115d237",
-      "cfp_title": "All Day AI",
-      "cfp_url": "https://www.alldayai.com/#speak",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-10-10",
-      "event_date": "2026-10-22",
-      "event_location": "TBD, TBD",
-      "is_online": true,
-      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "talk_abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
-      "talk_tags": [
-        "cloud",
-        "snowflake",
-        "bigquery",
-        "dbt",
-        "airflow",
-        "cost-optimization"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
-      "conference_themes": [
-        "cloud",
-        "security",
-        "ai",
-        "web",
-        "open-source",
-        "leadership"
-      ],
-      "conference_categories": [
-        "minute implementation lessons",
-        "with no vendor pitches",
-        "and 30",
-        "minute practitioner sessions",
-        "share practical 30",
-        "120 sessions",
-        "build",
-        "speakers"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-        "abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "cloud",
-          "snowflake",
-          "bigquery",
-          "dbt",
-          "airflow",
-          "cost-optimization"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.426,
-        "tag_relevance": 0.333,
-        "talk_match_score": 0.098,
-        "urgency_score": 0.8,
-        "format_score": 0.8,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-09-19T10:28:54.077281+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'cloud' (score: 6.0)"
-        }
-      ],
-      "created_at": "2026-09-19T10:28:54.077291+00:00",
-      "updated_at": "2026-09-19T10:28:54.077296+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -4277,6 +4277,91 @@
       "notes": ""
     },
     {
+      "id": "7f81f01cf27da03c",
+      "cfp_id": "e94ef3ffb380788e",
+      "cfp_title": "Power BI Gebruikersdagen 2027",
+      "cfp_url": "https://sessionize.com/PBIG2027",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-10-17",
+      "event_date": "2027-03-04",
+      "event_location": "Utrecht, The Netherlands",
+      "is_online": false,
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+      "talk_tags": [
+        "education",
+        "data-literacy",
+        "community",
+        "diversity",
+        "edtech"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'education' (score: 7.0)",
+      "conference_themes": [
+        "education",
+        "web",
+        "open-source",
+        "leadership",
+        "ai",
+        "data"
+      ],
+      "conference_categories": [
+        "are welcome",
+        "across the entire power bi development spectrum",
+        "that resonate with the community's needs and interests",
+        "as long as there\u2019s a power bi component involved"
+      ],
+      "travel_sponsorship": "yes",
+      "speaker_perks": {
+        "travel": true,
+        "hotel": true,
+        "ticket": true,
+        "honorarium": true
+      },
+      "proposal": {
+        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "education",
+          "data-literacy",
+          "community",
+          "diversity",
+          "edtech"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.365,
+        "tag_relevance": 0.364,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.8,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "yes"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-09-29T12:19:18.129838+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 7.0)"
+        }
+      ],
+      "created_at": "2026-09-29T12:19:18.129843+00:00",
+      "updated_at": "2026-09-29T12:19:18.129844+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "922be52c18c6e9a0",
       "cfp_id": "dfef6664af81dc72",
       "cfp_title": "TechSummit Amsterdam",
@@ -5835,91 +5920,6 @@
       ],
       "created_at": "2026-08-07T07:17:36.345658+00:00",
       "updated_at": "2026-09-01T11:15:45.836344+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "7f81f01cf27da03c",
-      "cfp_id": "e94ef3ffb380788e",
-      "cfp_title": "Power BI Gebruikersdagen 2027",
-      "cfp_url": "https://sessionize.com/PBIG2027",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-10-17",
-      "event_date": "2027-03-04",
-      "event_location": "Utrecht, The Netherlands",
-      "is_online": false,
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
-      "talk_tags": [
-        "education",
-        "data-literacy",
-        "community",
-        "diversity",
-        "edtech"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'education' (score: 7.0)",
-      "conference_themes": [
-        "education",
-        "web",
-        "open-source",
-        "leadership",
-        "ai",
-        "data"
-      ],
-      "conference_categories": [
-        "are welcome",
-        "across the entire power bi development spectrum",
-        "that resonate with the community's needs and interests",
-        "as long as there\u2019s a power bi component involved"
-      ],
-      "travel_sponsorship": "yes",
-      "speaker_perks": {
-        "travel": true,
-        "hotel": true,
-        "ticket": true,
-        "honorarium": true
-      },
-      "proposal": {
-        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "education",
-          "data-literacy",
-          "community",
-          "diversity",
-          "edtech"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.335,
-        "tag_relevance": 0.364,
-        "talk_match_score": 0.059,
-        "urgency_score": 0.6,
-        "format_score": 0.5,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "yes"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-09-29T12:19:18.129838+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 7.0)"
-        }
-      ],
-      "created_at": "2026-09-29T12:19:18.129843+00:00",
-      "updated_at": "2026-09-29T12:19:18.129844+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
