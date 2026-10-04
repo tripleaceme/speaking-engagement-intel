@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-03T11:14:58.546038+00:00",
+  "generated_at": "2026-10-04T11:54:51.438142+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 135,
-    "open_cfps": 62,
+    "total_cfps_discovered": 136,
+    "open_cfps": 63,
     "expired_cfps": 73,
-    "total_applications": 120,
-    "drafts": 47,
+    "total_applications": 121,
+    "drafts": 48,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 73,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-03T11:14:58.208844+00:00",
+    "last_crawled": "2026-10-04T11:54:50.274979+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 4,
-    "travel_unknown": 56
+    "travel_unknown": 57
   },
   "timeline": [
     {
@@ -79,13 +79,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 2
+      "draft": 3
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 64
+      "count": 65
     },
     {
       "source": "confs.tech",
@@ -107,24 +107,24 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 3,
-    "low": 59
+    "low": 60
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 61
+      "count": 62
     },
     {
       "tag": "web",
-      "count": 56
+      "count": 57
     },
     {
       "tag": "open-source",
-      "count": 52
+      "count": 53
     },
     {
       "tag": "data",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "leadership",
@@ -132,19 +132,19 @@
     },
     {
       "tag": "database",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "cloud",
-      "count": 35
+      "count": 36
+    },
+    {
+      "tag": "education",
+      "count": 32
     },
     {
       "tag": "conference",
       "count": 32
-    },
-    {
-      "tag": "education",
-      "count": 31
     },
     {
       "tag": "security",
@@ -168,11 +168,11 @@
     },
     {
       "tag": "in-person",
-      "count": 12
+      "count": 13
     },
     {
       "tag": "external",
-      "count": 12
+      "count": 13
     },
     {
       "tag": "blockchain",
@@ -2815,6 +2815,26 @@
       "event_location": "Reynolds Community College, 1651 E Parham Rd, Richmond, VA 23228,"
     },
     {
+      "id": "1906348b615838e9",
+      "cfp_title": "Day of Data Richmond 2027",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/dayofdata-rva-2027",
+      "deadline": "",
+      "event_date": "2027-03-20",
+      "status": "draft",
+      "score": 0.265,
+      "priority": "low",
+      "created_at": "2026-10-04T11:54:51.372423+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 11.0)",
+      "is_online": false,
+      "event_location": "Reynolds Community College, 1651 E Parham Rd, Richmond, VA 23228,"
+    },
+    {
       "id": "543adc293b313f97",
       "cfp_title": "SQL Saturday Toronto 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -3154,7 +3174,7 @@
     },
     {
       "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "applications": 19,
+      "applications": 20,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,

@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-03T11:14:58.208844+00:00",
-    "total_cfps": 135,
-    "open_cfps": 62,
+    "last_crawled": "2026-10-04T11:54:50.274979+00:00",
+    "total_cfps": 136,
+    "open_cfps": 63,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-10-03T11:14:58.410885+00:00",
+    "last_scored": "2026-10-04T11:54:51.302529+00:00",
     "high_priority": 0,
     "medium_priority": 3,
-    "above_threshold": 47
+    "above_threshold": 48
   },
   "cfps": [
     {
@@ -9564,6 +9564,83 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "partial"
+      }
+    },
+    {
+      "id": "4c04ababbcf09eaf",
+      "source": "callfordataspeakers",
+      "title": "Day of Data Richmond 2027",
+      "url": "https://sessionize.com/dayofdata-rva-2027",
+      "cfp_url": "https://sessionize.com/dayofdata-rva-2027",
+      "description": "Data external \u2014 Reynolds Community College, 1651 E Parham Rd, Richmond, VA 23228,",
+      "tags": [
+        "in-person",
+        "external",
+        "open-source",
+        "cloud",
+        "database",
+        "education",
+        "web",
+        "ai",
+        "data"
+      ],
+      "deadline": "",
+      "event_date": "2027-03-20",
+      "location": "Reynolds Community College, 1651 E Parham Rd, Richmond, VA 23228,",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "external",
+      "discovered_at": "2026-10-04T11:54:49.525605+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "database",
+          "confidence": 1.0
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "data",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "include all databases and related data platforms (eg",
+        "requested:"
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-10-04T11:54:51.211249+00:00",
+      "match_scores": {
+        "composite_score": 0.265,
+        "tag_relevance": 0.361,
+        "talk_match_score": 0.078,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
       }
     }
   ]
