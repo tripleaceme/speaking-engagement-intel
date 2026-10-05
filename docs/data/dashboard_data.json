@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-04T11:54:51.438142+00:00",
+  "generated_at": "2026-10-05T13:53:24.356881+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 136,
+    "total_cfps_discovered": 138,
     "open_cfps": 63,
-    "expired_cfps": 73,
-    "total_applications": 121,
-    "drafts": 48,
+    "expired_cfps": 75,
+    "total_applications": 122,
+    "drafts": 47,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 73,
+    "expired_apps": 75,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-04T11:54:50.274979+00:00",
+    "last_crawled": "2026-10-05T13:53:22.854159+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
-    "travel_partial": 4,
-    "travel_unknown": 57
+    "travel_partial": 3,
+    "travel_unknown": 58
   },
   "timeline": [
     {
@@ -39,7 +39,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 2
+      "draft": 1
     },
     {
       "month": "2026-06",
@@ -63,7 +63,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 13
+      "draft": 12
     },
     {
       "month": "2026-09",
@@ -79,13 +79,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 3
+      "draft": 4
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 65
+      "count": 67
     },
     {
       "source": "confs.tech",
@@ -106,8 +106,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 3,
-    "low": 60
+    "medium": 2,
+    "low": 61
   },
   "tag_cloud": [
     {
@@ -116,11 +116,11 @@
     },
     {
       "tag": "web",
-      "count": 57
+      "count": 56
     },
     {
       "tag": "open-source",
-      "count": 53
+      "count": 52
     },
     {
       "tag": "data",
@@ -128,26 +128,26 @@
     },
     {
       "tag": "leadership",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "database",
-      "count": 40
+      "count": 39
     },
     {
       "tag": "cloud",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "education",
-      "count": 32
-    },
-    {
-      "tag": "conference",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "security",
+      "count": 31
+    },
+    {
+      "tag": "conference",
       "count": 31
     },
     {
@@ -179,10 +179,6 @@
       "count": 11
     },
     {
-      "tag": "europe",
-      "count": 11
-    },
-    {
       "tag": "mobile",
       "count": 10
     },
@@ -192,11 +188,19 @@
     },
     {
       "tag": "north america",
-      "count": 8
+      "count": 9
+    },
+    {
+      "tag": "europe",
+      "count": 9
     },
     {
       "tag": "cloudflare-workers",
       "count": 8
+    },
+    {
+      "tag": "usergroup",
+      "count": 6
     },
     {
       "tag": "speaker-management",
@@ -208,10 +212,6 @@
     },
     {
       "tag": "python",
-      "count": 5
-    },
-    {
-      "tag": "usergroup",
       "count": 5
     },
     {
@@ -280,31 +280,6 @@
       "talk_match": 0.118,
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "a679ad1fe516f16c",
-      "title": "SQL Konferenz 2027",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sql-konferenz-2027",
-      "deadline": "2026-10-04",
-      "event_date": "2027-02-22",
-      "location": "Hanau am Main, Germany",
-      "is_online": false,
-      "tags": [
-        "conference",
-        "database",
-        "ai",
-        "open-source",
-        "web"
-      ],
-      "score": 0.409,
-      "priority": "medium",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.358,
-      "talk_match": 0.044,
-      "urgency": 1.0,
-      "travel_sponsorship": "partial",
       "event_type": "conference"
     },
     {
@@ -558,31 +533,6 @@
       "event_type": "conference"
     },
     {
-      "id": "0d94c8eca7d2ef0a",
-      "title": "Data Community Day Austria 2027",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/data-community-day-austria-2027",
-      "deadline": "2026-10-04",
-      "event_date": "2027-01-18",
-      "location": "Vienna, Austria",
-      "is_online": false,
-      "tags": [
-        "data",
-        "database",
-        "open-source",
-        "web",
-        "europe"
-      ],
-      "score": 0.34,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.173,
-      "talk_match": 0.098,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "699a153020787f6e",
       "title": "4th International Conference on Machine Learning, Artificial Intelligence & Data Science ",
       "source": "callfordataspeakers",
@@ -731,6 +681,56 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "78de4fe463d4aa28",
+      "title": "SQL Saturday Wellington 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sql-saturday-wellington-2026",
+      "deadline": "",
+      "event_date": "2026-05-30",
+      "location": "3 Wi Neera Dr,, Elsdon, Porirua 5022, New Zealand,",
+      "is_online": false,
+      "tags": [
+        "database",
+        "cloud",
+        "education",
+        "security",
+        "in-person"
+      ],
+      "score": 0.318,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.53,
+      "talk_match": 0.059,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": "external"
+    },
+    {
+      "id": "bdd596c3571bc69d",
+      "title": "Data of Day Winnipeg 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/day-of-data-winnipeg-2026",
+      "deadline": "",
+      "event_date": "2026-09-19",
+      "location": "University of Manitoba,, Engineering and Information Technology Complex, 75 Chancellors Circle, Winnipeg MB,",
+      "is_online": false,
+      "tags": [
+        "in-person",
+        "cloud",
+        "external",
+        "education",
+        "security"
+      ],
+      "score": 0.317,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.528,
+      "talk_match": 0.059,
+      "urgency": 0.1,
+      "travel_sponsorship": "partial",
+      "event_type": "external"
     }
   ],
   "applications": [
@@ -1382,7 +1382,7 @@
       "cfp_url": "https://sessionize.com/sql-konferenz-2027",
       "deadline": "2026-10-04",
       "event_date": "2027-02-22",
-      "status": "draft",
+      "status": "expired",
       "score": 0.409,
       "priority": "medium",
       "created_at": "2026-05-21T09:44:48.566831+00:00",
@@ -2022,7 +2022,7 @@
       "cfp_url": "https://sessionize.com/data-community-day-austria-2027",
       "deadline": "2026-10-04",
       "event_date": "2027-01-18",
-      "status": "draft",
+      "status": "expired",
       "score": 0.34,
       "priority": "low",
       "created_at": "2026-08-05T08:37:30.439267+00:00",
@@ -2573,6 +2573,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 8.0)",
       "is_online": true,
       "event_location": ""
+    },
+    {
+      "id": "f79b46e35ac824e1",
+      "cfp_title": "DATA BASH '26",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-bash-26",
+      "deadline": "",
+      "event_date": "2026-12-05",
+      "status": "draft",
+      "score": 0.298,
+      "priority": "low",
+      "created_at": "2026-10-05T13:53:24.286485+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 10.8)",
+      "is_online": true,
+      "event_location": "online"
     },
     {
       "id": "942628ecd41a1cda",
@@ -3166,7 +3186,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 25,
+      "applications": 26,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -3239,24 +3259,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "SQL Konferenz 2027",
-      "deadline": "2026-10-04",
-      "source": "callfordataspeakers",
-      "score": 0.409,
-      "url": "https://sessionize.com/sql-konferenz-2027",
-      "travel_sponsorship": "partial",
-      "location": "Hanau am Main, Germany"
-    },
-    {
-      "title": "Data Community Day Austria 2027",
-      "deadline": "2026-10-04",
-      "source": "callfordataspeakers",
-      "score": 0.34,
-      "url": "https://sessionize.com/data-community-day-austria-2027",
-      "travel_sponsorship": "unknown",
-      "location": "Vienna, Austria"
-    },
-    {
       "title": "NextGen Intelligence Conference: Data, Cloud & AI",
       "deadline": "2026-10-09",
       "source": "confs.tech",
@@ -3327,6 +3329,24 @@
       "url": "https://sessionize.com/fabricpowerbiwales",
       "travel_sponsorship": "unknown",
       "location": "Online"
+    },
+    {
+      "title": "DataTune 2027",
+      "deadline": "2026-11-16",
+      "source": "callfordataspeakers",
+      "score": 0.333,
+      "url": "https://sessionize.com/datatune-2027",
+      "travel_sponsorship": "partial",
+      "location": "Nashville, Tennessee, United States"
+    },
+    {
+      "title": "San Diego SQL Server User Group",
+      "deadline": "2026-11-20",
+      "source": "callfordataspeakers",
+      "score": 0.361,
+      "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
+      "travel_sponsorship": "unknown",
+      "location": "Virtual"
     }
   ]
 }

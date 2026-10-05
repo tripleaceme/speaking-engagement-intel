@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-04T11:54:50.274979+00:00",
-    "total_cfps": 136,
+    "last_crawled": "2026-10-05T13:53:22.854159+00:00",
+    "total_cfps": 138,
     "open_cfps": 63,
     "sources_checked": 9,
-    "new_this_run": 1,
-    "expired_this_run": 0,
+    "new_this_run": 2,
+    "expired_this_run": 2,
     "travel_sponsorship_yes": 2,
-    "travel_sponsorship_partial": 4,
-    "last_scored": "2026-10-04T11:54:51.302529+00:00",
+    "travel_sponsorship_partial": 3,
+    "last_scored": "2026-10-05T13:53:24.216066+00:00",
     "high_priority": 0,
-    "medium_priority": 3,
-    "above_threshold": 48
+    "medium_priority": 2,
+    "above_threshold": 47
   },
   "cfps": [
     {
@@ -5139,7 +5139,7 @@
       "travel_sponsorship": "partial",
       "event_type": "conference",
       "discovered_at": "2026-05-21T09:44:43.527072+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -5165,17 +5165,7 @@
         "twitter"
       ],
       "enriched_at": "2026-05-21T09:44:48.432606+00:00",
-      "match_scores": {
-        "composite_score": 0.409,
-        "tag_relevance": 0.358,
-        "talk_match_score": 0.044,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "medium",
-        "travel_sponsorship": "partial"
-      }
+      "match_scores": null
     },
     {
       "id": "b22c08733d338a2e",
@@ -5598,7 +5588,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-05-30T08:29:51.824230+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -5624,17 +5614,7 @@
         "twitter"
       ],
       "enriched_at": "2026-05-30T08:29:56.994611+00:00",
-      "match_scores": {
-        "composite_score": 0.34,
-        "tag_relevance": 0.173,
-        "talk_match_score": 0.098,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "03a19de23ecd84b3",
@@ -9639,6 +9619,133 @@
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "a141c13eeb46c009",
+      "source": "callfordataspeakers",
+      "title": "Pittsburgh Data UGs",
+      "url": "https://sessionize.com/pittsburgh-data-ugs-2027",
+      "cfp_url": "https://sessionize.com/pittsburgh-data-ugs-2027",
+      "description": "Data usergroup \u2014 162 East Bridge St, Homestead, PA 15120",
+      "tags": [
+        "north america",
+        "usergroup",
+        "data",
+        "ai"
+      ],
+      "deadline": "2027-01-01",
+      "event_date": "2026-11-05",
+      "location": "162 East Bridge St, Homestead, PA 15120",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup",
+      "discovered_at": "2026-10-05T13:53:22.290412+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "twitter"
+      ],
+      "enriched_at": "2026-10-05T13:53:23.589177+00:00",
+      "match_scores": {
+        "composite_score": 0.244,
+        "tag_relevance": 0.193,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.2,
+        "format_score": 0.7,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "c95850a5fb164f7e",
+      "source": "callfordataspeakers",
+      "title": "DATA BASH '26",
+      "url": "https://sessionize.com/data-bash-26",
+      "cfp_url": "https://sessionize.com/data-bash-26",
+      "description": "Speak against cancer: This event will donate any surplus to the international cancer research foundation",
+      "tags": [
+        "conference",
+        "cloud",
+        "database",
+        "web",
+        "education",
+        "open-source",
+        "data",
+        "leadership",
+        "ai"
+      ],
+      "deadline": "",
+      "event_date": "2026-12-05",
+      "location": "online",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-10-05T13:53:22.290537+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "equity",
+        "all session levels are accepted (from beginner to expert)",
+        "like data lakehouses",
+        "data virtualization and large language models"
+      ],
+      "submission_fields": [
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-10-05T13:53:24.123069+00:00",
+      "match_scores": {
+        "composite_score": 0.298,
+        "tag_relevance": 0.352,
+        "talk_match_score": 0.067,
+        "urgency_score": 0.1,
+        "format_score": 0.7,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }

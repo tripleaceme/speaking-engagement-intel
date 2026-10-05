@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-10-04T11:54:51.374945+00:00",
-    "total_applications": 121,
+    "last_updated": "2026-10-05T13:53:24.289218+00:00",
+    "total_applications": 122,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 48,
-    "total_expired": 73,
+    "total_drafts": 47,
+    "total_expired": 75,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 73,
-      "draft": 48
+      "expired": 75,
+      "draft": 47
     },
     "unique_talk_titles": 8
   },
@@ -2867,16 +2867,21 @@
         "priority": "medium",
         "travel_sponsorship": "partial"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-05-21T09:44:48.566829+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 4.8)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-10-05T13:53:24.288999+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-05-21T09:44:48.566831+00:00",
-      "updated_at": "2026-05-21T09:44:48.566833+00:00",
+      "updated_at": "2026-10-05T13:53:24.289006+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -5499,16 +5504,21 @@
         "priority": "low",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-08-05T08:37:30.439260+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'database' (score: 4.3)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-10-05T13:53:24.289127+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-08-05T08:37:30.439267+00:00",
-      "updated_at": "2026-08-05T08:37:30.439269+00:00",
+      "updated_at": "2026-10-05T13:53:24.289133+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -7754,6 +7764,88 @@
       ],
       "created_at": "2026-06-28T08:54:42.391405+00:00",
       "updated_at": "2026-06-28T08:54:42.391408+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "f79b46e35ac824e1",
+      "cfp_id": "c95850a5fb164f7e",
+      "cfp_title": "DATA BASH '26",
+      "cfp_url": "https://sessionize.com/data-bash-26",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "",
+      "event_date": "2026-12-05",
+      "event_location": "online",
+      "is_online": true,
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+      "talk_tags": [
+        "dbt",
+        "data-quality",
+        "documentation",
+        "analytics-engineering",
+        "ai"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'data' (score: 10.8)",
+      "conference_themes": [
+        "leadership",
+        "ai",
+        "data",
+        "open-source",
+        "education",
+        "cloud",
+        "web",
+        "database"
+      ],
+      "conference_categories": [
+        "equity",
+        "all session levels are accepted (from beginner to expert)",
+        "like data lakehouses",
+        "data virtualization and large language models"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "dbt",
+          "data-quality",
+          "documentation",
+          "analytics-engineering",
+          "ai"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.298,
+        "tag_relevance": 0.352,
+        "talk_match_score": 0.067,
+        "urgency_score": 0.1,
+        "format_score": 0.7,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-10-05T13:53:24.286471+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 10.8)"
+        }
+      ],
+      "created_at": "2026-10-05T13:53:24.286485+00:00",
+      "updated_at": "2026-10-05T13:53:24.286488+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
