@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-06T12:55:58.146181+00:00",
+    "last_updated": "2026-10-07T12:50:01.259777+00:00",
     "total_applications": 122,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -8076,6 +8076,79 @@
       "notes": ""
     },
     {
+      "id": "fe2ec725d498b6d2",
+      "cfp_id": "8c53be53b11f31fc",
+      "cfp_title": "Data Pulse 2026",
+      "cfp_url": "https://sessionize.com/data-pulse-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-11-06",
+      "event_date": "2026-11-26",
+      "event_location": "Reading, United Kingdom",
+      "is_online": false,
+      "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
+      "talk_abstract": "Your data team needs internal tools but doesn't have frontend engineers. I built three production Streamlit apps \u2014 a Data Modification Hub (70% accuracy improvement), a custom ingestion hub (replaced $3K SaaS), and an orchestration locking hub (prevents pipeline conflicts). This talk shows how to go from Python script to production app: database connections, authentication, state management, and deployment patterns that your team will actually adopt.",
+      "talk_tags": [
+        "streamlit",
+        "python",
+        "internal-tools",
+        "data-apps",
+        "snowflake"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'web' (score: 5.5)",
+      "conference_themes": [
+        "web",
+        "open-source",
+        "ai",
+        "leadership"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
+        "abstract": "Your data team needs internal tools but doesn't have frontend engineers. I built three production Streamlit apps \u2014 a Data Modification Hub (70% accuracy improvement), a custom ingestion hub (replaced $3K SaaS), and an orchestration locking hub (prevents pipeline conflicts). This talk shows how to go from Python script to production app: database connections, authentication, state management, and deployment patterns that your team will actually adopt.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "streamlit",
+          "python",
+          "internal-tools",
+          "data-apps",
+          "snowflake"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.284,
+        "tag_relevance": 0.178,
+        "talk_match_score": 0.04,
+        "urgency_score": 0.6,
+        "format_score": 0.6,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-09-23T10:58:05.090754+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'web' (score: 5.5)"
+        }
+      ],
+      "created_at": "2026-09-23T10:58:05.090766+00:00",
+      "updated_at": "2026-09-23T10:58:05.090768+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "8b8c86d1f91e3abb",
       "cfp_id": "717887f80c78abd5",
       "cfp_title": "SeaQL 2027",
@@ -9424,79 +9497,6 @@
       ],
       "created_at": "2026-04-12T07:17:49.984577+00:00",
       "updated_at": "2026-04-12T07:17:49.984579+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "fe2ec725d498b6d2",
-      "cfp_id": "8c53be53b11f31fc",
-      "cfp_title": "Data Pulse 2026",
-      "cfp_url": "https://sessionize.com/data-pulse-2026",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-11-06",
-      "event_date": "2026-11-26",
-      "event_location": "Reading, United Kingdom",
-      "is_online": false,
-      "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
-      "talk_abstract": "Your data team needs internal tools but doesn't have frontend engineers. I built three production Streamlit apps \u2014 a Data Modification Hub (70% accuracy improvement), a custom ingestion hub (replaced $3K SaaS), and an orchestration locking hub (prevents pipeline conflicts). This talk shows how to go from Python script to production app: database connections, authentication, state management, and deployment patterns that your team will actually adopt.",
-      "talk_tags": [
-        "streamlit",
-        "python",
-        "internal-tools",
-        "data-apps",
-        "snowflake"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'web' (score: 5.5)",
-      "conference_themes": [
-        "web",
-        "open-source",
-        "ai",
-        "leadership"
-      ],
-      "conference_categories": [],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
-        "abstract": "Your data team needs internal tools but doesn't have frontend engineers. I built three production Streamlit apps \u2014 a Data Modification Hub (70% accuracy improvement), a custom ingestion hub (replaced $3K SaaS), and an orchestration locking hub (prevents pipeline conflicts). This talk shows how to go from Python script to production app: database connections, authentication, state management, and deployment patterns that your team will actually adopt.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "streamlit",
-          "python",
-          "internal-tools",
-          "data-apps",
-          "snowflake"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.254,
-        "tag_relevance": 0.178,
-        "talk_match_score": 0.04,
-        "urgency_score": 0.4,
-        "format_score": 0.6,
-        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-09-23T10:58:05.090754+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'web' (score: 5.5)"
-        }
-      ],
-      "created_at": "2026-09-23T10:58:05.090766+00:00",
-      "updated_at": "2026-09-23T10:58:05.090768+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

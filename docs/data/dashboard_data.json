@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:55:58.184262+00:00",
+  "generated_at": "2026-10-07T12:50:01.308122+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 75,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-06T12:55:57.993128+00:00",
+    "last_crawled": "2026-10-07T12:50:01.031944+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
@@ -2655,6 +2655,26 @@
       "event_location": "Berlin, Germany"
     },
     {
+      "id": "fe2ec725d498b6d2",
+      "cfp_title": "Data Pulse 2026",
+      "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-pulse-2026",
+      "deadline": "2026-11-06",
+      "event_date": "2026-11-26",
+      "status": "draft",
+      "score": 0.284,
+      "priority": "low",
+      "created_at": "2026-09-23T10:58:05.090766+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'web' (score: 5.5)",
+      "is_online": false,
+      "event_location": "Reading, United Kingdom"
+    },
+    {
       "id": "8b8c86d1f91e3abb",
       "cfp_title": "SeaQL 2027",
       "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
@@ -2995,26 +3015,6 @@
       "event_location": "Washington State University Vancouver, 14204 NE Salmon Creek Avenue, Vancouver, WA, USA 98686-9600, Campus map,"
     },
     {
-      "id": "fe2ec725d498b6d2",
-      "cfp_title": "Data Pulse 2026",
-      "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/data-pulse-2026",
-      "deadline": "2026-11-06",
-      "event_date": "2026-11-26",
-      "status": "draft",
-      "score": 0.254,
-      "priority": "low",
-      "created_at": "2026-09-23T10:58:05.090766+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'web' (score: 5.5)",
-      "is_online": false,
-      "event_location": "Reading, United Kingdom"
-    },
-    {
       "id": "efec27b943f663bf",
       "cfp_title": "Data Saturday Croatia 2027",
       "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
@@ -3316,7 +3316,7 @@
       "title": "Data Pulse 2026",
       "deadline": "2026-11-06",
       "source": "callfordataspeakers",
-      "score": 0.254,
+      "score": 0.284,
       "url": "https://sessionize.com/data-pulse-2026",
       "travel_sponsorship": "unknown",
       "location": "Reading, United Kingdom"
