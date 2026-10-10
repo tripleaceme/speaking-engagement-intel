@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-09T12:45:04.640674+00:00",
-    "total_cfps": 138,
+    "last_crawled": "2026-10-10T12:03:41.692674+00:00",
+    "total_cfps": 139,
     "open_cfps": 63,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 0,
+    "new_this_run": 1,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-10-09T12:45:04.819612+00:00",
+    "last_scored": "2026-10-10T12:03:42.439791+00:00",
     "high_priority": 0,
     "medium_priority": 3,
     "above_threshold": 47
@@ -1217,7 +1217,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:47.351475+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "leadership",
@@ -1252,17 +1252,7 @@
         "category"
       ],
       "enriched_at": "2026-04-08T12:26:51.916563+00:00",
-      "match_scores": {
-        "composite_score": 0.393,
-        "tag_relevance": 0.167,
-        "talk_match_score": 0.082,
-        "urgency_score": 1.0,
-        "format_score": 0.8,
-        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "61bc3627387e5c69",
@@ -9383,10 +9373,10 @@
       ],
       "enriched_at": "2026-09-29T12:19:18.031253+00:00",
       "match_scores": {
-        "composite_score": 0.365,
+        "composite_score": 0.395,
         "tag_relevance": 0.364,
         "talk_match_score": 0.059,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -9745,6 +9735,52 @@
         "urgency_score": 0.1,
         "format_score": 0.7,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "3b988d01371e313a",
+      "source": "confs.tech",
+      "title": "VIC AI Boom",
+      "url": "https://vicaiboom.com",
+      "cfp_url": "https://forms.gle/gRGNcMAqbwxPaYpC6",
+      "description": "VIC AI Boom Speaking Submission Form VIC AI Boom Speaking Submission Form We're are looking for fantastic Technical AI and Creative AI speakers from a wide variety of fields to present on\u00a013th November 2026 either in-person or remotely\u00a010:30am -> 4pm with some after hours opportunities. There is a possibility we will add additional dates. Speaker Submission Deadline: 16th October 2026 5pm (GMT+11) If a sufficient number of speaking submissions are made before the deadline we may bring forward the deadline.",
+      "tags": [
+        "data",
+        "ai",
+        "open-source"
+      ],
+      "deadline": "2026-10-16",
+      "event_date": "2026-11-13",
+      "location": "Melbourne, Australia",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference",
+      "discovered_at": "2026-10-10T12:03:38.733163+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "category"
+      ],
+      "enriched_at": "2026-10-10T12:03:42.365553+00:00",
+      "match_scores": {
+        "composite_score": 0.326,
+        "tag_relevance": 0.165,
+        "talk_match_score": 0.061,
+        "urgency_score": 1.0,
+        "format_score": 0.5,
+        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
         "suggested_talk_level": "intermediate",
         "priority": "low",
         "travel_sponsorship": "unknown"

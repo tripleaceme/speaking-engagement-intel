@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-09T12:45:04.951049+00:00",
+  "generated_at": "2026-10-10T12:03:42.552414+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 138,
+    "total_cfps_discovered": 139,
     "open_cfps": 63,
-    "expired_cfps": 75,
-    "total_applications": 122,
+    "expired_cfps": 76,
+    "total_applications": 123,
     "drafts": 47,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 75,
+    "expired_apps": 76,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-09T12:45:04.640674+00:00",
+    "last_crawled": "2026-10-10T12:03:41.692674+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 17
+      "draft": 16
     },
     {
       "month": "2026-05",
@@ -79,7 +79,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 4
+      "draft": 5
     }
   ],
   "source_breakdown": [
@@ -89,7 +89,7 @@
     },
     {
       "source": "confs.tech",
-      "count": 51
+      "count": 52
     },
     {
       "source": "github",
@@ -116,19 +116,19 @@
     },
     {
       "tag": "web",
-      "count": 56
+      "count": 55
     },
     {
       "tag": "open-source",
-      "count": 52
+      "count": 53
     },
     {
       "tag": "data",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "leadership",
-      "count": 44
+      "count": 43
     },
     {
       "tag": "database",
@@ -136,7 +136,7 @@
     },
     {
       "tag": "cloud",
-      "count": 37
+      "count": 36
     },
     {
       "tag": "education",
@@ -159,12 +159,12 @@
       "count": 17
     },
     {
-      "tag": "testing",
+      "tag": "cfp",
       "count": 14
     },
     {
-      "tag": "cfp",
-      "count": 14
+      "tag": "testing",
+      "count": 13
     },
     {
       "tag": "in-person",
@@ -179,15 +179,15 @@
       "count": 11
     },
     {
-      "tag": "mobile",
-      "count": 10
-    },
-    {
       "tag": "event-management",
       "count": 9
     },
     {
       "tag": "north america",
+      "count": 9
+    },
+    {
+      "tag": "mobile",
       "count": 9
     },
     {
@@ -215,10 +215,6 @@
       "count": 5
     },
     {
-      "tag": "online",
-      "count": 4
-    },
-    {
       "tag": "mcp",
       "count": 4
     },
@@ -228,6 +224,10 @@
     },
     {
       "tag": "typescript",
+      "count": 4
+    },
+    {
+      "tag": "conference, precon",
       "count": 4
     }
   ],
@@ -308,28 +308,28 @@
       "event_type": "conference"
     },
     {
-      "id": "a6d3b93c921d5c72",
-      "title": "NextGen Intelligence Conference: Data, Cloud & AI",
-      "source": "confs.tech",
-      "url": "https://techaiconf.com/register-interest",
-      "deadline": "2026-10-09",
-      "event_date": "2026-11-16",
-      "location": "London, U.K.",
-      "is_online": true,
+      "id": "e94ef3ffb380788e",
+      "title": "Power BI Gebruikersdagen 2027",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/PBIG2027",
+      "deadline": "2026-10-17",
+      "event_date": "2027-03-04",
+      "location": "Utrecht, The Netherlands",
+      "is_online": false,
       "tags": [
-        "cloud",
-        "general",
-        "testing",
-        "leadership",
-        "ai"
+        "education",
+        "europe",
+        "open-source",
+        "web",
+        "conference"
       ],
-      "score": 0.393,
+      "score": 0.395,
       "priority": "low",
-      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-      "tag_relevance": 0.167,
-      "talk_match": 0.082,
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.364,
+      "talk_match": 0.059,
       "urgency": 1.0,
-      "travel_sponsorship": "unknown",
+      "travel_sponsorship": "yes",
       "event_type": "conference"
     },
     {
@@ -381,31 +381,6 @@
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
-    },
-    {
-      "id": "e94ef3ffb380788e",
-      "title": "Power BI Gebruikersdagen 2027",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/PBIG2027",
-      "deadline": "2026-10-17",
-      "event_date": "2027-03-04",
-      "location": "Utrecht, The Netherlands",
-      "is_online": false,
-      "tags": [
-        "education",
-        "europe",
-        "open-source",
-        "web",
-        "conference"
-      ],
-      "score": 0.365,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.364,
-      "talk_match": 0.059,
-      "urgency": 0.8,
-      "travel_sponsorship": "yes",
-      "event_type": "conference"
     },
     {
       "id": "f5236e3008d6c44b",
@@ -631,6 +606,29 @@
       "urgency": 0.4,
       "travel_sponsorship": "partial",
       "event_type": "conference, precon"
+    },
+    {
+      "id": "3b988d01371e313a",
+      "title": "VIC AI Boom",
+      "source": "confs.tech",
+      "url": "https://forms.gle/gRGNcMAqbwxPaYpC6",
+      "deadline": "2026-10-16",
+      "event_date": "2026-11-13",
+      "location": "Melbourne, Australia",
+      "is_online": false,
+      "tags": [
+        "data",
+        "ai",
+        "open-source"
+      ],
+      "score": 0.326,
+      "priority": "low",
+      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+      "tag_relevance": 0.165,
+      "talk_match": 0.061,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     },
     {
       "id": "0fe3d15f3fc2db8f",
@@ -1515,6 +1513,26 @@
       "event_location": "TBD, TBD"
     },
     {
+      "id": "7f81f01cf27da03c",
+      "cfp_title": "Power BI Gebruikersdagen 2027",
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/PBIG2027",
+      "deadline": "2026-10-17",
+      "event_date": "2027-03-04",
+      "status": "draft",
+      "score": 0.395,
+      "priority": "low",
+      "created_at": "2026-09-29T12:19:18.129843+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'education' (score: 7.0)",
+      "is_online": false,
+      "event_location": "Utrecht, The Netherlands"
+    },
+    {
       "id": "8ef1aa5b4718f454",
       "cfp_title": "The AI Conf",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1542,7 +1560,7 @@
       "cfp_url": "https://techaiconf.com/register-interest",
       "deadline": "2026-10-09",
       "event_date": "2026-11-16",
-      "status": "draft",
+      "status": "expired",
       "score": 0.393,
       "priority": "low",
       "created_at": "2026-04-08T12:28:22.662662+00:00",
@@ -1733,26 +1751,6 @@
       "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
       "is_online": true,
       "event_location": "Online"
-    },
-    {
-      "id": "7f81f01cf27da03c",
-      "cfp_title": "Power BI Gebruikersdagen 2027",
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/PBIG2027",
-      "deadline": "2026-10-17",
-      "event_date": "2027-03-04",
-      "status": "draft",
-      "score": 0.365,
-      "priority": "low",
-      "created_at": "2026-09-29T12:19:18.129843+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "yes",
-      "match_reason": "Conference themes align with 'education' (score: 7.0)",
-      "is_online": false,
-      "event_location": "Utrecht, The Netherlands"
     },
     {
       "id": "922be52c18c6e9a0",
@@ -2253,6 +2251,26 @@
       "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
       "is_online": false,
       "event_location": "Austin, TX, U.S.A."
+    },
+    {
+      "id": "b4edc8b0f4ffb759",
+      "cfp_title": "VIC AI Boom",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://forms.gle/gRGNcMAqbwxPaYpC6",
+      "deadline": "2026-10-16",
+      "event_date": "2026-11-13",
+      "status": "draft",
+      "score": 0.326,
+      "priority": "low",
+      "created_at": "2026-10-10T12:03:42.497532+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
+      "is_online": false,
+      "event_location": "Melbourne, Australia"
     },
     {
       "id": "5e515247f3a16afe",
@@ -3178,7 +3196,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 43,
+      "applications": 44,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -3259,15 +3277,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "NextGen Intelligence Conference: Data, Cloud & AI",
-      "deadline": "2026-10-09",
-      "source": "confs.tech",
-      "score": 0.393,
-      "url": "https://techaiconf.com/register-interest",
-      "travel_sponsorship": "unknown",
-      "location": "London, U.K."
-    },
-    {
       "title": "All Day AI",
       "deadline": "2026-10-10",
       "source": "confs.tech",
@@ -3286,10 +3295,19 @@
       "location": "Rome, Italy"
     },
     {
+      "title": "VIC AI Boom",
+      "deadline": "2026-10-16",
+      "source": "confs.tech",
+      "score": 0.326,
+      "url": "https://forms.gle/gRGNcMAqbwxPaYpC6",
+      "travel_sponsorship": "unknown",
+      "location": "Melbourne, Australia"
+    },
+    {
       "title": "Power BI Gebruikersdagen 2027",
       "deadline": "2026-10-17",
       "source": "callfordataspeakers",
-      "score": 0.365,
+      "score": 0.395,
       "url": "https://sessionize.com/PBIG2027",
       "travel_sponsorship": "yes",
       "location": "Utrecht, The Netherlands"
