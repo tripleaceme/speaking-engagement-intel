@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-10T12:03:41.692674+00:00",
-    "total_cfps": 139,
+    "last_crawled": "2026-10-11T12:16:48.940020+00:00",
+    "total_cfps": 140,
     "open_cfps": 63,
     "sources_checked": 9,
     "new_this_run": 1,
     "expired_this_run": 1,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-10-10T12:03:42.439791+00:00",
+    "last_scored": "2026-10-11T12:16:49.880572+00:00",
     "high_priority": 0,
-    "medium_priority": 3,
-    "above_threshold": 47
+    "medium_priority": 2,
+    "above_threshold": 46
   },
   "cfps": [
     {
@@ -8931,7 +8931,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-09-19T10:28:47.447938+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "cloud",
@@ -8974,17 +8974,7 @@
         "track"
       ],
       "enriched_at": "2026-09-19T10:28:51.840805+00:00",
-      "match_scores": {
-        "composite_score": 0.456,
-        "tag_relevance": 0.333,
-        "talk_match_score": 0.098,
-        "urgency_score": 1.0,
-        "format_score": 0.8,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "c696a723bfe50bae",
@@ -9782,6 +9772,73 @@
         "format_score": 0.5,
         "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
         "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "d188f96312ebae28",
+      "source": "callfordataspeakers",
+      "title": "Day of Data Trujillo 2026",
+      "url": "https://sessionize.com/day-data-trujillo-2026",
+      "cfp_url": "https://sessionize.com/day-data-trujillo-2026",
+      "description": "Data external \u2014 Universidad Privada del Norte - Campus San Isidro, Trujillo - Peru,, Code Postal 13008,",
+      "tags": [
+        "open-source",
+        "ai",
+        "data",
+        "database",
+        "external",
+        "cloud",
+        "web",
+        "in-person"
+      ],
+      "deadline": "",
+      "event_date": "2026-10-24",
+      "location": "Universidad Privada del Norte - Campus San Isidro, Trujillo - Peru,, Code Postal 13008,",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "external",
+      "discovered_at": "2026-10-11T12:16:48.140914+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "bio"
+      ],
+      "enriched_at": "2026-10-11T12:16:49.787378+00:00",
+      "match_scores": {
+        "composite_score": 0.189,
+        "tag_relevance": 0.176,
+        "talk_match_score": 0.04,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }

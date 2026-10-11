@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-10T12:03:42.552414+00:00",
+  "generated_at": "2026-10-11T12:16:50.017008+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 139,
+    "total_cfps_discovered": 140,
     "open_cfps": 63,
-    "expired_cfps": 76,
+    "expired_cfps": 77,
     "total_applications": 123,
-    "drafts": 47,
+    "drafts": 46,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 76,
+    "expired_apps": 77,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-10T12:03:41.692674+00:00",
+    "last_crawled": "2026-10-11T12:16:48.940020+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
@@ -71,7 +71,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 7
+      "draft": 6
     },
     {
       "month": "2026-10",
@@ -85,7 +85,7 @@
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 67
+      "count": 68
     },
     {
       "source": "confs.tech",
@@ -106,8 +106,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 3,
-    "low": 60
+    "medium": 2,
+    "low": 61
   },
   "tag_cloud": [
     {
@@ -128,11 +128,11 @@
     },
     {
       "tag": "leadership",
-      "count": 43
+      "count": 42
     },
     {
       "tag": "database",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "cloud",
@@ -143,12 +143,12 @@
       "count": 33
     },
     {
-      "tag": "security",
+      "tag": "conference",
       "count": 31
     },
     {
-      "tag": "conference",
-      "count": 31
+      "tag": "security",
+      "count": 30
     },
     {
       "tag": "devops",
@@ -163,15 +163,15 @@
       "count": 14
     },
     {
-      "tag": "testing",
-      "count": 13
-    },
-    {
       "tag": "in-person",
-      "count": 13
+      "count": 14
     },
     {
       "tag": "external",
+      "count": 14
+    },
+    {
+      "tag": "testing",
       "count": 13
     },
     {
@@ -232,31 +232,6 @@
     }
   ],
   "top_matches": [
-    {
-      "id": "fe30703d4115d237",
-      "title": "All Day AI",
-      "source": "confs.tech",
-      "url": "https://www.alldayai.com/#speak",
-      "deadline": "2026-10-10",
-      "event_date": "2026-10-22",
-      "location": "TBD, TBD",
-      "is_online": true,
-      "tags": [
-        "ai",
-        "cloud",
-        "leadership",
-        "data",
-        "web"
-      ],
-      "score": 0.456,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.333,
-      "talk_match": 0.098,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
     {
       "id": "1fa1514088c24453",
       "title": "Build It Summit",
@@ -729,6 +704,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "partial",
       "event_type": "external"
+    },
+    {
+      "id": "cf61797b20c3dd06",
+      "title": "yegor256/awesome-cfp",
+      "source": "github",
+      "url": "https://github.com/yegor256/awesome-cfp",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "conferences",
+        "python",
+        "security",
+        "call-for-papers",
+        "cfp"
+      ],
+      "score": 0.315,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.348,
+      "talk_match": 0.06,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
     }
   ],
   "applications": [
@@ -820,7 +820,7 @@
       "cfp_url": "https://www.alldayai.com/#speak",
       "deadline": "2026-10-10",
       "event_date": "2026-10-22",
-      "status": "draft",
+      "status": "expired",
       "score": 0.456,
       "priority": "medium",
       "created_at": "2026-09-19T10:28:54.077291+00:00",
@@ -3277,15 +3277,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "All Day AI",
-      "deadline": "2026-10-10",
-      "source": "confs.tech",
-      "score": 0.456,
-      "url": "https://www.alldayai.com/#speak",
-      "travel_sponsorship": "unknown",
-      "location": "TBD, TBD"
-    },
-    {
       "title": "Global Summit on Data Science and Cloud Computing",
       "deadline": "2026-10-15",
       "source": "confs.tech",
@@ -3365,6 +3356,15 @@
       "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
       "travel_sponsorship": "unknown",
       "location": "Virtual"
+    },
+    {
+      "title": "Big Data Europe",
+      "deadline": "2026-11-23",
+      "source": "confs.tech",
+      "score": 0.345,
+      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "travel_sponsorship": "unknown",
+      "location": "Vilnius, Lithuania"
     }
   ]
 }
