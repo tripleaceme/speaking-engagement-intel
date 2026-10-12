@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-11T12:16:48.940020+00:00",
-    "total_cfps": 140,
-    "open_cfps": 63,
+    "last_crawled": "2026-10-12T14:41:31.346732+00:00",
+    "total_cfps": 141,
+    "open_cfps": 64,
     "sources_checked": 9,
     "new_this_run": 1,
-    "expired_this_run": 1,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-10-11T12:16:49.880572+00:00",
+    "last_scored": "2026-10-12T14:41:31.815635+00:00",
     "high_priority": 0,
     "medium_priority": 2,
-    "above_threshold": 46
+    "above_threshold": 47
   },
   "cfps": [
     {
@@ -9841,6 +9841,104 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "72e7f737394729b1",
+      "source": "confs.tech",
+      "title": "DevFestMN",
+      "url": "https://devfest.mn",
+      "cfp_url": "https://devfest.mn/speaker-cfp",
+      "description": "Submissions will be accepted until  October 20 at 11:59pm Central. Submit Your Talk  Closes Tuesday, October 20  About the Conference Theme:  Innovate, Inspire, Connect  This year, we're focusing on  Building, Securing, and Scaling: Developers and Builders in the Agentic Era. We believe that by coming together and sharing our ideas, we can build a better future for everyone.",
+      "tags": [
+        "mobile",
+        "education",
+        "general",
+        "cloud",
+        "open-source",
+        "devops",
+        "ai",
+        "database",
+        "leadership",
+        "security",
+        "web"
+      ],
+      "deadline": "2026-10-20",
+      "event_date": "2026-12-05",
+      "location": "Minneapolis, MN, U.S.A.",
+      "is_online": false,
+      "travel_sponsorship": "partial",
+      "event_type": "conference",
+      "discovered_at": "2026-10-12T14:41:27.322742+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "cloud",
+          "confidence": 1.0
+        },
+        {
+          "theme": "devops",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 1.0
+        },
+        {
+          "theme": "leadership",
+          "confidence": 1.0
+        },
+        {
+          "theme": "mobile",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "volunteering instead?   we'll open volunteer sign",
+        "ups closer to the event"
+      ],
+      "speaker_perks": {
+        "ticket": true,
+        "recording": true
+      },
+      "submission_fields": [
+        "title",
+        "abstract",
+        "bio",
+        "talk length",
+        "topic"
+      ],
+      "enriched_at": "2026-10-12T14:41:31.734063+00:00",
+      "match_scores": {
+        "composite_score": 0.395,
+        "tag_relevance": 0.329,
+        "talk_match_score": 0.133,
+        "urgency_score": 0.8,
+        "format_score": 0.6,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "partial"
       }
     }
   ]

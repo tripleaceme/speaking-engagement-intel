@@ -1,19 +1,19 @@
 {
   "metadata": {
-    "last_updated": "2026-10-11T12:16:49.953086+00:00",
-    "total_applications": 123,
+    "last_updated": "2026-10-12T14:41:31.880576+00:00",
+    "total_applications": 124,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 46,
+    "total_drafts": 47,
     "total_expired": 77,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
       "expired": 77,
-      "draft": 46
+      "draft": 47
     },
-    "unique_talk_titles": 7
+    "unique_talk_titles": 8
   },
   "applications": [
     {
@@ -3468,6 +3468,93 @@
       ],
       "created_at": "2026-09-29T12:19:18.129843+00:00",
       "updated_at": "2026-09-29T12:19:18.129844+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "1d763c28b583e83b",
+      "cfp_id": "72e7f737394729b1",
+      "cfp_title": "DevFestMN",
+      "cfp_url": "https://devfest.mn/speaker-cfp",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-10-20",
+      "event_date": "2026-12-05",
+      "event_location": "Minneapolis, MN, U.S.A.",
+      "is_online": false,
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "talk_abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
+      "talk_tags": [
+        "cloud",
+        "snowflake",
+        "bigquery",
+        "dbt",
+        "airflow",
+        "cost-optimization"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
+      "conference_themes": [
+        "cloud",
+        "devops",
+        "web",
+        "open-source",
+        "leadership",
+        "mobile",
+        "ai",
+        "education",
+        "security",
+        "database"
+      ],
+      "conference_categories": [
+        "volunteering instead?   we'll open volunteer sign",
+        "ups closer to the event"
+      ],
+      "travel_sponsorship": "partial",
+      "speaker_perks": {
+        "ticket": true,
+        "recording": true
+      },
+      "proposal": {
+        "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+        "abstract": "Enterprise data tools are expensive. I'll show how I replaced a $3K/month SaaS ingestion tool with a custom Streamlit + Snowflake hub, built monitoring with Airflow alerts, and created a complete analytics pipeline using open-source tools. You'll learn how to build production-grade data infrastructure on Snowflake, BigQuery, dbt, and Airflow \u2014 without the enterprise price tag. Includes patterns for ingestion, transformation, orchestration, and observability that scale.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "cloud",
+          "snowflake",
+          "bigquery",
+          "dbt",
+          "airflow",
+          "cost-optimization"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.395,
+        "tag_relevance": 0.329,
+        "talk_match_score": 0.133,
+        "urgency_score": 0.8,
+        "format_score": 0.6,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "partial"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-10-12T14:41:31.878086+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'cloud' (score: 6.0)"
+        }
+      ],
+      "created_at": "2026-10-12T14:41:31.878100+00:00",
+      "updated_at": "2026-10-12T14:41:31.878103+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

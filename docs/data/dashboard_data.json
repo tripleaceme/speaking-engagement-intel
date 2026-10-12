@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-11T12:16:50.017008+00:00",
+  "generated_at": "2026-10-12T14:41:31.941055+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 140,
-    "open_cfps": 63,
+    "total_cfps_discovered": 141,
+    "open_cfps": 64,
     "expired_cfps": 77,
-    "total_applications": 123,
-    "drafts": 46,
+    "total_applications": 124,
+    "drafts": 47,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,10 +18,10 @@
     "expired_apps": 77,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-11T12:16:48.940020+00:00",
+    "last_crawled": "2026-10-12T14:41:31.346732+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
-    "travel_partial": 3,
+    "travel_partial": 4,
     "travel_unknown": 58
   },
   "timeline": [
@@ -79,7 +79,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 5
+      "draft": 6
     }
   ],
   "source_breakdown": [
@@ -89,7 +89,7 @@
     },
     {
       "source": "confs.tech",
-      "count": 52
+      "count": 53
     },
     {
       "source": "github",
@@ -107,20 +107,20 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 2,
-    "low": 61
+    "low": 62
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "web",
-      "count": 55
+      "count": 56
     },
     {
       "tag": "open-source",
-      "count": 53
+      "count": 54
     },
     {
       "tag": "data",
@@ -128,31 +128,31 @@
     },
     {
       "tag": "leadership",
-      "count": 42
+      "count": 43
     },
     {
       "tag": "database",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "cloud",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "education",
-      "count": 33
+      "count": 34
+    },
+    {
+      "tag": "security",
+      "count": 31
     },
     {
       "tag": "conference",
       "count": 31
     },
     {
-      "tag": "security",
-      "count": 30
-    },
-    {
       "tag": "devops",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "call-for-papers",
@@ -179,15 +179,15 @@
       "count": 11
     },
     {
+      "tag": "mobile",
+      "count": 10
+    },
+    {
       "tag": "event-management",
       "count": 9
     },
     {
       "tag": "north america",
-      "count": 9
-    },
-    {
-      "tag": "mobile",
       "count": 9
     },
     {
@@ -305,6 +305,31 @@
       "talk_match": 0.059,
       "urgency": 1.0,
       "travel_sponsorship": "yes",
+      "event_type": "conference"
+    },
+    {
+      "id": "72e7f737394729b1",
+      "title": "DevFestMN",
+      "source": "confs.tech",
+      "url": "https://devfest.mn/speaker-cfp",
+      "deadline": "2026-10-20",
+      "event_date": "2026-12-05",
+      "location": "Minneapolis, MN, U.S.A.",
+      "is_online": false,
+      "tags": [
+        "mobile",
+        "education",
+        "general",
+        "cloud",
+        "open-source"
+      ],
+      "score": 0.395,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.329,
+      "talk_match": 0.133,
+      "urgency": 0.8,
+      "travel_sponsorship": "partial",
       "event_type": "conference"
     },
     {
@@ -704,31 +729,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "partial",
       "event_type": "external"
-    },
-    {
-      "id": "cf61797b20c3dd06",
-      "title": "yegor256/awesome-cfp",
-      "source": "github",
-      "url": "https://github.com/yegor256/awesome-cfp",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "conferences",
-        "python",
-        "security",
-        "call-for-papers",
-        "cfp"
-      ],
-      "score": 0.315,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.348,
-      "talk_match": 0.06,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
     }
   ],
   "applications": [
@@ -1531,6 +1531,26 @@
       "match_reason": "Conference themes align with 'education' (score: 7.0)",
       "is_online": false,
       "event_location": "Utrecht, The Netherlands"
+    },
+    {
+      "id": "1d763c28b583e83b",
+      "cfp_title": "DevFestMN",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://devfest.mn/speaker-cfp",
+      "deadline": "2026-10-20",
+      "event_date": "2026-12-05",
+      "status": "draft",
+      "score": 0.395,
+      "priority": "low",
+      "created_at": "2026-10-12T14:41:31.878100+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
+      "is_online": false,
+      "event_location": "Minneapolis, MN, U.S.A."
     },
     {
       "id": "8ef1aa5b4718f454",
@@ -3227,7 +3247,7 @@
       "acceptance_rate": 0
     },
     {
-      "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
       "applications": 8,
       "accepted": 0,
       "rejected": 0,
@@ -3235,8 +3255,8 @@
       "acceptance_rate": 0
     },
     {
-      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "applications": 7,
+      "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "applications": 8,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -3304,6 +3324,15 @@
       "location": "Utrecht, The Netherlands"
     },
     {
+      "title": "DevFestMN",
+      "deadline": "2026-10-20",
+      "source": "confs.tech",
+      "score": 0.395,
+      "url": "https://devfest.mn/speaker-cfp",
+      "travel_sponsorship": "partial",
+      "location": "Minneapolis, MN, U.S.A."
+    },
+    {
       "title": "Build It Summit",
       "deadline": "2026-10-31",
       "source": "confs.tech",
@@ -3356,15 +3385,6 @@
       "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
       "travel_sponsorship": "unknown",
       "location": "Virtual"
-    },
-    {
-      "title": "Big Data Europe",
-      "deadline": "2026-11-23",
-      "source": "confs.tech",
-      "score": 0.345,
-      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
-      "travel_sponsorship": "unknown",
-      "location": "Vilnius, Lithuania"
     }
   ]
 }
