@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:41:31.941055+00:00",
+  "generated_at": "2026-10-13T13:44:58.793026+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 77,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-12T14:41:31.346732+00:00",
+    "last_crawled": "2026-10-13T13:44:58.565943+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 4,
@@ -106,8 +106,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 2,
-    "low": 62
+    "medium": 3,
+    "low": 61
   },
   "tag_cloud": [
     {
@@ -233,6 +233,31 @@
   ],
   "top_matches": [
     {
+      "id": "72e7f737394729b1",
+      "title": "DevFestMN",
+      "source": "confs.tech",
+      "url": "https://devfest.mn/speaker-cfp",
+      "deadline": "2026-10-20",
+      "event_date": "2026-12-05",
+      "location": "Minneapolis, MN, U.S.A.",
+      "is_online": false,
+      "tags": [
+        "mobile",
+        "education",
+        "general",
+        "cloud",
+        "open-source"
+      ],
+      "score": 0.425,
+      "priority": "medium",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.329,
+      "talk_match": 0.133,
+      "urgency": 1.0,
+      "travel_sponsorship": "partial",
+      "event_type": "conference"
+    },
+    {
       "id": "1fa1514088c24453",
       "title": "Build It Summit",
       "source": "confs.tech",
@@ -305,31 +330,6 @@
       "talk_match": 0.059,
       "urgency": 1.0,
       "travel_sponsorship": "yes",
-      "event_type": "conference"
-    },
-    {
-      "id": "72e7f737394729b1",
-      "title": "DevFestMN",
-      "source": "confs.tech",
-      "url": "https://devfest.mn/speaker-cfp",
-      "deadline": "2026-10-20",
-      "event_date": "2026-12-05",
-      "location": "Minneapolis, MN, U.S.A.",
-      "is_online": false,
-      "tags": [
-        "mobile",
-        "education",
-        "general",
-        "cloud",
-        "open-source"
-      ],
-      "score": 0.395,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.329,
-      "talk_match": 0.133,
-      "urgency": 0.8,
-      "travel_sponsorship": "partial",
       "event_type": "conference"
     },
     {
@@ -1093,6 +1093,26 @@
       "event_location": "Brooklyn, NY, U.S.A."
     },
     {
+      "id": "1d763c28b583e83b",
+      "cfp_title": "DevFestMN",
+      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://devfest.mn/speaker-cfp",
+      "deadline": "2026-10-20",
+      "event_date": "2026-12-05",
+      "status": "draft",
+      "score": 0.425,
+      "priority": "medium",
+      "created_at": "2026-10-12T14:41:31.878100+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
+      "is_online": false,
+      "event_location": "Minneapolis, MN, U.S.A."
+    },
+    {
       "id": "db970c8213dd487c",
       "cfp_title": "Build It Summit",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1531,26 +1551,6 @@
       "match_reason": "Conference themes align with 'education' (score: 7.0)",
       "is_online": false,
       "event_location": "Utrecht, The Netherlands"
-    },
-    {
-      "id": "1d763c28b583e83b",
-      "cfp_title": "DevFestMN",
-      "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://devfest.mn/speaker-cfp",
-      "deadline": "2026-10-20",
-      "event_date": "2026-12-05",
-      "status": "draft",
-      "score": 0.395,
-      "priority": "low",
-      "created_at": "2026-10-12T14:41:31.878100+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
-      "is_online": false,
-      "event_location": "Minneapolis, MN, U.S.A."
     },
     {
       "id": "8ef1aa5b4718f454",
@@ -3327,7 +3327,7 @@
       "title": "DevFestMN",
       "deadline": "2026-10-20",
       "source": "confs.tech",
-      "score": 0.395,
+      "score": 0.425,
       "url": "https://devfest.mn/speaker-cfp",
       "travel_sponsorship": "partial",
       "location": "Minneapolis, MN, U.S.A."
