@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-14T11:22:49.157448+00:00",
+    "last_updated": "2026-10-15T10:59:34.186017+00:00",
     "total_applications": 124,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -7568,6 +7568,85 @@
       "notes": ""
     },
     {
+      "id": "658a28d224292c62",
+      "cfp_id": "7b657a58d4c3645e",
+      "cfp_title": "Fabric & Power BI Wales User Group",
+      "cfp_url": "https://sessionize.com/fabricpowerbiwales",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-11-14",
+      "event_date": "2026-01-15",
+      "event_location": "Online",
+      "is_online": true,
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+      "talk_tags": [
+        "leadership",
+        "data-culture",
+        "analytics-engineering",
+        "strategy"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
+      "conference_themes": [
+        "ai",
+        "cloud",
+        "web",
+        "open-source",
+        "leadership"
+      ],
+      "conference_categories": [
+        "everything from strategy",
+        "please submit them and get in touch with us",
+        "talks on all aspects of power bi or microsoft fabric",
+        "speakers to run a ~60 minute session",
+        "analytics and visualisation",
+        "architecture through to modelling"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "leadership",
+          "data-culture",
+          "analytics-engineering",
+          "strategy"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.31,
+        "tag_relevance": 0.177,
+        "talk_match_score": 0.059,
+        "urgency_score": 0.6,
+        "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.664138+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 5.0)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.664141+00:00",
+      "updated_at": "2026-04-08T12:28:22.664143+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "559bc43be15a3639",
       "cfp_id": "549cf74dc3ffa909",
       "cfp_title": "sameersegal/Podium",
@@ -8395,85 +8474,6 @@
       ],
       "created_at": "2026-09-04T10:48:51.857634+00:00",
       "updated_at": "2026-09-04T10:48:51.857636+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "658a28d224292c62",
-      "cfp_id": "7b657a58d4c3645e",
-      "cfp_title": "Fabric & Power BI Wales User Group",
-      "cfp_url": "https://sessionize.com/fabricpowerbiwales",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-11-14",
-      "event_date": "2026-01-15",
-      "event_location": "Online",
-      "is_online": true,
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-      "talk_tags": [
-        "leadership",
-        "data-culture",
-        "analytics-engineering",
-        "strategy"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
-      "conference_themes": [
-        "ai",
-        "cloud",
-        "web",
-        "open-source",
-        "leadership"
-      ],
-      "conference_categories": [
-        "everything from strategy",
-        "please submit them and get in touch with us",
-        "talks on all aspects of power bi or microsoft fabric",
-        "speakers to run a ~60 minute session",
-        "analytics and visualisation",
-        "architecture through to modelling"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "leadership",
-          "data-culture",
-          "analytics-engineering",
-          "strategy"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.28,
-        "tag_relevance": 0.177,
-        "talk_match_score": 0.059,
-        "urgency_score": 0.4,
-        "format_score": 0.7,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.664138+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 5.0)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.664141+00:00",
-      "updated_at": "2026-04-08T12:28:22.664143+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
