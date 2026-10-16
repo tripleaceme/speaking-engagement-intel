@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-15T10:59:33.966888+00:00",
-    "total_cfps": 141,
+    "last_crawled": "2026-10-16T10:55:36.740322+00:00",
+    "total_cfps": 142,
     "open_cfps": 64,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 0,
+    "new_this_run": 1,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-10-15T10:59:34.126371+00:00",
+    "last_scored": "2026-10-16T10:55:37.689177+00:00",
     "high_priority": 0,
-    "medium_priority": 3,
+    "medium_priority": 2,
     "above_threshold": 47
   },
   "cfps": [
@@ -188,7 +188,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-04-08T12:25:45.455359+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "data",
@@ -228,17 +228,7 @@
         "abstract"
       ],
       "enriched_at": "2026-04-08T12:26:18.691680+00:00",
-      "match_scores": {
-        "composite_score": 0.421,
-        "tag_relevance": 0.331,
-        "talk_match_score": 0.118,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "179b76777b995df7",
@@ -9939,6 +9929,121 @@
         "suggested_talk_level": "intermediate",
         "priority": "medium",
         "travel_sponsorship": "partial"
+      }
+    },
+    {
+      "id": "abc0d2a1ede8f758",
+      "source": "callfordataspeakers",
+      "title": "Data Point Prague 2027",
+      "url": "https://sessionize.com/data-point-prague-2027",
+      "cfp_url": "https://sessionize.com/data-point-prague-2027",
+      "description": "Data Point Prague 2027: Call for Speakers @ Sessionize. Our home turf is the Microsoft data stack: Microsoft Fabric, Power BI, SQL Server and Azure. We are just as interested in what runs beside it and on top of it: Databricks, Snowflake, open table formats, and the AI tools  that now touch every layer of the stack.",
+      "tags": [
+        "python",
+        "europe",
+        "data",
+        "cloud",
+        "database",
+        "ai",
+        "open-source",
+        "conference,precon",
+        "security",
+        "devops",
+        "testing",
+        "leadership",
+        "education",
+        "web"
+      ],
+      "deadline": "",
+      "event_date": "2027-05-19",
+      "location": "Prague, Czechia",
+      "is_online": false,
+      "travel_sponsorship": "yes",
+      "event_type": "conference,precon",
+      "discovered_at": "2026-10-16T10:55:35.974401+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "data",
+          "confidence": 1.0
+        },
+        {
+          "theme": "database",
+          "confidence": 1.0
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "python",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "what runs beside it and on top of it: databricks",
+        "at cubex centrum prague",
+        "open table formats",
+        "we program by theme",
+        "snowflake",
+        "and the ai tools  that now touch every layer of the stack",
+        "na str\u017ei 2097",
+        "and we are aiming for 400+ in 2027"
+      ],
+      "speaker_perks": {
+        "hotel": true,
+        "dinner": true
+      },
+      "submission_fields": [
+        "abstract",
+        "takeaway",
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-10-16T10:55:37.615829+00:00",
+      "match_scores": {
+        "composite_score": 0.375,
+        "tag_relevance": 0.607,
+        "talk_match_score": 0.157,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "yes"
       }
     }
   ]

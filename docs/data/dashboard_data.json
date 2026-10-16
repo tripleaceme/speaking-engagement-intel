@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-15T10:59:34.238003+00:00",
+  "generated_at": "2026-10-16T10:55:37.799328+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 141,
+    "total_cfps_discovered": 142,
     "open_cfps": 64,
-    "expired_cfps": 77,
-    "total_applications": 124,
+    "expired_cfps": 78,
+    "total_applications": 125,
     "drafts": 47,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 77,
+    "expired_apps": 78,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-15T10:59:33.966888+00:00",
+    "last_crawled": "2026-10-16T10:55:36.740322+00:00",
     "sources_checked": 9,
-    "travel_yes": 2,
+    "travel_yes": 3,
     "travel_partial": 4,
-    "travel_unknown": 58
+    "travel_unknown": 57
   },
   "timeline": [
     {
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 16
+      "draft": 15
     },
     {
       "month": "2026-05",
@@ -79,13 +79,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 6
+      "draft": 7
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 68
+      "count": 69
     },
     {
       "source": "confs.tech",
@@ -106,8 +106,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 3,
-    "low": 61
+    "medium": 2,
+    "low": 62
   },
   "tag_cloud": [
     {
@@ -132,7 +132,7 @@
     },
     {
       "tag": "database",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "cloud",
@@ -144,7 +144,7 @@
     },
     {
       "tag": "security",
-      "count": 31
+      "count": 32
     },
     {
       "tag": "conference",
@@ -152,7 +152,7 @@
     },
     {
       "tag": "devops",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "call-for-papers",
@@ -183,6 +183,10 @@
       "count": 10
     },
     {
+      "tag": "europe",
+      "count": 10
+    },
+    {
       "tag": "event-management",
       "count": 9
     },
@@ -191,12 +195,12 @@
       "count": 9
     },
     {
-      "tag": "europe",
-      "count": 9
-    },
-    {
       "tag": "cloudflare-workers",
       "count": 8
+    },
+    {
+      "tag": "python",
+      "count": 6
     },
     {
       "tag": "usergroup",
@@ -208,10 +212,6 @@
     },
     {
       "tag": "events",
-      "count": 5
-    },
-    {
-      "tag": "python",
       "count": 5
     },
     {
@@ -279,31 +279,6 @@
       "tag_relevance": 0.507,
       "talk_match": 0.118,
       "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
-      "id": "2353c784b684765d",
-      "title": "Global Summit on Data Science and Cloud Computing",
-      "source": "confs.tech",
-      "url": "https://datascience.novelticsconferences.com/register",
-      "deadline": "2026-10-15",
-      "event_date": "2026-10-19",
-      "location": "Rome, Italy",
-      "is_online": false,
-      "tags": [
-        "cloud",
-        "education",
-        "testing",
-        "ai",
-        "leadership"
-      ],
-      "score": 0.421,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.331,
-      "talk_match": 0.118,
-      "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -381,6 +356,31 @@
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "abc0d2a1ede8f758",
+      "title": "Data Point Prague 2027",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/data-point-prague-2027",
+      "deadline": "",
+      "event_date": "2027-05-19",
+      "location": "Prague, Czechia",
+      "is_online": false,
+      "tags": [
+        "python",
+        "europe",
+        "data",
+        "cloud",
+        "database"
+      ],
+      "score": 0.375,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.607,
+      "talk_match": 0.157,
+      "urgency": 0.1,
+      "travel_sponsorship": "yes",
+      "event_type": "conference,precon"
     },
     {
       "id": "f5236e3008d6c44b",
@@ -1140,7 +1140,7 @@
       "cfp_url": "https://datascience.novelticsconferences.com/register",
       "deadline": "2026-10-15",
       "event_date": "2026-10-19",
-      "status": "draft",
+      "status": "expired",
       "score": 0.421,
       "priority": "medium",
       "created_at": "2026-04-08T12:28:22.660903+00:00",
@@ -1711,6 +1711,26 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.5)",
       "is_online": true,
       "event_location": "TBD, TBD"
+    },
+    {
+      "id": "2685e6944350a878",
+      "cfp_title": "Data Point Prague 2027",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-point-prague-2027",
+      "deadline": "",
+      "event_date": "2027-05-19",
+      "status": "draft",
+      "score": 0.375,
+      "priority": "low",
+      "created_at": "2026-10-16T10:55:37.745412+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'data' (score: 12.8)",
+      "is_online": false,
+      "event_location": "Prague, Czechia"
     },
     {
       "id": "cdf1f660bb88de25",
@@ -3224,7 +3244,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 26,
+      "applications": 27,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -3296,15 +3316,6 @@
     }
   ],
   "upcoming_deadlines": [
-    {
-      "title": "Global Summit on Data Science and Cloud Computing",
-      "deadline": "2026-10-15",
-      "source": "confs.tech",
-      "score": 0.421,
-      "url": "https://datascience.novelticsconferences.com/register",
-      "travel_sponsorship": "unknown",
-      "location": "Rome, Italy"
-    },
     {
       "title": "VIC AI Boom",
       "deadline": "2026-10-16",
@@ -3385,6 +3396,15 @@
       "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
       "travel_sponsorship": "unknown",
       "location": "Virtual"
+    },
+    {
+      "title": "Big Data Europe",
+      "deadline": "2026-11-23",
+      "source": "confs.tech",
+      "score": 0.345,
+      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "travel_sponsorship": "unknown",
+      "location": "Vilnius, Lithuania"
     }
   ]
 }

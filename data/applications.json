@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_updated": "2026-10-15T10:59:34.186017+00:00",
-    "total_applications": 124,
+    "last_updated": "2026-10-16T10:55:37.747387+00:00",
+    "total_applications": 125,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
     "total_drafts": 47,
-    "total_expired": 77,
+    "total_expired": 78,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 77,
+      "expired": 78,
       "draft": 47
     },
     "unique_talk_titles": 8
@@ -1806,16 +1806,21 @@
         "priority": "medium",
         "travel_sponsorship": "unknown"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-04-08T12:28:22.660899+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 6.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-10-16T10:55:37.747288+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-04-08T12:28:22.660903+00:00",
-      "updated_at": "2026-04-08T12:28:22.660905+00:00",
+      "updated_at": "2026-10-16T10:55:37.747292+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -4225,6 +4230,99 @@
       ],
       "created_at": "2026-04-18T07:12:25.442699+00:00",
       "updated_at": "2026-07-11T07:58:22.237646+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "2685e6944350a878",
+      "cfp_id": "abc0d2a1ede8f758",
+      "cfp_title": "Data Point Prague 2027",
+      "cfp_url": "https://sessionize.com/data-point-prague-2027",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "",
+      "event_date": "2027-05-19",
+      "event_location": "Prague, Czechia",
+      "is_online": false,
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+      "talk_tags": [
+        "dbt",
+        "data-quality",
+        "documentation",
+        "analytics-engineering",
+        "ai"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'data' (score: 12.8)",
+      "conference_themes": [
+        "data",
+        "database",
+        "ai",
+        "devops",
+        "web",
+        "open-source",
+        "cloud",
+        "security",
+        "python",
+        "leadership",
+        "education",
+        "testing"
+      ],
+      "conference_categories": [
+        "what runs beside it and on top of it: databricks",
+        "at cubex centrum prague",
+        "open table formats",
+        "we program by theme",
+        "snowflake",
+        "and the ai tools  that now touch every layer of the stack",
+        "na str\u017ei 2097",
+        "and we are aiming for 400+ in 2027"
+      ],
+      "travel_sponsorship": "yes",
+      "speaker_perks": {
+        "hotel": true,
+        "dinner": true
+      },
+      "proposal": {
+        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "dbt",
+          "data-quality",
+          "documentation",
+          "analytics-engineering",
+          "ai"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.375,
+        "tag_relevance": 0.607,
+        "talk_match_score": 0.157,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "yes"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-10-16T10:55:37.745405+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 12.8)"
+        }
+      ],
+      "created_at": "2026-10-16T10:55:37.745412+00:00",
+      "updated_at": "2026-10-16T10:55:37.745414+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
