@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:55:37.799328+00:00",
+  "generated_at": "2026-10-17T10:17:14.155784+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 142,
-    "open_cfps": 64,
-    "expired_cfps": 78,
+    "open_cfps": 63,
+    "expired_cfps": 79,
     "total_applications": 125,
-    "drafts": 47,
+    "drafts": 46,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 78,
+    "expired_apps": 79,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-16T10:55:36.740322+00:00",
+    "last_crawled": "2026-10-17T10:17:13.834798+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 4,
-    "travel_unknown": 57
+    "travel_unknown": 56
   },
   "timeline": [
     {
@@ -79,7 +79,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 7
+      "draft": 6
     }
   ],
   "source_breakdown": [
@@ -107,12 +107,12 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 2,
-    "low": 62
+    "low": 61
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 63
+      "count": 62
     },
     {
       "tag": "web",
@@ -120,11 +120,11 @@
     },
     {
       "tag": "open-source",
-      "count": 54
+      "count": 53
     },
     {
       "tag": "data",
-      "count": 48
+      "count": 47
     },
     {
       "tag": "leadership",
@@ -233,6 +233,31 @@
   ],
   "top_matches": [
     {
+      "id": "1fa1514088c24453",
+      "title": "Build It Summit",
+      "source": "confs.tech",
+      "url": "https://builditsummit.com/call-for-speakers",
+      "deadline": "2026-10-31",
+      "event_date": "2026-12-01",
+      "location": "Paris, France",
+      "is_online": false,
+      "tags": [
+        "ai",
+        "leadership",
+        "data",
+        "web",
+        "open-source"
+      ],
+      "score": 0.453,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.507,
+      "talk_match": 0.118,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
+    },
+    {
       "id": "72e7f737394729b1",
       "title": "DevFestMN",
       "source": "confs.tech",
@@ -255,31 +280,6 @@
       "talk_match": 0.133,
       "urgency": 1.0,
       "travel_sponsorship": "partial",
-      "event_type": "conference"
-    },
-    {
-      "id": "1fa1514088c24453",
-      "title": "Build It Summit",
-      "source": "confs.tech",
-      "url": "https://builditsummit.com/call-for-speakers",
-      "deadline": "2026-10-31",
-      "event_date": "2026-12-01",
-      "location": "Paris, France",
-      "is_online": false,
-      "tags": [
-        "ai",
-        "leadership",
-        "data",
-        "web",
-        "open-source"
-      ],
-      "score": 0.423,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.507,
-      "talk_match": 0.118,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
     {
@@ -381,6 +381,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "yes",
       "event_type": "conference,precon"
+    },
+    {
+      "id": "d0cc2324e95fcdb3",
+      "title": "DataTune 2027",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/datatune-2027",
+      "deadline": "2026-11-16",
+      "event_date": "2027-03-12",
+      "location": "Nashville, Tennessee, United States",
+      "is_online": false,
+      "tags": [
+        "ai",
+        "education",
+        "data",
+        "north america",
+        "web"
+      ],
+      "score": 0.363,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.337,
+      "talk_match": 0.118,
+      "urgency": 0.6,
+      "travel_sponsorship": "partial",
+      "event_type": "conference, precon"
     },
     {
       "id": "f5236e3008d6c44b",
@@ -583,54 +608,6 @@
       "event_type": "conference"
     },
     {
-      "id": "d0cc2324e95fcdb3",
-      "title": "DataTune 2027",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/datatune-2027",
-      "deadline": "2026-11-16",
-      "event_date": "2027-03-12",
-      "location": "Nashville, Tennessee, United States",
-      "is_online": false,
-      "tags": [
-        "ai",
-        "education",
-        "data",
-        "north america",
-        "web"
-      ],
-      "score": 0.333,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.337,
-      "talk_match": 0.118,
-      "urgency": 0.4,
-      "travel_sponsorship": "partial",
-      "event_type": "conference, precon"
-    },
-    {
-      "id": "3b988d01371e313a",
-      "title": "VIC AI Boom",
-      "source": "confs.tech",
-      "url": "https://forms.gle/gRGNcMAqbwxPaYpC6",
-      "deadline": "2026-10-16",
-      "event_date": "2026-11-13",
-      "location": "Melbourne, Australia",
-      "is_online": false,
-      "tags": [
-        "data",
-        "ai",
-        "open-source"
-      ],
-      "score": 0.326,
-      "priority": "low",
-      "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-      "tag_relevance": 0.165,
-      "talk_match": 0.061,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "0fe3d15f3fc2db8f",
       "title": "Sheffield (UK) Data Analytics User Group 2026-27",
       "source": "callfordataspeakers",
@@ -729,6 +706,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "partial",
       "event_type": "external"
+    },
+    {
+      "id": "cf61797b20c3dd06",
+      "title": "yegor256/awesome-cfp",
+      "source": "github",
+      "url": "https://github.com/yegor256/awesome-cfp",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "conferences",
+        "python",
+        "security",
+        "call-for-papers",
+        "cfp"
+      ],
+      "score": 0.315,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.348,
+      "talk_match": 0.06,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
     }
   ],
   "applications": [
@@ -891,6 +893,26 @@
       "match_reason": "Conference themes align with 'database' (score: 7.0)",
       "is_online": false,
       "event_location": "Edinburgh, United Kingdom"
+    },
+    {
+      "id": "db970c8213dd487c",
+      "cfp_title": "Build It Summit",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://builditsummit.com/call-for-speakers",
+      "deadline": "2026-10-31",
+      "event_date": "2026-12-01",
+      "status": "draft",
+      "score": 0.453,
+      "priority": "medium",
+      "created_at": "2026-09-19T10:28:54.077590+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": false,
+      "event_location": "Paris, France"
     },
     {
       "id": "e7535e1aad2d5567",
@@ -1111,26 +1133,6 @@
       "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
       "is_online": false,
       "event_location": "Minneapolis, MN, U.S.A."
-    },
-    {
-      "id": "db970c8213dd487c",
-      "cfp_title": "Build It Summit",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://builditsummit.com/call-for-speakers",
-      "deadline": "2026-10-31",
-      "event_date": "2026-12-01",
-      "status": "draft",
-      "score": 0.423,
-      "priority": "medium",
-      "created_at": "2026-09-19T10:28:54.077590+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
-      "is_online": false,
-      "event_location": "Paris, France"
     },
     {
       "id": "ff9a70eb4d6e1d74",
@@ -1813,6 +1815,26 @@
       "event_location": "Amsterdam, Netherlands"
     },
     {
+      "id": "61fca5fd04659881",
+      "cfp_title": "DataTune 2027",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/datatune-2027",
+      "deadline": "2026-11-16",
+      "event_date": "2027-03-12",
+      "status": "draft",
+      "score": 0.363,
+      "priority": "low",
+      "created_at": "2026-10-02T12:02:22.034931+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'data' (score: 6.7)",
+      "is_online": false,
+      "event_location": "Nashville, Tennessee, United States"
+    },
+    {
       "id": "ff2bca83f7780b86",
       "cfp_title": "Code Europe",
       "talk_title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
@@ -2193,26 +2215,6 @@
       "event_location": "Brisbane, Australia"
     },
     {
-      "id": "61fca5fd04659881",
-      "cfp_title": "DataTune 2027",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/datatune-2027",
-      "deadline": "2026-11-16",
-      "event_date": "2027-03-12",
-      "status": "draft",
-      "score": 0.333,
-      "priority": "low",
-      "created_at": "2026-10-02T12:02:22.034931+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'data' (score: 6.7)",
-      "is_online": false,
-      "event_location": "Nashville, Tennessee, United States"
-    },
-    {
       "id": "9cbedab72f22fb65",
       "cfp_title": "FabFest 2026",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2300,7 +2302,7 @@
       "cfp_url": "https://forms.gle/gRGNcMAqbwxPaYpC6",
       "deadline": "2026-10-16",
       "event_date": "2026-11-13",
-      "status": "draft",
+      "status": "expired",
       "score": 0.326,
       "priority": "low",
       "created_at": "2026-10-10T12:03:42.497532+00:00",
@@ -3317,15 +3319,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "VIC AI Boom",
-      "deadline": "2026-10-16",
-      "source": "confs.tech",
-      "score": 0.326,
-      "url": "https://forms.gle/gRGNcMAqbwxPaYpC6",
-      "travel_sponsorship": "unknown",
-      "location": "Melbourne, Australia"
-    },
-    {
       "title": "Power BI Gebruikersdagen 2027",
       "deadline": "2026-10-17",
       "source": "callfordataspeakers",
@@ -3347,7 +3340,7 @@
       "title": "Build It Summit",
       "deadline": "2026-10-31",
       "source": "confs.tech",
-      "score": 0.423,
+      "score": 0.453,
       "url": "https://builditsummit.com/call-for-speakers",
       "travel_sponsorship": "unknown",
       "location": "Paris, France"
@@ -3383,7 +3376,7 @@
       "title": "DataTune 2027",
       "deadline": "2026-11-16",
       "source": "callfordataspeakers",
-      "score": 0.333,
+      "score": 0.363,
       "url": "https://sessionize.com/datatune-2027",
       "travel_sponsorship": "partial",
       "location": "Nashville, Tennessee, United States"
@@ -3405,6 +3398,15 @@
       "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
       "travel_sponsorship": "unknown",
       "location": "Vilnius, Lithuania"
+    },
+    {
+      "title": "SQLDay 2027",
+      "deadline": "2026-12-31",
+      "source": "callfordataspeakers",
+      "score": 0.336,
+      "url": "https://sessionize.com/sqlday-2027",
+      "travel_sponsorship": "unknown",
+      "location": "Wroc\u0142aw, Poland"
     }
   ]
 }

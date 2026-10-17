@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-16T10:55:36.740322+00:00",
+    "last_crawled": "2026-10-17T10:17:13.834798+00:00",
     "total_cfps": 142,
-    "open_cfps": 64,
+    "open_cfps": 63,
     "sources_checked": 9,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "expired_this_run": 1,
-    "travel_sponsorship_yes": 2,
+    "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-10-16T10:55:37.689177+00:00",
+    "last_scored": "2026-10-17T10:17:14.017493+00:00",
     "high_priority": 0,
     "medium_priority": 2,
-    "above_threshold": 47
+    "above_threshold": 46
   },
   "cfps": [
     {
@@ -9085,10 +9085,10 @@
       ],
       "enriched_at": "2026-09-19T10:28:53.635159+00:00",
       "match_scores": {
-        "composite_score": 0.423,
+        "composite_score": 0.453,
         "tag_relevance": 0.507,
         "talk_match_score": 0.118,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -9505,10 +9505,10 @@
       ],
       "enriched_at": "2026-10-02T12:02:21.905681+00:00",
       "match_scores": {
-        "composite_score": 0.333,
+        "composite_score": 0.363,
         "tag_relevance": 0.337,
         "talk_match_score": 0.118,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -9739,7 +9739,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-10-10T12:03:38.733163+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -9754,17 +9754,7 @@
         "category"
       ],
       "enriched_at": "2026-10-10T12:03:42.365553+00:00",
-      "match_scores": {
-        "composite_score": 0.326,
-        "tag_relevance": 0.165,
-        "talk_match_score": 0.061,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "d188f96312ebae28",
