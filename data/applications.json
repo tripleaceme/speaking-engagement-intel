@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_updated": "2026-10-17T10:17:14.092075+00:00",
-    "total_applications": 125,
+    "last_updated": "2026-10-18T10:32:57.385385+00:00",
+    "total_applications": 126,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
     "total_drafts": 46,
-    "total_expired": 79,
+    "total_expired": 80,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
-      "expired": 79,
+      "expired": 80,
       "draft": 46
     },
     "unique_talk_titles": 8
@@ -3061,6 +3061,90 @@
       "notes": ""
     },
     {
+      "id": "14f24ec0a257b5c7",
+      "cfp_id": "817753aaf9b0bac3",
+      "cfp_title": "Microsoft Fabric Cafe 2026",
+      "cfp_url": "https://sessionize.com/microsoft-fabric-cafe-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-11-01",
+      "event_date": "2026-01-02",
+      "event_location": "Virtual - InPerson",
+      "is_online": true,
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+      "talk_tags": [
+        "dbt",
+        "data-quality",
+        "documentation",
+        "analytics-engineering",
+        "ai"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'data' (score: 13.7)",
+      "conference_themes": [
+        "data",
+        "web",
+        "education",
+        "ai",
+        "open-source"
+      ],
+      "conference_categories": [
+        "all things microsoft fabric",
+        "including data engineering",
+        "time intelligence",
+        "data warehousing",
+        "data integration",
+        "data science",
+        "and business intelligence",
+        "real",
+        "speaking at one of our sessions"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "dbt",
+          "data-quality",
+          "documentation",
+          "analytics-engineering",
+          "ai"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.408,
+        "tag_relevance": 0.371,
+        "talk_match_score": 0.06,
+        "urgency_score": 0.8,
+        "format_score": 0.7,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-04-08T12:28:22.663724+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 13.7)"
+        }
+      ],
+      "created_at": "2026-04-08T12:28:22.663727+00:00",
+      "updated_at": "2026-04-08T12:28:22.663729+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "a0c4f8271ff446ff",
       "cfp_id": "0a75fc53d01cae41",
       "cfp_title": "WeAreDevelopers Conference India",
@@ -3550,16 +3634,21 @@
         "priority": "low",
         "travel_sponsorship": "yes"
       },
-      "status": "draft",
+      "status": "expired",
       "status_history": [
         {
           "status": "draft",
           "timestamp": "2026-09-29T12:19:18.129838+00:00",
           "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 7.0)"
+        },
+        {
+          "status": "expired",
+          "timestamp": "2026-10-18T10:32:57.385291+00:00",
+          "note": "CFP deadline passed without submission"
         }
       ],
       "created_at": "2026-09-29T12:19:18.129843+00:00",
-      "updated_at": "2026-09-29T12:19:18.129844+00:00",
+      "updated_at": "2026-10-18T10:32:57.385296+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -4070,90 +4159,6 @@
       ],
       "created_at": "2026-08-18T06:44:07.104013+00:00",
       "updated_at": "2026-08-18T06:44:07.104015+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "14f24ec0a257b5c7",
-      "cfp_id": "817753aaf9b0bac3",
-      "cfp_title": "Microsoft Fabric Cafe 2026",
-      "cfp_url": "https://sessionize.com/microsoft-fabric-cafe-2026",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-11-01",
-      "event_date": "2026-01-02",
-      "event_location": "Virtual - InPerson",
-      "is_online": true,
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-      "talk_tags": [
-        "dbt",
-        "data-quality",
-        "documentation",
-        "analytics-engineering",
-        "ai"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'data' (score: 13.7)",
-      "conference_themes": [
-        "data",
-        "web",
-        "education",
-        "ai",
-        "open-source"
-      ],
-      "conference_categories": [
-        "all things microsoft fabric",
-        "including data engineering",
-        "time intelligence",
-        "data warehousing",
-        "data integration",
-        "data science",
-        "and business intelligence",
-        "real",
-        "speaking at one of our sessions"
-      ],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "dbt",
-          "data-quality",
-          "documentation",
-          "analytics-engineering",
-          "ai"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.378,
-        "tag_relevance": 0.371,
-        "talk_match_score": 0.06,
-        "urgency_score": 0.6,
-        "format_score": 0.7,
-        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-04-08T12:28:22.663724+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 13.7)"
-        }
-      ],
-      "created_at": "2026-04-08T12:28:22.663727+00:00",
-      "updated_at": "2026-04-08T12:28:22.663729+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
@@ -8421,6 +8426,77 @@
       ],
       "created_at": "2026-07-29T08:42:41.525352+00:00",
       "updated_at": "2026-08-13T07:35:48.675390+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "e3aedeada2e896d2",
+      "cfp_id": "e738e08884b10d47",
+      "cfp_title": "Power BI & Fabric Barcelona November 2026",
+      "cfp_url": "https://sessionize.com/power-bi-fabric-barcelona-nov-2026",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-10-31",
+      "event_date": "2026-11-19",
+      "event_location": "Plain Concepts, Carrer del Comte d'Urgell, 240, 6B, Eixample, 08036 Barcelona",
+      "is_online": false,
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "talk_abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+      "talk_tags": [
+        "ai",
+        "llm",
+        "data-governance",
+        "dbt",
+        "automation"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
+      "conference_themes": [
+        "ai",
+        "web"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+        "abstract": "Most organizations want to adopt AI but struggle with the foundation: trustworthy, well-documented data. I'll show how I integrated LLMs into the analytics engineering workflow to auto-generate documentation, detect anomalies, and enforce governance rules \u2014 all within dbt and the modern data stack. This isn't AI hype \u2014 it's practical automation that increased documentation coverage by 35% and saved $3K/month in tooling costs. Attendees will leave with a playbook for adding AI to their own data workflows.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "ai",
+          "llm",
+          "data-governance",
+          "dbt",
+          "automation"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.289,
+        "tag_relevance": 0.179,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.8,
+        "format_score": 0.5,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-10-18T10:32:57.383405+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'ai' (score: 4.5)"
+        }
+      ],
+      "created_at": "2026-10-18T10:32:57.383413+00:00",
+      "updated_at": "2026-10-18T10:32:57.383415+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

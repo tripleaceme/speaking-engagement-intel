@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-17T10:17:13.834798+00:00",
-    "total_cfps": 142,
+    "last_crawled": "2026-10-18T10:32:56.413665+00:00",
+    "total_cfps": 143,
     "open_cfps": 63,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 1,
-    "travel_sponsorship_yes": 3,
+    "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 4,
-    "last_scored": "2026-10-17T10:17:14.017493+00:00",
+    "last_scored": "2026-10-18T10:32:57.328045+00:00",
     "high_priority": 0,
-    "medium_priority": 2,
+    "medium_priority": 3,
     "above_threshold": 46
   },
   "cfps": [
@@ -2287,14 +2287,14 @@
       ],
       "enriched_at": "2026-04-08T12:27:36.049126+00:00",
       "match_scores": {
-        "composite_score": 0.378,
+        "composite_score": 0.408,
         "tag_relevance": 0.371,
         "talk_match_score": 0.06,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.7,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
-        "priority": "low",
+        "priority": "medium",
         "travel_sponsorship": "unknown"
       }
     },
@@ -9304,7 +9304,7 @@
       "travel_sponsorship": "yes",
       "event_type": "conference",
       "discovered_at": "2026-09-29T12:19:16.419555+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "education",
@@ -9352,17 +9352,7 @@
         "twitter"
       ],
       "enriched_at": "2026-09-29T12:19:18.031253+00:00",
-      "match_scores": {
-        "composite_score": 0.395,
-        "tag_relevance": 0.364,
-        "talk_match_score": 0.059,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "yes"
-      }
+      "match_scores": null
     },
     {
       "id": "c07978bdc4863ac2",
@@ -10034,6 +10024,54 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "yes"
+      }
+    },
+    {
+      "id": "e738e08884b10d47",
+      "source": "callfordataspeakers",
+      "title": "Power BI & Fabric Barcelona November 2026",
+      "url": "https://sessionize.com/power-bi-fabric-barcelona-nov-2026",
+      "cfp_url": "https://sessionize.com/power-bi-fabric-barcelona-nov-2026",
+      "description": "Data usergroup \u2014 Plain Concepts, Carrer del Comte d'Urgell, 240, 6B, Eixample, 08036 Barcelona",
+      "tags": [
+        "usergroup",
+        "data",
+        "europe",
+        "ai",
+        "web"
+      ],
+      "deadline": "2026-10-31",
+      "event_date": "2026-11-19",
+      "location": "Plain Concepts, Carrer del Comte d'Urgell, 240, 6B, Eixample, 08036 Barcelona",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup",
+      "discovered_at": "2026-10-18T10:32:55.464477+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "twitter"
+      ],
+      "enriched_at": "2026-10-18T10:32:57.255054+00:00",
+      "match_scores": {
+        "composite_score": 0.289,
+        "tag_relevance": 0.179,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.8,
+        "format_score": 0.5,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
       }
     }
   ]

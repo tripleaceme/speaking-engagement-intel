@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-17T10:17:14.155784+00:00",
+  "generated_at": "2026-10-18T10:32:57.434955+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 142,
+    "total_cfps_discovered": 143,
     "open_cfps": 63,
-    "expired_cfps": 79,
-    "total_applications": 125,
+    "expired_cfps": 80,
+    "total_applications": 126,
     "drafts": 46,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 79,
+    "expired_apps": 80,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-17T10:17:13.834798+00:00",
+    "last_crawled": "2026-10-18T10:32:56.413665+00:00",
     "sources_checked": 9,
-    "travel_yes": 3,
+    "travel_yes": 2,
     "travel_partial": 4,
-    "travel_unknown": 56
+    "travel_unknown": 57
   },
   "timeline": [
     {
@@ -71,7 +71,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 6
+      "draft": 5
     },
     {
       "month": "2026-10",
@@ -79,13 +79,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 6
+      "draft": 7
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 69
+      "count": 70
     },
     {
       "source": "confs.tech",
@@ -106,8 +106,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 2,
-    "low": 61
+    "medium": 3,
+    "low": 60
   },
   "tag_cloud": [
     {
@@ -120,18 +120,18 @@
     },
     {
       "tag": "open-source",
-      "count": 53
+      "count": 52
     },
     {
       "tag": "data",
       "count": 47
     },
     {
-      "tag": "leadership",
-      "count": 43
+      "tag": "database",
+      "count": 42
     },
     {
-      "tag": "database",
+      "tag": "leadership",
       "count": 42
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "tag": "education",
-      "count": 34
+      "count": 33
     },
     {
       "tag": "security",
@@ -148,7 +148,7 @@
     },
     {
       "tag": "conference",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "devops",
@@ -199,11 +199,11 @@
       "count": 8
     },
     {
-      "tag": "python",
-      "count": 6
+      "tag": "usergroup",
+      "count": 7
     },
     {
-      "tag": "usergroup",
+      "tag": "python",
       "count": 6
     },
     {
@@ -283,29 +283,29 @@
       "event_type": "conference"
     },
     {
-      "id": "e94ef3ffb380788e",
-      "title": "Power BI Gebruikersdagen 2027",
+      "id": "817753aaf9b0bac3",
+      "title": "Microsoft Fabric Cafe 2026",
       "source": "callfordataspeakers",
-      "url": "https://sessionize.com/PBIG2027",
-      "deadline": "2026-10-17",
-      "event_date": "2027-03-04",
-      "location": "Utrecht, The Netherlands",
-      "is_online": false,
+      "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
+      "deadline": "2026-11-01",
+      "event_date": "2026-01-02",
+      "location": "Virtual - InPerson",
+      "is_online": true,
       "tags": [
         "education",
-        "europe",
+        "ai",
         "open-source",
-        "web",
-        "conference"
+        "usergroup",
+        "web"
       ],
-      "score": 0.395,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.364,
-      "talk_match": 0.059,
-      "urgency": 1.0,
-      "travel_sponsorship": "yes",
-      "event_type": "conference"
+      "score": 0.408,
+      "priority": "medium",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.371,
+      "talk_match": 0.06,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     },
     {
       "id": "15c695e6afe692d2",
@@ -331,31 +331,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": "precon"
-    },
-    {
-      "id": "817753aaf9b0bac3",
-      "title": "Microsoft Fabric Cafe 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
-      "deadline": "2026-11-01",
-      "event_date": "2026-01-02",
-      "location": "Virtual - InPerson",
-      "is_online": true,
-      "tags": [
-        "education",
-        "ai",
-        "open-source",
-        "usergroup",
-        "web"
-      ],
-      "score": 0.378,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.371,
-      "talk_match": 0.06,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     },
     {
       "id": "abc0d2a1ede8f758",
@@ -728,6 +703,31 @@
       "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
       "tag_relevance": 0.348,
       "talk_match": 0.06,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
+    },
+    {
+      "id": "6bf84ef1128c1e5f",
+      "title": "pretalx/pretalx",
+      "source": "github",
+      "url": "https://github.com/pretalx/pretalx",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "conference-management",
+        "django",
+        "pretalx",
+        "security",
+        "call-for-papers"
+      ],
+      "score": 0.312,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.354,
+      "talk_match": 0.044,
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
@@ -1435,6 +1435,26 @@
       "event_location": "Hanau am Main, Germany"
     },
     {
+      "id": "14f24ec0a257b5c7",
+      "cfp_title": "Microsoft Fabric Cafe 2026",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/microsoft-fabric-cafe-2026",
+      "deadline": "2026-11-01",
+      "event_date": "2026-01-02",
+      "status": "draft",
+      "score": 0.408,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.663727+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 13.7)",
+      "is_online": true,
+      "event_location": "Virtual - InPerson"
+    },
+    {
       "id": "a0c4f8271ff446ff",
       "cfp_title": "WeAreDevelopers Conference India",
       "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
@@ -1542,7 +1562,7 @@
       "cfp_url": "https://sessionize.com/PBIG2027",
       "deadline": "2026-10-17",
       "event_date": "2027-03-04",
-      "status": "draft",
+      "status": "expired",
       "score": 0.395,
       "priority": "low",
       "created_at": "2026-09-29T12:19:18.129843+00:00",
@@ -1673,26 +1693,6 @@
       "match_reason": "Conference themes align with 'database' (score: 7.3)",
       "is_online": false,
       "event_location": "Atlanta, Georgia, United States"
-    },
-    {
-      "id": "14f24ec0a257b5c7",
-      "cfp_title": "Microsoft Fabric Cafe 2026",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/microsoft-fabric-cafe-2026",
-      "deadline": "2026-11-01",
-      "event_date": "2026-01-02",
-      "status": "draft",
-      "score": 0.378,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.663727+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 13.7)",
-      "is_online": true,
-      "event_location": "Virtual - InPerson"
     },
     {
       "id": "ca1b621fe07c376e",
@@ -2735,6 +2735,26 @@
       "event_location": "Berlin, Germany"
     },
     {
+      "id": "e3aedeada2e896d2",
+      "cfp_title": "Power BI & Fabric Barcelona November 2026",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/power-bi-fabric-barcelona-nov-2026",
+      "deadline": "2026-10-31",
+      "event_date": "2026-11-19",
+      "status": "draft",
+      "score": 0.289,
+      "priority": "low",
+      "created_at": "2026-10-18T10:32:57.383413+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
+      "is_online": false,
+      "event_location": "Plain Concepts, Carrer del Comte d'Urgell, 240, 6B, Eixample, 08036 Barcelona"
+    },
+    {
       "id": "fe2ec725d498b6d2",
       "cfp_title": "Data Pulse 2026",
       "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
@@ -3238,7 +3258,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 44,
+      "applications": 45,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -3319,15 +3339,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Power BI Gebruikersdagen 2027",
-      "deadline": "2026-10-17",
-      "source": "callfordataspeakers",
-      "score": 0.395,
-      "url": "https://sessionize.com/PBIG2027",
-      "travel_sponsorship": "yes",
-      "location": "Utrecht, The Netherlands"
-    },
-    {
       "title": "DevFestMN",
       "deadline": "2026-10-20",
       "source": "confs.tech",
@@ -3346,10 +3357,19 @@
       "location": "Paris, France"
     },
     {
+      "title": "Power BI & Fabric Barcelona November 2026",
+      "deadline": "2026-10-31",
+      "source": "callfordataspeakers",
+      "score": 0.289,
+      "url": "https://sessionize.com/power-bi-fabric-barcelona-nov-2026",
+      "travel_sponsorship": "unknown",
+      "location": "Plain Concepts, Carrer del Comte d'Urgell, 240, 6B, Eixample, 08036 Barcelona"
+    },
+    {
       "title": "Microsoft Fabric Cafe 2026",
       "deadline": "2026-11-01",
       "source": "callfordataspeakers",
-      "score": 0.378,
+      "score": 0.408,
       "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
       "travel_sponsorship": "unknown",
       "location": "Virtual - InPerson"
