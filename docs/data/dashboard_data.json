@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:03:19.144935+00:00",
+  "generated_at": "2026-10-21T11:19:57.905681+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,21 +7,21 @@
   },
   "summary": {
     "total_cfps_discovered": 143,
-    "open_cfps": 63,
-    "expired_cfps": 80,
+    "open_cfps": 62,
+    "expired_cfps": 81,
     "total_applications": 126,
-    "drafts": 46,
+    "drafts": 45,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 80,
+    "expired_apps": 81,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-20T11:03:18.842761+00:00",
+    "last_crawled": "2026-10-21T11:19:57.701721+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
-    "travel_partial": 4,
+    "travel_partial": 3,
     "travel_unknown": 57
   },
   "timeline": [
@@ -79,7 +79,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 7
+      "draft": 6
     }
   ],
   "source_breakdown": [
@@ -106,21 +106,21 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 3,
+    "medium": 2,
     "low": 60
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 62
+      "count": 61
     },
     {
       "tag": "web",
-      "count": 56
+      "count": 55
     },
     {
       "tag": "open-source",
-      "count": 52
+      "count": 51
     },
     {
       "tag": "data",
@@ -128,23 +128,23 @@
     },
     {
       "tag": "database",
-      "count": 42
+      "count": 41
     },
     {
       "tag": "leadership",
-      "count": 42
+      "count": 41
     },
     {
       "tag": "cloud",
-      "count": 37
+      "count": 36
     },
     {
       "tag": "education",
-      "count": 33
+      "count": 32
     },
     {
       "tag": "security",
-      "count": 32
+      "count": 31
     },
     {
       "tag": "conference",
@@ -152,7 +152,7 @@
     },
     {
       "tag": "devops",
-      "count": 28
+      "count": 27
     },
     {
       "tag": "call-for-papers",
@@ -179,10 +179,6 @@
       "count": 11
     },
     {
-      "tag": "mobile",
-      "count": 10
-    },
-    {
       "tag": "europe",
       "count": 10
     },
@@ -192,6 +188,10 @@
     },
     {
       "tag": "north america",
+      "count": 9
+    },
+    {
+      "tag": "mobile",
       "count": 9
     },
     {
@@ -258,31 +258,6 @@
       "event_type": "conference"
     },
     {
-      "id": "72e7f737394729b1",
-      "title": "DevFestMN",
-      "source": "confs.tech",
-      "url": "https://devfest.mn/speaker-cfp",
-      "deadline": "2026-10-20",
-      "event_date": "2026-12-05",
-      "location": "Minneapolis, MN, U.S.A.",
-      "is_online": false,
-      "tags": [
-        "mobile",
-        "education",
-        "general",
-        "cloud",
-        "open-source"
-      ],
-      "score": 0.425,
-      "priority": "medium",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.329,
-      "talk_match": 0.133,
-      "urgency": 1.0,
-      "travel_sponsorship": "partial",
-      "event_type": "conference"
-    },
-    {
       "id": "817753aaf9b0bac3",
       "title": "Microsoft Fabric Cafe 2026",
       "source": "callfordataspeakers",
@@ -304,6 +279,31 @@
       "tag_relevance": 0.371,
       "talk_match": 0.06,
       "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
+      "id": "f5236e3008d6c44b",
+      "title": "San Diego SQL Server User Group",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
+      "deadline": "2026-11-20",
+      "event_date": "2026-01-15",
+      "location": "Virtual",
+      "is_online": false,
+      "tags": [
+        "database",
+        "north america",
+        "education",
+        "ai",
+        "open-source"
+      ],
+      "score": 0.391,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.523,
+      "talk_match": 0.059,
+      "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
     },
@@ -381,31 +381,6 @@
       "urgency": 0.6,
       "travel_sponsorship": "partial",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "f5236e3008d6c44b",
-      "title": "San Diego SQL Server User Group",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
-      "deadline": "2026-11-20",
-      "event_date": "2026-01-15",
-      "location": "Virtual",
-      "is_online": false,
-      "tags": [
-        "database",
-        "north america",
-        "education",
-        "ai",
-        "open-source"
-      ],
-      "score": 0.361,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.523,
-      "talk_match": 0.059,
-      "urgency": 0.4,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     },
     {
       "id": "4b5b66096d50fb98",
@@ -731,6 +706,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
+    },
+    {
+      "id": "7b657a58d4c3645e",
+      "title": "Fabric & Power BI Wales User Group",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/fabricpowerbiwales",
+      "deadline": "2026-11-14",
+      "event_date": "2026-01-15",
+      "location": "Online",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "ai",
+        "leadership",
+        "open-source",
+        "usergroup"
+      ],
+      "score": 0.31,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.177,
+      "talk_match": 0.059,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -1122,7 +1122,7 @@
       "cfp_url": "https://devfest.mn/speaker-cfp",
       "deadline": "2026-10-20",
       "event_date": "2026-12-05",
-      "status": "draft",
+      "status": "expired",
       "score": 0.425,
       "priority": "medium",
       "created_at": "2026-10-12T14:41:31.878100+00:00",
@@ -1635,6 +1635,26 @@
       "event_location": "Wilrijk, Belgium"
     },
     {
+      "id": "5e1414e189fef8fd",
+      "cfp_title": "San Diego SQL Server User Group",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/san-diego-sql-server-user-group8844",
+      "deadline": "2026-11-20",
+      "event_date": "2026-01-15",
+      "status": "draft",
+      "score": 0.391,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.664221+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 4.8)",
+      "is_online": false,
+      "event_location": "Virtual"
+    },
+    {
       "id": "b751f36df5b690c8",
       "cfp_title": "SQLDay Lite 2026",
       "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
@@ -1853,26 +1873,6 @@
       "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
       "is_online": true,
       "event_location": "Warsaw, Poland"
-    },
-    {
-      "id": "5e1414e189fef8fd",
-      "cfp_title": "San Diego SQL Server User Group",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/san-diego-sql-server-user-group8844",
-      "deadline": "2026-11-20",
-      "event_date": "2026-01-15",
-      "status": "draft",
-      "score": 0.361,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.664221+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 4.8)",
-      "is_online": false,
-      "event_location": "Virtual"
     },
     {
       "id": "d0c5b17b6549aee0",
@@ -3339,15 +3339,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "DevFestMN",
-      "deadline": "2026-10-20",
-      "source": "confs.tech",
-      "score": 0.425,
-      "url": "https://devfest.mn/speaker-cfp",
-      "travel_sponsorship": "partial",
-      "location": "Minneapolis, MN, U.S.A."
-    },
-    {
       "title": "Build It Summit",
       "deadline": "2026-10-31",
       "source": "confs.tech",
@@ -3405,7 +3396,7 @@
       "title": "San Diego SQL Server User Group",
       "deadline": "2026-11-20",
       "source": "callfordataspeakers",
-      "score": 0.361,
+      "score": 0.391,
       "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
       "travel_sponsorship": "unknown",
       "location": "Virtual"
@@ -3427,6 +3418,15 @@
       "url": "https://sessionize.com/sqlday-2027",
       "travel_sponsorship": "unknown",
       "location": "Wroc\u0142aw, Poland"
+    },
+    {
+      "title": "Pittsburgh Data UGs",
+      "deadline": "2027-01-01",
+      "source": "callfordataspeakers",
+      "score": 0.244,
+      "url": "https://sessionize.com/pittsburgh-data-ugs-2027",
+      "travel_sponsorship": "unknown",
+      "location": "162 East Bridge St, Homestead, PA 15120"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-20T11:03:18.842761+00:00",
+    "last_crawled": "2026-10-21T11:19:57.701721+00:00",
     "total_cfps": 143,
-    "open_cfps": 63,
+    "open_cfps": 62,
     "sources_checked": 9,
     "new_this_run": 0,
-    "expired_this_run": 0,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 2,
-    "travel_sponsorship_partial": 4,
-    "last_scored": "2026-10-20T11:03:19.026687+00:00",
+    "travel_sponsorship_partial": 3,
+    "last_scored": "2026-10-21T11:19:57.820139+00:00",
     "high_priority": 0,
-    "medium_priority": 3,
-    "above_threshold": 46
+    "medium_priority": 2,
+    "above_threshold": 45
   },
   "cfps": [
     {
@@ -2601,10 +2601,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:40.545796+00:00",
       "match_scores": {
-        "composite_score": 0.361,
+        "composite_score": 0.391,
         "tag_relevance": 0.523,
         "talk_match_score": 0.059,
-        "urgency_score": 0.4,
+        "urgency_score": 0.6,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -9840,7 +9840,7 @@
       "travel_sponsorship": "partial",
       "event_type": "conference",
       "discovered_at": "2026-10-12T14:41:27.322742+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "cloud",
@@ -9899,17 +9899,7 @@
         "topic"
       ],
       "enriched_at": "2026-10-12T14:41:31.734063+00:00",
-      "match_scores": {
-        "composite_score": 0.425,
-        "tag_relevance": 0.329,
-        "talk_match_score": 0.133,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
-        "priority": "medium",
-        "travel_sponsorship": "partial"
-      }
+      "match_scores": null
     },
     {
       "id": "abc0d2a1ede8f758",
