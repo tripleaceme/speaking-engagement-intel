@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-21T11:19:57.701721+00:00",
-    "total_cfps": 143,
-    "open_cfps": 62,
+    "last_crawled": "2026-10-22T11:19:30.918788+00:00",
+    "total_cfps": 144,
+    "open_cfps": 63,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 1,
+    "new_this_run": 1,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-10-21T11:19:57.820139+00:00",
+    "last_scored": "2026-10-22T11:19:31.621462+00:00",
     "high_priority": 0,
     "medium_priority": 2,
-    "above_threshold": 45
+    "above_threshold": 46
   },
   "cfps": [
     {
@@ -10060,6 +10060,78 @@
         "format_score": 0.5,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "809bdc1dbcad9542",
+      "source": "callfordataspeakers",
+      "title": "Groningen Data Platform Meetup Lighting Talks!",
+      "url": "https://sessionize.com/groningen-data-platform-meetup-lighting",
+      "cfp_url": "https://sessionize.com/groningen-data-platform-meetup-lighting",
+      "description": "Groningen Data Platform Meetup Lighting Talks!: Call for Speakers @ Sessionize. To speed up the selection process, we're only allowing 2 sessions to be submitted. Only submit a session that you're really passionate about and are willing to present.",
+      "tags": [
+        "blockchain",
+        "devops",
+        "web",
+        "database",
+        "ai",
+        "usergroup",
+        "python",
+        "data",
+        "leadership"
+      ],
+      "deadline": "2026-12-06",
+      "event_date": "2026-12-17",
+      "location": "Teams",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup",
+      "discovered_at": "2026-10-22T11:19:30.333369+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "python",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "blockchain",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "twitter"
+      ],
+      "enriched_at": "2026-10-22T11:19:31.533851+00:00",
+      "match_scores": {
+        "composite_score": 0.362,
+        "tag_relevance": 0.337,
+        "talk_match_score": 0.078,
+        "urgency_score": 0.4,
+        "format_score": 0.8,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }

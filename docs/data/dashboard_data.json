@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-21T11:19:57.905681+00:00",
+  "generated_at": "2026-10-22T11:19:31.749516+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 143,
-    "open_cfps": 62,
+    "total_cfps_discovered": 144,
+    "open_cfps": 63,
     "expired_cfps": 81,
-    "total_applications": 126,
-    "drafts": 45,
+    "total_applications": 127,
+    "drafts": 46,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 81,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-21T11:19:57.701721+00:00",
+    "last_crawled": "2026-10-22T11:19:30.918788+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
-    "travel_unknown": 57
+    "travel_unknown": 58
   },
   "timeline": [
     {
@@ -79,13 +79,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 6
+      "draft": 7
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 70
+      "count": 71
     },
     {
       "source": "confs.tech",
@@ -107,16 +107,16 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 2,
-    "low": 60
+    "low": 61
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 61
+      "count": 62
     },
     {
       "tag": "web",
-      "count": 55
+      "count": 56
     },
     {
       "tag": "open-source",
@@ -124,15 +124,15 @@
     },
     {
       "tag": "data",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "database",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "leadership",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "cloud",
@@ -152,7 +152,7 @@
     },
     {
       "tag": "devops",
-      "count": 27
+      "count": 28
     },
     {
       "tag": "call-for-papers",
@@ -176,7 +176,7 @@
     },
     {
       "tag": "blockchain",
-      "count": 11
+      "count": 12
     },
     {
       "tag": "europe",
@@ -195,16 +195,16 @@
       "count": 9
     },
     {
+      "tag": "usergroup",
+      "count": 8
+    },
+    {
       "tag": "cloudflare-workers",
       "count": 8
     },
     {
-      "tag": "usergroup",
-      "count": 7
-    },
-    {
       "tag": "python",
-      "count": 6
+      "count": 7
     },
     {
       "tag": "speaker-management",
@@ -381,6 +381,31 @@
       "urgency": 0.6,
       "travel_sponsorship": "partial",
       "event_type": "conference, precon"
+    },
+    {
+      "id": "809bdc1dbcad9542",
+      "title": "Groningen Data Platform Meetup Lighting Talks!",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/groningen-data-platform-meetup-lighting",
+      "deadline": "2026-12-06",
+      "event_date": "2026-12-17",
+      "location": "Teams",
+      "is_online": true,
+      "tags": [
+        "blockchain",
+        "devops",
+        "web",
+        "database",
+        "ai"
+      ],
+      "score": 0.362,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.337,
+      "talk_match": 0.078,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     },
     {
       "id": "4b5b66096d50fb98",
@@ -706,31 +731,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
-    },
-    {
-      "id": "7b657a58d4c3645e",
-      "title": "Fabric & Power BI Wales User Group",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/fabricpowerbiwales",
-      "deadline": "2026-11-14",
-      "event_date": "2026-01-15",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "ai",
-        "leadership",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.31,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.177,
-      "talk_match": 0.059,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -1873,6 +1873,26 @@
       "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
       "is_online": true,
       "event_location": "Warsaw, Poland"
+    },
+    {
+      "id": "d4edab1a1a5ed437",
+      "cfp_title": "Groningen Data Platform Meetup Lighting Talks!",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/groningen-data-platform-meetup-lighting",
+      "deadline": "2026-12-06",
+      "event_date": "2026-12-17",
+      "status": "draft",
+      "score": 0.362,
+      "priority": "low",
+      "created_at": "2026-10-22T11:19:31.686463+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 6.5)",
+      "is_online": true,
+      "event_location": "Teams"
     },
     {
       "id": "d0c5b17b6549aee0",
@@ -3258,7 +3278,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 45,
+      "applications": 46,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -3411,6 +3431,15 @@
       "location": "Vilnius, Lithuania"
     },
     {
+      "title": "Groningen Data Platform Meetup Lighting Talks!",
+      "deadline": "2026-12-06",
+      "source": "callfordataspeakers",
+      "score": 0.362,
+      "url": "https://sessionize.com/groningen-data-platform-meetup-lighting",
+      "travel_sponsorship": "unknown",
+      "location": "Teams"
+    },
+    {
       "title": "SQLDay 2027",
       "deadline": "2026-12-31",
       "source": "callfordataspeakers",
@@ -3418,15 +3447,6 @@
       "url": "https://sessionize.com/sqlday-2027",
       "travel_sponsorship": "unknown",
       "location": "Wroc\u0142aw, Poland"
-    },
-    {
-      "title": "Pittsburgh Data UGs",
-      "deadline": "2027-01-01",
-      "source": "callfordataspeakers",
-      "score": 0.244,
-      "url": "https://sessionize.com/pittsburgh-data-ugs-2027",
-      "travel_sponsorship": "unknown",
-      "location": "162 East Bridge St, Homestead, PA 15120"
     }
   ]
 }
