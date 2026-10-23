@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:19:31.749516+00:00",
+  "generated_at": "2026-10-23T11:10:16.800815+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 81,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-22T11:19:30.918788+00:00",
+    "last_crawled": "2026-10-23T11:10:16.495114+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
@@ -708,29 +708,29 @@
       "event_type": ""
     },
     {
-      "id": "6bf84ef1128c1e5f",
-      "title": "pretalx/pretalx",
-      "source": "github",
-      "url": "https://github.com/pretalx/pretalx",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
+      "id": "8c53be53b11f31fc",
+      "title": "Data Pulse 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/data-pulse-2026",
+      "deadline": "2026-11-06",
+      "event_date": "2026-11-26",
+      "location": "Reading, United Kingdom",
+      "is_online": false,
       "tags": [
-        "conference-management",
-        "django",
-        "pretalx",
-        "security",
-        "call-for-papers"
+        "europe",
+        "conference",
+        "leadership",
+        "web",
+        "data"
       ],
-      "score": 0.312,
+      "score": 0.314,
       "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.354,
-      "talk_match": 0.044,
-      "urgency": 0.1,
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.178,
+      "talk_match": 0.04,
+      "urgency": 0.8,
       "travel_sponsorship": "unknown",
-      "event_type": ""
+      "event_type": "conference"
     }
   ],
   "applications": [
@@ -2455,6 +2455,26 @@
       "event_location": ""
     },
     {
+      "id": "fe2ec725d498b6d2",
+      "cfp_title": "Data Pulse 2026",
+      "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-pulse-2026",
+      "deadline": "2026-11-06",
+      "event_date": "2026-11-26",
+      "status": "draft",
+      "score": 0.314,
+      "priority": "low",
+      "created_at": "2026-09-23T10:58:05.090766+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'web' (score: 5.5)",
+      "is_online": false,
+      "event_location": "Reading, United Kingdom"
+    },
+    {
       "id": "9f094061ee9949e3",
       "cfp_title": "pretalx/pretalx",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2773,26 +2793,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.5)",
       "is_online": false,
       "event_location": "Plain Concepts, Carrer del Comte d'Urgell, 240, 6B, Eixample, 08036 Barcelona"
-    },
-    {
-      "id": "fe2ec725d498b6d2",
-      "cfp_title": "Data Pulse 2026",
-      "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/data-pulse-2026",
-      "deadline": "2026-11-06",
-      "event_date": "2026-11-26",
-      "status": "draft",
-      "score": 0.284,
-      "priority": "low",
-      "created_at": "2026-09-23T10:58:05.090766+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'web' (score: 5.5)",
-      "is_online": false,
-      "event_location": "Reading, United Kingdom"
     },
     {
       "id": "8b8c86d1f91e3abb",
@@ -3389,7 +3389,7 @@
       "title": "Data Pulse 2026",
       "deadline": "2026-11-06",
       "source": "callfordataspeakers",
-      "score": 0.284,
+      "score": 0.314,
       "url": "https://sessionize.com/data-pulse-2026",
       "travel_sponsorship": "unknown",
       "location": "Reading, United Kingdom"
