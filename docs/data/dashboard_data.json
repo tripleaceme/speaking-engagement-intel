@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:10:16.800815+00:00",
+  "generated_at": "2026-10-24T10:28:17.064179+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 81,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-23T11:10:16.495114+00:00",
+    "last_crawled": "2026-10-24T10:28:16.746853+00:00",
     "sources_checked": 9,
     "travel_yes": 2,
     "travel_partial": 3,
@@ -248,12 +248,12 @@
         "web",
         "open-source"
       ],
-      "score": 0.453,
+      "score": 0.483,
       "priority": "medium",
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
       "tag_relevance": 0.507,
       "talk_match": 0.118,
-      "urgency": 0.8,
+      "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
@@ -331,6 +331,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": "precon"
+    },
+    {
+      "id": "5db72494993e6bc8",
+      "title": "Big Data Europe",
+      "source": "confs.tech",
+      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "deadline": "2026-11-23",
+      "event_date": "2026-11-24",
+      "location": "Vilnius, Lithuania",
+      "is_online": true,
+      "tags": [
+        "open-source",
+        "web",
+        "online",
+        "testing",
+        "data"
+      ],
+      "score": 0.375,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.338,
+      "talk_match": 0.089,
+      "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     },
     {
       "id": "abc0d2a1ede8f758",
@@ -455,31 +480,6 @@
       "talk_match": 0.06,
       "urgency": 0.1,
       "travel_sponsorship": "yes",
-      "event_type": "conference"
-    },
-    {
-      "id": "5db72494993e6bc8",
-      "title": "Big Data Europe",
-      "source": "confs.tech",
-      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
-      "deadline": "2026-11-23",
-      "event_date": "2026-11-24",
-      "location": "Vilnius, Lithuania",
-      "is_online": true,
-      "tags": [
-        "open-source",
-        "web",
-        "online",
-        "testing",
-        "data"
-      ],
-      "score": 0.345,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.338,
-      "talk_match": 0.089,
-      "urgency": 0.4,
-      "travel_sponsorship": "unknown",
       "event_type": "conference"
     },
     {
@@ -633,6 +633,31 @@
       "event_type": "usergroup"
     },
     {
+      "id": "e738e08884b10d47",
+      "title": "Power BI & Fabric Barcelona November 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/power-bi-fabric-barcelona-nov-2026",
+      "deadline": "2026-10-31",
+      "event_date": "2026-11-19",
+      "location": "Plain Concepts, Carrer del Comte d'Urgell, 240, 6B, Eixample, 08036 Barcelona",
+      "is_online": false,
+      "tags": [
+        "usergroup",
+        "data",
+        "europe",
+        "ai",
+        "web"
+      ],
+      "score": 0.319,
+      "priority": "low",
+      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+      "tag_relevance": 0.179,
+      "talk_match": 0.022,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
       "id": "78de4fe463d4aa28",
       "title": "SQL Saturday Wellington 2026",
       "source": "callfordataspeakers",
@@ -706,31 +731,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
-    },
-    {
-      "id": "8c53be53b11f31fc",
-      "title": "Data Pulse 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/data-pulse-2026",
-      "deadline": "2026-11-06",
-      "event_date": "2026-11-26",
-      "location": "Reading, United Kingdom",
-      "is_online": false,
-      "tags": [
-        "europe",
-        "conference",
-        "leadership",
-        "web",
-        "data"
-      ],
-      "score": 0.314,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.178,
-      "talk_match": 0.04,
-      "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     }
   ],
   "applications": [
@@ -773,6 +773,26 @@
       "match_reason": "Conference themes align with 'education' (score: 6.0)",
       "is_online": true,
       "event_location": "TBD, TBD"
+    },
+    {
+      "id": "db970c8213dd487c",
+      "cfp_title": "Build It Summit",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://builditsummit.com/call-for-speakers",
+      "deadline": "2026-10-31",
+      "event_date": "2026-12-01",
+      "status": "draft",
+      "score": 0.483,
+      "priority": "medium",
+      "created_at": "2026-09-19T10:28:54.077590+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": false,
+      "event_location": "Paris, France"
     },
     {
       "id": "cb123dd36e9b1c93",
@@ -893,26 +913,6 @@
       "match_reason": "Conference themes align with 'database' (score: 7.0)",
       "is_online": false,
       "event_location": "Edinburgh, United Kingdom"
-    },
-    {
-      "id": "db970c8213dd487c",
-      "cfp_title": "Build It Summit",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://builditsummit.com/call-for-speakers",
-      "deadline": "2026-10-31",
-      "event_date": "2026-12-01",
-      "status": "draft",
-      "score": 0.453,
-      "priority": "medium",
-      "created_at": "2026-09-19T10:28:54.077590+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
-      "is_online": false,
-      "event_location": "Paris, France"
     },
     {
       "id": "e7535e1aad2d5567",
@@ -1755,6 +1755,26 @@
       "event_location": "Prague, Czechia"
     },
     {
+      "id": "85e7993e5763732f",
+      "cfp_title": "Big Data Europe",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "deadline": "2026-11-23",
+      "event_date": "2026-11-24",
+      "status": "draft",
+      "score": 0.375,
+      "priority": "low",
+      "created_at": "2026-08-07T07:17:36.345470+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 6.0)",
+      "is_online": true,
+      "event_location": "Vilnius, Lithuania"
+    },
+    {
       "id": "cdf1f660bb88de25",
       "cfp_title": "Data Platform Women in Technology Virtual Group 2026",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2033,26 +2053,6 @@
       "match_reason": "Conference themes align with 'data' (score: 5.7)",
       "is_online": false,
       "event_location": "New York City, New York, United States"
-    },
-    {
-      "id": "85e7993e5763732f",
-      "cfp_title": "Big Data Europe",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
-      "deadline": "2026-11-23",
-      "event_date": "2026-11-24",
-      "status": "draft",
-      "score": 0.345,
-      "priority": "low",
-      "created_at": "2026-08-07T07:17:36.345470+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 6.0)",
-      "is_online": true,
-      "event_location": "Vilnius, Lithuania"
     },
     {
       "id": "7e85ca613dd5b674",
@@ -2393,6 +2393,26 @@
       "match_reason": "Conference themes align with 'leadership' (score: 4.5)",
       "is_online": false,
       "event_location": "Gdynia, Poland"
+    },
+    {
+      "id": "e3aedeada2e896d2",
+      "cfp_title": "Power BI & Fabric Barcelona November 2026",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/power-bi-fabric-barcelona-nov-2026",
+      "deadline": "2026-10-31",
+      "event_date": "2026-11-19",
+      "status": "draft",
+      "score": 0.319,
+      "priority": "low",
+      "created_at": "2026-10-18T10:32:57.383413+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
+      "is_online": false,
+      "event_location": "Plain Concepts, Carrer del Comte d'Urgell, 240, 6B, Eixample, 08036 Barcelona"
     },
     {
       "id": "de1a7663b8567eff",
@@ -2773,26 +2793,6 @@
       "match_reason": "Conference themes align with 'ai' (score: 4.0)",
       "is_online": true,
       "event_location": "Berlin, Germany"
-    },
-    {
-      "id": "e3aedeada2e896d2",
-      "cfp_title": "Power BI & Fabric Barcelona November 2026",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/power-bi-fabric-barcelona-nov-2026",
-      "deadline": "2026-10-31",
-      "event_date": "2026-11-19",
-      "status": "draft",
-      "score": 0.289,
-      "priority": "low",
-      "created_at": "2026-10-18T10:32:57.383413+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 4.5)",
-      "is_online": false,
-      "event_location": "Plain Concepts, Carrer del Comte d'Urgell, 240, 6B, Eixample, 08036 Barcelona"
     },
     {
       "id": "8b8c86d1f91e3abb",
@@ -3362,7 +3362,7 @@
       "title": "Build It Summit",
       "deadline": "2026-10-31",
       "source": "confs.tech",
-      "score": 0.453,
+      "score": 0.483,
       "url": "https://builditsummit.com/call-for-speakers",
       "travel_sponsorship": "unknown",
       "location": "Paris, France"
@@ -3371,7 +3371,7 @@
       "title": "Power BI & Fabric Barcelona November 2026",
       "deadline": "2026-10-31",
       "source": "callfordataspeakers",
-      "score": 0.289,
+      "score": 0.319,
       "url": "https://sessionize.com/power-bi-fabric-barcelona-nov-2026",
       "travel_sponsorship": "unknown",
       "location": "Plain Concepts, Carrer del Comte d'Urgell, 240, 6B, Eixample, 08036 Barcelona"
@@ -3425,7 +3425,7 @@
       "title": "Big Data Europe",
       "deadline": "2026-11-23",
       "source": "confs.tech",
-      "score": 0.345,
+      "score": 0.375,
       "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
       "travel_sponsorship": "unknown",
       "location": "Vilnius, Lithuania"
