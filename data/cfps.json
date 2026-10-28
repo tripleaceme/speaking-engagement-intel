@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-27T11:44:45.378478+00:00",
-    "total_cfps": 144,
-    "open_cfps": 63,
+    "last_crawled": "2026-10-28T12:17:42.249997+00:00",
+    "total_cfps": 145,
+    "open_cfps": 64,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 2,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-10-27T11:44:45.561618+00:00",
+    "last_scored": "2026-10-28T12:17:42.905054+00:00",
     "high_priority": 0,
     "medium_priority": 2,
-    "above_threshold": 46
+    "above_threshold": 47
   },
   "cfps": [
     {
@@ -10134,6 +10134,88 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "a79ab6d96e7d016e",
+      "source": "callfordataspeakers",
+      "title": "Data Platform Next Step",
+      "url": "https://sessionize.com/data-platform-next-step",
+      "cfp_url": "https://sessionize.com/data-platform-next-step",
+      "description": "Data Platform Next Step is a community-driven, in-person conference for data professionals seeking to advance their technical knowledge and expertise.",
+      "tags": [
+        "education",
+        "devops",
+        "conference",
+        "data",
+        "ai",
+        "cloud",
+        "open-source",
+        "web",
+        "europe"
+      ],
+      "deadline": "",
+      "event_date": "2027-05-03",
+      "location": "\u00c5rhus, Denmark",
+      "is_online": false,
+      "travel_sponsorship": "yes",
+      "event_type": "conference",
+      "discovered_at": "2026-10-28T12:17:41.712465+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "data",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "databricks",
+        "and the broader modern data platform ecosystem",
+        "azure"
+      ],
+      "speaker_perks": {
+        "travel": true
+      },
+      "submission_fields": [
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-10-28T12:17:42.836926+00:00",
+      "match_scores": {
+        "composite_score": 0.282,
+        "tag_relevance": 0.354,
+        "talk_match_score": 0.078,
+        "urgency_score": 0.1,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "yes"
       }
     }
   ]

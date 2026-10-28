@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-27T11:44:45.699217+00:00",
+  "generated_at": "2026-10-28T12:17:43.006960+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 144,
-    "open_cfps": 63,
+    "total_cfps_discovered": 145,
+    "open_cfps": 64,
     "expired_cfps": 81,
-    "total_applications": 127,
-    "drafts": 46,
+    "total_applications": 128,
+    "drafts": 47,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,9 +18,9 @@
     "expired_apps": 81,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-27T11:44:45.378478+00:00",
+    "last_crawled": "2026-10-28T12:17:42.249997+00:00",
     "sources_checked": 9,
-    "travel_yes": 2,
+    "travel_yes": 3,
     "travel_partial": 3,
     "travel_unknown": 58
   },
@@ -79,13 +79,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 7
+      "draft": 8
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 71
+      "count": 72
     },
     {
       "source": "confs.tech",
@@ -107,24 +107,24 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 2,
-    "low": 61
+    "low": 62
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "web",
-      "count": 56
+      "count": 57
     },
     {
       "tag": "open-source",
-      "count": 51
+      "count": 52
     },
     {
       "tag": "data",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "database",
@@ -136,11 +136,11 @@
     },
     {
       "tag": "cloud",
-      "count": 36
+      "count": 37
     },
     {
       "tag": "education",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "security",
@@ -148,11 +148,11 @@
     },
     {
       "tag": "conference",
-      "count": 30
+      "count": 31
     },
     {
       "tag": "devops",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "call-for-papers",
@@ -180,7 +180,7 @@
     },
     {
       "tag": "europe",
-      "count": 10
+      "count": 11
     },
     {
       "tag": "event-management",
@@ -2795,6 +2795,26 @@
       "event_location": "Berlin, Germany"
     },
     {
+      "id": "2ecb409645ef7bd2",
+      "cfp_title": "Data Platform Next Step",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-platform-next-step",
+      "deadline": "",
+      "event_date": "2027-05-03",
+      "status": "draft",
+      "score": 0.282,
+      "priority": "low",
+      "created_at": "2026-10-28T12:17:42.957938+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'data' (score: 10.0)",
+      "is_online": false,
+      "event_location": "\u00c5rhus, Denmark"
+    },
+    {
       "id": "8b8c86d1f91e3abb",
       "cfp_title": "SeaQL 2027",
       "talk_title": "DataOps in Practice: CI/CD, Observability, and Orchestration for Analytics",
@@ -3286,7 +3306,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 27,
+      "applications": 28,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
