@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-29T12:27:23.853824+00:00",
+    "last_crawled": "2026-10-30T12:18:46.170382+00:00",
     "total_cfps": 145,
     "open_cfps": 64,
     "sources_checked": 9,
@@ -8,7 +8,7 @@
     "expired_this_run": 0,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-10-29T12:27:24.008542+00:00",
+    "last_scored": "2026-10-30T12:18:46.285764+00:00",
     "high_priority": 0,
     "medium_priority": 2,
     "above_threshold": 47
@@ -9169,10 +9169,10 @@
       ],
       "enriched_at": "2026-09-23T10:58:04.963717+00:00",
       "match_scores": {
-        "composite_score": 0.314,
+        "composite_score": 0.344,
         "tag_relevance": 0.178,
         "talk_match_score": 0.04,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.6,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
         "suggested_talk_level": "beginner",
