@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-10-31T11:50:00.757956+00:00",
-    "total_cfps": 145,
-    "open_cfps": 64,
+    "last_crawled": "2026-11-01T12:49:25.404027+00:00",
+    "total_cfps": 146,
+    "open_cfps": 63,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 0,
+    "new_this_run": 1,
+    "expired_this_run": 2,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-10-31T11:50:00.925552+00:00",
+    "last_scored": "2026-11-01T12:49:26.213391+00:00",
     "high_priority": 0,
-    "medium_priority": 2,
-    "above_threshold": 47
+    "medium_priority": 1,
+    "above_threshold": 45
   },
   "cfps": [
     {
@@ -9061,7 +9061,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "conference",
       "discovered_at": "2026-09-19T10:28:47.448198+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -9084,17 +9084,7 @@
         "topic"
       ],
       "enriched_at": "2026-09-19T10:28:53.635159+00:00",
-      "match_scores": {
-        "composite_score": 0.483,
-        "tag_relevance": 0.507,
-        "talk_match_score": 0.118,
-        "urgency_score": 1.0,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "03597b485919d6e7",
@@ -9269,10 +9259,10 @@
       ],
       "enriched_at": "2026-09-28T13:11:06.313470+00:00",
       "match_scores": {
-        "composite_score": 0.336,
+        "composite_score": 0.366,
         "tag_relevance": 0.504,
         "talk_match_score": 0.098,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.5,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -10037,7 +10027,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
       "discovered_at": "2026-10-18T10:32:55.464477+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -10052,17 +10042,7 @@
         "twitter"
       ],
       "enriched_at": "2026-10-18T10:32:57.255054+00:00",
-      "match_scores": {
-        "composite_score": 0.319,
-        "tag_relevance": 0.179,
-        "talk_match_score": 0.022,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "809bdc1dbcad9542",
@@ -10216,6 +10196,51 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "yes"
+      }
+    },
+    {
+      "id": "00a0819b695c75b4",
+      "source": "callfordataspeakers",
+      "title": "Houston Day of Data and AI 2026 (#1162)",
+      "url": "https://sessionize.com/day-of-data-and-ai-houston",
+      "cfp_url": "https://sessionize.com/day-of-data-and-ai-houston",
+      "description": "Data external \u2014 Microsoft, 750 Town And Country Blvd #1000, Houston, TX 77024,",
+      "tags": [
+        "open-source",
+        "in-person",
+        "ai",
+        "data",
+        "external"
+      ],
+      "deadline": "",
+      "event_date": "2026-12-05",
+      "location": "Microsoft, 750 Town And Country Blvd #1000, Houston, TX 77024,",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "external",
+      "discovered_at": "2026-11-01T12:49:24.586729+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-11-01T12:49:26.149541+00:00",
+      "match_scores": {
+        "composite_score": 0.191,
+        "tag_relevance": 0.183,
+        "talk_match_score": 0.04,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
       }
     }
   ]

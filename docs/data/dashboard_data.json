@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-31T11:50:01.042575+00:00",
+  "generated_at": "2026-11-01T12:49:26.304838+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 145,
-    "open_cfps": 64,
-    "expired_cfps": 81,
+    "total_cfps_discovered": 146,
+    "open_cfps": 63,
+    "expired_cfps": 83,
     "total_applications": 128,
-    "drafts": 47,
+    "drafts": 45,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 81,
+    "expired_apps": 83,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-10-31T11:50:00.757956+00:00",
+    "last_crawled": "2026-11-01T12:49:25.404027+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 3,
-    "travel_unknown": 58
+    "travel_unknown": 57
   },
   "timeline": [
     {
@@ -71,7 +71,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 5
+      "draft": 4
     },
     {
       "month": "2026-10",
@@ -79,13 +79,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 8
+      "draft": 7
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 72
+      "count": 73
     },
     {
       "source": "confs.tech",
@@ -106,17 +106,17 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 2,
+    "medium": 1,
     "low": 62
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 63
+      "count": 62
     },
     {
       "tag": "web",
-      "count": 57
+      "count": 55
     },
     {
       "tag": "open-source",
@@ -124,7 +124,7 @@
     },
     {
       "tag": "data",
-      "count": 49
+      "count": 48
     },
     {
       "tag": "database",
@@ -132,7 +132,7 @@
     },
     {
       "tag": "leadership",
-      "count": 42
+      "count": 41
     },
     {
       "tag": "cloud",
@@ -159,15 +159,15 @@
       "count": 17
     },
     {
-      "tag": "cfp",
-      "count": 14
-    },
-    {
       "tag": "in-person",
-      "count": 14
+      "count": 15
     },
     {
       "tag": "external",
+      "count": 15
+    },
+    {
+      "tag": "cfp",
       "count": 14
     },
     {
@@ -180,7 +180,7 @@
     },
     {
       "tag": "europe",
-      "count": 11
+      "count": 10
     },
     {
       "tag": "event-management",
@@ -195,15 +195,15 @@
       "count": 9
     },
     {
-      "tag": "usergroup",
-      "count": 8
-    },
-    {
       "tag": "cloudflare-workers",
       "count": 8
     },
     {
       "tag": "python",
+      "count": 7
+    },
+    {
+      "tag": "usergroup",
       "count": 7
     },
     {
@@ -232,31 +232,6 @@
     }
   ],
   "top_matches": [
-    {
-      "id": "1fa1514088c24453",
-      "title": "Build It Summit",
-      "source": "confs.tech",
-      "url": "https://builditsummit.com/call-for-speakers",
-      "deadline": "2026-10-31",
-      "event_date": "2026-12-01",
-      "location": "Paris, France",
-      "is_online": false,
-      "tags": [
-        "ai",
-        "leadership",
-        "data",
-        "web",
-        "open-source"
-      ],
-      "score": 0.483,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.507,
-      "talk_match": 0.118,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
     {
       "id": "817753aaf9b0bac3",
       "title": "Microsoft Fabric Cafe 2026",
@@ -380,6 +355,31 @@
       "talk_match": 0.157,
       "urgency": 0.1,
       "travel_sponsorship": "yes",
+      "event_type": "conference,precon"
+    },
+    {
+      "id": "819351f5da220253",
+      "title": "SQLDay 2027",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/sqlday-2027",
+      "deadline": "2026-12-31",
+      "event_date": "2027-05-10",
+      "location": "Wroc\u0142aw, Poland",
+      "is_online": false,
+      "tags": [
+        "conference,precon",
+        "security",
+        "ai",
+        "education",
+        "europe"
+      ],
+      "score": 0.366,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.504,
+      "talk_match": 0.098,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
       "event_type": "conference,precon"
     },
     {
@@ -583,31 +583,6 @@
       "event_type": "conference"
     },
     {
-      "id": "819351f5da220253",
-      "title": "SQLDay 2027",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/sqlday-2027",
-      "deadline": "2026-12-31",
-      "event_date": "2027-05-10",
-      "location": "Wroc\u0142aw, Poland",
-      "is_online": false,
-      "tags": [
-        "conference,precon",
-        "security",
-        "ai",
-        "education",
-        "europe"
-      ],
-      "score": 0.336,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.504,
-      "talk_match": 0.098,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference,precon"
-    },
-    {
       "id": "a3f5bb0642a8175a",
       "title": "Data Saturday #93 - Brisbane 2027",
       "source": "callfordataspeakers",
@@ -683,31 +658,6 @@
       "event_type": "usergroup"
     },
     {
-      "id": "e738e08884b10d47",
-      "title": "Power BI & Fabric Barcelona November 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/power-bi-fabric-barcelona-nov-2026",
-      "deadline": "2026-10-31",
-      "event_date": "2026-11-19",
-      "location": "Plain Concepts, Carrer del Comte d'Urgell, 240, 6B, Eixample, 08036 Barcelona",
-      "is_online": false,
-      "tags": [
-        "usergroup",
-        "data",
-        "europe",
-        "ai",
-        "web"
-      ],
-      "score": 0.319,
-      "priority": "low",
-      "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
-      "tag_relevance": 0.179,
-      "talk_match": 0.022,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
-    },
-    {
       "id": "78de4fe463d4aa28",
       "title": "SQL Saturday Wellington 2026",
       "source": "callfordataspeakers",
@@ -731,6 +681,56 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": "external"
+    },
+    {
+      "id": "bdd596c3571bc69d",
+      "title": "Data of Day Winnipeg 2026",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/day-of-data-winnipeg-2026",
+      "deadline": "",
+      "event_date": "2026-09-19",
+      "location": "University of Manitoba,, Engineering and Information Technology Complex, 75 Chancellors Circle, Winnipeg MB,",
+      "is_online": false,
+      "tags": [
+        "in-person",
+        "cloud",
+        "external",
+        "education",
+        "security"
+      ],
+      "score": 0.317,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.528,
+      "talk_match": 0.059,
+      "urgency": 0.1,
+      "travel_sponsorship": "partial",
+      "event_type": "external"
+    },
+    {
+      "id": "cf61797b20c3dd06",
+      "title": "yegor256/awesome-cfp",
+      "source": "github",
+      "url": "https://github.com/yegor256/awesome-cfp",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "conferences",
+        "python",
+        "security",
+        "call-for-papers",
+        "cfp"
+      ],
+      "score": 0.315,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.348,
+      "talk_match": 0.06,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
     }
   ],
   "applications": [
@@ -782,7 +782,7 @@
       "cfp_url": "https://builditsummit.com/call-for-speakers",
       "deadline": "2026-10-31",
       "event_date": "2026-12-01",
-      "status": "draft",
+      "status": "expired",
       "score": 0.483,
       "priority": "medium",
       "created_at": "2026-09-19T10:28:54.077590+00:00",
@@ -1835,6 +1835,26 @@
       "event_location": "Online"
     },
     {
+      "id": "a32b39d5fee7e4d9",
+      "cfp_title": "SQLDay 2027",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/sqlday-2027",
+      "deadline": "2026-12-31",
+      "event_date": "2027-05-10",
+      "status": "draft",
+      "score": 0.366,
+      "priority": "low",
+      "created_at": "2026-09-28T13:11:06.477770+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 12.0)",
+      "is_online": false,
+      "event_location": "Wroc\u0142aw, Poland"
+    },
+    {
       "id": "922be52c18c6e9a0",
       "cfp_title": "TechSummit Amsterdam",
       "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
@@ -2215,26 +2235,6 @@
       "event_location": "Berlin, Germany"
     },
     {
-      "id": "a32b39d5fee7e4d9",
-      "cfp_title": "SQLDay 2027",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/sqlday-2027",
-      "deadline": "2026-12-31",
-      "event_date": "2027-05-10",
-      "status": "draft",
-      "score": 0.336,
-      "priority": "low",
-      "created_at": "2026-09-28T13:11:06.477770+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'data' (score: 12.0)",
-      "is_online": false,
-      "event_location": "Wroc\u0142aw, Poland"
-    },
-    {
       "id": "c3dfda2422b24b71",
       "cfp_title": "Moldova DevCon",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -2442,7 +2442,7 @@
       "cfp_url": "https://sessionize.com/power-bi-fabric-barcelona-nov-2026",
       "deadline": "2026-10-31",
       "event_date": "2026-11-19",
-      "status": "draft",
+      "status": "expired",
       "score": 0.319,
       "priority": "low",
       "created_at": "2026-10-18T10:32:57.383413+00:00",
@@ -3379,24 +3379,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Build It Summit",
-      "deadline": "2026-10-31",
-      "source": "confs.tech",
-      "score": 0.483,
-      "url": "https://builditsummit.com/call-for-speakers",
-      "travel_sponsorship": "unknown",
-      "location": "Paris, France"
-    },
-    {
-      "title": "Power BI & Fabric Barcelona November 2026",
-      "deadline": "2026-10-31",
-      "source": "callfordataspeakers",
-      "score": 0.319,
-      "url": "https://sessionize.com/power-bi-fabric-barcelona-nov-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Plain Concepts, Carrer del Comte d'Urgell, 240, 6B, Eixample, 08036 Barcelona"
-    },
-    {
       "title": "Microsoft Fabric Cafe 2026",
       "deadline": "2026-11-01",
       "source": "callfordataspeakers",
@@ -3463,10 +3445,28 @@
       "title": "SQLDay 2027",
       "deadline": "2026-12-31",
       "source": "callfordataspeakers",
-      "score": 0.336,
+      "score": 0.366,
       "url": "https://sessionize.com/sqlday-2027",
       "travel_sponsorship": "unknown",
       "location": "Wroc\u0142aw, Poland"
+    },
+    {
+      "title": "Pittsburgh Data UGs",
+      "deadline": "2027-01-01",
+      "source": "callfordataspeakers",
+      "score": 0.244,
+      "url": "https://sessionize.com/pittsburgh-data-ugs-2027",
+      "travel_sponsorship": "unknown",
+      "location": "162 East Bridge St, Homestead, PA 15120"
+    },
+    {
+      "title": "Data Engineers in Toronto",
+      "deadline": "2027-01-19",
+      "source": "callfordataspeakers",
+      "score": 0.32,
+      "url": "https://sessionize.com/data-engineers-in-toronto",
+      "travel_sponsorship": "unknown",
+      "location": "Virtual / Online"
     }
   ]
 }
