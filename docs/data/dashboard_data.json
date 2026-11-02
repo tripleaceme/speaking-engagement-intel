@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:49:26.304838+00:00",
+  "generated_at": "2026-11-02T14:59:03.998324+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 146,
-    "open_cfps": 63,
-    "expired_cfps": 83,
-    "total_applications": 128,
+    "open_cfps": 62,
+    "expired_cfps": 84,
+    "total_applications": 129,
     "drafts": 45,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 83,
+    "expired_apps": 84,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-01T12:49:25.404027+00:00",
+    "last_crawled": "2026-11-02T14:59:03.724524+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 3,
-    "travel_unknown": 57
+    "travel_unknown": 56
   },
   "timeline": [
     {
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 15
+      "draft": 14
     },
     {
       "month": "2026-05",
@@ -80,6 +80,14 @@
       "rejected": 0,
       "pending": 0,
       "draft": 7
+    },
+    {
+      "month": "2026-11",
+      "applied": 0,
+      "accepted": 0,
+      "rejected": 0,
+      "pending": 0,
+      "draft": 1
     }
   ],
   "source_breakdown": [
@@ -106,25 +114,25 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 1,
+    "medium": 0,
     "low": 62
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 62
+      "count": 61
     },
     {
       "tag": "web",
-      "count": 55
+      "count": 54
     },
     {
       "tag": "open-source",
-      "count": 52
+      "count": 51
     },
     {
       "tag": "data",
-      "count": 48
+      "count": 47
     },
     {
       "tag": "database",
@@ -140,7 +148,7 @@
     },
     {
       "tag": "education",
-      "count": 33
+      "count": 32
     },
     {
       "tag": "security",
@@ -204,7 +212,7 @@
     },
     {
       "tag": "usergroup",
-      "count": 7
+      "count": 6
     },
     {
       "tag": "speaker-management",
@@ -233,29 +241,29 @@
   ],
   "top_matches": [
     {
-      "id": "817753aaf9b0bac3",
-      "title": "Microsoft Fabric Cafe 2026",
+      "id": "d0cc2324e95fcdb3",
+      "title": "DataTune 2027",
       "source": "callfordataspeakers",
-      "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
-      "deadline": "2026-11-01",
-      "event_date": "2026-01-02",
-      "location": "Virtual - InPerson",
-      "is_online": true,
+      "url": "https://sessionize.com/datatune-2027",
+      "deadline": "2026-11-16",
+      "event_date": "2027-03-12",
+      "location": "Nashville, Tennessee, United States",
+      "is_online": false,
       "tags": [
-        "education",
         "ai",
-        "open-source",
-        "usergroup",
+        "education",
+        "data",
+        "north america",
         "web"
       ],
-      "score": 0.438,
-      "priority": "medium",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.371,
-      "talk_match": 0.06,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
+      "score": 0.393,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.337,
+      "talk_match": 0.118,
+      "urgency": 0.8,
+      "travel_sponsorship": "partial",
+      "event_type": "conference, precon"
     },
     {
       "id": "f5236e3008d6c44b",
@@ -381,31 +389,6 @@
       "urgency": 0.4,
       "travel_sponsorship": "unknown",
       "event_type": "conference,precon"
-    },
-    {
-      "id": "d0cc2324e95fcdb3",
-      "title": "DataTune 2027",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/datatune-2027",
-      "deadline": "2026-11-16",
-      "event_date": "2027-03-12",
-      "location": "Nashville, Tennessee, United States",
-      "is_online": false,
-      "tags": [
-        "ai",
-        "education",
-        "data",
-        "north america",
-        "web"
-      ],
-      "score": 0.363,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.337,
-      "talk_match": 0.118,
-      "urgency": 0.6,
-      "travel_sponsorship": "partial",
-      "event_type": "conference, precon"
     },
     {
       "id": "809bdc1dbcad9542",
@@ -731,6 +714,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
+    },
+    {
+      "id": "6bf84ef1128c1e5f",
+      "title": "pretalx/pretalx",
+      "source": "github",
+      "url": "https://github.com/pretalx/pretalx",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "conference-management",
+        "django",
+        "pretalx",
+        "security",
+        "call-for-papers"
+      ],
+      "score": 0.312,
+      "priority": "low",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.354,
+      "talk_match": 0.044,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
     }
   ],
   "applications": [
@@ -1002,7 +1010,7 @@
       "cfp_url": "https://sessionize.com/microsoft-fabric-cafe-2026",
       "deadline": "2026-11-01",
       "event_date": "2026-01-02",
-      "status": "draft",
+      "status": "expired",
       "score": 0.438,
       "priority": "medium",
       "created_at": "2026-04-08T12:28:22.663727+00:00",
@@ -1615,6 +1623,26 @@
       "event_location": "London, U.K."
     },
     {
+      "id": "61fca5fd04659881",
+      "cfp_title": "DataTune 2027",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/datatune-2027",
+      "deadline": "2026-11-16",
+      "event_date": "2027-03-12",
+      "status": "draft",
+      "score": 0.393,
+      "priority": "low",
+      "created_at": "2026-10-02T12:02:22.034931+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'data' (score: 6.7)",
+      "is_online": false,
+      "event_location": "Nashville, Tennessee, United States"
+    },
+    {
       "id": "c0c1558fe3d0831e",
       "cfp_title": "FABRIC WINTERFEST 2026",
       "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
@@ -1873,26 +1901,6 @@
       "match_reason": "Conference themes align with 'leadership' (score: 5.5)",
       "is_online": false,
       "event_location": "Amsterdam, Netherlands"
-    },
-    {
-      "id": "61fca5fd04659881",
-      "cfp_title": "DataTune 2027",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/datatune-2027",
-      "deadline": "2026-11-16",
-      "event_date": "2027-03-12",
-      "status": "draft",
-      "score": 0.363,
-      "priority": "low",
-      "created_at": "2026-10-02T12:02:22.034931+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'data' (score: 6.7)",
-      "is_online": false,
-      "event_location": "Nashville, Tennessee, United States"
     },
     {
       "id": "ff2bca83f7780b86",
@@ -2935,6 +2943,26 @@
       "event_location": "Pittsburgh, Pennsylvania, United States"
     },
     {
+      "id": "0c1fdf1f5c83d614",
+      "cfp_title": "Pittsburgh Data UGs",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/pittsburgh-data-ugs-2027",
+      "deadline": "2027-01-01",
+      "event_date": "2026-11-05",
+      "status": "draft",
+      "score": 0.274,
+      "priority": "low",
+      "created_at": "2026-11-02T14:59:03.949561+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 4.0)",
+      "is_online": true,
+      "event_location": "162 East Bridge St, Homestead, PA 15120"
+    },
+    {
       "id": "42a12b7a32832a65",
       "cfp_title": "TechTok",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -3298,7 +3326,7 @@
   "talk_performance": [
     {
       "title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "applications": 46,
+      "applications": 47,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -3379,15 +3407,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Microsoft Fabric Cafe 2026",
-      "deadline": "2026-11-01",
-      "source": "callfordataspeakers",
-      "score": 0.438,
-      "url": "https://sessionize.com/microsoft-fabric-cafe-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Virtual - InPerson"
-    },
-    {
       "title": "Data Pulse 2026",
       "deadline": "2026-11-06",
       "source": "callfordataspeakers",
@@ -3409,7 +3428,7 @@
       "title": "DataTune 2027",
       "deadline": "2026-11-16",
       "source": "callfordataspeakers",
-      "score": 0.363,
+      "score": 0.393,
       "url": "https://sessionize.com/datatune-2027",
       "travel_sponsorship": "partial",
       "location": "Nashville, Tennessee, United States"
@@ -3454,7 +3473,7 @@
       "title": "Pittsburgh Data UGs",
       "deadline": "2027-01-01",
       "source": "callfordataspeakers",
-      "score": 0.244,
+      "score": 0.274,
       "url": "https://sessionize.com/pittsburgh-data-ugs-2027",
       "travel_sponsorship": "unknown",
       "location": "162 East Bridge St, Homestead, PA 15120"
@@ -3467,6 +3486,15 @@
       "url": "https://sessionize.com/data-engineers-in-toronto",
       "travel_sponsorship": "unknown",
       "location": "Virtual / Online"
+    },
+    {
+      "title": "Data Saturday #93 - Brisbane 2027",
+      "deadline": "2027-01-31",
+      "source": "callfordataspeakers",
+      "score": 0.333,
+      "url": "https://sessionize.com/data-saturday-93-brisbane-2027",
+      "travel_sponsorship": "unknown",
+      "location": "Brisbane, Australia"
     }
   ]
 }

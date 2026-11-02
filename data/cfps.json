@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_crawled": "2026-11-01T12:49:25.404027+00:00",
+    "last_crawled": "2026-11-02T14:59:03.724524+00:00",
     "total_cfps": 146,
-    "open_cfps": 63,
+    "open_cfps": 62,
     "sources_checked": 9,
-    "new_this_run": 1,
-    "expired_this_run": 2,
+    "new_this_run": 0,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-11-01T12:49:26.213391+00:00",
+    "last_scored": "2026-11-02T14:59:03.885389+00:00",
     "high_priority": 0,
-    "medium_priority": 1,
+    "medium_priority": 0,
     "above_threshold": 45
   },
   "cfps": [
@@ -2247,7 +2247,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
       "discovered_at": "2026-04-08T12:25:56.585769+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "data",
@@ -2286,17 +2286,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:36.049126+00:00",
-      "match_scores": {
-        "composite_score": 0.438,
-        "tag_relevance": 0.371,
-        "talk_match_score": 0.06,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "5c162d9dad315513",
@@ -9485,10 +9475,10 @@
       ],
       "enriched_at": "2026-10-02T12:02:21.905681+00:00",
       "match_scores": {
-        "composite_score": 0.363,
+        "composite_score": 0.393,
         "tag_relevance": 0.337,
         "talk_match_score": 0.118,
-        "urgency_score": 0.6,
+        "urgency_score": 0.8,
         "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -9605,10 +9595,10 @@
       ],
       "enriched_at": "2026-10-05T13:53:23.589177+00:00",
       "match_scores": {
-        "composite_score": 0.244,
+        "composite_score": 0.274,
         "tag_relevance": 0.193,
         "talk_match_score": 0.022,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.7,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
