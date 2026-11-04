@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_updated": "2026-11-03T13:46:29.261318+00:00",
-    "total_applications": 129,
+    "last_updated": "2026-11-04T13:55:09.224622+00:00",
+    "total_applications": 130,
     "total_accepted": 0,
     "total_rejected": 0,
     "total_pending": 0,
-    "total_drafts": 45,
+    "total_drafts": 46,
     "total_expired": 84,
     "total_withdrawn": 0,
     "acceptance_rate": 0.0,
     "status_breakdown": {
       "expired": 84,
-      "draft": 45
+      "draft": 46
     },
     "unique_talk_titles": 7
   },
@@ -8085,6 +8085,84 @@
       ],
       "created_at": "2026-08-13T07:35:48.672532+00:00",
       "updated_at": "2026-08-13T07:35:48.672534+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
+      "id": "0f8c9893889c94b4",
+      "cfp_id": "4362d7ebfbe3dc4a",
+      "cfp_title": "Capital Region Data Professionals",
+      "cfp_url": "https://sessionize.com/capital-area-sql-server-user-group",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2027-05-15",
+      "event_date": "2027-01-18",
+      "event_location": "Troy Web Consulting, 135 Mohawk St, Cohoes, NY 12047",
+      "is_online": false,
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "talk_abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+      "talk_tags": [
+        "education",
+        "data-literacy",
+        "community",
+        "diversity",
+        "edtech"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'education' (score: 6.0)",
+      "conference_themes": [
+        "web",
+        "open-source",
+        "education",
+        "ai",
+        "database",
+        "leadership"
+      ],
+      "conference_categories": [
+        "data",
+        "each month"
+      ],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+        "abstract": "How do you teach analytics engineering to students with unreliable internet and no Snowflake credits? As founder of Behind The Data Academy and mentor to 900+ students across 7 countries, I've built curriculum around free tools \u2014 dbt, PostgreSQL, Python, Tableau \u2014 that produces job-ready analysts. This talk shares frameworks for designing hands-on data education that works in resource-constrained environments, plus hard-won lessons on what actually helps students land their first data roles.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "education",
+          "data-literacy",
+          "community",
+          "diversity",
+          "edtech"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.307,
+        "tag_relevance": 0.331,
+        "talk_match_score": 0.137,
+        "urgency_score": 0.2,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-11-04T13:55:09.222454+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'education' (score: 6.0)"
+        }
+      ],
+      "created_at": "2026-11-04T13:55:09.222464+00:00",
+      "updated_at": "2026-11-04T13:55:09.222466+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""

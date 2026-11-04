@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-11-03T13:46:29.001846+00:00",
-    "total_cfps": 146,
-    "open_cfps": 62,
+    "last_crawled": "2026-11-04T13:55:08.219563+00:00",
+    "total_cfps": 147,
+    "open_cfps": 63,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-11-03T13:46:29.198112+00:00",
+    "last_scored": "2026-11-04T13:55:09.169434+00:00",
     "high_priority": 0,
     "medium_priority": 0,
-    "above_threshold": 45
+    "above_threshold": 46
   },
   "cfps": [
     {
@@ -10228,6 +10228,79 @@
         "urgency_score": 0.1,
         "format_score": 0.5,
         "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "4362d7ebfbe3dc4a",
+      "source": "callfordataspeakers",
+      "title": "Capital Region Data Professionals",
+      "url": "https://sessionize.com/capital-area-sql-server-user-group",
+      "cfp_url": "https://sessionize.com/capital-area-sql-server-user-group",
+      "description": "A free community in New York's Capital Region to everyone interested in data, with a strong focus on the Microsoft data platform and related technologies. Our mission is to provide ongoing education to the local and regional community through meetings and online presentations, mentoring, social interaction and workshops.  All events are free and supported by our sponsors. We are a 501(c)(3) non-profit educational organization.",
+      "tags": [
+        "leadership",
+        "web",
+        "open-source",
+        "database",
+        "usergroup",
+        "north america",
+        "data",
+        "education",
+        "ai"
+      ],
+      "deadline": "2027-05-15",
+      "event_date": "2027-01-18",
+      "location": "Troy Web Consulting, 135 Mohawk St, Cohoes, NY 12047",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup",
+      "discovered_at": "2026-11-04T13:55:07.243538+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 1.0
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "data",
+        "each month"
+      ],
+      "submission_fields": [
+        "topic",
+        "twitter"
+      ],
+      "enriched_at": "2026-11-04T13:55:09.096005+00:00",
+      "match_scores": {
+        "composite_score": 0.307,
+        "tag_relevance": 0.331,
+        "talk_match_score": 0.137,
+        "urgency_score": 0.2,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
