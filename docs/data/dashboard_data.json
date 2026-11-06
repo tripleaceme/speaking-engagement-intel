@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:10:58.904670+00:00",
+  "generated_at": "2026-11-06T13:52:42.124126+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 84,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-05T14:10:58.664232+00:00",
+    "last_crawled": "2026-11-06T13:52:41.815869+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 3,
@@ -114,8 +114,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 0,
-    "low": 63
+    "medium": 1,
+    "low": 62
   },
   "tag_cloud": [
     {
@@ -241,6 +241,31 @@
   ],
   "top_matches": [
     {
+      "id": "f5236e3008d6c44b",
+      "title": "San Diego SQL Server User Group",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
+      "deadline": "2026-11-20",
+      "event_date": "2026-01-15",
+      "location": "Virtual",
+      "is_online": false,
+      "tags": [
+        "database",
+        "north america",
+        "education",
+        "ai",
+        "open-source"
+      ],
+      "score": 0.421,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.523,
+      "talk_match": 0.059,
+      "urgency": 0.8,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
       "id": "d0cc2324e95fcdb3",
       "title": "DataTune 2027",
       "source": "callfordataspeakers",
@@ -266,26 +291,26 @@
       "event_type": "conference, precon"
     },
     {
-      "id": "f5236e3008d6c44b",
-      "title": "San Diego SQL Server User Group",
+      "id": "809bdc1dbcad9542",
+      "title": "Groningen Data Platform Meetup Lighting Talks!",
       "source": "callfordataspeakers",
-      "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
-      "deadline": "2026-11-20",
-      "event_date": "2026-01-15",
-      "location": "Virtual",
-      "is_online": false,
+      "url": "https://sessionize.com/groningen-data-platform-meetup-lighting",
+      "deadline": "2026-12-06",
+      "event_date": "2026-12-17",
+      "location": "Teams",
+      "is_online": true,
       "tags": [
+        "blockchain",
+        "devops",
+        "web",
         "database",
-        "north america",
-        "education",
-        "ai",
-        "open-source"
+        "ai"
       ],
-      "score": 0.391,
+      "score": 0.392,
       "priority": "low",
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.523,
-      "talk_match": 0.059,
+      "tag_relevance": 0.337,
+      "talk_match": 0.078,
       "urgency": 0.6,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
@@ -389,31 +414,6 @@
       "urgency": 0.4,
       "travel_sponsorship": "unknown",
       "event_type": "conference,precon"
-    },
-    {
-      "id": "809bdc1dbcad9542",
-      "title": "Groningen Data Platform Meetup Lighting Talks!",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/groningen-data-platform-meetup-lighting",
-      "deadline": "2026-12-06",
-      "event_date": "2026-12-17",
-      "location": "Teams",
-      "is_online": true,
-      "tags": [
-        "blockchain",
-        "devops",
-        "web",
-        "database",
-        "ai"
-      ],
-      "score": 0.362,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.337,
-      "talk_match": 0.078,
-      "urgency": 0.4,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     },
     {
       "id": "4b5b66096d50fb98",
@@ -1183,6 +1183,26 @@
       "event_location": "Rome, Italy"
     },
     {
+      "id": "5e1414e189fef8fd",
+      "cfp_title": "San Diego SQL Server User Group",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/san-diego-sql-server-user-group8844",
+      "deadline": "2026-11-20",
+      "event_date": "2026-01-15",
+      "status": "draft",
+      "score": 0.421,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.664221+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 4.8)",
+      "is_online": false,
+      "event_location": "Virtual"
+    },
+    {
       "id": "f05c499a51109afe",
       "cfp_title": "Power BI Days DC 2026",
       "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
@@ -1643,6 +1663,26 @@
       "event_location": "Nashville, Tennessee, United States"
     },
     {
+      "id": "d4edab1a1a5ed437",
+      "cfp_title": "Groningen Data Platform Meetup Lighting Talks!",
+      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/groningen-data-platform-meetup-lighting",
+      "deadline": "2026-12-06",
+      "event_date": "2026-12-17",
+      "status": "draft",
+      "score": 0.392,
+      "priority": "low",
+      "created_at": "2026-10-22T11:19:31.686463+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'ai' (score: 6.5)",
+      "is_online": true,
+      "event_location": "Teams"
+    },
+    {
       "id": "c0c1558fe3d0831e",
       "cfp_title": "FABRIC WINTERFEST 2026",
       "talk_title": "Building Internal Data Tools with Streamlit: From Prototype to Production",
@@ -1661,26 +1701,6 @@
       "match_reason": "Conference themes align with 'web' (score: 4.5)",
       "is_online": false,
       "event_location": "Wilrijk, Belgium"
-    },
-    {
-      "id": "5e1414e189fef8fd",
-      "cfp_title": "San Diego SQL Server User Group",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/san-diego-sql-server-user-group8844",
-      "deadline": "2026-11-20",
-      "event_date": "2026-01-15",
-      "status": "draft",
-      "score": 0.391,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.664221+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 4.8)",
-      "is_online": false,
-      "event_location": "Virtual"
     },
     {
       "id": "b751f36df5b690c8",
@@ -1921,26 +1941,6 @@
       "match_reason": "Conference themes align with 'cloud' (score: 6.0)",
       "is_online": true,
       "event_location": "Warsaw, Poland"
-    },
-    {
-      "id": "d4edab1a1a5ed437",
-      "cfp_title": "Groningen Data Platform Meetup Lighting Talks!",
-      "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/groningen-data-platform-meetup-lighting",
-      "deadline": "2026-12-06",
-      "event_date": "2026-12-17",
-      "status": "draft",
-      "score": 0.362,
-      "priority": "low",
-      "created_at": "2026-10-22T11:19:31.686463+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'ai' (score: 6.5)",
-      "is_online": true,
-      "event_location": "Teams"
     },
     {
       "id": "d0c5b17b6549aee0",
@@ -3457,7 +3457,7 @@
       "title": "San Diego SQL Server User Group",
       "deadline": "2026-11-20",
       "source": "callfordataspeakers",
-      "score": 0.391,
+      "score": 0.421,
       "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
       "travel_sponsorship": "unknown",
       "location": "Virtual"
@@ -3475,7 +3475,7 @@
       "title": "Groningen Data Platform Meetup Lighting Talks!",
       "deadline": "2026-12-06",
       "source": "callfordataspeakers",
-      "score": 0.362,
+      "score": 0.392,
       "url": "https://sessionize.com/groningen-data-platform-meetup-lighting",
       "travel_sponsorship": "unknown",
       "location": "Teams"
