@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T13:52:42.124126+00:00",
+  "generated_at": "2026-11-07T12:37:14.443029+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 147,
-    "open_cfps": 63,
-    "expired_cfps": 84,
+    "open_cfps": 62,
+    "expired_cfps": 85,
     "total_applications": 130,
-    "drafts": 46,
+    "drafts": 45,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 84,
+    "expired_apps": 85,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-06T13:52:41.815869+00:00",
+    "last_crawled": "2026-11-07T12:37:14.249042+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 3,
-    "travel_unknown": 57
+    "travel_unknown": 56
   },
   "timeline": [
     {
@@ -71,7 +71,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 4
+      "draft": 3
     },
     {
       "month": "2026-10",
@@ -115,24 +115,24 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 1,
-    "low": 62
+    "low": 61
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 62
+      "count": 61
     },
     {
       "tag": "web",
-      "count": 55
+      "count": 54
     },
     {
       "tag": "open-source",
-      "count": 52
+      "count": 51
     },
     {
       "tag": "data",
-      "count": 48
+      "count": 47
     },
     {
       "tag": "database",
@@ -140,7 +140,7 @@
     },
     {
       "tag": "leadership",
-      "count": 42
+      "count": 41
     },
     {
       "tag": "cloud",
@@ -156,7 +156,7 @@
     },
     {
       "tag": "conference",
-      "count": 31
+      "count": 30
     },
     {
       "tag": "devops",
@@ -191,15 +191,15 @@
       "count": 10
     },
     {
-      "tag": "europe",
-      "count": 10
-    },
-    {
       "tag": "event-management",
       "count": 9
     },
     {
       "tag": "mobile",
+      "count": 9
+    },
+    {
+      "tag": "europe",
       "count": 9
     },
     {
@@ -391,6 +391,31 @@
       "event_type": "conference,precon"
     },
     {
+      "id": "7b657a58d4c3645e",
+      "title": "Fabric & Power BI Wales User Group",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/fabricpowerbiwales",
+      "deadline": "2026-11-14",
+      "event_date": "2026-01-15",
+      "location": "Online",
+      "is_online": true,
+      "tags": [
+        "cloud",
+        "ai",
+        "leadership",
+        "open-source",
+        "usergroup"
+      ],
+      "score": 0.37,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.177,
+      "talk_match": 0.059,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
       "id": "819351f5da220253",
       "title": "SQLDay 2027",
       "source": "callfordataspeakers",
@@ -466,31 +491,6 @@
       "event_type": "conference"
     },
     {
-      "id": "8c53be53b11f31fc",
-      "title": "Data Pulse 2026",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/data-pulse-2026",
-      "deadline": "2026-11-06",
-      "event_date": "2026-11-26",
-      "location": "Reading, United Kingdom",
-      "is_online": false,
-      "tags": [
-        "europe",
-        "conference",
-        "leadership",
-        "web",
-        "data"
-      ],
-      "score": 0.344,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.178,
-      "talk_match": 0.04,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
-    {
       "id": "850c50fff292a225",
       "title": "SQL Saturday Toronto 2026",
       "source": "callfordataspeakers",
@@ -514,31 +514,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
-    },
-    {
-      "id": "7b657a58d4c3645e",
-      "title": "Fabric & Power BI Wales User Group",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/fabricpowerbiwales",
-      "deadline": "2026-11-14",
-      "event_date": "2026-01-15",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "ai",
-        "leadership",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.34,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.177,
-      "talk_match": 0.059,
-      "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     },
     {
       "id": "699a153020787f6e",
@@ -736,6 +711,31 @@
       "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
       "tag_relevance": 0.354,
       "talk_match": 0.044,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
+    },
+    {
+      "id": "e2bec5eb414374f6",
+      "title": "sundou82/conference-partner-mcp",
+      "source": "github",
+      "url": "https://github.com/sundou82/conference-partner-mcp",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "mcp",
+        "python",
+        "rest-api",
+        "ccf",
+        "deadlines"
+      ],
+      "score": 0.31,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.335,
+      "talk_match": 0.059,
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
@@ -1843,6 +1843,26 @@
       "event_location": "Virtual"
     },
     {
+      "id": "658a28d224292c62",
+      "cfp_title": "Fabric & Power BI Wales User Group",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/fabricpowerbiwales",
+      "deadline": "2026-11-14",
+      "event_date": "2026-01-15",
+      "status": "draft",
+      "score": 0.37,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.664141+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
+      "is_online": true,
+      "event_location": "Online"
+    },
+    {
       "id": "55fa692cad8ca7f4",
       "cfp_title": "EightKB August 2026",
       "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
@@ -2090,7 +2110,7 @@
       "cfp_url": "https://sessionize.com/data-pulse-2026",
       "deadline": "2026-11-06",
       "event_date": "2026-11-26",
-      "status": "draft",
+      "status": "expired",
       "score": 0.344,
       "priority": "low",
       "created_at": "2026-09-23T10:58:05.090766+00:00",
@@ -2161,26 +2181,6 @@
       "match_reason": "Conference themes align with 'database' (score: 4.3)",
       "is_online": false,
       "event_location": "Vienna, Austria"
-    },
-    {
-      "id": "658a28d224292c62",
-      "cfp_title": "Fabric & Power BI Wales User Group",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/fabricpowerbiwales",
-      "deadline": "2026-11-14",
-      "event_date": "2026-01-15",
-      "status": "draft",
-      "score": 0.34,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.664141+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
-      "is_online": true,
-      "event_location": "Online"
     },
     {
       "id": "ce2659d19e18d705",
@@ -3427,19 +3427,10 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Data Pulse 2026",
-      "deadline": "2026-11-06",
-      "source": "callfordataspeakers",
-      "score": 0.344,
-      "url": "https://sessionize.com/data-pulse-2026",
-      "travel_sponsorship": "unknown",
-      "location": "Reading, United Kingdom"
-    },
-    {
       "title": "Fabric & Power BI Wales User Group",
       "deadline": "2026-11-14",
       "source": "callfordataspeakers",
-      "score": 0.34,
+      "score": 0.37,
       "url": "https://sessionize.com/fabricpowerbiwales",
       "travel_sponsorship": "unknown",
       "location": "Online"
@@ -3515,6 +3506,15 @@
       "url": "https://sessionize.com/data-saturday-93-brisbane-2027",
       "travel_sponsorship": "unknown",
       "location": "Brisbane, Australia"
+    },
+    {
+      "title": "Capital Region Data Professionals",
+      "deadline": "2027-05-15",
+      "source": "callfordataspeakers",
+      "score": 0.307,
+      "url": "https://sessionize.com/capital-area-sql-server-user-group",
+      "travel_sponsorship": "unknown",
+      "location": "Troy Web Consulting, 135 Mohawk St, Cohoes, NY 12047"
     }
   ]
 }
