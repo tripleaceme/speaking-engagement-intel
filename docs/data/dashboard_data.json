@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:54:21.662469+00:00",
+  "generated_at": "2026-11-09T15:28:51.676792+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 85,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-08T12:54:21.416138+00:00",
+    "last_crawled": "2026-11-09T15:28:51.435758+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 3,
@@ -114,8 +114,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 1,
-    "low": 61
+    "medium": 3,
+    "low": 59
   },
   "tag_cloud": [
     {
@@ -241,6 +241,31 @@
   ],
   "top_matches": [
     {
+      "id": "d0cc2324e95fcdb3",
+      "title": "DataTune 2027",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/datatune-2027",
+      "deadline": "2026-11-16",
+      "event_date": "2027-03-12",
+      "location": "Nashville, Tennessee, United States",
+      "is_online": false,
+      "tags": [
+        "ai",
+        "education",
+        "data",
+        "north america",
+        "web"
+      ],
+      "score": 0.423,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.337,
+      "talk_match": 0.118,
+      "urgency": 1.0,
+      "travel_sponsorship": "partial",
+      "event_type": "conference, precon"
+    },
+    {
       "id": "f5236e3008d6c44b",
       "title": "San Diego SQL Server User Group",
       "source": "callfordataspeakers",
@@ -266,29 +291,29 @@
       "event_type": "usergroup"
     },
     {
-      "id": "d0cc2324e95fcdb3",
-      "title": "DataTune 2027",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/datatune-2027",
-      "deadline": "2026-11-16",
-      "event_date": "2027-03-12",
-      "location": "Nashville, Tennessee, United States",
-      "is_online": false,
+      "id": "5db72494993e6bc8",
+      "title": "Big Data Europe",
+      "source": "confs.tech",
+      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "deadline": "2026-11-23",
+      "event_date": "2026-11-24",
+      "location": "Vilnius, Lithuania",
+      "is_online": true,
       "tags": [
-        "ai",
-        "education",
-        "data",
-        "north america",
-        "web"
+        "open-source",
+        "web",
+        "online",
+        "testing",
+        "data"
       ],
-      "score": 0.393,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.337,
-      "talk_match": 0.118,
+      "score": 0.405,
+      "priority": "medium",
+      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+      "tag_relevance": 0.338,
+      "talk_match": 0.089,
       "urgency": 0.8,
-      "travel_sponsorship": "partial",
-      "event_type": "conference, precon"
+      "travel_sponsorship": "unknown",
+      "event_type": "conference"
     },
     {
       "id": "809bdc1dbcad9542",
@@ -339,31 +364,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": "precon"
-    },
-    {
-      "id": "5db72494993e6bc8",
-      "title": "Big Data Europe",
-      "source": "confs.tech",
-      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
-      "deadline": "2026-11-23",
-      "event_date": "2026-11-24",
-      "location": "Vilnius, Lithuania",
-      "is_online": true,
-      "tags": [
-        "open-source",
-        "web",
-        "online",
-        "testing",
-        "data"
-      ],
-      "score": 0.375,
-      "priority": "low",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.338,
-      "talk_match": 0.089,
-      "urgency": 0.6,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
     },
     {
       "id": "abc0d2a1ede8f758",
@@ -1163,6 +1163,26 @@
       "event_location": "Minneapolis, MN, U.S.A."
     },
     {
+      "id": "61fca5fd04659881",
+      "cfp_title": "DataTune 2027",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/datatune-2027",
+      "deadline": "2026-11-16",
+      "event_date": "2027-03-12",
+      "status": "draft",
+      "score": 0.423,
+      "priority": "medium",
+      "created_at": "2026-10-02T12:02:22.034931+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "partial",
+      "match_reason": "Conference themes align with 'data' (score: 6.7)",
+      "is_online": false,
+      "event_location": "Nashville, Tennessee, United States"
+    },
+    {
       "id": "ff9a70eb4d6e1d74",
       "cfp_title": "Global Summit on Data Science and Cloud Computing",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -1503,6 +1523,26 @@
       "event_location": "Bengaluru, India"
     },
     {
+      "id": "85e7993e5763732f",
+      "cfp_title": "Big Data Europe",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "confs.tech",
+      "cfp_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "deadline": "2026-11-23",
+      "event_date": "2026-11-24",
+      "status": "draft",
+      "score": 0.405,
+      "priority": "medium",
+      "created_at": "2026-08-07T07:17:36.345470+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 6.0)",
+      "is_online": true,
+      "event_location": "Vilnius, Lithuania"
+    },
+    {
       "id": "c1952d329f21d0e0",
       "cfp_title": "Power Conference 2026",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1643,26 +1683,6 @@
       "event_location": "London, U.K."
     },
     {
-      "id": "61fca5fd04659881",
-      "cfp_title": "DataTune 2027",
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/datatune-2027",
-      "deadline": "2026-11-16",
-      "event_date": "2027-03-12",
-      "status": "draft",
-      "score": 0.393,
-      "priority": "low",
-      "created_at": "2026-10-02T12:02:22.034931+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "partial",
-      "match_reason": "Conference themes align with 'data' (score: 6.7)",
-      "is_online": false,
-      "event_location": "Nashville, Tennessee, United States"
-    },
-    {
       "id": "d4edab1a1a5ed437",
       "cfp_title": "Groningen Data Platform Meetup Lighting Talks!",
       "talk_title": "AI-Powered Data Governance: From Manual Documentation to Automated Trust",
@@ -1801,26 +1821,6 @@
       "match_reason": "Conference themes align with 'data' (score: 12.8)",
       "is_online": false,
       "event_location": "Prague, Czechia"
-    },
-    {
-      "id": "85e7993e5763732f",
-      "cfp_title": "Big Data Europe",
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "cfp_source": "confs.tech",
-      "cfp_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
-      "deadline": "2026-11-23",
-      "event_date": "2026-11-24",
-      "status": "draft",
-      "score": 0.375,
-      "priority": "low",
-      "created_at": "2026-08-07T07:17:36.345470+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'leadership' (score: 6.0)",
-      "is_online": true,
-      "event_location": "Vilnius, Lithuania"
     },
     {
       "id": "cdf1f660bb88de25",
@@ -3439,7 +3439,7 @@
       "title": "DataTune 2027",
       "deadline": "2026-11-16",
       "source": "callfordataspeakers",
-      "score": 0.393,
+      "score": 0.423,
       "url": "https://sessionize.com/datatune-2027",
       "travel_sponsorship": "partial",
       "location": "Nashville, Tennessee, United States"
@@ -3457,7 +3457,7 @@
       "title": "Big Data Europe",
       "deadline": "2026-11-23",
       "source": "confs.tech",
-      "score": 0.375,
+      "score": 0.405,
       "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
       "travel_sponsorship": "unknown",
       "location": "Vilnius, Lithuania"

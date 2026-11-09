@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-08T12:54:21.609629+00:00",
+    "last_updated": "2026-11-09T15:28:51.632690+00:00",
     "total_applications": 130,
     "total_accepted": 0,
     "total_rejected": 0,
@@ -1843,6 +1843,87 @@
       "notes": ""
     },
     {
+      "id": "61fca5fd04659881",
+      "cfp_id": "d0cc2324e95fcdb3",
+      "cfp_title": "DataTune 2027",
+      "cfp_url": "https://sessionize.com/datatune-2027",
+      "cfp_source": "callfordataspeakers",
+      "cfp_deadline": "2026-11-16",
+      "event_date": "2027-03-12",
+      "event_location": "Nashville, Tennessee, United States",
+      "is_online": false,
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+      "talk_tags": [
+        "dbt",
+        "data-quality",
+        "documentation",
+        "analytics-engineering",
+        "ai"
+      ],
+      "talk_level": "intermediate",
+      "match_reason": "Conference themes align with 'data' (score: 6.7)",
+      "conference_themes": [
+        "leadership",
+        "ai",
+        "data",
+        "web",
+        "open-source",
+        "education",
+        "blockchain"
+      ],
+      "conference_categories": [
+        "strong ideas",
+        "not forcing everything into a predefined box"
+      ],
+      "travel_sponsorship": "partial",
+      "speaker_perks": {
+        "ticket": true
+      },
+      "proposal": {
+        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "intermediate",
+        "talk_duration": 30,
+        "tags": [
+          "dbt",
+          "data-quality",
+          "documentation",
+          "analytics-engineering",
+          "ai"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.423,
+        "tag_relevance": 0.337,
+        "talk_match_score": 0.118,
+        "urgency_score": 1.0,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "partial"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-10-02T12:02:22.034922+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 6.7)"
+        }
+      ],
+      "created_at": "2026-10-02T12:02:22.034931+00:00",
+      "updated_at": "2026-10-02T12:02:22.034932+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "ff9a70eb4d6e1d74",
       "cfp_id": "2353c784b684765d",
       "cfp_title": "Global Summit on Data Science and Cloud Computing",
@@ -3322,6 +3403,82 @@
       "notes": ""
     },
     {
+      "id": "85e7993e5763732f",
+      "cfp_id": "5db72494993e6bc8",
+      "cfp_title": "Big Data Europe",
+      "cfp_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
+      "cfp_source": "confs.tech",
+      "cfp_deadline": "2026-11-23",
+      "event_date": "2026-11-24",
+      "event_location": "Vilnius, Lithuania",
+      "is_online": true,
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+      "talk_tags": [
+        "leadership",
+        "data-culture",
+        "analytics-engineering",
+        "strategy"
+      ],
+      "talk_level": "beginner",
+      "match_reason": "Conference themes align with 'leadership' (score: 6.0)",
+      "conference_themes": [
+        "leadership",
+        "ai",
+        "web",
+        "open-source",
+        "security",
+        "database",
+        "education",
+        "mobile",
+        "testing"
+      ],
+      "conference_categories": [],
+      "travel_sponsorship": "unknown",
+      "speaker_perks": {},
+      "proposal": {
+        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
+        "speaker_name": "Ayoade Adegbite",
+        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
+        "speaker_email": "ayoadeadegbitee@gmail.com",
+        "speaker_website": "https://ayoadeabel.tech/",
+        "speaker_github": "https://github.com/tripleaceme",
+        "talk_level": "beginner",
+        "talk_duration": 30,
+        "tags": [
+          "leadership",
+          "data-culture",
+          "analytics-engineering",
+          "strategy"
+        ]
+      },
+      "match_scores": {
+        "composite_score": 0.405,
+        "tag_relevance": 0.338,
+        "talk_match_score": 0.089,
+        "urgency_score": 0.8,
+        "format_score": 0.7,
+        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
+        "suggested_talk_level": "intermediate",
+        "priority": "medium",
+        "travel_sponsorship": "unknown"
+      },
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "timestamp": "2026-08-07T07:17:36.345462+00:00",
+          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 6.0)"
+        }
+      ],
+      "created_at": "2026-08-07T07:17:36.345470+00:00",
+      "updated_at": "2026-08-07T07:17:36.345472+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": ""
+    },
+    {
       "id": "c1952d329f21d0e0",
       "cfp_id": "d227b6f4bf58f201",
       "cfp_title": "Power Conference 2026",
@@ -3918,87 +4075,6 @@
       "notes": ""
     },
     {
-      "id": "61fca5fd04659881",
-      "cfp_id": "d0cc2324e95fcdb3",
-      "cfp_title": "DataTune 2027",
-      "cfp_url": "https://sessionize.com/datatune-2027",
-      "cfp_source": "callfordataspeakers",
-      "cfp_deadline": "2026-11-16",
-      "event_date": "2027-03-12",
-      "event_location": "Nashville, Tennessee, United States",
-      "is_online": false,
-      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "talk_abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-      "talk_tags": [
-        "dbt",
-        "data-quality",
-        "documentation",
-        "analytics-engineering",
-        "ai"
-      ],
-      "talk_level": "intermediate",
-      "match_reason": "Conference themes align with 'data' (score: 6.7)",
-      "conference_themes": [
-        "leadership",
-        "ai",
-        "data",
-        "web",
-        "open-source",
-        "education",
-        "blockchain"
-      ],
-      "conference_categories": [
-        "strong ideas",
-        "not forcing everything into a predefined box"
-      ],
-      "travel_sponsorship": "partial",
-      "speaker_perks": {
-        "ticket": true
-      },
-      "proposal": {
-        "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-        "abstract": "Data teams ship dashboards fast but documentation and quality often lag behind. In this talk, I share how I built an AI-powered documentation pipeline that auto-generates column descriptions for dbt models (35%+ coverage increase), and a custom data quality framework that reduced quality debt by 15% across critical datasets. You'll learn practical patterns for dbt testing, automated doc generation, and building a culture of data trust \u2014 with live examples from production Snowflake and BigQuery environments.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "intermediate",
-        "talk_duration": 30,
-        "tags": [
-          "dbt",
-          "data-quality",
-          "documentation",
-          "analytics-engineering",
-          "ai"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.393,
-        "tag_relevance": 0.337,
-        "talk_match_score": 0.118,
-        "urgency_score": 0.8,
-        "format_score": 0.6,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "partial"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-10-02T12:02:22.034922+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'data' (score: 6.7)"
-        }
-      ],
-      "created_at": "2026-10-02T12:02:22.034931+00:00",
-      "updated_at": "2026-10-02T12:02:22.034932+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
       "id": "d4edab1a1a5ed437",
       "cfp_id": "809bdc1dbcad9542",
       "cfp_title": "Groningen Data Platform Meetup Lighting Talks!",
@@ -4575,82 +4651,6 @@
       ],
       "created_at": "2026-10-16T10:55:37.745412+00:00",
       "updated_at": "2026-10-16T10:55:37.745414+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": ""
-    },
-    {
-      "id": "85e7993e5763732f",
-      "cfp_id": "5db72494993e6bc8",
-      "cfp_title": "Big Data Europe",
-      "cfp_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
-      "cfp_source": "confs.tech",
-      "cfp_deadline": "2026-11-23",
-      "event_date": "2026-11-24",
-      "event_location": "Vilnius, Lithuania",
-      "is_online": true,
-      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-      "talk_abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-      "talk_tags": [
-        "leadership",
-        "data-culture",
-        "analytics-engineering",
-        "strategy"
-      ],
-      "talk_level": "beginner",
-      "match_reason": "Conference themes align with 'leadership' (score: 6.0)",
-      "conference_themes": [
-        "leadership",
-        "ai",
-        "web",
-        "open-source",
-        "security",
-        "database",
-        "education",
-        "mobile",
-        "testing"
-      ],
-      "conference_categories": [],
-      "travel_sponsorship": "unknown",
-      "speaker_perks": {},
-      "proposal": {
-        "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
-        "abstract": "You don't need a 20-person data team to build data culture. As a solo analytics engineer, I introduced documentation automation, data quality frameworks, and self-serve analytics to organizations that previously relied on ad-hoc SQL queries. This talk covers practical strategies for evangelizing data best practices, getting buy-in from leadership, and building the foundations that let small data teams punch above their weight.",
-        "speaker_name": "Ayoade Adegbite",
-        "speaker_bio": "Senior Analytics Engineer and open-source creator with 5 published dbt packages on dbt Hub. I design scalable analytics infrastructure using dbt, Snowflake, BigQuery, and Airflow, and train data teams across Africa and globally through Behind The Data Academy. Tableau and Airflow certified.",
-        "speaker_email": "ayoadeadegbitee@gmail.com",
-        "speaker_website": "https://ayoadeabel.tech/",
-        "speaker_github": "https://github.com/tripleaceme",
-        "talk_level": "beginner",
-        "talk_duration": 30,
-        "tags": [
-          "leadership",
-          "data-culture",
-          "analytics-engineering",
-          "strategy"
-        ]
-      },
-      "match_scores": {
-        "composite_score": 0.375,
-        "tag_relevance": 0.338,
-        "talk_match_score": 0.089,
-        "urgency_score": 0.6,
-        "format_score": 0.7,
-        "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-        "suggested_talk_level": "intermediate",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      },
-      "status": "draft",
-      "status_history": [
-        {
-          "status": "draft",
-          "timestamp": "2026-08-07T07:17:36.345462+00:00",
-          "note": "Auto-generated \u2014 Conference themes align with 'leadership' (score: 6.0)"
-        }
-      ],
-      "created_at": "2026-08-07T07:17:36.345470+00:00",
-      "updated_at": "2026-08-07T07:17:36.345472+00:00",
       "submitted_at": null,
       "response_at": null,
       "notes": ""
