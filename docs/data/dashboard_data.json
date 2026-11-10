@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-09T15:28:51.676792+00:00",
+  "generated_at": "2026-11-10T14:29:06.571613+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 147,
-    "open_cfps": 62,
+    "total_cfps_discovered": 148,
+    "open_cfps": 63,
     "expired_cfps": 85,
     "total_applications": 130,
     "drafts": 45,
@@ -18,11 +18,11 @@
     "expired_apps": 85,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-09T15:28:51.435758+00:00",
+    "last_crawled": "2026-11-10T14:29:05.442446+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 3,
-    "travel_unknown": 56
+    "travel_unknown": 57
   },
   "timeline": [
     {
@@ -93,7 +93,7 @@
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 74
+      "count": 75
     },
     {
       "source": "confs.tech",
@@ -115,16 +115,16 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 3,
-    "low": 59
+    "low": 60
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 61
+      "count": 62
     },
     {
       "tag": "web",
-      "count": 54
+      "count": 55
     },
     {
       "tag": "open-source",
@@ -132,7 +132,7 @@
     },
     {
       "tag": "data",
-      "count": 47
+      "count": 48
     },
     {
       "tag": "database",
@@ -140,7 +140,7 @@
     },
     {
       "tag": "leadership",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "cloud",
@@ -156,7 +156,7 @@
     },
     {
       "tag": "conference",
-      "count": 30
+      "count": 31
     },
     {
       "tag": "devops",
@@ -3490,6 +3490,15 @@
       "location": "162 East Bridge St, Homestead, PA 15120"
     },
     {
+      "title": "New Stars of Data #11",
+      "deadline": "2027-01-10",
+      "source": "callfordataspeakers",
+      "score": 0.248,
+      "url": "https://sessionize.com/new-stars-of-data-11",
+      "travel_sponsorship": "unknown",
+      "location": "Virtual"
+    },
+    {
       "title": "Data Engineers in Toronto",
       "deadline": "2027-01-19",
       "source": "callfordataspeakers",
@@ -3506,15 +3515,6 @@
       "url": "https://sessionize.com/data-saturday-93-brisbane-2027",
       "travel_sponsorship": "unknown",
       "location": "Brisbane, Australia"
-    },
-    {
-      "title": "Capital Region Data Professionals",
-      "deadline": "2027-05-15",
-      "source": "callfordataspeakers",
-      "score": 0.307,
-      "url": "https://sessionize.com/capital-area-sql-server-user-group",
-      "travel_sponsorship": "unknown",
-      "location": "Troy Web Consulting, 135 Mohawk St, Cohoes, NY 12047"
     }
   ]
 }
