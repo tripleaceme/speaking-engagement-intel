@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:29:06.571613+00:00",
+  "generated_at": "2026-11-11T13:43:37.425820+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -9,8 +9,8 @@
     "total_cfps_discovered": 148,
     "open_cfps": 63,
     "expired_cfps": 85,
-    "total_applications": 130,
-    "drafts": 45,
+    "total_applications": 131,
+    "drafts": 46,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,7 +18,7 @@
     "expired_apps": 85,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-10T14:29:05.442446+00:00",
+    "last_crawled": "2026-11-11T13:43:37.124726+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 3,
@@ -87,7 +87,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 2
+      "draft": 3
     }
   ],
   "source_breakdown": [
@@ -2863,6 +2863,26 @@
       "event_location": "Ouddorp, The Netherlands"
     },
     {
+      "id": "9152a08d24bf6982",
+      "cfp_title": "New Stars of Data #11",
+      "talk_title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/new-stars-of-data-11",
+      "deadline": "2027-01-10",
+      "event_date": "2027-06-04",
+      "status": "draft",
+      "score": 0.278,
+      "priority": "low",
+      "created_at": "2026-11-11T13:43:37.365610+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'leadership' (score: 5.0)",
+      "is_online": true,
+      "event_location": "Virtual"
+    },
+    {
       "id": "2be9e1bafde142b6",
       "cfp_title": "Boston Data and AI Saturday 2026",
       "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
@@ -3377,15 +3397,15 @@
       "acceptance_rate": 0
     },
     {
-      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
-      "applications": 8,
+      "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "applications": 9,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
       "acceptance_rate": 0
     },
     {
-      "title": "Scaling Data Culture: How One Analytics Engineer Can Change an Organization",
+      "title": "The Modern Data Stack on a Budget: Replacing Enterprise Tools with Open Source",
       "applications": 8,
       "accepted": 0,
       "rejected": 0,
@@ -3493,7 +3513,7 @@
       "title": "New Stars of Data #11",
       "deadline": "2027-01-10",
       "source": "callfordataspeakers",
-      "score": 0.248,
+      "score": 0.278,
       "url": "https://sessionize.com/new-stars-of-data-11",
       "travel_sponsorship": "unknown",
       "location": "Virtual"
