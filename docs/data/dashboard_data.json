@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:46:39.898198+00:00",
+  "generated_at": "2026-11-13T14:05:25.660271+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -18,7 +18,7 @@
     "expired_apps": 85,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-12T14:46:39.599520+00:00",
+    "last_crawled": "2026-11-13T14:05:25.359774+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 3,
@@ -241,6 +241,31 @@
   ],
   "top_matches": [
     {
+      "id": "f5236e3008d6c44b",
+      "title": "San Diego SQL Server User Group",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
+      "deadline": "2026-11-20",
+      "event_date": "2026-01-15",
+      "location": "Virtual",
+      "is_online": false,
+      "tags": [
+        "database",
+        "north america",
+        "education",
+        "ai",
+        "open-source"
+      ],
+      "score": 0.451,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.523,
+      "talk_match": 0.059,
+      "urgency": 1.0,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
       "id": "d0cc2324e95fcdb3",
       "title": "DataTune 2027",
       "source": "callfordataspeakers",
@@ -264,31 +289,6 @@
       "urgency": 1.0,
       "travel_sponsorship": "partial",
       "event_type": "conference, precon"
-    },
-    {
-      "id": "f5236e3008d6c44b",
-      "title": "San Diego SQL Server User Group",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
-      "deadline": "2026-11-20",
-      "event_date": "2026-01-15",
-      "location": "Virtual",
-      "is_online": false,
-      "tags": [
-        "database",
-        "north america",
-        "education",
-        "ai",
-        "open-source"
-      ],
-      "score": 0.421,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.523,
-      "talk_match": 0.059,
-      "urgency": 0.8,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     },
     {
       "id": "5db72494993e6bc8",
@@ -983,6 +983,26 @@
       "event_location": "Austin, Texas, United States"
     },
     {
+      "id": "5e1414e189fef8fd",
+      "cfp_title": "San Diego SQL Server User Group",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/san-diego-sql-server-user-group8844",
+      "deadline": "2026-11-20",
+      "event_date": "2026-01-15",
+      "status": "draft",
+      "score": 0.451,
+      "priority": "medium",
+      "created_at": "2026-04-08T12:28:22.664221+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 4.8)",
+      "is_online": false,
+      "event_location": "Virtual"
+    },
+    {
       "id": "df89b10514e7fe7b",
       "cfp_title": "Stockholm SQL 2025-2026",
       "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
@@ -1201,26 +1221,6 @@
       "match_reason": "Conference themes align with 'data' (score: 6.0)",
       "is_online": false,
       "event_location": "Rome, Italy"
-    },
-    {
-      "id": "5e1414e189fef8fd",
-      "cfp_title": "San Diego SQL Server User Group",
-      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/san-diego-sql-server-user-group8844",
-      "deadline": "2026-11-20",
-      "event_date": "2026-01-15",
-      "status": "draft",
-      "score": 0.421,
-      "priority": "medium",
-      "created_at": "2026-04-08T12:28:22.664221+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'database' (score: 4.8)",
-      "is_online": false,
-      "event_location": "Virtual"
     },
     {
       "id": "f05c499a51109afe",
@@ -3468,7 +3468,7 @@
       "title": "San Diego SQL Server User Group",
       "deadline": "2026-11-20",
       "source": "callfordataspeakers",
-      "score": 0.421,
+      "score": 0.451,
       "url": "https://sessionize.com/san-diego-sql-server-user-group8844",
       "travel_sponsorship": "unknown",
       "location": "Virtual"
