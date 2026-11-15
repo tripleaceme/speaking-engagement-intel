@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-14T13:07:04.191713+00:00",
+  "generated_at": "2026-11-15T13:36:38.448966+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 148,
-    "open_cfps": 63,
-    "expired_cfps": 85,
+    "total_cfps_discovered": 150,
+    "open_cfps": 64,
+    "expired_cfps": 86,
     "total_applications": 131,
-    "drafts": 46,
+    "drafts": 45,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 85,
+    "expired_apps": 86,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-14T13:07:03.890545+00:00",
+    "last_crawled": "2026-11-15T13:36:37.374386+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 3,
-    "travel_unknown": 57
+    "travel_unknown": 58
   },
   "timeline": [
     {
@@ -31,7 +31,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 14
+      "draft": 13
     },
     {
       "month": "2026-05",
@@ -93,7 +93,7 @@
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 75
+      "count": 77
     },
     {
       "source": "confs.tech",
@@ -115,7 +115,7 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 3,
-    "low": 60
+    "low": 61
   },
   "tag_cloud": [
     {
@@ -128,19 +128,19 @@
     },
     {
       "tag": "open-source",
-      "count": 51
+      "count": 50
     },
     {
       "tag": "data",
-      "count": 48
+      "count": 49
     },
     {
       "tag": "database",
-      "count": 43
+      "count": 44
     },
     {
       "tag": "leadership",
-      "count": 42
+      "count": 41
     },
     {
       "tag": "cloud",
@@ -160,7 +160,7 @@
     },
     {
       "tag": "devops",
-      "count": 29
+      "count": 30
     },
     {
       "tag": "call-for-papers",
@@ -168,11 +168,11 @@
     },
     {
       "tag": "in-person",
-      "count": 15
+      "count": 16
     },
     {
       "tag": "external",
-      "count": 15
+      "count": 16
     },
     {
       "tag": "cfp",
@@ -188,7 +188,7 @@
     },
     {
       "tag": "north america",
-      "count": 10
+      "count": 11
     },
     {
       "tag": "event-management",
@@ -212,7 +212,7 @@
     },
     {
       "tag": "usergroup",
-      "count": 7
+      "count": 6
     },
     {
       "tag": "speaker-management",
@@ -220,6 +220,10 @@
     },
     {
       "tag": "events",
+      "count": 5
+    },
+    {
+      "tag": "conference, precon",
       "count": 5
     },
     {
@@ -232,10 +236,6 @@
     },
     {
       "tag": "typescript",
-      "count": 4
-    },
-    {
-      "tag": "conference, precon",
       "count": 4
     }
   ],
@@ -389,31 +389,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "yes",
       "event_type": "conference,precon"
-    },
-    {
-      "id": "7b657a58d4c3645e",
-      "title": "Fabric & Power BI Wales User Group",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/fabricpowerbiwales",
-      "deadline": "2026-11-14",
-      "event_date": "2026-01-15",
-      "location": "Online",
-      "is_online": true,
-      "tags": [
-        "cloud",
-        "ai",
-        "leadership",
-        "open-source",
-        "usergroup"
-      ],
-      "score": 0.37,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.177,
-      "talk_match": 0.059,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     },
     {
       "id": "819351f5da220253",
@@ -736,6 +711,31 @@
       "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
       "tag_relevance": 0.335,
       "talk_match": 0.059,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
+    },
+    {
+      "id": "549cf74dc3ffa909",
+      "title": "sameersegal/Podium",
+      "source": "github",
+      "url": "https://github.com/sameersegal/Podium",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "open-source",
+        "event-management",
+        "ai",
+        "self-hosted",
+        "cfp"
+      ],
+      "score": 0.308,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.329,
+      "talk_match": 0.06,
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
@@ -1850,7 +1850,7 @@
       "cfp_url": "https://sessionize.com/fabricpowerbiwales",
       "deadline": "2026-11-14",
       "event_date": "2026-01-15",
-      "status": "draft",
+      "status": "expired",
       "score": 0.37,
       "priority": "low",
       "created_at": "2026-04-08T12:28:22.664141+00:00",
@@ -3447,15 +3447,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Fabric & Power BI Wales User Group",
-      "deadline": "2026-11-14",
-      "source": "callfordataspeakers",
-      "score": 0.37,
-      "url": "https://sessionize.com/fabricpowerbiwales",
-      "travel_sponsorship": "unknown",
-      "location": "Online"
-    },
-    {
       "title": "DataTune 2027",
       "deadline": "2026-11-16",
       "source": "callfordataspeakers",
@@ -3535,6 +3526,15 @@
       "url": "https://sessionize.com/data-saturday-93-brisbane-2027",
       "travel_sponsorship": "unknown",
       "location": "Brisbane, Australia"
+    },
+    {
+      "title": "Day of Data Jacksonville 2027",
+      "deadline": "2027-04-01",
+      "source": "callfordataspeakers",
+      "score": 0.219,
+      "url": "https://sessionize.com/dodjax2027",
+      "travel_sponsorship": "unknown",
+      "location": "Davis College of Business & Technology, Jacksonville University"
     }
   ]
 }

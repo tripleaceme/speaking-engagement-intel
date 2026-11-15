@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-11-14T13:07:03.890545+00:00",
-    "total_cfps": 148,
-    "open_cfps": 63,
+    "last_crawled": "2026-11-15T13:36:37.374386+00:00",
+    "total_cfps": 150,
+    "open_cfps": 64,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 0,
+    "new_this_run": 2,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-11-14T13:07:04.078217+00:00",
+    "last_scored": "2026-11-15T13:36:38.322070+00:00",
     "high_priority": 0,
     "medium_priority": 3,
-    "above_threshold": 46
+    "above_threshold": 45
   },
   "cfps": [
     {
@@ -2496,7 +2496,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
       "discovered_at": "2026-04-08T12:25:56.585951+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -2531,17 +2531,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:39.738468+00:00",
-      "match_scores": {
-        "composite_score": 0.37,
-        "tag_relevance": 0.177,
-        "talk_match_score": 0.059,
-        "urgency_score": 1.0,
-        "format_score": 0.7,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "low",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "f5236e3008d6c44b",
@@ -10343,6 +10333,110 @@
         "talk_match_score": 0.044,
         "urgency_score": 0.4,
         "format_score": 0.7,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "898c865fef8e0b50",
+      "source": "callfordataspeakers",
+      "title": "Day of Data Jacksonville 2027",
+      "url": "https://sessionize.com/dodjax2027",
+      "cfp_url": "https://sessionize.com/dodjax2027",
+      "description": "Data conference, precon \u2014 Davis College of Business & Technology, Jacksonville University",
+      "tags": [
+        "ai",
+        "data",
+        "database",
+        "cloud",
+        "south america",
+        "devops",
+        "conference, precon",
+        "north america",
+        "web"
+      ],
+      "deadline": "2027-04-01",
+      "event_date": "2027-05-14",
+      "location": "Davis College of Business & Technology, Jacksonville University",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon",
+      "discovered_at": "2026-11-15T13:36:36.866662+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "day pre",
+        "speakers for saturday for 1",
+        "cons",
+        "hour sessions and also for 2 all"
+      ],
+      "submission_fields": [
+        "topic",
+        "track",
+        "twitter"
+      ],
+      "enriched_at": "2026-11-15T13:36:37.933144+00:00",
+      "match_scores": {
+        "composite_score": 0.219,
+        "tag_relevance": 0.179,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.2,
+        "format_score": 0.6,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "be9ba88857bec14c",
+      "source": "callfordataspeakers",
+      "title": "Day of Data Jacksonville 2027",
+      "url": "https://sessionize.com/day-of-data-jacksonville-2027",
+      "cfp_url": "https://sessionize.com/day-of-data-jacksonville-2027",
+      "description": "Data external \u2014 Davis College of Business & Technology, Jacksonville University (JU), University Oaks Dr, Jacksonville, Florida 32211 USA, , Room and parking details are coming soon., ,",
+      "tags": [
+        "data",
+        "external",
+        "in-person"
+      ],
+      "deadline": "",
+      "event_date": "2027-05-15",
+      "location": "Davis College of Business & Technology, Jacksonville University (JU), University Oaks Dr, Jacksonville, Florida 32211 USA, , Room and parking details are coming soon., ,",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "external",
+      "discovered_at": "2026-11-15T13:36:36.866689+00:00",
+      "status": "open",
+      "match_scores": {
+        "composite_score": 0.19,
+        "tag_relevance": 0.176,
+        "talk_match_score": 0.044,
+        "urgency_score": 0.1,
+        "format_score": 0.5,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
         "priority": "low",
