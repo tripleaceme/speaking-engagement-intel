@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-11-15T13:36:37.374386+00:00",
+    "last_crawled": "2026-11-16T15:05:44.981304+00:00",
     "total_cfps": 150,
     "open_cfps": 64,
     "sources_checked": 9,
-    "new_this_run": 2,
-    "expired_this_run": 1,
+    "new_this_run": 0,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 3,
-    "last_scored": "2026-11-15T13:36:38.322070+00:00",
+    "last_scored": "2026-11-16T15:05:45.437694+00:00",
     "high_priority": 0,
     "medium_priority": 3,
     "above_threshold": 45
@@ -7020,10 +7020,10 @@
       ],
       "enriched_at": "2026-08-07T07:17:34.060759+00:00",
       "match_scores": {
-        "composite_score": 0.405,
+        "composite_score": 0.435,
         "tag_relevance": 0.338,
         "talk_match_score": 0.089,
-        "urgency_score": 0.8,
+        "urgency_score": 1.0,
         "format_score": 0.7,
         "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
         "suggested_talk_level": "intermediate",
