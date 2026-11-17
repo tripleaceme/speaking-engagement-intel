@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-16T15:05:45.523753+00:00",
+  "generated_at": "2026-11-17T15:38:32.264129+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 150,
+    "total_cfps_discovered": 151,
     "open_cfps": 64,
-    "expired_cfps": 86,
+    "expired_cfps": 87,
     "total_applications": 131,
-    "drafts": 45,
+    "drafts": 44,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 86,
+    "expired_apps": 87,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-16T15:05:44.981304+00:00",
+    "last_crawled": "2026-11-17T15:38:30.732827+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
-    "travel_partial": 3,
-    "travel_unknown": 58
+    "travel_partial": 2,
+    "travel_unknown": 59
   },
   "timeline": [
     {
@@ -79,7 +79,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 7
+      "draft": 6
     },
     {
       "month": "2026-11",
@@ -93,7 +93,7 @@
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 77
+      "count": 78
     },
     {
       "source": "confs.tech",
@@ -114,8 +114,8 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 3,
-    "low": 61
+    "medium": 2,
+    "low": 62
   },
   "tag_cloud": [
     {
@@ -128,7 +128,7 @@
     },
     {
       "tag": "open-source",
-      "count": 50
+      "count": 49
     },
     {
       "tag": "data",
@@ -136,7 +136,7 @@
     },
     {
       "tag": "database",
-      "count": 44
+      "count": 45
     },
     {
       "tag": "leadership",
@@ -144,23 +144,23 @@
     },
     {
       "tag": "cloud",
-      "count": 37
+      "count": 38
     },
     {
       "tag": "education",
-      "count": 33
+      "count": 32
     },
     {
       "tag": "security",
       "count": 31
     },
     {
-      "tag": "conference",
+      "tag": "devops",
       "count": 31
     },
     {
-      "tag": "devops",
-      "count": 30
+      "tag": "conference",
+      "count": 31
     },
     {
       "tag": "call-for-papers",
@@ -184,7 +184,7 @@
     },
     {
       "tag": "blockchain",
-      "count": 12
+      "count": 11
     },
     {
       "tag": "north america",
@@ -289,31 +289,6 @@
       "urgency": 1.0,
       "travel_sponsorship": "unknown",
       "event_type": "conference"
-    },
-    {
-      "id": "d0cc2324e95fcdb3",
-      "title": "DataTune 2027",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/datatune-2027",
-      "deadline": "2026-11-16",
-      "event_date": "2027-03-12",
-      "location": "Nashville, Tennessee, United States",
-      "is_online": false,
-      "tags": [
-        "ai",
-        "education",
-        "data",
-        "north america",
-        "web"
-      ],
-      "score": 0.423,
-      "priority": "medium",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.337,
-      "talk_match": 0.118,
-      "urgency": 1.0,
-      "travel_sponsorship": "partial",
-      "event_type": "conference, precon"
     },
     {
       "id": "809bdc1dbcad9542",
@@ -739,6 +714,31 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
+    },
+    {
+      "id": "4362d7ebfbe3dc4a",
+      "title": "Capital Region Data Professionals",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/capital-area-sql-server-user-group",
+      "deadline": "2027-05-15",
+      "event_date": "2027-01-18",
+      "location": "Troy Web Consulting, 135 Mohawk St, Cohoes, NY 12047",
+      "is_online": false,
+      "tags": [
+        "leadership",
+        "web",
+        "open-source",
+        "database",
+        "usergroup"
+      ],
+      "score": 0.307,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.331,
+      "talk_match": 0.137,
+      "urgency": 0.2,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -1210,7 +1210,7 @@
       "cfp_url": "https://sessionize.com/datatune-2027",
       "deadline": "2026-11-16",
       "event_date": "2027-03-12",
-      "status": "draft",
+      "status": "expired",
       "score": 0.423,
       "priority": "medium",
       "created_at": "2026-10-02T12:02:22.034931+00:00",
@@ -3447,15 +3447,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "DataTune 2027",
-      "deadline": "2026-11-16",
-      "source": "callfordataspeakers",
-      "score": 0.423,
-      "url": "https://sessionize.com/datatune-2027",
-      "travel_sponsorship": "partial",
-      "location": "Nashville, Tennessee, United States"
-    },
-    {
       "title": "San Diego SQL Server User Group",
       "deadline": "2026-11-20",
       "source": "callfordataspeakers",
@@ -3535,6 +3526,15 @@
       "url": "https://sessionize.com/dodjax2027",
       "travel_sponsorship": "unknown",
       "location": "Davis College of Business & Technology, Jacksonville University"
+    },
+    {
+      "title": "Day of Data Jacksonville 2027",
+      "deadline": "2027-04-01",
+      "source": "callfordataspeakers",
+      "score": 0.22,
+      "url": "https://sessionize.com/dayofdatajax",
+      "travel_sponsorship": "unknown",
+      "location": "Jacksonville, Florida, United States"
     }
   ]
 }
