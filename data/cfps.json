@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-11-17T15:38:30.732827+00:00",
+    "last_crawled": "2026-11-18T15:15:57.291415+00:00",
     "total_cfps": 151,
     "open_cfps": 64,
     "sources_checked": 9,
-    "new_this_run": 1,
-    "expired_this_run": 1,
+    "new_this_run": 0,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 2,
-    "last_scored": "2026-11-17T15:38:32.157422+00:00",
+    "last_scored": "2026-11-18T15:15:57.837649+00:00",
     "high_priority": 0,
     "medium_priority": 2,
     "above_threshold": 44
