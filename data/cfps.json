@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-11-18T15:15:57.291415+00:00",
-    "total_cfps": 151,
-    "open_cfps": 64,
+    "last_crawled": "2026-11-19T15:23:40.064544+00:00",
+    "total_cfps": 152,
+    "open_cfps": 65,
     "sources_checked": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 2,
-    "last_scored": "2026-11-18T15:15:57.837649+00:00",
+    "last_scored": "2026-11-19T15:23:41.481596+00:00",
     "high_priority": 0,
     "medium_priority": 2,
-    "above_threshold": 44
+    "above_threshold": 45
   },
   "cfps": [
     {
@@ -10504,6 +10504,78 @@
         "talk_match_score": 0.022,
         "urgency_score": 0.2,
         "format_score": 0.6,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "63f08a4b79926ca5",
+      "source": "callfordataspeakers",
+      "title": "SQL Server User Group Croatia '27",
+      "url": "https://sessionize.com/ssugcro27",
+      "cfp_url": "https://sessionize.com/ssugcro27",
+      "description": "We host one event per month, usually on the second Wednesday of the month",
+      "tags": [
+        "ai",
+        "leadership",
+        "open-source",
+        "cloud",
+        "usergroup",
+        "testing",
+        "data",
+        "web",
+        "database"
+      ],
+      "deadline": "",
+      "event_date": "2027-02-10",
+      "location": "Online & Hybrid",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup",
+      "discovered_at": "2026-11-19T15:23:39.347471+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "database",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "testing",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "speakers willing to join us this and next year"
+      ],
+      "enriched_at": "2026-11-19T15:23:41.422221+00:00",
+      "match_scores": {
+        "composite_score": 0.298,
+        "tag_relevance": 0.352,
+        "talk_match_score": 0.067,
+        "urgency_score": 0.1,
+        "format_score": 0.7,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
         "priority": "low",

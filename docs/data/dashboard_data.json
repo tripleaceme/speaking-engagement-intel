@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-18T15:15:57.973846+00:00",
+  "generated_at": "2026-11-19T15:23:41.561847+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 151,
-    "open_cfps": 64,
+    "total_cfps_discovered": 152,
+    "open_cfps": 65,
     "expired_cfps": 87,
-    "total_applications": 131,
-    "drafts": 44,
+    "total_applications": 132,
+    "drafts": 45,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 87,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-18T15:15:57.291415+00:00",
+    "last_crawled": "2026-11-19T15:23:40.064544+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 2,
-    "travel_unknown": 59
+    "travel_unknown": 60
   },
   "timeline": [
     {
@@ -87,13 +87,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 3
+      "draft": 4
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 78
+      "count": 79
     },
     {
       "source": "confs.tech",
@@ -115,36 +115,36 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 2,
-    "low": 62
+    "low": 63
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 62
+      "count": 63
     },
     {
       "tag": "web",
-      "count": 55
+      "count": 56
     },
     {
       "tag": "open-source",
-      "count": 49
+      "count": 50
     },
     {
       "tag": "data",
-      "count": 49
+      "count": 50
     },
     {
       "tag": "database",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "leadership",
-      "count": 41
+      "count": 42
     },
     {
       "tag": "cloud",
-      "count": 38
+      "count": 39
     },
     {
       "tag": "education",
@@ -175,12 +175,12 @@
       "count": 16
     },
     {
-      "tag": "cfp",
+      "tag": "testing",
       "count": 14
     },
     {
-      "tag": "testing",
-      "count": 13
+      "tag": "cfp",
+      "count": 14
     },
     {
       "tag": "blockchain",
@@ -212,7 +212,7 @@
     },
     {
       "tag": "usergroup",
-      "count": 6
+      "count": 7
     },
     {
       "tag": "speaker-management",
@@ -2763,6 +2763,26 @@
       "event_location": "online"
     },
     {
+      "id": "13c2528b5c392c63",
+      "cfp_title": "SQL Server User Group Croatia '27",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/ssugcro27",
+      "deadline": "",
+      "event_date": "2027-02-10",
+      "status": "draft",
+      "score": 0.298,
+      "priority": "low",
+      "created_at": "2026-11-19T15:23:41.523534+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'database' (score: 5.2)",
+      "is_online": true,
+      "event_location": "Online & Hybrid"
+    },
+    {
       "id": "942628ecd41a1cda",
       "cfp_title": "Vector in Databases",
       "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
@@ -3382,7 +3402,7 @@
     },
     {
       "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "applications": 20,
+      "applications": 21,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
