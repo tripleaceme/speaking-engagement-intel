@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-11-19T15:23:40.064544+00:00",
-    "total_cfps": 152,
-    "open_cfps": 65,
+    "last_crawled": "2026-11-20T15:00:06.533858+00:00",
+    "total_cfps": 153,
+    "open_cfps": 66,
     "sources_checked": 9,
     "new_this_run": 1,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 2,
-    "last_scored": "2026-11-19T15:23:41.481596+00:00",
+    "last_scored": "2026-11-20T15:00:07.863207+00:00",
     "high_priority": 0,
     "medium_priority": 2,
-    "above_threshold": 45
+    "above_threshold": 46
   },
   "cfps": [
     {
@@ -2639,10 +2639,10 @@
       ],
       "enriched_at": "2026-04-08T12:27:41.465138+00:00",
       "match_scores": {
-        "composite_score": 0.32,
+        "composite_score": 0.35,
         "tag_relevance": 0.361,
         "talk_match_score": 0.078,
-        "urgency_score": 0.2,
+        "urgency_score": 0.4,
         "format_score": 0.7,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
@@ -10578,6 +10578,89 @@
         "format_score": 0.7,
         "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
         "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "d3ab0d0d22fba321",
+      "source": "callfordataspeakers",
+      "title": "CincyData",
+      "url": "https://sessionize.com/cincydata/",
+      "cfp_url": "https://sessionize.com/cincydata/",
+      "description": "CincyData: Call for Speakers @ Sessionize. org/ \r\n                             \r\n                         \r\n                     \r\n                 \r\n                     \r\n                         \r\n                         CincyDATA is a community for data and AI professionals, rooted in Cincinnati and open to anyone, anywhere. We bring together DBAs, developers, data engineers, analysts, data scientists, and architects for practical, real-world sessions, on-premises and in the cloud, with a strong Microsoft data platform presence.",
+      "tags": [
+        "open-source",
+        "education",
+        "data",
+        "web",
+        "leadership",
+        "devops",
+        "ai",
+        "cloud",
+        "database",
+        "security",
+        "usergroup"
+      ],
+      "deadline": "2027-11-01",
+      "event_date": "2026-12-16",
+      "location": "Virtual",
+      "is_online": true,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup",
+      "discovered_at": "2026-11-20T15:00:05.729704+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 1.0
+        },
+        {
+          "theme": "data",
+          "confidence": 1.0
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "leadership",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "devops",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "security",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-11-20T15:00:07.787812+00:00",
+      "match_scores": {
+        "composite_score": 0.381,
+        "tag_relevance": 0.502,
+        "talk_match_score": 0.118,
+        "urgency_score": 0.2,
+        "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
       }

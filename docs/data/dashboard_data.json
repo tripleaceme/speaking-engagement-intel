@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-19T15:23:41.561847+00:00",
+  "generated_at": "2026-11-20T15:00:07.970886+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 152,
-    "open_cfps": 65,
+    "total_cfps_discovered": 153,
+    "open_cfps": 66,
     "expired_cfps": 87,
-    "total_applications": 132,
-    "drafts": 45,
+    "total_applications": 133,
+    "drafts": 46,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 87,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-19T15:23:40.064544+00:00",
+    "last_crawled": "2026-11-20T15:00:06.533858+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 2,
-    "travel_unknown": 60
+    "travel_unknown": 61
   },
   "timeline": [
     {
@@ -87,13 +87,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 4
+      "draft": 5
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 79
+      "count": 80
     },
     {
       "source": "confs.tech",
@@ -115,48 +115,48 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 2,
-    "low": 63
+    "low": 64
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 63
+      "count": 64
     },
     {
       "tag": "web",
-      "count": 56
+      "count": 57
     },
     {
       "tag": "open-source",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "data",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "database",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "leadership",
-      "count": 42
+      "count": 43
     },
     {
       "tag": "cloud",
-      "count": 39
+      "count": 40
     },
     {
       "tag": "education",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "security",
-      "count": 31
+      "count": 32
     },
     {
       "tag": "devops",
-      "count": 31
+      "count": 32
     },
     {
       "tag": "conference",
@@ -203,15 +203,15 @@
       "count": 9
     },
     {
+      "tag": "usergroup",
+      "count": 8
+    },
+    {
       "tag": "cloudflare-workers",
       "count": 8
     },
     {
       "tag": "python",
-      "count": 7
-    },
-    {
-      "tag": "usergroup",
       "count": 7
     },
     {
@@ -312,6 +312,31 @@
       "tag_relevance": 0.337,
       "talk_match": 0.078,
       "urgency": 0.6,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
+      "id": "d3ab0d0d22fba321",
+      "title": "CincyData",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/cincydata/",
+      "deadline": "2027-11-01",
+      "event_date": "2026-12-16",
+      "location": "Virtual",
+      "is_online": true,
+      "tags": [
+        "open-source",
+        "education",
+        "data",
+        "web",
+        "leadership"
+      ],
+      "score": 0.381,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.502,
+      "talk_match": 0.118,
+      "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
     },
@@ -441,6 +466,31 @@
       "event_type": "conference"
     },
     {
+      "id": "572d7d738708e54c",
+      "title": "Data Engineers in Toronto",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/data-engineers-in-toronto",
+      "deadline": "2027-01-19",
+      "event_date": "2026-03-09",
+      "location": "Virtual / Online",
+      "is_online": true,
+      "tags": [
+        "education",
+        "ai",
+        "open-source",
+        "usergroup",
+        "web"
+      ],
+      "score": 0.35,
+      "priority": "low",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.361,
+      "talk_match": 0.078,
+      "urgency": 0.4,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup"
+    },
+    {
       "id": "850c50fff292a225",
       "title": "SQL Saturday Toronto 2026",
       "source": "callfordataspeakers",
@@ -537,31 +587,6 @@
       "tag_relevance": 0.518,
       "talk_match": 0.082,
       "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
-    },
-    {
-      "id": "572d7d738708e54c",
-      "title": "Data Engineers in Toronto",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/data-engineers-in-toronto",
-      "deadline": "2027-01-19",
-      "event_date": "2026-03-09",
-      "location": "Virtual / Online",
-      "is_online": true,
-      "tags": [
-        "education",
-        "ai",
-        "open-source",
-        "usergroup",
-        "web"
-      ],
-      "score": 0.32,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.361,
-      "talk_match": 0.078,
-      "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
     },
@@ -714,31 +739,6 @@
       "urgency": 0.1,
       "travel_sponsorship": "unknown",
       "event_type": ""
-    },
-    {
-      "id": "4362d7ebfbe3dc4a",
-      "title": "Capital Region Data Professionals",
-      "source": "callfordataspeakers",
-      "url": "https://sessionize.com/capital-area-sql-server-user-group",
-      "deadline": "2027-05-15",
-      "event_date": "2027-01-18",
-      "location": "Troy Web Consulting, 135 Mohawk St, Cohoes, NY 12047",
-      "is_online": false,
-      "tags": [
-        "leadership",
-        "web",
-        "open-source",
-        "database",
-        "usergroup"
-      ],
-      "score": 0.307,
-      "priority": "low",
-      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-      "tag_relevance": 0.331,
-      "talk_match": 0.137,
-      "urgency": 0.2,
-      "travel_sponsorship": "unknown",
-      "event_type": "usergroup"
     }
   ],
   "applications": [
@@ -1763,6 +1763,26 @@
       "event_location": "Warsaw, Poland"
     },
     {
+      "id": "9dc47e2ddc10473f",
+      "cfp_title": "CincyData",
+      "talk_title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/cincydata/",
+      "deadline": "2027-11-01",
+      "event_date": "2026-12-16",
+      "status": "draft",
+      "score": 0.381,
+      "priority": "low",
+      "created_at": "2026-11-20T15:00:07.918866+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'data' (score: 8.8)",
+      "is_online": true,
+      "event_location": "Virtual"
+    },
+    {
       "id": "c4ed74b25258c05b",
       "cfp_title": "FABCON, SQLCON 2027: Workshops",
       "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
@@ -2061,6 +2081,26 @@
       "match_reason": "Conference themes align with 'database' (score: 6.5)",
       "is_online": false,
       "event_location": "Atlanta, Georgia, United States"
+    },
+    {
+      "id": "072a243546db9f10",
+      "cfp_title": "Data Engineers in Toronto",
+      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/data-engineers-in-toronto",
+      "deadline": "2027-01-19",
+      "event_date": "2026-03-09",
+      "status": "draft",
+      "score": 0.35,
+      "priority": "low",
+      "created_at": "2026-04-08T12:28:22.664300+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "unknown",
+      "match_reason": "Conference themes align with 'education' (score: 4.5)",
+      "is_online": true,
+      "event_location": "Virtual / Online"
     },
     {
       "id": "0f442c5b441fc24a",
@@ -2401,26 +2441,6 @@
       "match_reason": "Conference themes align with 'data' (score: 12.0)",
       "is_online": false,
       "event_location": "Sheffield, United Kingdom"
-    },
-    {
-      "id": "072a243546db9f10",
-      "cfp_title": "Data Engineers in Toronto",
-      "talk_title": "Democratizing Data Education: Training 900+ Analysts Across 7 Countries",
-      "cfp_source": "callfordataspeakers",
-      "cfp_url": "https://sessionize.com/data-engineers-in-toronto",
-      "deadline": "2027-01-19",
-      "event_date": "2026-03-09",
-      "status": "draft",
-      "score": 0.32,
-      "priority": "low",
-      "created_at": "2026-04-08T12:28:22.664300+00:00",
-      "submitted_at": null,
-      "response_at": null,
-      "notes": "",
-      "travel_sponsorship": "unknown",
-      "match_reason": "Conference themes align with 'education' (score: 4.5)",
-      "is_online": true,
-      "event_location": "Virtual / Online"
     },
     {
       "id": "ce336dbd55617205",
@@ -3394,7 +3414,7 @@
     },
     {
       "title": "Building Trust in Data: Documentation Automation & Quality Engineering at Scale",
-      "applications": 28,
+      "applications": 29,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -3524,7 +3544,7 @@
       "title": "Data Engineers in Toronto",
       "deadline": "2027-01-19",
       "source": "callfordataspeakers",
-      "score": 0.32,
+      "score": 0.35,
       "url": "https://sessionize.com/data-engineers-in-toronto",
       "travel_sponsorship": "unknown",
       "location": "Virtual / Online"
