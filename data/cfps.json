@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-11-20T15:00:06.533858+00:00",
+    "last_crawled": "2026-11-21T14:21:31.141428+00:00",
     "total_cfps": 153,
-    "open_cfps": 66,
+    "open_cfps": 65,
     "sources_checked": 9,
-    "new_this_run": 1,
-    "expired_this_run": 0,
+    "new_this_run": 0,
+    "expired_this_run": 1,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 2,
-    "last_scored": "2026-11-20T15:00:07.863207+00:00",
+    "last_scored": "2026-11-21T14:21:31.794305+00:00",
     "high_priority": 0,
-    "medium_priority": 2,
-    "above_threshold": 46
+    "medium_priority": 1,
+    "above_threshold": 45
   },
   "cfps": [
     {
@@ -2556,7 +2556,7 @@
       "travel_sponsorship": "unknown",
       "event_type": "usergroup",
       "discovered_at": "2026-04-08T12:25:56.585985+00:00",
-      "status": "open",
+      "status": "expired",
       "themes": [
         {
           "theme": "ai",
@@ -2580,17 +2580,7 @@
         "twitter"
       ],
       "enriched_at": "2026-04-08T12:27:40.545796+00:00",
-      "match_scores": {
-        "composite_score": 0.451,
-        "tag_relevance": 0.523,
-        "talk_match_score": 0.059,
-        "urgency_score": 1.0,
-        "format_score": 0.5,
-        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
-        "suggested_talk_level": "beginner",
-        "priority": "medium",
-        "travel_sponsorship": "unknown"
-      }
+      "match_scores": null
     },
     {
       "id": "572d7d738708e54c",
