@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:35:30.758884+00:00",
+  "generated_at": "2026-11-24T17:06:05.290821+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "total_cfps_discovered": 153,
-    "open_cfps": 65,
-    "expired_cfps": 88,
+    "open_cfps": 64,
+    "expired_cfps": 89,
     "total_applications": 133,
-    "drafts": 45,
+    "drafts": 44,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
     "withdrawn": 0,
-    "expired_apps": 88,
+    "expired_apps": 89,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-23T17:35:30.116381+00:00",
+    "last_crawled": "2026-11-24T17:06:04.515239+00:00",
     "sources_checked": 9,
     "travel_yes": 3,
     "travel_partial": 2,
-    "travel_unknown": 60
+    "travel_unknown": 59
   },
   "timeline": [
     {
@@ -63,7 +63,7 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 12
+      "draft": 11
     },
     {
       "month": "2026-09",
@@ -114,49 +114,49 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 2,
+    "medium": 1,
     "low": 63
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 63
+      "count": 62
     },
     {
       "tag": "web",
-      "count": 57
+      "count": 56
     },
     {
       "tag": "open-source",
-      "count": 50
+      "count": 49
     },
     {
       "tag": "data",
-      "count": 50
+      "count": 49
     },
     {
       "tag": "database",
-      "count": 46
+      "count": 45
     },
     {
       "tag": "leadership",
-      "count": 43
+      "count": 42
     },
     {
       "tag": "cloud",
       "count": 40
     },
     {
-      "tag": "education",
+      "tag": "devops",
       "count": 32
+    },
+    {
+      "tag": "education",
+      "count": 31
     },
     {
       "tag": "security",
-      "count": 32
-    },
-    {
-      "tag": "devops",
-      "count": 32
+      "count": 31
     },
     {
       "tag": "conference",
@@ -175,12 +175,12 @@
       "count": 16
     },
     {
-      "tag": "testing",
+      "tag": "cfp",
       "count": 14
     },
     {
-      "tag": "cfp",
-      "count": 14
+      "tag": "testing",
+      "count": 13
     },
     {
       "tag": "blockchain",
@@ -195,12 +195,12 @@
       "count": 9
     },
     {
-      "tag": "mobile",
+      "tag": "europe",
       "count": 9
     },
     {
-      "tag": "europe",
-      "count": 9
+      "tag": "mobile",
+      "count": 8
     },
     {
       "tag": "cloudflare-workers",
@@ -240,31 +240,6 @@
     }
   ],
   "top_matches": [
-    {
-      "id": "5db72494993e6bc8",
-      "title": "Big Data Europe",
-      "source": "confs.tech",
-      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
-      "deadline": "2026-11-23",
-      "event_date": "2026-11-24",
-      "location": "Vilnius, Lithuania",
-      "is_online": true,
-      "tags": [
-        "open-source",
-        "web",
-        "online",
-        "testing",
-        "data"
-      ],
-      "score": 0.435,
-      "priority": "medium",
-      "suggested_talk": "Building Internal Analytics Tools with Streamlit and Snowflake",
-      "tag_relevance": 0.338,
-      "talk_match": 0.089,
-      "urgency": 1.0,
-      "travel_sponsorship": "unknown",
-      "event_type": "conference"
-    },
     {
       "id": "809bdc1dbcad9542",
       "title": "Groningen Data Platform Meetup Lighting Talks!",
@@ -739,6 +714,31 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
+    },
+    {
+      "id": "94b2da80e45d1968",
+      "title": "SteveMLC/lectern",
+      "source": "github",
+      "url": "https://github.com/SteveMLC/lectern",
+      "deadline": "",
+      "event_date": "",
+      "location": "",
+      "is_online": true,
+      "tags": [
+        "open-source",
+        "event-management",
+        "hono",
+        "ai",
+        "education"
+      ],
+      "score": 0.306,
+      "priority": "low",
+      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+      "tag_relevance": 0.341,
+      "talk_match": 0.04,
+      "urgency": 0.1,
+      "travel_sponsorship": "unknown",
+      "event_type": ""
     }
   ],
   "applications": [
@@ -1050,7 +1050,7 @@
       "cfp_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
       "deadline": "2026-11-23",
       "event_date": "2026-11-24",
-      "status": "draft",
+      "status": "expired",
       "score": 0.435,
       "priority": "medium",
       "created_at": "2026-08-07T07:17:36.345470+00:00",
@@ -3487,15 +3487,6 @@
   ],
   "upcoming_deadlines": [
     {
-      "title": "Big Data Europe",
-      "deadline": "2026-11-23",
-      "source": "confs.tech",
-      "score": 0.435,
-      "url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
-      "travel_sponsorship": "unknown",
-      "location": "Vilnius, Lithuania"
-    },
-    {
       "title": "Groningen Data Platform Meetup Lighting Talks!",
       "deadline": "2026-12-06",
       "source": "callfordataspeakers",
@@ -3575,6 +3566,15 @@
       "url": "https://sessionize.com/capital-area-sql-server-user-group",
       "travel_sponsorship": "unknown",
       "location": "Troy Web Consulting, 135 Mohawk St, Cohoes, NY 12047"
+    },
+    {
+      "title": "CincyData",
+      "deadline": "2027-11-01",
+      "source": "callfordataspeakers",
+      "score": 0.381,
+      "url": "https://sessionize.com/cincydata/",
+      "travel_sponsorship": "unknown",
+      "location": "Virtual"
     }
   ]
 }
