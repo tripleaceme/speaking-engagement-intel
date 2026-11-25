@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-11-24T17:06:04.515239+00:00",
-    "total_cfps": 153,
-    "open_cfps": 64,
+    "last_crawled": "2026-11-25T16:54:42.989221+00:00",
+    "total_cfps": 154,
+    "open_cfps": 65,
     "sources_checked": 9,
-    "new_this_run": 0,
-    "expired_this_run": 1,
+    "new_this_run": 1,
+    "expired_this_run": 0,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 2,
-    "last_scored": "2026-11-24T17:06:05.183847+00:00",
+    "last_scored": "2026-11-25T16:54:44.364836+00:00",
     "high_priority": 0,
     "medium_priority": 1,
-    "above_threshold": 44
+    "above_threshold": 45
   },
   "cfps": [
     {
@@ -10639,6 +10639,61 @@
         "talk_match_score": 0.118,
         "urgency_score": 0.2,
         "format_score": 0.7,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "5afd186cc5ed28b8",
+      "source": "callfordataspeakers",
+      "title": "Global Power Platform Bootcamp Barcelona 2027",
+      "url": "https://sessionize.com/global-power-platform-bootcamp-barcelona2027",
+      "cfp_url": "https://sessionize.com/global-power-platform-bootcamp-barcelona2027",
+      "description": "19 Feb: 4h workshops. 20 Feb: 45-min sessions. Power Platform, Power BI & Microsoft Fabric. Max 2 submissions per speaker. CfS closes 15 Dec 2026.",
+      "tags": [
+        "ai",
+        "europe",
+        "web",
+        "data",
+        "conference, precon",
+        "mobile",
+        "education"
+      ],
+      "deadline": "",
+      "event_date": "2027-02-19",
+      "location": "Barcelona, Spain",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "conference, precon",
+      "discovered_at": "2026-11-25T16:54:42.123098+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "education",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "mobile",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-11-25T16:54:44.278482+00:00",
+      "match_scores": {
+        "composite_score": 0.267,
+        "tag_relevance": 0.343,
+        "talk_match_score": 0.039,
+        "urgency_score": 0.1,
+        "format_score": 0.6,
         "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
         "suggested_talk_level": "beginner",
         "priority": "low",
