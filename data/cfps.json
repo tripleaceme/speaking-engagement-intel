@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "last_crawled": "2026-11-25T16:54:42.989221+00:00",
-    "total_cfps": 154,
-    "open_cfps": 65,
+    "last_crawled": "2026-11-26T16:32:12.717566+00:00",
+    "total_cfps": 157,
+    "open_cfps": 68,
     "sources_checked": 9,
-    "new_this_run": 1,
+    "new_this_run": 3,
     "expired_this_run": 0,
     "travel_sponsorship_yes": 3,
     "travel_sponsorship_partial": 2,
-    "last_scored": "2026-11-25T16:54:44.364836+00:00",
+    "last_scored": "2026-11-26T16:32:14.826757+00:00",
     "high_priority": 0,
-    "medium_priority": 1,
-    "above_threshold": 45
+    "medium_priority": 2,
+    "above_threshold": 46
   },
   "cfps": [
     {
@@ -10698,6 +10698,175 @@
         "suggested_talk_level": "beginner",
         "priority": "low",
         "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "04c1e7df2748870d",
+      "source": "callfordataspeakers",
+      "title": "Power BI & Fabric Barcelona January 2027 (powered by InnoIT)",
+      "url": "https://sessionize.com/power-bi-fabric-barcelona-jan-2027",
+      "cfp_url": "https://sessionize.com/power-bi-fabric-barcelona-jan-2027",
+      "description": "Data usergroup \u2014 InnoIT, Carrer de la Diputaci\u00f3, 280, Bajos 2\u00aa, Eixample, 08009 Barcelona",
+      "tags": [
+        "data",
+        "usergroup",
+        "ai",
+        "europe",
+        "web"
+      ],
+      "deadline": "2026-12-31",
+      "event_date": "2027-01-20",
+      "location": "InnoIT, Carrer de la Diputaci\u00f3, 280, Bajos 2\u00aa, Eixample, 08009 Barcelona",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup",
+      "discovered_at": "2026-11-26T16:32:11.856442+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "enriched_at": "2026-11-26T16:32:13.694651+00:00",
+      "match_scores": {
+        "composite_score": 0.23,
+        "tag_relevance": 0.18,
+        "talk_match_score": 0.022,
+        "urgency_score": 0.4,
+        "format_score": 0.5,
+        "suggested_talk": "From Stored Procedures to dbt: Modernizing Legacy Data Workflows",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "095d2a434e972dda",
+      "source": "callfordataspeakers",
+      "title": "Power BI & Fabric Barcelona March 2027 \u2013 English Edition",
+      "url": "https://sessionize.com/power-bi-fabric-barcelona-mar-2027",
+      "cfp_url": "https://sessionize.com/power-bi-fabric-barcelona-mar-2027",
+      "description": "English-only edition: all sessions delivered in English. 30-minute sessions.",
+      "tags": [
+        "data",
+        "usergroup",
+        "ai",
+        "europe",
+        "web"
+      ],
+      "deadline": "2027-03-04",
+      "event_date": "2027-03-25",
+      "location": "La Fabrica &Co, Carrer del Doctor Trueta, 193, Sant Mart\u00ed, 08005 Barcelona",
+      "is_online": false,
+      "travel_sponsorship": "unknown",
+      "event_type": "usergroup",
+      "discovered_at": "2026-11-26T16:32:11.856504+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "submission_fields": [
+        "description"
+      ],
+      "enriched_at": "2026-11-26T16:32:14.214126+00:00",
+      "match_scores": {
+        "composite_score": 0.206,
+        "tag_relevance": 0.182,
+        "talk_match_score": 0.041,
+        "urgency_score": 0.2,
+        "format_score": 0.5,
+        "suggested_talk": "AI-Powered Data Documentation: Automating What Nobody Wants to Do",
+        "suggested_talk_level": "intermediate",
+        "priority": "low",
+        "travel_sponsorship": "unknown"
+      }
+    },
+    {
+      "id": "e3f4ad143b14bbb1",
+      "source": "callfordataspeakers",
+      "title": "Microsoft Fabric + SQL Community Conference APAC",
+      "url": "https://sessionize.com/apac-microsoft-fabric-sql-conf/",
+      "cfp_url": "https://sessionize.com/apac-microsoft-fabric-sql-conf/",
+      "description": "Apac Microsoft Fabric + Microsoft SQL Community Conference: Call for Speakers @ Sessionize. Closing time in your timezone ( ) is. Deadline  - 2 December 2026 Event dates:  6-9 April 2027 (Workshop date - 6 April) Venue:  ICC - Sydney, Australia Thanks for wanting to speak at our event.",
+      "tags": [
+        "database",
+        "oceania",
+        "conference",
+        "education",
+        "data",
+        "open-source",
+        "ai",
+        "cloud",
+        "web"
+      ],
+      "deadline": "2026-12-02",
+      "event_date": "2027-04-06",
+      "location": "ICC Sydney",
+      "is_online": false,
+      "travel_sponsorship": "yes",
+      "event_type": "conference",
+      "discovered_at": "2026-11-26T16:32:11.856528+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "cloud",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "web",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "education",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "speaker_perks": {
+        "travel": true,
+        "hotel": true,
+        "honorarium": true
+      },
+      "submission_fields": [
+        "title",
+        "abstract",
+        "experience level",
+        "topic"
+      ],
+      "enriched_at": "2026-11-26T16:32:14.772885+00:00",
+      "match_scores": {
+        "composite_score": 0.47,
+        "tag_relevance": 0.503,
+        "talk_match_score": 0.078,
+        "urgency_score": 1.0,
+        "format_score": 0.6,
+        "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+        "suggested_talk_level": "beginner",
+        "priority": "medium",
+        "travel_sponsorship": "yes"
       }
     }
   ]

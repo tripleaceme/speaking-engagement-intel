@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-25T16:54:44.492039+00:00",
+  "generated_at": "2026-11-26T16:32:14.901779+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 154,
-    "open_cfps": 65,
+    "total_cfps_discovered": 157,
+    "open_cfps": 68,
     "expired_cfps": 89,
-    "total_applications": 134,
-    "drafts": 45,
+    "total_applications": 135,
+    "drafts": 46,
     "submitted": 0,
     "accepted": 0,
     "rejected": 0,
@@ -18,11 +18,11 @@
     "expired_apps": 89,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-25T16:54:42.989221+00:00",
+    "last_crawled": "2026-11-26T16:32:12.717566+00:00",
     "sources_checked": 9,
-    "travel_yes": 3,
+    "travel_yes": 4,
     "travel_partial": 2,
-    "travel_unknown": 60
+    "travel_unknown": 62
   },
   "timeline": [
     {
@@ -87,13 +87,13 @@
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
-      "draft": 6
+      "draft": 7
     }
   ],
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 81
+      "count": 84
     },
     {
       "source": "confs.tech",
@@ -114,29 +114,29 @@
   ],
   "priority_breakdown": {
     "high": 0,
-    "medium": 1,
-    "low": 64
+    "medium": 2,
+    "low": 66
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 63
+      "count": 66
     },
     {
       "tag": "web",
-      "count": 57
+      "count": 60
     },
     {
       "tag": "data",
-      "count": 50
+      "count": 53
     },
     {
       "tag": "open-source",
-      "count": 49
+      "count": 50
     },
     {
       "tag": "database",
-      "count": 45
+      "count": 46
     },
     {
       "tag": "leadership",
@@ -144,22 +144,22 @@
     },
     {
       "tag": "cloud",
-      "count": 40
+      "count": 41
     },
     {
       "tag": "education",
-      "count": 32
+      "count": 33
     },
     {
       "tag": "devops",
       "count": 32
     },
     {
-      "tag": "security",
-      "count": 31
+      "tag": "conference",
+      "count": 32
     },
     {
-      "tag": "conference",
+      "tag": "security",
       "count": 31
     },
     {
@@ -183,6 +183,10 @@
       "count": 13
     },
     {
+      "tag": "europe",
+      "count": 12
+    },
+    {
       "tag": "blockchain",
       "count": 11
     },
@@ -191,11 +195,11 @@
       "count": 10
     },
     {
-      "tag": "europe",
-      "count": 10
+      "tag": "event-management",
+      "count": 9
     },
     {
-      "tag": "event-management",
+      "tag": "usergroup",
       "count": 9
     },
     {
@@ -208,10 +212,6 @@
     },
     {
       "tag": "python",
-      "count": 7
-    },
-    {
-      "tag": "usergroup",
       "count": 7
     },
     {
@@ -240,6 +240,31 @@
     }
   ],
   "top_matches": [
+    {
+      "id": "e3f4ad143b14bbb1",
+      "title": "Microsoft Fabric + SQL Community Conference APAC",
+      "source": "callfordataspeakers",
+      "url": "https://sessionize.com/apac-microsoft-fabric-sql-conf/",
+      "deadline": "2026-12-02",
+      "event_date": "2027-04-06",
+      "location": "ICC Sydney",
+      "is_online": false,
+      "tags": [
+        "database",
+        "oceania",
+        "conference",
+        "education",
+        "data"
+      ],
+      "score": 0.47,
+      "priority": "medium",
+      "suggested_talk": "Democratizing Data Education in Africa Through Open Source Tools",
+      "tag_relevance": 0.503,
+      "talk_match": 0.078,
+      "urgency": 1.0,
+      "travel_sponsorship": "yes",
+      "event_type": "conference"
+    },
     {
       "id": "809bdc1dbcad9542",
       "title": "Groningen Data Platform Meetup Lighting Talks!",
@@ -714,31 +739,6 @@
       "urgency": 0.2,
       "travel_sponsorship": "unknown",
       "event_type": "usergroup"
-    },
-    {
-      "id": "94b2da80e45d1968",
-      "title": "SteveMLC/lectern",
-      "source": "github",
-      "url": "https://github.com/SteveMLC/lectern",
-      "deadline": "",
-      "event_date": "",
-      "location": "",
-      "is_online": true,
-      "tags": [
-        "open-source",
-        "event-management",
-        "hono",
-        "ai",
-        "education"
-      ],
-      "score": 0.306,
-      "priority": "low",
-      "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
-      "tag_relevance": 0.341,
-      "talk_match": 0.04,
-      "urgency": 0.1,
-      "travel_sponsorship": "unknown",
-      "event_type": ""
     }
   ],
   "applications": [
@@ -821,6 +821,26 @@
       "match_reason": "Conference themes align with 'education' (score: 6.5)",
       "is_online": false,
       "event_location": "Barcelona, Spain"
+    },
+    {
+      "id": "2d3f92f0e3a1ff00",
+      "cfp_title": "Microsoft Fabric + SQL Community Conference APAC",
+      "talk_title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
+      "cfp_source": "callfordataspeakers",
+      "cfp_url": "https://sessionize.com/apac-microsoft-fabric-sql-conf/",
+      "deadline": "2026-12-02",
+      "event_date": "2027-04-06",
+      "status": "draft",
+      "score": 0.47,
+      "priority": "medium",
+      "created_at": "2026-11-26T16:32:14.865482+00:00",
+      "submitted_at": null,
+      "response_at": null,
+      "notes": "",
+      "travel_sponsorship": "yes",
+      "match_reason": "Conference themes align with 'database' (score: 6.5)",
+      "is_online": false,
+      "event_location": "ICC Sydney"
     },
     {
       "id": "d3220eaa0057c36f",
@@ -3442,7 +3462,7 @@
     },
     {
       "title": "From Stored Procedures to dbt: Modernizing Legacy SQL Without Breaking Production",
-      "applications": 21,
+      "applications": 22,
       "accepted": 0,
       "rejected": 0,
       "pending": 0,
@@ -3507,6 +3527,15 @@
   ],
   "upcoming_deadlines": [
     {
+      "title": "Microsoft Fabric + SQL Community Conference APAC",
+      "deadline": "2026-12-02",
+      "source": "callfordataspeakers",
+      "score": 0.47,
+      "url": "https://sessionize.com/apac-microsoft-fabric-sql-conf/",
+      "travel_sponsorship": "yes",
+      "location": "ICC Sydney"
+    },
+    {
       "title": "Groningen Data Platform Meetup Lighting Talks!",
       "deadline": "2026-12-06",
       "source": "callfordataspeakers",
@@ -3523,6 +3552,15 @@
       "url": "https://sessionize.com/sqlday-2027",
       "travel_sponsorship": "unknown",
       "location": "Wroc\u0142aw, Poland"
+    },
+    {
+      "title": "Power BI & Fabric Barcelona January 2027 (powered by InnoIT)",
+      "deadline": "2026-12-31",
+      "source": "callfordataspeakers",
+      "score": 0.23,
+      "url": "https://sessionize.com/power-bi-fabric-barcelona-jan-2027",
+      "travel_sponsorship": "unknown",
+      "location": "InnoIT, Carrer de la Diputaci\u00f3, 280, Bajos 2\u00aa, Eixample, 08009 Barcelona"
     },
     {
       "title": "Pittsburgh Data UGs",
@@ -3561,6 +3599,15 @@
       "location": "Brisbane, Australia"
     },
     {
+      "title": "Power BI & Fabric Barcelona March 2027 \u2013 English Edition",
+      "deadline": "2027-03-04",
+      "source": "callfordataspeakers",
+      "score": 0.206,
+      "url": "https://sessionize.com/power-bi-fabric-barcelona-mar-2027",
+      "travel_sponsorship": "unknown",
+      "location": "La Fabrica &Co, Carrer del Doctor Trueta, 193, Sant Mart\u00ed, 08005 Barcelona"
+    },
+    {
       "title": "Day of Data Jacksonville 2027",
       "deadline": "2027-04-01",
       "source": "callfordataspeakers",
@@ -3568,33 +3615,6 @@
       "url": "https://sessionize.com/dodjax2027",
       "travel_sponsorship": "unknown",
       "location": "Davis College of Business & Technology, Jacksonville University"
-    },
-    {
-      "title": "Day of Data Jacksonville 2027",
-      "deadline": "2027-04-01",
-      "source": "callfordataspeakers",
-      "score": 0.22,
-      "url": "https://sessionize.com/dayofdatajax",
-      "travel_sponsorship": "unknown",
-      "location": "Jacksonville, Florida, United States"
-    },
-    {
-      "title": "Capital Region Data Professionals",
-      "deadline": "2027-05-15",
-      "source": "callfordataspeakers",
-      "score": 0.307,
-      "url": "https://sessionize.com/capital-area-sql-server-user-group",
-      "travel_sponsorship": "unknown",
-      "location": "Troy Web Consulting, 135 Mohawk St, Cohoes, NY 12047"
-    },
-    {
-      "title": "CincyData",
-      "deadline": "2027-11-01",
-      "source": "callfordataspeakers",
-      "score": 0.381,
-      "url": "https://sessionize.com/cincydata/",
-      "travel_sponsorship": "unknown",
-      "location": "Virtual"
     }
   ]
 }
