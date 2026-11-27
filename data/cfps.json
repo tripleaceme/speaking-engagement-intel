@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "last_crawled": "2026-11-26T16:32:12.717566+00:00",
-    "total_cfps": 157,
-    "open_cfps": 68,
+    "last_crawled": "2026-11-27T16:18:32.504617+00:00",
+    "total_cfps": 158,
+    "open_cfps": 69,
     "sources_checked": 9,
-    "new_this_run": 3,
+    "new_this_run": 1,
     "expired_this_run": 0,
-    "travel_sponsorship_yes": 3,
+    "travel_sponsorship_yes": 4,
     "travel_sponsorship_partial": 2,
-    "last_scored": "2026-11-26T16:32:14.826757+00:00",
+    "last_scored": "2026-11-27T16:18:33.557371+00:00",
     "high_priority": 0,
     "medium_priority": 2,
     "above_threshold": 46
@@ -10867,6 +10867,70 @@
         "suggested_talk_level": "beginner",
         "priority": "medium",
         "travel_sponsorship": "yes"
+      }
+    },
+    {
+      "id": "4dd083e5c77f9743",
+      "source": "callfordataspeakers",
+      "title": "Data Conference Switzerland 2027",
+      "url": "https://sessionize.com/data-conference-switzerland-2027",
+      "cfp_url": "https://sessionize.com/data-conference-switzerland-2027",
+      "description": "Data Conference Switzerland 2027: Call for Speakers @ Sessionize. ch/ \r\n                             \r\n                         \r\n                     \r\n                 \r\n                     \r\n                         \r\n                         Welcome to the third Data Platform Conference Switzerland. A community event brought to you by a group of Data & AI consultants who live and breathe all things data.",
+      "tags": [
+        "data",
+        "europe",
+        "open-source",
+        "database",
+        "ai",
+        "conference",
+        "web"
+      ],
+      "deadline": "2027-01-31",
+      "event_date": "2027-05-21",
+      "location": "Z\u00fcrich, Switzerland",
+      "is_online": false,
+      "travel_sponsorship": "partial",
+      "event_type": "conference",
+      "discovered_at": "2026-11-27T16:18:31.788606+00:00",
+      "status": "open",
+      "themes": [
+        {
+          "theme": "web",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "database",
+          "confidence": 0.6666666666666666
+        },
+        {
+          "theme": "ai",
+          "confidence": 0.3333333333333333
+        },
+        {
+          "theme": "open-source",
+          "confidence": 0.3333333333333333
+        }
+      ],
+      "categories": [
+        "related to modern data platforms"
+      ],
+      "speaker_perks": {
+        "dinner": true
+      },
+      "submission_fields": [
+        "topic"
+      ],
+      "enriched_at": "2026-11-27T16:18:33.487503+00:00",
+      "match_scores": {
+        "composite_score": 0.234,
+        "tag_relevance": 0.173,
+        "talk_match_score": 0.08,
+        "urgency_score": 0.2,
+        "format_score": 0.6,
+        "suggested_talk": "The Modern Data Stack on a Budget: Replacing $3K/month Tools with Open Source",
+        "suggested_talk_level": "beginner",
+        "priority": "low",
+        "travel_sponsorship": "partial"
       }
     }
   ]

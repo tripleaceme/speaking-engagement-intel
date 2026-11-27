@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-26T16:32:14.901779+00:00",
+  "generated_at": "2026-11-27T16:18:33.653842+00:00",
   "speaker": {
     "name": "Ayoade Adegbite",
     "title": "Senior Analytics Engineer | Open Source Creator | Data Analytics Instructor",
     "tagline": "Building scalable analytics infrastructure and teaching teams to do the same"
   },
   "summary": {
-    "total_cfps_discovered": 157,
-    "open_cfps": 68,
+    "total_cfps_discovered": 158,
+    "open_cfps": 69,
     "expired_cfps": 89,
     "total_applications": 135,
     "drafts": 46,
@@ -18,10 +18,10 @@
     "expired_apps": 89,
     "acceptance_rate": 0.0,
     "high_priority_cfps": 0,
-    "last_crawled": "2026-11-26T16:32:12.717566+00:00",
+    "last_crawled": "2026-11-27T16:18:32.504617+00:00",
     "sources_checked": 9,
     "travel_yes": 4,
-    "travel_partial": 2,
+    "travel_partial": 3,
     "travel_unknown": 62
   },
   "timeline": [
@@ -93,7 +93,7 @@
   "source_breakdown": [
     {
       "source": "callfordataspeakers",
-      "count": 84
+      "count": 85
     },
     {
       "source": "confs.tech",
@@ -115,28 +115,28 @@
   "priority_breakdown": {
     "high": 0,
     "medium": 2,
-    "low": 66
+    "low": 67
   },
   "tag_cloud": [
     {
       "tag": "ai",
-      "count": 66
+      "count": 67
     },
     {
       "tag": "web",
-      "count": 60
+      "count": 61
     },
     {
       "tag": "data",
-      "count": 53
+      "count": 54
     },
     {
       "tag": "open-source",
-      "count": 50
+      "count": 51
     },
     {
       "tag": "database",
-      "count": 46
+      "count": 47
     },
     {
       "tag": "leadership",
@@ -151,11 +151,11 @@
       "count": 33
     },
     {
-      "tag": "devops",
-      "count": 32
+      "tag": "conference",
+      "count": 33
     },
     {
-      "tag": "conference",
+      "tag": "devops",
       "count": 32
     },
     {
@@ -184,7 +184,7 @@
     },
     {
       "tag": "europe",
-      "count": 12
+      "count": 13
     },
     {
       "tag": "blockchain",
@@ -3599,6 +3599,15 @@
       "location": "Brisbane, Australia"
     },
     {
+      "title": "Data Conference Switzerland 2027",
+      "deadline": "2027-01-31",
+      "source": "callfordataspeakers",
+      "score": 0.234,
+      "url": "https://sessionize.com/data-conference-switzerland-2027",
+      "travel_sponsorship": "partial",
+      "location": "Z\u00fcrich, Switzerland"
+    },
+    {
       "title": "Power BI & Fabric Barcelona March 2027 \u2013 English Edition",
       "deadline": "2027-03-04",
       "source": "callfordataspeakers",
@@ -3606,15 +3615,6 @@
       "url": "https://sessionize.com/power-bi-fabric-barcelona-mar-2027",
       "travel_sponsorship": "unknown",
       "location": "La Fabrica &Co, Carrer del Doctor Trueta, 193, Sant Mart\u00ed, 08005 Barcelona"
-    },
-    {
-      "title": "Day of Data Jacksonville 2027",
-      "deadline": "2027-04-01",
-      "source": "callfordataspeakers",
-      "score": 0.219,
-      "url": "https://sessionize.com/dodjax2027",
-      "travel_sponsorship": "unknown",
-      "location": "Davis College of Business & Technology, Jacksonville University"
     }
   ]
 }
